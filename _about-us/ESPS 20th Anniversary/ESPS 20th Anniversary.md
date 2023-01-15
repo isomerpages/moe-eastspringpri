@@ -17,7 +17,7 @@ Highlights of Celebratory Events:
      style="width:33%;float:left"></a>
 <a href="/about-us/ESPS-20th-Anniversary/Artsploxion/"><img src="/images/artsploxion.png" 
      style="width:33%;float:left"></a>
-<a href="/about-us/ESPS-20th-Anniversary/Sports-Carnival/"><img src="/images/SBOR.png" style="width:33%"></a>
+<a href="/about-us/ESPS-20th-Anniversary/SBOR-Largest-Paper-Quilling-Artwork/"><img src="/images/SBOR.png" style="width:33%"></a>
 
 <img src="/images/classdeco.png" 
      style="width:33%;float:left">
