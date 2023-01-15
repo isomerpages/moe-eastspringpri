@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: East Spring Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: ""
 sections:
@@ -25,3 +25,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
