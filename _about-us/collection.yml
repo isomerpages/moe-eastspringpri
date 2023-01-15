@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - ESPS 20th Anniversary/20th Birthday Concert.md
       - ESPS 20th Anniversary/Display The Largest Paper Quilling Artwork @ OTH.md
       - ESPS 20th Anniversary/.keep
