@@ -24,5 +24,5 @@ Highlights of Celebratory Events:
      style="width:33%;float:left">
 <img src="/images/bdayconcert.png" 
      style="width:33%;float:left">
-<img src="//images/display.png" 
+<img src="/images/display.png" 
      style="width:33%">
