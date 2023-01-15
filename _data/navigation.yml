@@ -1,9 +1,9 @@
 logo: /images/logo.png
 links:
   - title: About Us
-    url: /contact-us/
-  - title: Departmens
-    url: /example-page/
+    collection: about-us
+  - title: Departments
+    collection: about-us
   - title: CCA
     collection: example-folder
   - title: Niche Programme
@@ -15,6 +15,4 @@ links:
   - title: Alumni
     collection: example-folder
   - title: Staff
-    collection: example-folder
-  - title: Words of Encouragement
     collection: example-folder
