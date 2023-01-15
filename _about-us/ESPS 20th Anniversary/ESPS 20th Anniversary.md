@@ -13,12 +13,11 @@ The video showcases our heritage and how the school has evolved over the last 20
 Highlights of Celebratory Events:
 ---------------------------------
 
-<img src="/images/sportcarnival.png" 
-     style="width:33%;float:left">
-<img src="/images/artsploxion.png" 
-     style="width:33%;float:left">
-<img src="/images/SBOR.png" 
-     style="width:33%">
+<a href="/about-us/ESPS-20th-Anniversary/Sports-Carnival/"><img src="/images/sportcarnival.png" 
+     style="width:33%;float:left"></a>
+<a href="/about-us/ESPS-20th-Anniversary/Artsploxion/"><img src="/images/artsploxion.png" 
+     style="width:33%;float:left"></a>
+<a href="/about-us/ESPS-20th-Anniversary/Sports-Carnival/"><img src="/images/SBOR.png" style="width:33%"></a>
 
 <img src="/images/classdeco.png" 
      style="width:33%;float:left">
