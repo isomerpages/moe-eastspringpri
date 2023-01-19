@@ -31,3 +31,9 @@ third_nav_title: Our People
 |2P5|Mdm Hairina Binte Hamzah<br>Ms Audrey Yao Ting Ting<br>Mdm Azlina Binte Abdul Aziz|[hairina_hamzah@schools.gov.sg](mailto:hairina_hamzah@schools.gov.sg)<br>[yow_ting_ting@schools.gov.sg](mailto:yow_ting_ting@schools.gov.sg)<br>[azlina_abdul_aziz@schools.gov.sg](mailto:azlina_abdul_aziz@schools.gov.sg)
 |2P6|	Mdm Peh Poh Li<br>Linda Tay Mei Hong (Mrs Goh)|[	peh_poh_li@schools.gov.sg](mailto:peh_poh_li@schools.gov.sg)<br>[	linda_tay_mei_hong@schools.gov.sg](mailto:linda_tay_mei_hong@schools.gov.sg)
 |2P7|Mdm Nurarfah Binte Sudirman<br>Miss Wee Wanqing|[nurarfah_sudirman@schools.gov.sg](mailto:nurarfah_sudirman@schools.gov.sg)<br>[wee_wanqing@schools.gov.sg](mailto:wee_wanqing@schools.gov.sg)
+
+|  |  |  |
+| -------- | -------- | -------- |
+| **Year Head (Middle Primary)**     | Mr Loo Leong Tuan| [	loo_leong_tuan@schools.gov.sg](mailto:	loo_leong_tuan@schools.gov.sg)     |
+|**Assistant Year Head (Int)**|Mdm Sally Yeo Xueli (Mrs Koh) |[yeo_xueli_sally@schools.gov.sg ](mailto:yeo_xueli_sally@schools.gov.sg )
+
