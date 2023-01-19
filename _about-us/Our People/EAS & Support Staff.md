@@ -28,3 +28,13 @@ third_nav_title: Our People
 |School Counsellor|	Mdm Ng Poh Xian (Mrs Rachel Tan)|[	ng_poh_xian@schools.gov.sg](mailto:ng_poh_xian@schools.gov.sg)
 |Senior Special Educational Needs (SEN) officer|Mdm Liyana Binte Zainudin|[liyana_zainudin@schools.gov.sg](mailto:liyana_zainudin@schools.gov.sg)
 |Special Educational Needs (SEN) officer|Mdm Zarina Binte Abu Bakar|[zarina_abu_bakar_a@schools.gov.sg](mailto:zarina_abu_bakar_a@schools.gov.sg)
+|Allied Educator (T&L) |Mdm Aminah Bte Ahmat |[aminah_ahmat@schools.gov.sg](mailto:aminah_ahmat@schools.gov.sg)
+
+#### Support Staff
+
+| |  | |
+| -------- | -------- | 
+|Desktop Engineer|Mr Medapati Sri Sudhakar Reddy
+|Desktop Engineer|Miss Teng Yi En
+|Dental Therapist|Mdm Sharon Pang
+|Librarian|Mdm Siti Norhazar Omar
