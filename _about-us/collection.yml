@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us.md
       - ESPS 20th Anniversary/ESPS 20th Anniversary.md
       - ESPS 20th Anniversary/Sports Carnival.md
       - ESPS 20th Anniversary/Artsploxion.md
