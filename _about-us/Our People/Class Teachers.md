@@ -37,3 +37,9 @@ third_nav_title: Our People
 | **Year Head (Middle Primary)**     | Mr Loo Leong Tuan| [	loo_leong_tuan@schools.gov.sg](mailto:	loo_leong_tuan@schools.gov.sg)     |
 |**Assistant Year Head (Int)**|Mdm Sally Yeo Xueli (Mrs Koh) |[yeo_xueli_sally@schools.gov.sg ](mailto:yeo_xueli_sally@schools.gov.sg )
 
+#### Primary 3
+
+| Class | Form Teachers | Email |
+| -------- | -------- | -------- |
+|3R1|Mrs Tan Si Hui (Mrs Peh)<br>Mr Chao Wei Nien<br>Ms Teo Sok San, Susan|[tan_si_hui_a@schools.gov.sg](mailto:tan_si_hui_a@schools.gov.sg)<br>[chao_wei_nien@schools.gov.sg](mailto:chao_wei_nien@schools.gov.sg)<br>[teo_sok_san_susan@schools.gov.sg](mailto:teo_sok_san_susan@schools.gov.sg)
+|
