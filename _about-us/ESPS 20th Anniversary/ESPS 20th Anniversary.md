@@ -19,9 +19,9 @@ Highlights of Celebratory Events:
      style="width:33%;float:left"></a>
 <a href="/about-us/ESPS-20th-Anniversary/SBOR-Largest-Paper-Quilling-Artwork/"><img src="/images/SBOR.png" style="width:33%"></a>
 
-<a href="/about-us/ESPS-20th-Anniversary/SBOR-Largest-Paper-Quilling-Artwork/"><img src="/images/classdeco.png" 
+<a href="/about-us/ESPS-20th-Anniversary/Class-Decoration-Competition/"><img src="/images/classdeco.png" 
      style="width:33%;float:left"></a>
-<a href="/about-us/ESPS-20th-Anniversary/SBOR-Largest-Paper-Quilling-Artwork/"><img src="/images/bdayconcert.png" 
+<a href="/about-us/ESPS-20th-Anniversary/20th-Birthday-Concert/"><img src="/images/bdayconcert.png" 
      style="width:33%;float:left"></a>
-<a href="/about-us/ESPS-20th-Anniversary/SBOR-Largest-Paper-Quilling-Artwork/"><img src="/images/display.png" 
+<a href="/about-us/ESPS-20th-Anniversary/Display-The-Largest-Paper-Quilling-Artwork-at-OTH/"><img src="/images/display.png" 
      style="width:33%"></a>
