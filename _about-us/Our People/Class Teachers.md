@@ -4,7 +4,6 @@ permalink: /about-us/Our-People/Class-Teachers/
 description: ""
 third_nav_title: Our People
 ---
-
 |  |  |  |
 | -------- | -------- | -------- |
 | **Year Head (Lower Primary)**     | Mdm Marhamah Binte Yusof    | [marhamah_yusof@schools.gov.sg](mailto:marhamah_yusof@schools.gov.sg)     |
@@ -14,7 +13,5 @@ third_nav_title: Our People
 
 | Class | Form Teachers | Email |
 | -------- | -------- | -------- |
-| 1S1     | Mdm Chui Wen Yan, Wendy<br>Mdm Khairunnisa Binte Mohamed     | [chui_wenyan@schools.gov.sg](mailto:chui_wenyan@schools.gov.sg)  <br>[	khairunnisa_mohamed@schools.gov.sg](mailto:khairunnisa_mohamed@schools.gov.sg)   |
-
-
-
+| 1S1     | Mdm Chui Wen Yan, Wendy<br>Mdm Khairunnisa Binte Mohamed     | [chui_wenyan@schools.gov.sg](mailto:chui_wenyan@schools.gov.sg)  <br><br>[	khairunnisa_mohamed@schools.gov.sg](mailto:khairunnisa_mohamed@schools.gov.sg)   |
+|
