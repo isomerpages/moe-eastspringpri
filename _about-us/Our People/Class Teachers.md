@@ -56,3 +56,28 @@ third_nav_title: Our People
 |4I2|Mdm Ang Pei Ying Janice (Mrs Keng)<br>Mdm Yeo Xueli, Sally (Mrs Koh)<br>Mdm Rahmah Binte Rosdi|[ang_pei_ying_janice@schools.gov.sg](mailto:ang_pei_ying_janice@schools.gov.sg)<br>[	yeo_xueli_sally@schools.gov.sg](mailto:yeo_xueli_sally@schools.gov.sg)<br>[rahmah_rosdi@schools.gov.sg](mailto:rahmah_rosdi@schools.gov.sg)
 |4I3|Mdm Siti Aisha Abdul Latiff<br>Ms Lee Sook San|[siti_aisha_abdul_latiff@schools.gov.sg](mailto:siti_aisha_abdul_latiff@schools.gov.sg)<br>[lee_sook_san@schools.gov.sg](mailto:lee_sook_san@schools.gov.sg)
 |4I4|Mr Mohammed Yazid Kasnoen<br>Mdm Vivien Naomi (Mrs Yap)|[mohammed_yazid_kasnoen@schools.gov.sg](mailto:mohammed_yazid_kasnoen@schools.gov.sg)<br>[vivien_naomi_lee_min@schools.gov.sg](mailto:vivien_naomi_lee_min@schools.gov.sg)
+
+|  |  |  |
+| -------- | -------- | -------- |
+| **Year Head (Upper Primary)**     | Mdm Norizan Bte Syed Ahamed| [norizan_syed_ahamed@schools.gov.sg](mailto:norizan_syed_ahamed@schools.gov.sg)     |
+|**Assistant Year Head (Int)**|Mdm Sally Yeo Xueli (Mrs Koh) |[yeo_xueli_sally@schools.gov.sg ](mailto:yeo_xueli_sally@schools.gov.sg )
+
+#### Primary 5
+
+| Class | Form Teachers | Email |
+| -------- | -------- | -------- |
+|5N1|Mdm Jiang Yanni<br>Mdm Smita Quintal Kaur|[jiang_yanni@schools.gov.sg](mailto:jiang_yanni@schools.gov.sg)<br>[smita_quintal_kaur@schools.gov.sg](mailto:smita_quintal_kaur@schools.gov.sg)
+|5N2|Miss Quek Jia Xin<br>Mdm Tok Shi Shi Shirlyn|[quek_jia_xin@schools.gov.sg](mailto:quek_jia_xin@schools.gov.sg)<br>[tok_shi_shi@schools.gov.sg](mailto:tok_shi_shi@schools.gov.sg)
+|5N3|Mr Lukman Hakim<br>Mdm Jumaeyah Bte Zainal Abidin|[lukman_hakim_b_mahmood@schools.gov.sg](mailto:lukman_hakim_b_mahmood@schools.gov.sg)<br>[jumaeyah_zainalabidin@schools.gov.sg](mailto:jumaeyah_zainalabidin@schools.gov.sg)
+|5N4|Mdm Roslinah Binte Junali<br>Miss Nur Huda Binte Ismail<br>Miss Lee Yen Lin, Jenny|	[roslinah_junali@schools.gov.sg](mailto:roslinah_junali@schools.gov.sg)<br>[	nur_huda_ismail@schools.gov.sg](mailto:nur_huda_ismail@schools.gov.sg)<br>[lee_yen_lin_jenny@schools.gov.sg](mailto:lee_yen_lin_jenny@schools.gov.sg)
+|5N5|Mr Muhammad Fahmi Bin Fo'att<br>Mdm Syaza Bte Mohd Sallehuddin|[muhammad_fahmi_foatt@schools.gov.sg](mailto:muhammad_fahmi_foatt@schools.gov.sg)<br>[syaza_mohd_sallehuddin@schools.gov.sg](mailto:syaza_mohd_sallehuddin@schools.gov.sg)
+
+#### Primary 6
+
+| Class | Form Teachers | Email |
+| -------- | -------- | -------- |
+|6G1|Mdm Koh Hui Ling, Valerie<br>Mdm Chan Pui Ping|[koh_hui_ling_valerie@schools.gov.sg](mailto:koh_hui_ling_valerie@schools.gov.sg)<br>[	chan_pui_ping@schools.gov.sg](mailto:chan_pui_ping@schools.gov.sg)
+|6G2|Miss Phua Su Hui, Sheramin<br>Mdm Xu Haiyan|[	sheramin_phua_su_hui@schools.gov.sg](mailto:sheramin_phua_su_hui@schools.gov.sg)<br>[xu_haiyan@schools.gov.sg](mailto:xu_haiyan@schools.gov.sg)
+|6G3|Mr Lam Yew Sung<br>Mdm Sheikha Fadzlon Shaik Yakob|[lam_yew_sung@schools.gov.sg](mailto:lam_yew_sung@schools.gov.sg)<br>[sheikha_fadzlon_shaik_yakob@schools.gov.sg](mailto:sheikha_fadzlon_shaik_yakob@schools.gov.sg)
+|6G4|Mr Yeoh Ying Khong<br>Mr Choo Yew Teck, Jacky|[yeoh_ying_khong@schools.gov.sg](mailto:yeoh_ying_khong@schools.gov.sg)<br>[choo_yew_teck@schools.gov.sg](mailto:choo_yew_teck@schools.gov.sg)
+|6G5|Mdm Tan Siew Lay, Shirley (Mrs Lim)<br>Ms Ng Hui Peng|[tan_siew_lay_shirley@schools.gov.sg](mailto:tan_siew_lay_shirley@schools.gov.sg)<br>[ng_hui_peng@schools.gov.sg](mailto:ng_hui_peng@schools.gov.sg)
