@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/.keep
       - Contact Us.md
       - ESPS 20th Anniversary/ESPS 20th Anniversary.md
       - ESPS 20th Anniversary/Sports Carnival.md
