@@ -45,3 +45,5 @@ third_nav_title: Our People
 |3R2|Mdm Sarasvathy d/o Varathappan<br>Mdm Seah Wei Shan (Mrs Sim)|[sarasvathy_s_varathappa_n@schools.gov.sg](mailto:sarasvathy_s_varathappa_n@schools.gov.sg)<br>[seah_wei_shan@schools.gov.sg](mailto:seah_wei_shan@schools.gov.sg)
 |3R3|Mdm Tan Kai Wen, Charmaine<br>Mr Ong Rui Sheng, Daniel|[tan_kai_wei_charmaine@schools.gov.sg](mailto:tan_kai_wei_charmaine@schools.gov.sg)<br>[ong_rui_sheng_daniel_a@schools.gov.sg](mailto:ong_rui_sheng_daniel_a@schools.gov.sg)
 |3R4|	Miss Pauline Leong <br>Mr Yam Hai Seng|[leong_fong_lai_pauline@schools.gov.sg](mailto:leong_fong_lai_pauline@schools.gov.sg)<br>[	yam_hai_seng@schools.gov.sg](mailto:yam_hai_seng@schools.gov.sg)
+|3R5|Miss Iman 'Izatti Binte Muhamed Musharraf<br>Mr Goh Choon Siong, Michael|[iman_izzati_mohamed_musharraf@schools.gov.sg](mailto:iman_izzati_mohamed_musharraf@schools.gov.sg)<br>[	goh_choon_siong@schools.gov.sg](mailto:goh_choon_siong@schools.gov.sg)
+|3R6|Mr Melvin Au Jian An<br>Miss Lee Zhi Bin|[au_jian_an_melvin@schools.gov.sg](mailto:au_jian_an_melvin@schools.gov.sg)<br>[lee_zhibin@schools.gov.sg](mailto:lee_zhibin@schools.gov.sg)
