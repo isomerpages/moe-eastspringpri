@@ -53,3 +53,6 @@ third_nav_title: Our People
 | Class | Form Teachers | Email |
 | -------- | -------- | -------- |
 |4I1|Mrs Tan Wui Ling<br>Mdm Maznah Bte Md Rashid|[tan_wui_ling@schools.gov.sg](mailto:tan_wui_ling@schools.gov.sg)<br>[maznah_md_rashid@schools.gov.sg](mailto:maznah_md_rashid@schools.gov.sg)
+|4I2|Mdm Ang Pei Ying Janice (Mrs Keng)<br>Mdm Yeo Xueli, Sally (Mrs Koh)<br>Mdm Rahmah Binte Rosdi|[ang_pei_ying_janice@schools.gov.sg](mailto:ang_pei_ying_janice@schools.gov.sg)<br>[	yeo_xueli_sally@schools.gov.sg](mailto:yeo_xueli_sally@schools.gov.sg)<br>[rahmah_rosdi@schools.gov.sg](mailto:rahmah_rosdi@schools.gov.sg)
+|4I3|Mdm Siti Aisha Abdul Latiff<br>Ms Lee Sook San|[siti_aisha_abdul_latiff@schools.gov.sg](mailto:siti_aisha_abdul_latiff@schools.gov.sg)<br>[lee_sook_san@schools.gov.sg](mailto:lee_sook_san@schools.gov.sg)
+|4I4|Mr Mohammed Yazid Kasnoen<br>Mdm Vivien Naomi (Mrs Yap)|[mohammed_yazid_kasnoen@schools.gov.sg](mailto:mohammed_yazid_kasnoen@schools.gov.sg)<br>[vivien_naomi_lee_min@schools.gov.sg](mailto:vivien_naomi_lee_min@schools.gov.sg)
