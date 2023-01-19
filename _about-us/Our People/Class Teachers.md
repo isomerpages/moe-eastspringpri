@@ -19,3 +19,11 @@ third_nav_title: Our People
 |1S4|Mr Kang Aik Kwan Clement<br>Mdm Nur Fa'izah Binte Ahmad Fauzi|[kang_aik_kwan_clement@schools.gov.sg](mailto:kang_aik_kwan_clement@schools.gov.sg)<br>[nur_faizah_ahmad_fauzi@schools.gov.sg](mailto:nur_faizah_ahmad_fauzi@schools.gov.sg)
 |1S5|Mdm Seng Leanne<br>Mdm Nadirah Binte Baharin|[	seng_leanne@schools.gov.sg](mailto:seng_leanne@schools.gov.sg)<br>[nadirah_baharin@schools.gov.sg](mailto:nadirah_baharin@schools.gov.sg)
 |1S6|Mdm Siti Farhana Subandi<br>Mdm Huang Lin Lin|[siti_farhana_subandi@schools.gov.sg](mailto:siti_farhana_subandi@schools.gov.sg)<br>[	huang_linlin@schools.gov.sg](mailto:huang_linlin@schools.gov.sg)
+
+#### Primary 2
+
+| Class | Form Teachers | Email |
+| -------- | -------- | -------- |
+|2P1|Mr Lee Gee Chye<br>Mdm Azah Bte Abdul Aziz|[lee_gee_chye@schools.gov.sg](mailto:lee_gee_chye@schools.gov.sg)<br>[azah_abdul_aziz@schools.gov.sg](mailto:azah_abdul_aziz@schools.gov.sg)
+|2P2|Mdm Noor Zehan<br>Mr Tock Swee Guan William|[noor_zehan_mohamed_rashid@schools.gov.sg](mailto:noor_zehan_mohamed_rashid@schools.gov.sg)<br>[tock_swee_guan_william@schools.gov.sg](mailto:tock_swee_guan_william@schools.gov.sg)
+|2P3|	Mdm Sim Mui Liang (Eunice)<br>Mdm Noornisha|[	sim_mui_liang@schools.gov.sg](mailto:sim_mui_liang@schools.gov.sg)<br>[	n_n_noornisha@schools.gov.sg](mailto:n_n_noornisha@schools.gov.sg)
