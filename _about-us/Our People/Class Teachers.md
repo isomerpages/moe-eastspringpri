@@ -42,4 +42,6 @@ third_nav_title: Our People
 | Class | Form Teachers | Email |
 | -------- | -------- | -------- |
 |3R1|Mrs Tan Si Hui (Mrs Peh)<br>Mr Chao Wei Nien<br>Ms Teo Sok San, Susan|[tan_si_hui_a@schools.gov.sg](mailto:tan_si_hui_a@schools.gov.sg)<br>[chao_wei_nien@schools.gov.sg](mailto:chao_wei_nien@schools.gov.sg)<br>[teo_sok_san_susan@schools.gov.sg](mailto:teo_sok_san_susan@schools.gov.sg)
-|
+|3R2|Mdm Sarasvathy d/o Varathappan<br>Mdm Seah Wei Shan (Mrs Sim)|[sarasvathy_s_varathappa_n@schools.gov.sg](mailto:sarasvathy_s_varathappa_n@schools.gov.sg)<br>[seah_wei_shan@schools.gov.sg](mailto:seah_wei_shan@schools.gov.sg)
+|3R3|Mdm Tan Kai Wen, Charmaine<br>Mr Ong Rui Sheng, Daniel|[tan_kai_wei_charmaine@schools.gov.sg](mailto:tan_kai_wei_charmaine@schools.gov.sg)<br>[ong_rui_sheng_daniel_a@schools.gov.sg](mailto:ong_rui_sheng_daniel_a@schools.gov.sg)
+|3R4|	Miss Pauline Leong <br>Mr Yam Hai Seng|[leong_fong_lai_pauline@schools.gov.sg](mailto:leong_fong_lai_pauline@schools.gov.sg)<br>[	yam_hai_seng@schools.gov.sg](mailto:yam_hai_seng@schools.gov.sg)
