@@ -47,3 +47,9 @@ third_nav_title: Our People
 |3R4|	Miss Pauline Leong <br>Mr Yam Hai Seng|[leong_fong_lai_pauline@schools.gov.sg](mailto:leong_fong_lai_pauline@schools.gov.sg)<br>[	yam_hai_seng@schools.gov.sg](mailto:yam_hai_seng@schools.gov.sg)
 |3R5|Miss Iman 'Izatti Binte Muhamed Musharraf<br>Mr Goh Choon Siong, Michael|[iman_izzati_mohamed_musharraf@schools.gov.sg](mailto:iman_izzati_mohamed_musharraf@schools.gov.sg)<br>[	goh_choon_siong@schools.gov.sg](mailto:goh_choon_siong@schools.gov.sg)
 |3R6|Mr Melvin Au Jian An<br>Miss Lee Zhi Bin|[au_jian_an_melvin@schools.gov.sg](mailto:au_jian_an_melvin@schools.gov.sg)<br>[lee_zhibin@schools.gov.sg](mailto:lee_zhibin@schools.gov.sg)
+
+#### Primary 4
+
+| Class | Form Teachers | Email |
+| -------- | -------- | -------- |
+|4I1|Mrs Tan Wui Ling<br>Mdm Maznah Bte Md Rashid|[tan_wui_ling@schools.gov.sg](mailto:tan_wui_ling@schools.gov.sg)<br>[maznah_md_rashid@schools.gov.sg](mailto:maznah_md_rashid@schools.gov.sg)
