@@ -20,3 +20,10 @@ third_nav_title: Our People
 |Operations Support Officer|Mr Tan See Kwee||
 |Adjunct Operations Support Officer|Mdm Ho Swee Hoon (Alice)||
 |Adjunct ICT Associate|Mr Lai Wai Kien|[	lai_wai_kien@schools.gov.sg](mailto:lai_wai_kien@schools.gov.sg)
+
+#### Allied Educator
+
+| |  | |
+| -------- | -------- | -------- |
+|School Counsellor|	Mdm Ng Poh Xian (Mrs Rachel Tan)|[	ng_poh_xian@schools.gov.sg](mailto:ng_poh_xian@schools.gov.sg)
+|Senior Special Educational Needs (SEN) officer|Mdm Liyana Binte Zainudin|[liyana_zainudin@schools.gov.sg](mailto:liyana_zainudin@schools.gov.sg)
