@@ -27,3 +27,4 @@ third_nav_title: Our People
 | -------- | -------- | -------- |
 |School Counsellor|	Mdm Ng Poh Xian (Mrs Rachel Tan)|[	ng_poh_xian@schools.gov.sg](mailto:ng_poh_xian@schools.gov.sg)
 |Senior Special Educational Needs (SEN) officer|Mdm Liyana Binte Zainudin|[liyana_zainudin@schools.gov.sg](mailto:liyana_zainudin@schools.gov.sg)
+|Special Educational Needs (SEN) officer|Mdm Zarina Binte Abu Bakar|[zarina_abu_bakar_a@schools.gov.sg](mailto:zarina_abu_bakar_a@schools.gov.sg)
