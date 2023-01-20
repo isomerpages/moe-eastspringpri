@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Key Personnel.md
       - Our People/Class Teachers.md
       - Our People/EAS & Support Staff.md
       - Our People/.keep
