@@ -71,5 +71,7 @@ description: ""
 			<p>At EAST SPRING Primary School, the following lessons from the Growing Years Programme for Primary 5 and Primary 6 pupils will be taught in 2022</p>
 			<p>Primary 5</p>
 			<img src="/images/sexed.png">
+			<p>Primary 6</p>
+			<img src="/images/sexed2.png">
     </div>  
 </li>
