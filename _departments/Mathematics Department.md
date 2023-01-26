@@ -8,11 +8,11 @@ Our Programmes
 
 *   **Mission:**
     
-    v  Laying a Strong Foundation
+    -  Laying a Strong Foundation
     
     **Vision:**
     
-    v   Effective and Reflective Problem Solvers who develop joy and love for Mathematics
+    -   Effective and Reflective Problem Solvers who develop joy and love for Mathematics
     
 
 *   **Mathematics Amazing Week**
