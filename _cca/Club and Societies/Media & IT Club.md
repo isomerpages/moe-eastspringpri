@@ -4,7 +4,6 @@ permalink: /cca/Club-and-Societies/Media-and-IT-Club/
 description: ""
 third_nav_title: Club and Societies
 ---
-
 <img src="/images/mit1.jpeg" 
      style="width:50%;float:right">
 		 
@@ -15,3 +14,20 @@ Media & IT Club was formed in 2012. It exposes students to various learning expe
 *   To develop students’ leadership skills and empower them to take charge and be in the forefront of capturing school events and other activities.
 *   To seek opportunities for students to apply their skills and showcase their talents.
 
+![](/images/media.png)
+
+Achievements
+------------
+
+*   Drone Odyssey Challenge 2019 – Certificate of Participation
+*   National Primary School Photography Competition 2016. Nur Syifaa Alya Bte Azim (6G1) - Champion
+*   National Primary School Photography Competition — 'Nature Through Our Lens'
+    *   Jonathan Koh Ee Bing (6G3) - Second Runner-up
+    *   Gregory Tiong Jun Yan (6G8) - Merit Prize
+    *   Chew Jing Hao (6G2) - Merit Prize
+
+![](/images/media2.png)
+
+*   National Photography Festival (24 March 2012) - Consolation Prize
+
+![](/images/media3.png)
