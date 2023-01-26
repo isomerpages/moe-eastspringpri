@@ -79,3 +79,8 @@ Authentic setting gives students a tangible feel of the celebration and students
 ![](/images/tamilwedding.png)
 
 <center>Tamil Wedding Exhibit</center>
+
+**MTL Cultural Wall**
+
+The MTL Cultural Wall sets to provide a platform for students to interact with teachers or peers in the area of cultural learning. The wall featured a 3D setting of traditional shop-house owned by Chinese, Malay and Indian. Besides showcasing students’ work, the wall serves also to allow students to pen down their thoughts and comments.
+
