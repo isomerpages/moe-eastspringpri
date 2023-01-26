@@ -55,3 +55,14 @@ third_nav_title: Our People
 |CCE | Name | Email Address |
 | -------- | -------- | -------- |
 |Head of Department|Mr Lukman Hakim|[	lukman_hakim_b_mahmood@schools.gov.sg ](mailto:lukman_hakim_b_mahmood@schools.gov.sg )
+
+|Information and Communicaton
+Technology (ICT)  | Name | Email Address |
+| -------- | -------- | -------- |
+|Head of Department|	Miss Lee Yen Lin Jenny|[	lee_yen_lin_jenny@schools.gov.sg](mailto:lee_yen_lin_jenny@schools.gov.sg)
+
+|Administration & Operation | Name | Email Address |
+| -------- | -------- | -------- |
+|Administration Manager|	Mdm Fazidah Hani Binte Abdul Hadi|[	fazidah_hani@schools.gov.sg](mailto:fazidah_hani@schools.gov.sg)
+|Administration Manager|	Ms Ng Lay Tin|[	ng_lay_tin@schools.gov.sg](mailto:ng_lay_tin@schools.gov.sg)
+|Operations Manager|	Mr Quek Swee Heng|[quek_swee_heng@schools.gov.sg](mailto:quek_swee_heng@schools.gov.sg)
