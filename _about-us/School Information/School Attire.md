@@ -24,3 +24,11 @@ Acceptable Hairstyle \- Side View
      style="width:50%;float:left">
 <img src="/images/Acceptable%20Hairstyle%20-%20Side%20View%202.jpeg" 
      style="width:50%">
+		 
+Acceptable Hairstyle - Long Hair to be tied / plaited
+
+![](/images/hair.png)
+
+### Shoes and Socks
+
+![](/images/DSC_6616.jpeg)
