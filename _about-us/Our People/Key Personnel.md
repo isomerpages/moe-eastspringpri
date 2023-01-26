@@ -44,3 +44,14 @@ third_nav_title: Our People
 | -------- | -------- | -------- |
 |Head of Department|Miss Lee Sook San|[lee_sook_san@schools.gov.sg](mailto:lee_sook_san@schools.gov.sg)
 |Level Head|Mdm Seah Wei Shan|[seah_wei_shan@schools.gov.sg](mailto:seah_wei_shan@schools.gov.sg)
+
+|Physical Education, Art and Music | Name | Email Address |
+| -------- | -------- | -------- |
+|Head of Department|Mr Bryan Chao Wei Nien |[chao_wei_nien@schools.gov.sg ](mailto:chao_wei_nien@schools.gov.sg )
+|Subject Head (PE/CCA)|	Mr Choo Yew Teck |[choo_yew_teck@schools.gov.sg](mailto:choo_yew_teck@schools.gov.sg)
+|Subject Head  (Aesthetics)|Mdm Syaza Bte Mohd Sallehuddin|[syaza_mohd_sallehuddin@schools.gov.sg ](mailto:syaza_mohd_sallehuddin@schools.gov.sg )
+|Senior Teacher - Art |Mr Tock Swee Guan William|[tock_swee_guan_william@schools.gov.sg ](mailto:tock_swee_guan_william@schools.gov.sg )
+
+|CCE | Name | Email Address |
+| -------- | -------- | -------- |
+|Head of Department|Mr Lukman Hakim|[	lukman_hakim_b_mahmood@schools.gov.sg ](mailto:lukman_hakim_b_mahmood@schools.gov.sg )
