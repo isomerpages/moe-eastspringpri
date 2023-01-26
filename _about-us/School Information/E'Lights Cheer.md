@@ -26,3 +26,16 @@ third_nav_title: School Information
  
     </div>  
 </li>
+	
+<li>  
+    <input type="checkbox" id="accordion2">  
+    <label for="accordion1">Primary 1 Cheer</label>  
+    <div>  
+			<p>SELF-CONTROL</p>
+			<p>SELF (4 claps) CONTROL (4 claps)</p>
+			<p>We must have (2 claps)</p>
+			<p>Self Control (2 claps / Repeat 3 times)</p>
+			<p>We will Think Before We Act</p>
+			<p>Do the Right and Not React</p>
+			<p>Self Control</p>
+			<p>Yeah!!!</p>
