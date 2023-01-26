@@ -73,5 +73,12 @@ description: ""
 			<img src="/images/sexed.png">
 			<p>Primary 6</p>
 			<img src="/images/sexed2.png">
+			<p>Information For Parents</p>  
+			<p>8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+			<p>9. Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/GYS%20Opt-out%20form%202022-23.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 28 October 2022.</p>
+
+10\. Parents can contact the school at 67866192 or [www.eastspringpri.moe.edu.sg](www.eastspringpri.moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
     </div>  
 </li>
