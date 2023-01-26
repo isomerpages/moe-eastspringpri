@@ -70,6 +70,6 @@ description: ""
 			<p>7\. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.</p>
 			<p>At EAST SPRING Primary School, the following lessons from the Growing Years Programme for Primary 5 and Primary 6 pupils will be taught in 2022</p>
 			<p>Primary 5</p>
-				
+			<img src="/images/sexed.png">
     </div>  
 </li>
