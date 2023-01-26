@@ -9,33 +9,33 @@ third_nav_title: School Information
     <input type="checkbox" id="accordion1">  
     <label for="accordion1">E'Lights Cheer </label>  
     <div>  
-      <p>E'Lights, E'Lights
+			<p>E'Lights, E'Lights</p>
 
-Do things Right
+			<p>Do things Right</p>
 
-Serve with Pride
+			<p>Serve with Pride</p>
 
-Shine the Light
+			<p>Shine the Light</p>
 
-E'Lights, E'Lights
+			<p>E'Lights, E'Lights</p>
 
-Reflect & Grow
+			<p>Reflect & Grow</p>
 
-Give our Best
+			<p>Give our Best</p>
 
-Reach our Goals
+			<p>Reach our Goals</p>
 
-We will, We will, SUCCEED
+			<p>We will, We will, SUCCEED</p>
 
-_(Claps – 2 times, 2 times)_
+			<p>(Claps – 2 times, 2 times)</p>
 
-We will, We will, SUCCEED
+			<p>We will, We will, SUCCEED</p>
 
-_(Claps – 2 times, 2 times)_
+			<p>(Claps – 2 times, 2 times)</p>
 
-E L I G H T S _(Spell out)_
+			<p>E L I G H T S (Spell out)</p>
 
-E'LIGHTS _(shout out)_</p>  
+<p>E'LIGHTS (shout out)</p>  
  
     </div>  
 </li>
