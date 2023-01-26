@@ -115,3 +115,6 @@ third_nav_title: School Information
 			<p>Putting others before self</p>
 			<p>Serving others we do well</p>
 			<p>YEAH!</p>
+			
+    </div>  
+</li>
