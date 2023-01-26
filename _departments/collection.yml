@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department.md
       - Physical Education & Co Curriculum Activities (PE,CCA) Dept.md
       - Aesthetics Department.md
       - Character & Citizenship Education (CCE).md
