@@ -40,5 +40,7 @@ third_nav_title: Our People
 |Senior Teacher - Malay Language|Mdm Azah Bte Abdul Aziz|[azah_abdul_aziz@schools.gov.sg](mailto:azah_abdul_aziz@schools.gov.sg)
 |Senior Teacher - Chinese Language|Mdm Huang Lin Lin|[huang_linlin@schools.gov.sg](mailto:huang_linlin@schools.gov.sg)
 
-| Mother Tongue  | Name | Email Address |
+|Science | Name | Email Address |
 | -------- | -------- | -------- |
+|Head of Department|Miss Lee Sook San|[lee_sook_san@schools.gov.sg](mailto:lee_sook_san@schools.gov.sg)
+|Level Head|Mdm Seah Wei Shan|[seah_wei_shan@schools.gov.sg](mailto:seah_wei_shan@schools.gov.sg)
