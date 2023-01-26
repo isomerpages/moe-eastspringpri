@@ -29,3 +29,13 @@ ALP in our school is to opportunities for all to deepen 21 st century competen
 ![](/images/ICT2.png)
 
 <center>Students engaged in ALP lessons</center>
+
+*   **Cyber Wellness @ ESPS**
+
+Cyber Wellness refers to the positive well-being of Internet users. It involves an understanding of the dangers of harmful online behaviours, an awareness of how to protect yourself and other Internet users from such dangers. Cyber Wellness @ ESPS aims to look at the positive well-being and developing a healthy cyber culture amongst our pupils, aligned to MOE’s Cyber Wellness Framework.
+
+The Cyber Wellness Curriculum @ ESPS is as follows:
+
+<img src="/images/ICT3.png" 
+     style="width:70%;float:left"><img src="/images/17_ict_11.jpeg" 
+     style="width:30%">
