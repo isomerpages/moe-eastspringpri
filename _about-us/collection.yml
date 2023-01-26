@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/E'Lights Cheer.md
       - School Information/Reporting & Dismissal Times.md
       - School Information/.keep
       - Our People/Key Personnel.md
