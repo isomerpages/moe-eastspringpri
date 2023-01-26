@@ -84,3 +84,31 @@ Authentic setting gives students a tangible feel of the celebration and students
 
 The MTL Cultural Wall sets to provide a platform for students to interact with teachers or peers in the area of cultural learning. The wall featured a 3D setting of traditional shop-house owned by Chinese, Malay and Indian. Besides showcasing students’ work, the wall serves also to allow students to pen down their thoughts and comments.
 
+![](/images/mothertongue6.png)
+
+*   P5 Parents’ Workshop
+
+The objectives of the workshop are to familiarize parents and guardians with the new 2017 PSLE assessment format for the Oral component as well as to provide a platform for them to pick up strategies to help their child in the areas of Comprehension and e-Oral.
+
+![](/images/mothertongue7.png)
+
+**Outdoor Learning**
+
+MTL Department believes in bringing MTL learning out of the classroom and allows students to see that MTL learning can take place anywhere and anytime.
+
+The Outdoor Learning aims to provide students with an authentic learning experience and be engaged in learning that draws relevance from their MTL textbook. It also serves as an opportunity for students to explore collaboration learning and develop skills such as map-reading, problem solving, decision making and even potting.
+
+*   Primary One – My Neighbourhood
+*   Primary Two – My Vegetable Farm (CL)
+*   Primary Three – My Singapore Zoo
+
+The Outdoor Learning lessons are conducted in Mother Tongue languages and students completed activities that requires to apply their language skills and learning. With these external setting, students do see that MTL learning does not stay in the classroom but rather, Mother Tongue Languages has its place and value in our authentic world.
+
+**Primary One – My Neighbourhood**
+![](/images/mothertongue8.png)
+
+**Primary Two – My Vegetable Farm**
+![](/images/mothertongue9.png)
+
+**Primary Three – My Singapore Zoo**
+![](/images/mothertongue10.png)
