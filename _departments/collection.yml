@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Character & Citizenship Education (CCE).md
       - Student Management.md
       - Information & Communication Technology (ICT).md
       - Mother Tongue Language Department.md
