@@ -75,3 +75,7 @@ Authentic setting gives students a tangible feel of the celebration and students
 ![](/images/malaywedding.jpeg)
 
 <center>ML Wedding Exhibit</center>
+
+![](/images/tamilwedding.png)
+
+<center>Tamil Wedding Exhibit</center>
