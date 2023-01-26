@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Student Management.md
       - Information & Communication Technology (ICT).md
       - Mother Tongue Language Department.md
