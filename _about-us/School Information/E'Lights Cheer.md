@@ -97,3 +97,21 @@ third_nav_title: School Information
 			<p>SINGAPORE, SINGAPORE we will serve</p>
 			<p>SINGAPORE, SINGAPORE we all love</p>
 			<p>SINGAPORE, SINGAPORE we........belong!</p>
+			
+    </div>  
+</li>
+	
+<li>  
+    <input type="checkbox" id="accordion7">  
+    <label for="accordion7">Primary 6 Cheer</label>  
+    <div>
+			<p>GRATEFULNESS</p>
+			<p>Giving thanks for what we have</p>
+			<p>Giving thanks to those who care</p>
+			<p>(11 claps)</p>
+			<p>Count our blessings we must do</p>
+			<p>Show GRATEFULNESS in what we do</p>
+			<p>(11 claps)</p>
+			<p>Putting others before self</p>
+			<p>Serving others we do well</p>
+			<p>YEAH!</p>
