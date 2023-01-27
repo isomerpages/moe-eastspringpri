@@ -2,4 +2,4 @@ collections:
   niche-programme:
     output: true
     order:
-      - Example Title.md
+      - Niche Programme.md
