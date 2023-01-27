@@ -2,10 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Programmes and Workshop/CyberWellness Tips for Parents.md
-      - Programmes and Workshop/Making of EcoEnzyme using Orange or Lemon
-        Peels.md
-      - Programmes and Workshop/.keep
       - P1 Registration/.keep
       - P1 Registration/ESPS E Open House.md
       - P1 Registration/Primary 1 Orientation.md
@@ -13,3 +9,7 @@ collections:
       - School Calendar.md
       - Examination Matters.md
       - Parents Gateway Onboarding.md
+      - Programmes and Workshop/.keep
+      - Programmes and Workshop/CyberWellness Tips for Parents.md
+      - Programmes and Workshop/Making of EcoEnzyme using Orange or Lemon
+        Peels.md
