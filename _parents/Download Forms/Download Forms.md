@@ -62,7 +62,7 @@ Parents who wish to request for their child to be excused during the term time d
 
   
 
-Download Form: [Application for Absence From School due Overseas Form](https://eastspringpri-moe-edu-sg-admin.cwp.sg/qql/slot/u195/2022/Parents/Download%20Forms/Application%20for%20Absence%20From%20School%20Due%20Overseas%20updated%2013%20Apr%202022.pdf)
+Download Form: [Application for Absence From School due Overseas Form](/files/Application%20for%20Absence%20From%20School%20Due%20Overseas%20updated%2013%20Apr%202022.pdf)
 
 School Smart Card
 -----------------
@@ -80,7 +80,7 @@ For other application cases, please approach the school staff for more informati
 Student Insurance Claim
 -----------------------
 
-Please click [here](https://eastspringpri-moe-edu-sg-admin.cwp.sg/qql/slot/u195/2022/Parents/Download%20Forms/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf) for more details.
+Please click [here](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf) for more details.
 
 Bilingual Policy Forms
 ----------------------
@@ -89,4 +89,4 @@ Singapore’s bilingual policy requires all students in the local schools to off
 
   
 
-Please click [here](https://eastspringpri-moe-edu-sg-admin.cwp.sg/parents/download-forms/bilingual-policy-forms) for more details.
+Please click [here](/download-forms/bilingual-policy-forms) for more details.
