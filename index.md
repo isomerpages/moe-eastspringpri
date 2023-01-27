@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: News and Announcement
           description: ""
-          url: https://google.com
+          url: /news-and-announcement
   - infobar:
       title: Words of Encouragement
       button: Read More
