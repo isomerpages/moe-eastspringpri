@@ -13,6 +13,9 @@ Natalie Gan   Tel 9424 1063
   
 Please scan the QR code or click on the link below to the School Bus Registration Form 2023
 
+<img src="/images/School%20Bus%20Registration%202023.jpeg" 
+     style="width:30%">
+
 URL Link : [https://forms.gle/aCqLtjPdPxYhVa667](https://forms.gle/aCqLtjPdPxYhVa667)
 
 
