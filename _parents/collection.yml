@@ -2,6 +2,8 @@ collections:
   parents:
     output: true
     order:
+      - Programmes and Workshop/Making of EcoEnzyme using Orange or Lemon
+        Peels.md
       - Programmes and Workshop/.keep
       - P1 Registration/.keep
       - P1 Registration/ESPS E Open House.md
