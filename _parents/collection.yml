@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parent Support Group/Parent Volunteers.md
       - Parent Support Group/.keep
       - P1 Registration/.keep
       - P1 Registration/ESPS E Open House.md
