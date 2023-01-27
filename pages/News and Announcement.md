@@ -11,9 +11,9 @@ Please click [here](https://eastspringpri-moe-edu-sg-admin.cwp.sg/others/join-u
 
 Please click [here](https://eastspringpri.moe.edu.sg/qql/slot/u195/2023/P1%20Orietation%20Booklet/2023%20Orientation%20Booklet_Final.pdf) for the Primary 1 Orientation Booklet
 
-[**Science Competitions Achievement**](https://eastspringpri.moe.edu.sg/#)
+**Science Competitions Achievement**
 
-Please click [here](https://eastspringpri.moe.edu.sg/departments/science-department) to the list for the science competitions this year.
+Please click [here](/departments/science-department) to the list for the science competitions this year.
 
 **Words of Encouragement**
 
