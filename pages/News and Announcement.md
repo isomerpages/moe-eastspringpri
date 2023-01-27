@@ -3,13 +3,13 @@ title: News and Announcement
 permalink: /news-and-announcement/
 description: ""
 ---
-[**Join us for Parents' Briefing**](https://eastspringpri.moe.edu.sg/#)
+**Join us for Parents' Briefing**
 
-Please click [here](https://eastspringpri-moe-edu-sg-admin.cwp.sg/others/join-us) for more details.
+Please click [here](/join-us) for more details.
 
-[**Primary 1 Orientation Booklet (For 2023 Cohort)**](https://eastspringpri.moe.edu.sg/#)
+**Primary 1 Orientation Booklet (For 2023 Cohort)**
 
-Please click [here](https://eastspringpri.moe.edu.sg/qql/slot/u195/2023/P1%20Orietation%20Booklet/2023%20Orientation%20Booklet_Final.pdf) for the Primary 1 Orientation Booklet
+Please click [here](/files/2023%20Orientation%20Booklet_Final.pdf) for the Primary 1 Orientation Booklet
 
 **Science Competitions Achievement**
 
