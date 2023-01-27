@@ -8,9 +8,7 @@ third_nav_title: Programmes and Workshop
 
 **Cyber Wellness Tips for Parents**
 
-**Cyber Wellness Tips for Parents**
-
-To complement the cyber-wellness curriculum in schools, Here are the steps for **_PARENT_**ing in the digital age:
+To complement the cyber-wellness curriculum in schools, Here are the steps for <b>**_PARENT_**</b>ing in the digital age:
 
 <u> **_P_**</u>rovide opportunities for a variety of offline activities
 
