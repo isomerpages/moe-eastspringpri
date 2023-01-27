@@ -15,3 +15,4 @@ third_nav_title: Parent Support Group
 7.  For more information on the Primary One Registration process, please visit [P1 registration](https://www.moe.gov.sg/primary/p1-registration.).
 8.  Please note that the residential address indicated in this application form would be used for registration during the Primary One Registration Exercise. Kindly update the school if there is any change to your residential address.
 9.  PV scheme does not guarantee a place in the school but accords only an eligibility to register in Phase 2B.
+
