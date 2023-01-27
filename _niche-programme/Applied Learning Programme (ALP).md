@@ -14,3 +14,8 @@ Working in groups, students will be assigned a design challenge where they would
 At different junctures of the ALP lessons, the students will be learning productivity and collaborative tools, coding and cyber wellness values while embarking on design challenge. These tools and skills learnt would sharpen and deepen ICT practices to prepare our students to navigate, curate and connect to the digital world.
 
 
+
+|  |  |  |
+| -------- | -------- | -------- |
+| ![](/images/ALP/alp%201.jpg)     | ![](/images/ALP/alp%202.jpg)    | ![](/images/ALP/alp%203.jpg)    |
+
