@@ -2,10 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - School Vendor Information.md
-      - Parent Support Group/.keep
-      - Parent Support Group/Parent Volunteers.md
-      - Parent Support Group/PSG Registration.md
       - P1 Registration/.keep
       - P1 Registration/ESPS E Open House.md
       - P1 Registration/Primary 1 Orientation.md
@@ -18,3 +14,7 @@ collections:
         Peels.md
       - Programmes and Workshop/CyberWellness Tips for Parents.md
       - Edusave Character Award.md
+      - Parent Support Group/.keep
+      - Parent Support Group/Parent Volunteers.md
+      - Parent Support Group/PSG Registration.md
+      - School Vendor Information.md
