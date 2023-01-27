@@ -15,11 +15,11 @@ Please click [here](https://eastspringpri.moe.edu.sg/qql/slot/u195/2023/P1%20Or
 
 Please click [here](https://eastspringpri.moe.edu.sg/departments/science-department) to the list for the science competitions this year.
 
-[**Words of Encouragement**](https://eastspringpri.moe.edu.sg/others/words-of-encouragement)
+**Words of Encouragement**
 
 If you have witnessed or received exemplary service from an MOE staff, we would like to hear from you!
 
-[Share Your Compliments](https://eastspringpri.moe.edu.sg/others/words-of-encouragement "Words of Encouragement")
+[Share Your Compliments](/words-of-encouragement)
 
 **2022 School Uniform Sale Dates and Name Tag order link**
 
