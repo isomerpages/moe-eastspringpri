@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Google Classroom.md
       - (SLS) Student Learning Space.md
       - ICT Support Page/SLS Password Reset.md
       - ICT Support Page/Student iCON Account.md
