@@ -1,3 +1,5 @@
 contact_us: /about-us/Contact-Us/
 show_reach: true
-social_media: {}
+social_media:
+  facebook: https://www.facebook.com/east.spring.primary/
+  instagram: https://www.instagram.com/eastspringpri/
