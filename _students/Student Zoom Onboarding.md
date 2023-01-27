@@ -3,7 +3,7 @@ title: Student Zoom Onboarding
 permalink: /students/Student-Zoom-Onboarding/
 description: ""
 ---
-Please refer below for the step by step guide provided to login to zoom using student ICON email or click [here](https://eastspringpri.moe.edu.sg/qql/slot/u195/2022/Students/Student%20Zoom%20Onboarding/Student_Zoom_Onboarding_Guide.pptx) for the PowerPoint slides.
+Please refer below for the step by step guide provided to login to zoom using student ICON email.
 
 ![](/images/Slide1.jpeg)
 ![](/images/Slide2.jpeg)
@@ -37,3 +37,13 @@ Please refer below for the step by step guide provided to login to zoom using st
 ![](/images/Slide30.jpeg)
 ![](/images/Slide31.jpeg)
 ![](/images/Slide32.jpeg)
+![](/images/Slide33.jpeg)
+![](/images/Slide34.jpeg)
+![](/images/Slide35.jpeg)
+![](/images/Slide36.jpeg)
+![](/images/Slide37.jpeg)
+![](/images/Slide38.jpeg)
+![](/images/Slide39.jpeg)
+![](/images/Slide40.jpeg)
+![](/images/Slide41.jpeg)
+![](/images/Slide42.jpeg)
