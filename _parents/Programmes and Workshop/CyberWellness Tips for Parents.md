@@ -53,3 +53,9 @@ Some basic rules could include the following :
 *   Get your child to share with you his/her favourite online websites, things he/she do online and what is cool amongst his/her friends.
 *   Talk to him/her about his/her online experiences. (For example, discuss about the benefits and risks of the Internet, share how people connect and communicate with one another through the Internet).
 *   Let your child know that it is alright to ask you questions or talk to you if he/she run into problems with someone online.
+
+![](/images/CyberWellness/CyberWellness.jpg)
+![](/images/CyberWellness/CyberWellness1.jpg)
+![](/images/CyberWellness/CyberWellness2.jpg)
+![](/images/CyberWellness/CyberWellness3.jpg)
+![](/images/CyberWellness/CyberWellness5.jpg)
