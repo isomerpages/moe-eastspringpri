@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Programmes and Workshop/.keep
       - P1 Registration/.keep
       - P1 Registration/ESPS E Open House.md
       - P1 Registration/Primary 1 Orientation.md
