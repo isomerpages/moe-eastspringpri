@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Download Forms/Download Forms.md
       - Download Forms/Financial Assistance.md
       - Download Forms/Bilingual Policy Forms.md
       - Download Forms/.keep
