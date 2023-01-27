@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Briefing Slides/Parents Briefing Slides.md
       - Briefing Slides/.keep
       - P1 Registration/.keep
       - P1 Registration/ESPS E Open House.md
