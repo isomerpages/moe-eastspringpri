@@ -29,5 +29,4 @@ Click [here](https://www.khuniform.com/espsnametag) for Name Tag order
 
 **2023 Textbook List**
 
-Please click [here](https://eastspringpri-moe-edu-sg-admin.cwp.sg/others/booklist-2023) for P1 - P6 booklist
-
+Please click [here](/Booklist-2023/) for P1 - P6 booklist
