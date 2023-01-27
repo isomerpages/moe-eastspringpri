@@ -2,4 +2,5 @@ collections:
   niche-programme:
     output: true
     order:
+      - Learning for Life Programme – SPRING for Life.md
       - Applied Learning Programme (ALP).md
