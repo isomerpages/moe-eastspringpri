@@ -18,4 +18,3 @@ At different junctures of the ALP lessons, the students will be learning product
 |  |  |  |
 | -------- | -------- | -------- |
 | ![](/images/ALP/alp%201.jpg)     | ![](/images/ALP/alp%202.jpg)    | ![](/images/ALP/alp%203.jpg)    |
-
