@@ -15,5 +15,5 @@ sections:
   - infobar:
       title: Words of Encouragement
       button: Read More
-      url: /faq/
+      url: /Words-of-Encouragement
 ---
