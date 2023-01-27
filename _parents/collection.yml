@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - P1 Registration/Primary 1 Orientation.md
       - P1 Registration/ESPS E Open House.md
       - P1 Registration/.keep
