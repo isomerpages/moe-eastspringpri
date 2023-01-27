@@ -16,3 +16,35 @@ third_nav_title: Parent Support Group
 8.  Please note that the residential address indicated in this application form would be used for registration during the Primary One Registration Exercise. Kindly update the school if there is any change to your residential address.
 9.  PV scheme does not guarantee a place in the school but accords only an eligibility to register in Phase 2B.
 
+<div
+  style="
+    font-family: Sans-Serif;
+    font-size: 15px;
+    color: #000;
+    opacity: 0.9;
+    padding-top: 5px;
+    padding-bottom: 8px;
+  "
+>
+  If the form below is not loaded, you can also fill it in at
+  <a href="https://form.gov.sg/5ef191510091ac001130fb4f">here</a>.
+</div>
+
+<!-- Change the width and height values to suit you best -->
+<iframe
+  id="iframe"
+  src="https://form.gov.sg/5ef191510091ac001130fb4f"
+  style="width: 100%; height: 500px"
+></iframe>
+
+<div
+  style="
+    font-family: Sans-Serif;
+    font-size: 12px;
+    color: #999;
+    opacity: 0.5;
+    padding-top: 5px;
+  "
+>
+  Powered by <a href="https://form.gov.sg" style="color: #999">Form</a>
+</div>
