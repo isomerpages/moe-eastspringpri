@@ -37,3 +37,29 @@ Tel 6559 2269
   
 
 Click [here](/booklist-2023) for P1-P6 booklists
+
+**School uniforms & Name tags**  
+Kah Huat Uniform Pte Ltd  
+Tel 6479 6811  
+
+[www.khuniform.com](https://khuniform.com/)
+
+**Dental Clinic (East Spring Primary School)  
+**  
+Dental Clinic Telephone 8940 1244  
+HPB Emergency Telephone 6435 3782  
+  
+Operating Hours  
+Monday & Thursday 8.00 am to 5.30 pm  
+Tuesday & Wednesday 8.00 am to 1.00 pm  
+Friday - Clinic is closed  
+Lunch Hour 1pm - 2pm  
+  
+Clinic operates on alternate weeks  
+  
+Buddy Clinics that students may go to when ESPS Clinic is closed:  
+  
+
+*   Chong Zheng Primary – Tel 8940 1137
+*   Maha Bodhi School – Tel 8940 5089
+*   Mobile Dental Clinic – Tel 9237 9142
