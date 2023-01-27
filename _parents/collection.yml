@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - ESPS E Open House/.keep
       - P1 Registration.md
