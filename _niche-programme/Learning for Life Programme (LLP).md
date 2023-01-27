@@ -11,5 +11,5 @@ The programme integrates the school’s sports programme and the Outdoor Educati
 
 
 | |  |  |
-| -------- | -------- | -------- |
-|   ![](/images/LLP/LLP2.jpg)   | ![](/images/LLP/LLP3.jpg)     | ![](/images/LLP/LLP4.jpg)     |
+| --------- | -------- | -------- |
+|   ![](/images/LLP/LLP2.jpg)     | ![](/images/LLP/LLP3.jpg)     | ![](/images/LLP/LLP4.jpg)     |
