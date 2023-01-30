@@ -12,8 +12,8 @@ sections:
         - title: News and Announcement
           description: ""
           url: /news-and-announcement
-  - infobar:
-      title: Words of Encouragement
-      button: Read More
-      url: /Words-of-Encouragement
+        - title: Words of Encouragement
+          description: ""
+          url: /Words-of-Encouragement
+  - infobar: {}
 ---
