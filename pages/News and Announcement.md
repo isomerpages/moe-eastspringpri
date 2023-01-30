@@ -3,7 +3,6 @@ title: News and Announcement
 permalink: /news-and-announcement/
 description: ""
 ---
-
 **Join us for Parents' Briefing**
 
 Please click [here](/join-us) for more details.
@@ -18,7 +17,7 @@ Please click [here](/files/2023%20Orientation%20Booklet_Final.pdf) for the Pri
 
 **Science Competitions Achievement**
 
-Please click [here](/departments/science-department) to the list for the science competitions this year.
+Please click [here](/departments/Science-Department/) to the list for the science competitions this year.
 
 ------------------------------------------------------------------------
 
