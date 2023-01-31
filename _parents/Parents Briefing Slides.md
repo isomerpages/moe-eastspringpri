@@ -4,7 +4,7 @@ permalink: /parents/parents-briefing-slides/
 description: ""
 ---
 #### **P1 Parents Briefing slides**
-[1 Introduction Slide 2023]([](/files/Parents%20Briefing%20Slides/1)%20Parents%20Briefing%202023_Principal.pdf) <br>
+[1 Introduction Slide 2023](/files/Parents%20Briefing%20Slides/1Parents%20Briefing%202023_Principal.pdf) <br>
 [2. English]([](/files/Parents%20Briefing%20Slides/2)%20Parents%20Briefing%202023_English.pdf) <br>
 [3. Mathematics]([](/files/Parents%20Briefing%20Slides/3)%20Parents%20Briefing%20P1%202023_Mathematics.pdf) <br>
 [4. Mother Tongue Language]([](/files/Parents%20Briefing%20Slides/4)%20Parents%20Briefing_Mother%20Tongue.pdf) <br>
