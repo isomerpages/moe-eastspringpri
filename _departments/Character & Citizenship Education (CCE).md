@@ -40,9 +40,9 @@ description: ""
 	
   <li>  
     <input type="checkbox" id="accordion2">  
-    <label for="accordion2">Sexuality Education</label>  
+		<label for="accordion2"><b>Sexuality Education</b></label>  
     <div>  
-			<p><b>1. Sexuality Education</b></p>
+			<p>1. Sexuality Education</p>
 			<p>· MOE’s Sexuality Education in Schools</p>
 			<p>· Overview of East Spring Primary School's Sexuality Education Programme 2022</p>
 			<p>·  Information For Parents</p>
