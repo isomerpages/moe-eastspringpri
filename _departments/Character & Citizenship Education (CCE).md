@@ -71,7 +71,7 @@ description: ""
 			<p>At EAST SPRING Primary School, the following lessons from the Growing Years Programme for Primary 5 and Primary 6 pupils will be taught in 2022</p>
 			<p><b>Primary 5</b></p>
 			<img src="/images/sexed.png">
-			<p><b>Primary 6</></p>
+			<p><b>Primary 6</b></p>
 			<img src="/images/sexed2.png">
 			<p>Information For Parents</p>  
 			<p>8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
