@@ -14,5 +14,6 @@ sections:
         - title: Words of Encouragement
           description: ""
           url: /Words-of-Encouragement
+      background: /images/Home/Homepage1.gif
   - infobar: {}
 ---
