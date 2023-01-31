@@ -6,7 +6,7 @@ description: ""
 <ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
-		<label for="accordion1"><b>Applied Learning Programme</b></label>  
+		<label for="accordion1"><b>Applied Learning Programme (ALP)</b></label>  
     <div>  
 ALP at ESPS is to provide opportunities for all to deepen 21st century competencies and in moulding every student to be Self-directed Learner, Active Contributor, Confident Person and Concerned Citizen. The core objectives of our ALP are to help our students to acquire various ICT skills and computational thinking skills through coding and apply these skills to solve real-world problems.
 
@@ -26,7 +26,7 @@ At different junctures of the ALP lessons, the students will be learning product
 	
   <li>  
     <input type="checkbox" id="accordion2">  
-		<label for="accordion2"><b>Learning for Life Programme</b></label>  
+		<label for="accordion2"><b>Learning for Life Programme (LLP)</b></label>  
     <div>  			
 			#### Learning for Life Programme – SPRING for Life <br>
 The programme integrates the school’s sports programme and the Outdoor Education components of Navigation, Climbing and Water Confidence to imbue school values and build character for E’Lights. It allows E’Lights to develop their 21st Century Competencies while putting knowledge and skills into action in a progressive manner. More importantly, it serves to cultivate a lifetime of active and healthy living within our students.
