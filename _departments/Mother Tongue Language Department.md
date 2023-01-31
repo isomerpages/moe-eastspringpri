@@ -5,8 +5,8 @@ description: ""
 ---
 | ||
 | -------- | -------- | 
-| Vision:  | Confident and effective Mother Tongue speakers     | 
-|Mission:|Create a conducive environment for students to attain mastery of the Mother Tongue language and appreciate their culture
+| <b>Vision:</b>  | <b>Confident and effective Mother Tongue speakers  </b>   | 
+|<b>Mission:</b>|<b>Create a conducive environment for students to attain mastery of the Mother Tongue language and appreciate their culture</b>
 
 
 
