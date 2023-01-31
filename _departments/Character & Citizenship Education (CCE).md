@@ -73,7 +73,7 @@ description: ""
 			<img src="/images/sexed.png">
 			<p><b>Primary 6</b></p>
 			<img src="/images/sexed2.png">
-			<p>Information For Parents</p>  
+			<p><b>Information For Parents</b></p>  
 			<p>8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 			<p>9. Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/GYS%20Opt-out%20form%202022-23.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 28 October 2022.</p>
 
