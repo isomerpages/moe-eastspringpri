@@ -6,7 +6,7 @@ description: ""
 <ul class="jekyllcodex_accordion">  
   <li>  
     <input type="checkbox" id="accordion1">  
-    <label for="accordion1">Our Programmes</label>  
+		<label for="accordion1"><b>Our Programmes</b></label>  
     <div>  
       <p>In our school, CCE is integrated with both Instructional Programmes (IP) as well as the Non-Instructional programmes (non-IP), co-curricular programmes, CCA, Values-In-Action (VIA), Student Leadership Development and other school programmes. In this way, CCE is part and parcel of the school experience of our students. Through CCE, our school aims to nurture gracious E’Lights who are morally upright and concerned citizens. This is achieved by inculcating values and building SE competencies in our students. This in turn will develop them into persons of good character and concerned citizens in our rapidly changing and globalised world. We believe that every student should have an equal opportunity to develop his/her potential. We aim to achieve this by, not only offering a balanced, holistic curriculum that challenges students, but also by providing care, support and guidance to each and every student. The department focuses on Character Education, which is one of the main pillars of the school curriculum. Character Education in East Spring anchors on the six SPRING values. With a team of experienced, caring and enthusiastic teaching as well as non-teaching staff, we aspire to meet the needs of each pupil with the hope of building a lasting relationship grounded upon the values of respect, optimism, care and mutual trust.</p>  
 			<p>Pastoral Care</p>
