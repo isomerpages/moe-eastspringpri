@@ -3,6 +3,11 @@ title: Applied Learning Programme (ALP)
 permalink: /niche-programme/ALP/
 description: ""
 ---
+<ul class="jekyllcodex_accordion">  
+  <li>  
+    <input type="checkbox" id="accordion1">  
+		<label for="accordion1"><b>Our Programmes</b></label>  
+    <div>  
 ALP at ESPS is to provide opportunities for all to deepen 21st century competencies and in moulding every student to be Self-directed Learner, Active Contributor, Confident Person and Concerned Citizen. The core objectives of our ALP are to help our students to acquire various ICT skills and computational thinking skills through coding and apply these skills to solve real-world problems.
 
   
