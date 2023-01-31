@@ -69,9 +69,9 @@ description: ""
 			<p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.</p>
 			<p>7. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.</p>
 			<p>At EAST SPRING Primary School, the following lessons from the Growing Years Programme for Primary 5 and Primary 6 pupils will be taught in 2022</p>
-			<p>Primary 5</p>
+			<p><b>Primary 5</b></p>
 			<img src="/images/sexed.png">
-			<p>Primary 6</p>
+			<p><b>Primary 6</></p>
 			<img src="/images/sexed2.png">
 			<p>Information For Parents</p>  
 			<p>8. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
