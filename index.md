@@ -4,7 +4,7 @@ title: East Spring Primary School
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: Welcome to East Spring Primary School!
 sections:
   - hero:
       key_highlights:
