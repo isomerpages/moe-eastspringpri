@@ -14,6 +14,9 @@ sections:
         - title: Words of Encouragement
           description: ""
           url: /Words-of-Encouragement
+        - title: Calendar
+          description: ""
+          url: ""
       background: /images/Home/Homepage1.gif
   - infobar: {}
 ---
