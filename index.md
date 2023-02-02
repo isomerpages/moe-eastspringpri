@@ -16,7 +16,7 @@ sections:
           url: /Words-of-Encouragement
         - title: Calendar
           description: ""
-          url: ""
+          url: /school-calendar/
       background: /images/Home/Homepage1.gif
   - infobar: {}
 ---
