@@ -17,6 +17,6 @@ sections:
         - title: Calendar
           description: ""
           url: /school-calendar/
-      background: /images/Home/Homepage1.gif
+      background: /images/Home/Homepage.gif
   - infobar: {}
 ---
