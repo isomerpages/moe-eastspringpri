@@ -14,13 +14,8 @@ description: ""
 [8. Non-MTL students (CL)](/files/Parents%20Briefing%20Slides/8Year%20Head%20Sharing.pdf) <br>
 
 #### **P2 Parents Briefing slides**
-
 [Briefing Slides 2023](/files/Parents%20Briefing%20Slides/P2%20Briefing/P2%20Parents%20Briefing%202023_parents.pdf)
-
 #### **P3 - P4 Parents Briefing slides**
-
 [Briefing Slides 2023](/files/Parents%20Briefing%20Slides/P3n4/P3_P4_Parents%20Briefing%20for%20website%2015%20Feb.pdf)
-
-
 #### **P5P6 Parents Briefing slides**
 [Briefing Slides 2023](/files/Parents%20Briefing%20Slides/P5n6/P5P6%20Parents%20Briefing%202023_parents.pdf)
