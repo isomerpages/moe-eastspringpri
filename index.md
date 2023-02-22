@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: "P1 Parents' Briefing "
       button: Click here for more details
-      url: https://staging.d2u1zetbqqqiby.amplifyapp.com/files/Parents%20Briefing%20Slides/1Parents%20Briefing%202023_Principal.pdf
+      url: https://staging.d2u1zetbqqqiby.amplifyapp.com/parents/parents-briefing-slides/
       alt: Image alt text
       image: /images/Parents Briefing/Parents Briefing P1.jpeg
   - infopic:
