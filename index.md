@@ -20,15 +20,9 @@ sections:
       background: /images/Home/Homepage.gif
   - infobar: {}
   - infopic:
-      title: "P1 Parents' Briefing "
+      title: Parents' Briefing Slides
       button: Click here for more details
       url: https://staging.d2u1zetbqqqiby.amplifyapp.com/parents/parents-briefing-slides/
       alt: Image alt text
       image: /images/Parents Briefing/Parents Briefing P1.jpeg
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
