@@ -26,4 +26,5 @@ sections:
       button: Button Text
       url: https://staging.d2u1zetbqqqiby.amplifyapp.com/files/Parents%20Briefing%20Slides/1Parents%20Briefing%202023_Principal.pdf
       alt: Image alt text
+      image: /images/Parents Briefing/Parents Briefing P1.jpeg
 ---
