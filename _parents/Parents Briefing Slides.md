@@ -12,3 +12,15 @@ description: ""
 [6. CCE](/files/Form%204-CHGE.pdf) <br>
 [7. Year Head Sharing](/files/Parents%20Briefing%20Slides/7Parents%20Briefing_non%20Chinese.pdf)<br>
 [8. Non-MTL students (CL)](/files/Parents%20Briefing%20Slides/8Year%20Head%20Sharing.pdf) <br>
+
+#### **P2 Parents Briefing slides**
+
+
+
+
+#### **P3 - P4 Parents Briefing slides**
+
+
+
+
+#### **P5P6 Parents Briefing slides**
