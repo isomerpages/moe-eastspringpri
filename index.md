@@ -24,5 +24,5 @@ sections:
       button: Click here for more details
       url: https://staging.d2u1zetbqqqiby.amplifyapp.com/parents/parents-briefing-slides/
       alt: Image alt text
-      image: /images/Parents Briefing/Parents Briefing P1.jpeg
+      image: /images/Parents Briefing/Parents Briefing P1 NEW.jpeg
 ---
