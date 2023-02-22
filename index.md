@@ -18,7 +18,6 @@ sections:
           description: ""
           url: /school-calendar/
       background: /images/Home/Homepage.gif
-  - infobar: {}
   - infopic:
       title: Parents' Briefing Slides
       button: Click here for more details
