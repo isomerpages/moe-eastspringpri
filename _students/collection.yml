@@ -1,0 +1,14 @@
+collections:
+  students:
+    output: true
+    order:
+      - KooBits.md
+      - eZhishi.md
+      - Pazhahu Tamil.md
+      - Google Classroom.md
+      - (SLS) Student Learning Space.md
+      - ICT Support Page/SLS Password Reset.md
+      - ICT Support Page/Student iCON Account.md
+      - ICT Support Page/.keep
+      - Student Zoom Onboarding.md
+      - Home Based Learning.md

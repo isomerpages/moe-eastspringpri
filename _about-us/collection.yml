@@ -1,0 +1,26 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School Information/Vision, Mission, Philosophy, Motto and Values.md
+      - School Information/History and Background.md
+      - School Information/School Crest.md
+      - School Information/School Song.md
+      - School Information/School Attire.md
+      - School Information/E'Lights Creed.md
+      - School Information/E'Lights Cheer.md
+      - School Information/Reporting & Dismissal Times.md
+      - School Information/.keep
+      - Our People/Key Personnel.md
+      - Our People/Class Teachers.md
+      - Our People/EAS & Support Staff.md
+      - Our People/.keep
+      - Contact Us.md
+      - ESPS 20th Anniversary/ESPS 20th Anniversary.md
+      - ESPS 20th Anniversary/Sports Carnival.md
+      - ESPS 20th Anniversary/Artsploxion.md
+      - "ESPS 20th Anniversary/SBOR: Largest Paper Quilling Artwork.md"
+      - ESPS 20th Anniversary/Class Decoration Competition.md
+      - ESPS 20th Anniversary/20th Birthday Concert.md
+      - ESPS 20th Anniversary/Display The Largest Paper Quilling Artwork @ OTH.md
+      - ESPS 20th Anniversary/.keep

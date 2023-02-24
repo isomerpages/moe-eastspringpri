@@ -1,32 +1,27 @@
 ---
 layout: homepage
-title: Isomer Site
+title: East Spring Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Welcome to East Spring Primary School!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: News and Announcement
+          description: ""
+          url: /news-and-announcement
+        - title: Words of Encouragement
+          description: ""
+          url: /Words-of-Encouragement
+        - title: Calendar
+          description: ""
+          url: /school-calendar/
+      background: /images/Home/Homepage.gif
+  - infopic:
+      title: Parents' Briefing Slides
+      button: Click here for more details
+      url: https://staging.d2u1zetbqqqiby.amplifyapp.com/parents/parents-briefing-slides/
+      alt: Image alt text
+      image: /images/Parents Briefing/Parents Briefing P1 NEW.jpeg
 ---
-

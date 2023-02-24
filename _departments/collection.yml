@@ -1,0 +1,15 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language Department/.keep
+      - English Language Department/English Language Department.md
+      - English Language Department/Strategies.md
+      - Mathematics Department.md
+      - Science Department.md
+      - Physical Education & Co Curriculum Activities (PE,CCA) Dept.md
+      - Aesthetics Department.md
+      - Character & Citizenship Education (CCE).md
+      - Student Management.md
+      - Information & Communication Technology (ICT).md
+      - Mother Tongue Language Department.md
