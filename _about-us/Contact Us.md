@@ -21,7 +21,7 @@ Closed on Saturday, Sunday &amp; Public Holidays
 
 All visitors are kindly requested to report at the security post to obtain a Visitor's Pass before proceeding to any areas of the school. Parent or guardian who takes his/her child home earlier than the dismissal time must sign in the Early Dismissal Book in the General Office.
 
-_Email_:&nbsp;&nbsp;[esps@moe.edu.sg](mailto:esps@moe.edu.sg)_
+_Email_:&nbsp;&nbsp;[esps@moe.edu.sg](mailto:esps@moe.edu.sg)
 
 School Website:[https://eastspringpri.moe.edu.sg]
 (https://eastspringpri.moe.edu.sg/)
