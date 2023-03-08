@@ -16,7 +16,7 @@ Science Competitions Achievement
 
 **Sony Creative Science Award (SCSA) 2021**
 
-1\. Vera Heng (1S1) – Finalist (Junior Whizkid Category)
+
 
 Our Programmes
 --------------
