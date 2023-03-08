@@ -46,27 +46,27 @@ Dismissal is staggered to reduce intermingling between levels.
 
 ![](/images/appearance.png)
 
-- Pupils should have short and clean fingernails (no varnish).
-- Pupils should put on only simple and functional watches/spectacles. No fanciful watches or spectacles/rims are allowed.
-- Pupils should not put on any kind of rings, bangles or fanciful earrings. Only small simple ear studs are permissible (Girls only).
-- Pupils reporting for Dental Treatment after/ before curriculum/ during school holidays must be in school uniform/ PE attire.
-- Pupils are allowed to remain in their PE attire on days they have P.E. lessons/ Mass Jog.
+- Students should have short and clean fingernails (no varnish).
+- Students should put on only simple and functional watches/spectacles. No fanciful watches or spectacles/rims are allowed.
+- Students should not put on any kind of rings, bangles or fanciful earrings. Only small simple ear studs are permissible (Girls only).
+- Students reporting for Dental Treatment after/ before curriculum/ during school holidays must be in school uniform/ PE attire.
+- Students are allowed to remain in their PE attire on days they have P.E. lessons/ Mass Jog.
 3.  Attendance and Punctuality
 - Attendance is compulsory for all school activities.
 - Punctuality is to be observed at all times.
 - Absence from school must be supported by a valid medical certificate from a qualified doctor or a letter from parents/guardians.
-- Pupils who are not feeling well and wish to go home must obtain approval from the class teacher. A parent/ guardian must be present to sign out and accompany their child/ ward home.
+- Students who are not feeling well and wish to go home must obtain approval from the class teacher. A parent/ guardian must be present to sign out and accompany their child/ ward home.
 
 4.  Conduct and Behaviour – General
 - Students must uphold the good name of our school at all times.
 - All pupils are to be well-behaved, polite and courteous at all times.
 - Students who must go to another room during a change of period must do so quietly and in an orderly manner.
 - Students should keep to the left when they are walking up/down the staircase, corridors and along the walk-ways.
-- As a class, pupils should walk in twos or in a single file as instructed by their respective teacher.
+- As a class, students should walk in twos or in a single file as instructed by their respective teacher.
 - Students must have the teachers’ permission before leaving the classroom during lessons. Students must have a “CORRIDOR PASS” when leaving the class.
 - No student should remain in the classroom during recess unless accompanied by a teacher.
 - Assigned homework must be handed in on time.
--  Students must treat school property with care. Pupils must not deface any wall or furniture; tamper with the fire alarm or the fire extinguishers; spit or litter.
+-  Students must treat school property with care. Students must not deface any wall or furniture; tamper with the fire alarm or the fire extinguishers; spit or litter.
 - Students should practice good toilet habits like flushing after use and keeping the toilets clean and dry.
 - Students should play an active part in the preservation and conservation of the environment.
 - Lost items should be reported to the teacher-in-charge immediately.
