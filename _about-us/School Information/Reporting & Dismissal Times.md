@@ -18,7 +18,7 @@ third_nav_title: School Information
 
 **Recess**
 
-Classes are assigned a fixed recess period which is reflected in the class timetable. (with effect 27 June 2022)
+Classes are assigned a fixed recess period which is reflected in the class timetable.
 
 ![](/images/recess.png)
 
