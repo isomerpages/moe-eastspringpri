@@ -59,7 +59,7 @@ Dismissal is staggered to reduce intermingling between levels.
 
 4.  Conduct and Behaviour – General
 - Students must uphold the good name of our school at all times.
-- All pupils are to be well-behaved, polite and courteous at all times.
+- All students are to be well-behaved, polite and courteous at all times.
 - Students who must go to another room during a change of period must do so quietly and in an orderly manner.
 - Students should keep to the left when they are walking up/down the staircase, corridors and along the walk-ways.
 - As a class, students should walk in twos or in a single file as instructed by their respective teacher.
