@@ -20,7 +20,16 @@ third_nav_title: School Information
 
 Classes are assigned a fixed recess period which is reflected in the class timetable.
 
-![](/images/recess.png)
+
+
+| Level | Recess | Snack Time |
+| -------- | -------- | -------- |
+| P1     | 10:30 - 11:00 A.m.     | 8.20 a.m.     |
+| P2    |  8.30 - 9.00 a.m.        | 11.20 a.m.    |
+| P3    |  9.00 - 9.30 a.m.        | 11.20 a.m.    |
+| P4    | 11.00 - 11.30 a.m.       | 12.20 p.m.   |
+| P5    | 11.00 - 11.30 a.m.       | 8.20 a.m.     |
+| P6    | 10.00 - 10.30 a.m.      | 12.20 p.m.   |
 
 **Dismissal**
 
