@@ -39,7 +39,7 @@ Dismissal is staggered to reduce intermingling between levels.
 - Students who are Singapore Citizens must sing the National Anthem and take the Pledge.
 - Students will take the National Pledge with the right fist placed over the heart.
 - School Uniform
-<br>All pupils are to wear the prescribed school uniform/PE attire whenever they enter the school premises for all activities. No modification to the school uniform or PE attire is allowed.
+<br>All students are to wear the prescribed school uniform/PE attire whenever they enter the school premises for all activities. No modification to the school uniform or PE attire is allowed.
 
 2. General Appearance
 - Neat Attire and Hairdo
