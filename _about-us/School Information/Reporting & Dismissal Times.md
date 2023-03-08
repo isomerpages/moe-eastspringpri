@@ -58,29 +58,29 @@ Dismissal is staggered to reduce intermingling between levels.
 - Pupils who are not feeling well and wish to go home must obtain approval from the class teacher. A parent/ guardian must be present to sign out and accompany their child/ ward home.
 
 4.  Conduct and Behaviour – General
-- Pupils must uphold the good name of our school at all times.
+- Students must uphold the good name of our school at all times.
 - All pupils are to be well-behaved, polite and courteous at all times.
-- Pupils who must go to another room during a change of period must do so quietly and in an orderly manner.
-- Pupils should keep to the left when they are walking up/down the staircase, corridors and along the walk-ways.
+- Students who must go to another room during a change of period must do so quietly and in an orderly manner.
+- Students should keep to the left when they are walking up/down the staircase, corridors and along the walk-ways.
 - As a class, pupils should walk in twos or in a single file as instructed by their respective teacher.
-- Pupils must have the teachers’ permission before leaving the classroom during lessons. Pupils must have a “CORRIDOR PASS” when leaving the class.
-- No pupil should remain in the classroom during recess unless accompanied by a teacher.
+- Students must have the teachers’ permission before leaving the classroom during lessons. Students must have a “CORRIDOR PASS” when leaving the class.
+- No student should remain in the classroom during recess unless accompanied by a teacher.
 - Assigned homework must be handed in on time.
--  Pupils must treat school property with care. Pupils must not deface any wall or furniture; tamper with the fire alarm or the fire extinguishers; spit or litter.
-- Pupils should practice good toilet habits like flushing after use and keeping the toilets clean and dry.
-- Pupils should play an active part in the preservation and conservation of the environment.
+-  Students must treat school property with care. Pupils must not deface any wall or furniture; tamper with the fire alarm or the fire extinguishers; spit or litter.
+- Students should practice good toilet habits like flushing after use and keeping the toilets clean and dry.
+- Students should play an active part in the preservation and conservation of the environment.
 - Lost items should be reported to the teacher-in-charge immediately.
 - Items found should be returned to the General Office immediately.
-- Pupils must be truthful and have the courage to admit and learn from mistakes.
+- Students must be truthful and have the courage to admit and learn from mistakes.
 5.  Conduct and Behaviour 
-- All pupils must queue up for their food in an orderly manner.
+- All students must queue up for their food in an orderly manner.
 - All food and drinks are to be consumed in the canteen.
-- Pupils must return used crockery, cutlery, cups or bottles to the respective containers provided.
-- Pupils must throw litter into the bins provided.
-- Pupils are not to buy anything from the vendors once the end-of recess blinkers are switched on.
-- Pupils must assemble promptly as soon as the end-of recess blinkers are switched on.
+- Students must return used crockery, cutlery, cups or bottles to the respective containers provided.
+- Students must throw litter into the bins provided.
+- Students are not to buy anything from the vendors once the end-of recess blinkers are switched on.
+- Students must assemble promptly as soon as the end-of recess blinkers are switched on.
 6.  Personal Belongings
-- Pupils are responsible for their own belongings at all times.
-- Pupils should label their personal belongings (like water bottle, pencil case, shoes, wallets, bags, food containers, etc) with their names and classes.
-- Pupils are NOT to bring any items that would disrupt the learning process such as toys and games.
+- Students are responsible for their own belongings at all times.
+- Students should label their personal belongings (like water bottle, pencil case, shoes, wallets, bags, food containers, etc) with their names and classes.
+- Students are NOT to bring any items that would disrupt the learning process such as toys and games.
 - All hand-phones are to be switched off during school hours.
