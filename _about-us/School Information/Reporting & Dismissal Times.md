@@ -36,8 +36,8 @@ Dismissal is staggered to reduce intermingling between levels.
 
 1. Compulsory
 - National Anthem and Pledge
-- Pupils who are Singapore Citizens must sing the National Anthem and take the Pledge.
-- Pupils will take the National Pledge with the right fist placed over the heart.
+- Students who are Singapore Citizens must sing the National Anthem and take the Pledge.
+- Students will take the National Pledge with the right fist placed over the heart.
 - School Uniform
 <br>All pupils are to wear the prescribed school uniform/PE attire whenever they enter the school premises for all activities. No modification to the school uniform or PE attire is allowed.
 
