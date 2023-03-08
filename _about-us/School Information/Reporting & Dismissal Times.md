@@ -72,7 +72,7 @@ Dismissal is staggered to reduce intermingling between levels.
 - Lost items should be reported to the teacher-in-charge immediately.
 - Items found should be returned to the General Office immediately.
 - Pupils must be truthful and have the courage to admit and learn from mistakes.
-5.  Conduct and Behaviour – At the SpringHub
+5.  Conduct and Behaviour 
 - All pupils must queue up for their food in an orderly manner.
 - All food and drinks are to be consumed in the canteen.
 - Pupils must return used crockery, cutlery, cups or bottles to the respective containers provided.
