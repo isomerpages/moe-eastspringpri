@@ -13,10 +13,16 @@ Science Competitions Achievement
 
 **Raffles Science Olympiad (RSO) 2021:**
 
+Award - Certificate of participation
+
+**Singapore Youth Science Fair (SYSF) 2021: **
+
+Award - Accoomplishment
+Award - Commendation
 
 **Sony Creative Science Award (SCSA) 2021**
 
-
+Finalist (Junior Whizkid Category)
 
 Our Programmes
 --------------
