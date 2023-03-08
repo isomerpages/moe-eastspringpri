@@ -15,7 +15,7 @@ Science Competitions Achievement
 
 Award - Certificate of participation <br>
 
-**Singapore Youth Science Fair (SYSF) 2021: **
+**Singapore Youth Science Fair (SYSF) 2021:**
 
 Award - Accoomplishment <br>
 Award - Commendation</br>
