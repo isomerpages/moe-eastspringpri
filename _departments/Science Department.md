@@ -13,8 +13,6 @@ Science Competitions Achievement
 
 **Raffles Science Olympiad (RSO) 2021:**
 
-![](/images/science.png)
-![](/images/science2.png)
 
 **Sony Creative Science Award (SCSA) 2021**
 
