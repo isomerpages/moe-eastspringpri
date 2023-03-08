@@ -13,12 +13,12 @@ Science Competitions Achievement
 
 **Raffles Science Olympiad (RSO) 2021:**
 
-Award - Certificate of participation
+Award - Certificate of participation <br>
 
 **Singapore Youth Science Fair (SYSF) 2021: **
 
-Award - Accoomplishment
-Award - Commendation
+Award - Accoomplishment <br>
+Award - Commendation</br>
 
 **Sony Creative Science Award (SCSA) 2021**
 
