@@ -13,12 +13,16 @@ Science Competitions Achievement
 
 **Raffles Science Olympiad (RSO) 2021:**
 
-![](/images/science.png)
-![](/images/science2.png)
+Award - Certificate of participation
+
+**Singapore Youth Science Fair (SYSF) 2021:**
+
+Award - Accoomplishment <br>
+Award - Commendation</br>
 
 **Sony Creative Science Award (SCSA) 2021**
 
-1\. Vera Heng (1S1) – Finalist (Junior Whizkid Category)
+Finalist (Junior Whizkid Category)
 
 Our Programmes
 --------------
