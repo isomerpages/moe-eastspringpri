@@ -19,7 +19,7 @@ third_nav_title: Our People
 |Operations Support Officer|Mdm Kasmawati Bte Kawi||
 |Operations Support Officer|Mr Tan See Kwee||
 |Operations Support Officer|Mdm Ho Swee Hoon (Alice)||
-|Adjunct Operations Support Officer|Mdm Norsiah Bte Abdul Majid||
+|Operations Support Officer|Mdm Norsiah Bte Abdul Majid||
 |Adjunct ICT Associate|Mr Lai Wai Kien|[	lai_wai_kien@schools.gov.sg](mailto:lai_wai_kien@schools.gov.sg)
 
 #### Allied Educator
