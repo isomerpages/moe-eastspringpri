@@ -80,7 +80,7 @@ For other application cases, please approach the school staff for more informati
 Student Insurance Claim
 -----------------------
 
-Please click [here]([](files/files%2FDownloads/Product Fact Sheet Year 2023.pdf)) for more details.
+Please click [here](files/Downloads/Product Fact Sheet Year 2023.pdf) for more details.
 
 Bilingual Policy Forms
 ----------------------
