@@ -18,7 +18,7 @@ third_nav_title: Our People
 |Operations Support Officer|Mdm Lian Ai Leng (Irene)|[	lian_ai_leng_irene@schools.gov.sg](mailto:lian_ai_leng_irene@schools.gov.sg)
 |Operations Support Officer|Mdm Kasmawati Bte Kawi||
 |Operations Support Officer|Mr Tan See Kwee||
-|Adjunct Operations Support Officer|Mdm Ho Swee Hoon (Alice)||
+|Operations Support Officer|Mdm Ho Swee Hoon (Alice)||
 |Adjunct Operations Support Officer|Mdm Norsiah Bte Abdul Majid||
 |Adjunct ICT Associate|Mr Lai Wai Kien|[	lai_wai_kien@schools.gov.sg](mailto:lai_wai_kien@schools.gov.sg)
 
