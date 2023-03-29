@@ -81,6 +81,7 @@ Student Insurance Claim
 -----------------------
 
 Please click [here](/files/Product%20Fact%20Sheet%20Year%202023.pdf) for more details.
+Click [here](https://studentgpa.incomegroupins.com.sg/#/) to visit the website for more details.
 
 Bilingual Policy Forms
 ----------------------
