@@ -17,7 +17,7 @@ GIRO Application
 ----------------
 
 *   [Information Sheet on GIRO](/files/Information%20Sheet%20on%20GIRO.pdf)
-*   [User guide for GIRO application (POSB/DBS users)](/files/GIRO%20user%20guide%20-%20POSB%20%20DBS.pdf)
+*   [User guide for GIRO application (POSB/DBS users)](/files/files%2FDownloads)
 *   [User guide for GIRO application (OCBC users)](/files/GIRO%20user%20guide%20-%20OCBC.pdf)
 *   [GIRO Application Form](/files/GIRO%20application%20form.pdf)
 
