@@ -18,6 +18,7 @@ GIRO Application
 
 *   [Information Sheet on GIRO](/files/Information%20Sheet%20on%20GIRO.pdf)
 *   [User guide for eGIRO application ](files/1%20egiro_userguide.pdf)
+*   [Guide e-Giro application](files/1%20egiro_userguide.pdf)
 *   [User guide for GIRO application (OCBC users)](/files/GIRO%20user%20guide%20-%20OCBC.pdf)
 *   [GIRO Application Form](/files/giro_application_form_nov2022.pdf)
 
