@@ -8,7 +8,6 @@ third_nav_title: Our People
 
 | |  | |
 | -------- | -------- | -------- |
-| Administration Manager    | 	Mdm Fazidah Hani Binte Abdul Hadi     | [fazidah\_hani@schools.gov.sg](mailto:fazidah_hani@schools.gov.sg)     |
 |Administration Manager|Ms Ng Lay Tin|[ng_lay_tin@schools.gov.sg](mailto:ng_lay_tin@schools.gov.sg)
 |Operations Manager|Mr Quek Swee Heng|[quek_swee_heng@schools.gov.sg](mailto:quek_swee_heng@schools.gov.sg)
 |Administrative Executive|Ms Liew Dun Lin|[liew_dun_lin@schools.gov.sg](mailto:liew_dun_lin@schools.gov.sg)
