@@ -10,7 +10,14 @@ _**(NEU-PC Application) Scheme has ceased on 31 March 2023, please refer to the 
 
 GIRO Application
 ----------------
-![https://www.moe.gov.sg/financial-matters/fees/egiro](/images/Partner/giro%20qr%20code.png)
+
+
+|  | ![https://www.moe.gov.sg/financial-matters/fees/egiro](/images/Partner/giro%20qr%20code.png) |  |
+| -------- | -------- | -------- |
+|      |      |      |
+
+
+
 
 •	Apply for eGIRO [https://go.gov.sg/espsegiro](https://go.gov.sg/espsegiro) <br>
 •	[User guide for eGIRO application ](/files/1%20egiro_userguide.pdf) <br>
