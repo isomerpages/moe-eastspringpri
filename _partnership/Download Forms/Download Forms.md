@@ -13,6 +13,7 @@ _**Scheme has ceased on 31 March 2023, please refer to the new scheme, [Digital
 
 GIRO Application
 ----------------
+![](/images/Partner/giro%20qr%20code.png)
 
 *   [Information Sheet on GIRO](/files/Information%20Sheet%20on%20GIRO.pdf)
 *   [User guide for eGIRO application ](/files/1%20egiro_userguide.pdf)
