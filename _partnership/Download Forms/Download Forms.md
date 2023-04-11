@@ -7,11 +7,9 @@ third_nav_title: Download Forms
 Financial Assistance Scheme (FAS) & NEU-PC Application
 ------------------------------------------------------
 
-The Ministry of Education provides financial assistance to needy Singaporean students in Government and Government-Aided schools.
+_**Scheme has ceased on 31 March 2023, please refer to the new scheme, [DigitalAccess@Home](https://www.imda.gov.sg/dah).**_
 
-  
-
-Please click [here](/download-forms/financial-assistance) for more details.
+(Link : [https://www.imda.gov.sg/dah](https://www.imda.gov.sg/dah) )
 
 GIRO Application
 ----------------
