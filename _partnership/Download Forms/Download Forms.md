@@ -15,7 +15,7 @@ GIRO Application
 ----------------
 ![https://www.moe.gov.sg/financial-matters/fees/egiro](/images/Partner/giro%20qr%20code.png)
 
-•	Apply for eGIRO (https://go.gov.sg/espsegiro) <br>
+•	Apply for eGIRO [https://go.gov.sg/espsegiro](https://go.gov.sg/espsegiro) <br>
 •	[User guide for eGIRO application ](/files/1%20egiro_userguide.pdf) <br>
 •	[Hardcopy GIRO form (only if you are unable to apply eGIRO)](/files/giro_application_form_nov2022.pdf)
 
