@@ -4,9 +4,6 @@ permalink: /parents/Download-Forms/Download-Forms/
 description: ""
 third_nav_title: Download Forms
 ---
-Financial Assistance Scheme (FAS) &amp; NEU-PC Application
-------------------------------------------------------
-
 _**Scheme has ceased on 31 March 2023, please refer to the new scheme,&nbsp;[DigitalAccess@Home](https://www.imda.gov.sg/dah).**_
 
 (Link : [https://www.imda.gov.sg/dah](https://www.imda.gov.sg/dah) )
