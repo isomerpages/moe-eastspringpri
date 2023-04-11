@@ -4,13 +4,20 @@ permalink: /parents/Download-Forms/Download-Forms/
 description: ""
 third_nav_title: Download Forms
 ---
-_**Scheme has ceased on 31 March 2023, please refer to the new scheme,&nbsp;[DigitalAccess@Home](https://www.imda.gov.sg/dah).**_
+_**(NEU-PC Application) Scheme has ceased on 31 March 2023, please refer to the new scheme,&nbsp;[DigitalAccess@Home](https://www.imda.gov.sg/dah).**_
 
 (Link : [https://www.imda.gov.sg/dah](https://www.imda.gov.sg/dah) )
 
 GIRO Application
 ----------------
-![https://www.moe.gov.sg/financial-matters/fees/egiro](/images/Partner/giro%20qr%20code.png)
+
+
+|  ![https://www.moe.gov.sg/financial-matters/fees/egiro](/images/Partner/giro%20qr%20code.png)   | ![](/images/Partner/white%20jpeg.JPG) |  ![](/images/Partner/white%20jpeg.JPG)   |
+| -------- | -------- | -------- |
+|      |      |      |
+
+
+
 
 •	Apply for eGIRO [https://go.gov.sg/espsegiro](https://go.gov.sg/espsegiro) <br>
 •	[User guide for eGIRO application ](/files/1%20egiro_userguide.pdf) <br>
