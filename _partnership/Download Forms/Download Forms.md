@@ -14,7 +14,7 @@ GIRO Application
 
 |  ![https://www.moe.gov.sg/financial-matters/fees/egiro](/images/Partner/giro%20qr%20code.png)   | ![](/images/Partner/white%20jpeg.JPG) |  ![](/images/Partner/white%20jpeg.JPG)   |
 | -------- | -------- | -------- |
-
+|      |      |      |
 
 
 
