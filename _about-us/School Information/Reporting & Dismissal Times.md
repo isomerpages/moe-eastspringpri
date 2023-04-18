@@ -1,5 +1,5 @@
 ---
-title: Reporting & Dismissal Times
+title: Reporting &amp; Dismissal Times
 permalink: /about-us/School-Information/Reporting-and-Dismissal-Times/
 description: ""
 third_nav_title: School Information
@@ -10,7 +10,7 @@ third_nav_title: School Information
 | -------- | -------- |
 | Monday to Friday     | 7.30 a.m. to 1.30 p.m.     | 
 
-**Remedial & Supplementary**
+**Remedial &amp; Supplementary**
 
 | ||
 | -------- | -------- |
@@ -24,10 +24,10 @@ Classes are assigned a fixed recess period which is reflected in the class timet
 
 | Level | Recess | Snack Time |
 | -------- | -------- | -------- |
-| P1     | 10:30 - 11:00 a.m.     | 8.20 a.m.     |
-| P2     | 8.30 - 9.00 a.m.     | 11.20 a.m.     |
+| P1     | 8:30 - 9:00 a.m.     | 11.20 a.m.     |
+| P2     | 10.30 - 11.00 a.m.     | 8.20 a.m.     |
 | P3     | 9.00 - 9.30 a.m.     | 11.20 a.m.     |
-| P4     | 11.00 - 11.30 a.m.     | 12.20 p.m.     |
+| P4     | 9.30 - 10.00 a.m.     | 12.20 p.m.     |
 | P5     | 11.00 - 11.30 a.m.     | 8.20 a.m.     |
 | P6     | 10.00 - 10.30 a.m.     | 12.20 p.m.     |
 
@@ -37,9 +37,9 @@ Dismissal is staggered to reduce intermingling between levels.
 
 | Level | Dismissal|
 | -------- | -------- | 
-| P1 & P2     | 1.30 p.m.     | 
-|P3 & P4|1.35 p.m.
-|P5 & P6|1.40 p.m.
+| P1 &amp; P2     | 1.30 p.m.     | 
+|P3 &amp; P4|1.35 p.m.
+|P5 &amp; P6|1.40 p.m.
 
 ##### School Rules and Regulations
 
