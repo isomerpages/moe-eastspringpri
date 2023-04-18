@@ -79,7 +79,7 @@ table, th, td {
 	</tr>				
 </tbody></table>
 
-<b>Department</b>
+<b><u>Department</u></b>
 
 <table style="width:100%">
   <tbody><tr>
