@@ -243,5 +243,9 @@ table, th, td {
 	<td>Ms Ng Lay Tin</td>
 	<td>ng_lay_tin@schools.gov.sg</td>
 	</tr>
-
+<tr>
+	<td>Operations Manager</td>
+	<td>Mr Quek Swee Heng</td>
+	<td>quek_swee_heng@schools.gov.sg</td>
+	</tr>
 </tbody></table>
