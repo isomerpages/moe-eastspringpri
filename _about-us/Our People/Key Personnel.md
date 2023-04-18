@@ -127,3 +127,31 @@ table, th, td {
 		<td>ng_hui_peng@schools.gov.sg</td>
 	</tr>		
 </tbody></table>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th>Mother Tongue</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
+  </td></tr>
+<tr>
+	<td>Head of Department</td>
+	<td>Miss Teo Sok San Susan</td>
+	<td>teo_sok_san_susan@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Level Head - Chinese Language</td>
+			<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
+		<td>linda_tay_mei_hong@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Senior Teacher - Malay Language</td>
+			<td>Mdm Azah Bte Abdul Aziz</td>
+		<td>azah_abdul_aziz@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Senior Teacher - Chinese Language</td>
+			<td>Mdm Huang Lin Lin</td>
+		<td>huang_linlin@schools.gov.sg</td>
+	</tr>		
+</tbody></table>
