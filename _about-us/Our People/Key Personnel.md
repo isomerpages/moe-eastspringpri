@@ -36,7 +36,6 @@ table, th, td {
 	</tr>
 </tbody></table>
 
-<br>
 
 <table style="width:100%">
   <tbody><tr>
@@ -102,7 +101,7 @@ table, th, td {
 
 </tbody></table>
 
-<br>
+
 
 <table style="width:100%">
   <tbody><tr>
@@ -132,8 +131,6 @@ table, th, td {
 	</tr>		
 </tbody></table>
 
-<br>
-
 <table style="width:100%">
   <tbody><tr>
     <th style="width: 33%">Mother Tongue</th>
@@ -162,7 +159,7 @@ table, th, td {
 	</tr>		
 </tbody></table>
 
-<br>
+
 
 <table style="width:100%">
   <tbody><tr>
@@ -184,7 +181,7 @@ table, th, td {
 
 </tr></tbody></table>
 
-<br>
+
 
 <table style="width:100%">
   <tbody><tr>
@@ -214,7 +211,7 @@ table, th, td {
 	</tr>		
 </tbody></table>
 
-<br>
+
 
 <table style="width:100%">
   <tbody><tr>
@@ -230,7 +227,7 @@ table, th, td {
 
 </tbody></table>
 
-<br>
+
 
 <table style="width:100%">
   <tbody><tr>
@@ -246,7 +243,7 @@ table, th, td {
 
 </tbody></table>
 
-<br>
+
 
 <table style="width:100%">
   <tbody><tr>
