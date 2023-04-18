@@ -16,9 +16,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 34%">School Leaders</th>
-    <th style="width: 33%">Name</th>
-		<th style="width: 33%">Email Address</th>
+    <th style="width: 40%">School Leaders</th>
+    <th style="width: 25%">Name</th>
+		<th style="width: 35%">Email Address</th>
 		<td>
   </td></tr>
 <tr>
@@ -39,9 +39,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 34%">Student Development Team (SDT)</th>
-    <th style="width: 33%">Name</th>
-		<th style="width: 33%">Email Address</th><td>
+    <th style="width: 40%">Student Development Team (SDT)</th>
+    <th style="width: 25%">Name</th>
+		<th style="width: 35%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Year Head (Upper Primary)</td>
@@ -84,9 +84,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 34%">English</th>
-    <th style="width: 33%">Name</th>
-		<th style="width: 33%">Email Address</th><td>
+    <th style="width: 40%">English</th>
+    <th style="width: 25%">Name</th>
+		<th style="width: 35%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -105,9 +105,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 34%">Mathematics</th>
-    <th style="width: 33%">Name</th>
-		<th style="width: 33%">Email Address</th><td>
+    <th style="width: 40%">Mathematics</th>
+    <th style="width: 25%">Name</th>
+		<th style="width: 35%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -133,9 +133,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 34%">Mother Tongue</th>
-    <th style="width: 33%">Name</th>
-		<th style="width: 33%">Email Address</th><td>
+    <th style="width: 40%">Mother Tongue</th>
+    <th style="width: 25%">Name</th>
+		<th style="width: 35%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -163,9 +163,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 34%">Mother Tongue</th>
-    <th style="width: 33%">Name</th>
-		<th style="width: 33%">Email Address</th><td>
+    <th style="width: 40%">Mother Tongue</th>
+    <th style="width: 25%">Name</th>
+		<th style="width: 35%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -185,9 +185,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 34%">Physical Education, Art and Music</th>
-    <th style="width: 33%">Name</th>
-		<th style="width: 33%">Email Address</th><td>
+    <th style="width: 40%">Physical Education, Art and Music</th>
+    <th style="width: 25%">Name</th>
+		<th style="width: 35%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -215,9 +215,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 34%">CCE</th>
-    <th style="width: 33%">Name</th>
-		<th style="width: 33%">Email Address</th><td>
+    <th style="width: 40%">CCE</th>
+    <th style="width: 25%">Name</th>
+		<th style="width: 35%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -231,9 +231,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 34%">Information and Communicaton Technology (ICT)</th>
-    <th style="width: 33%">Name</th>
-		<th style="width: 33%">Email Address</th><td>
+    <th style="width: 40%">Information and Communicaton Technology (ICT)</th>
+    <th style="width: 25%">Name</th>
+		<th style="width: 35%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -247,9 +247,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 34%">Administration &amp; Operation</th>
-    <th style="width: 33%">Name</th>
-		<th style="width: 33%">Email Address</th><td>
+    <th style="width: 40%">Administration &amp; Operation</th>
+    <th style="width: 25%">Name</th>
+		<th style="width: 35%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Administration Manager</td>
