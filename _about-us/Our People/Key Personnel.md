@@ -8,7 +8,7 @@ third_nav_title: Our People
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-
+  column-width: 100px;
 
 }
 
@@ -17,9 +17,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">School Leaders</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th>
+    <th>School Leaders</th>
+    <th>Name</th>
+		<th>Email Address</th>
 		<td>
   </td></tr>
 <tr>
@@ -40,9 +40,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Student Development Team (SDT)</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th>Student Development Team (SDT)</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Year Head (Upper Primary)</td>
@@ -85,9 +85,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">English</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th>English</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -106,9 +106,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Mathematics</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th>Mathematics</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -134,9 +134,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Mother Tongue</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th>Mother Tongue</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -164,9 +164,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Mother Tongue</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th>Mother Tongue</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -186,9 +186,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Physical Education, Art and Music</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th>Physical Education, Art and Music</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -216,9 +216,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">CCE</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th>CCE</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -232,9 +232,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Information and Communicaton Technology (ICT)</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th>Information and Communicaton Technology (ICT)</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -248,9 +248,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Administration &amp; Operation</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th>Administration &amp; Operation</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Administration Manager</td>
