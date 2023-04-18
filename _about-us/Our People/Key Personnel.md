@@ -231,3 +231,17 @@ table, th, td {
 	</tr>
 
 </tbody></table>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th>Administration &amp; Operation</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
+  </td></tr>
+<tr>
+	<td>Administration Manager</td>
+	<td>Ms Ng Lay Tin</td>
+	<td>ng_lay_tin@schools.gov.sg</td>
+	</tr>
+
+</tbody></table>
