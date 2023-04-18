@@ -1,40 +1,129 @@
 ---
-title: EAS & Support Staff
+title: EAS &amp; Support Staff
 permalink: /about-us/Our-People/EAS-and-Support-Staff/
 description: ""
 third_nav_title: Our People
 ---
-#### Executive & Administrative Staff
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: lightgoldenrodyellow;
+}
 
-| |  | |
-| -------- | -------- | -------- |
-|Administration Manager|Ms Ng Lay Tin|[ng_lay_tin@schools.gov.sg](mailto:ng_lay_tin@schools.gov.sg)
-|Operations Manager|Mr Quek Swee Heng|[quek_swee_heng@schools.gov.sg](mailto:quek_swee_heng@schools.gov.sg)
-|Administrative Executive|Ms Liew Dun Lin|[liew_dun_lin@schools.gov.sg](mailto:liew_dun_lin@schools.gov.sg)
-|Administrative Executive|Ms Nur Faradilah Binte Padawi|[nur_faradilah_padawi@schools.gov.sg](mailto:nur_faradilah_padawi@schools.gov.sg)
-|Adjunct Corporate Support Officer|Miss Nurradiyah Binti Ramdan|[nurradiyah_ramdan@schools.gov.sg](mailto:nurradiyah_ramdan@schools.gov.sg)
-|Corporate Support Officer|Ms Florence Loh Boon Hoon|[florence_loh_boon_hoon@schools.gov.sg](mailto:florence_loh_boon_hoon@schools.gov.sg)
-|Operations Support Officer|Mdm Lian Ai Leng (Irene)|[	lian_ai_leng_irene@schools.gov.sg](mailto:lian_ai_leng_irene@schools.gov.sg)
-|Operations Support Officer|Mdm Kasmawati Bte Kawi||
-|Operations Support Officer|Mr Tan See Kwee||
-|Operations Support Officer|Mdm Ho Swee Hoon (Alice)||
-|Operations Support Officer|Mdm Norsiah Bte Abdul Majid||
-|Adjunct ICT Associate|Mr Lai Wai Kien|[	lai_wai_kien@schools.gov.sg](mailto:lai_wai_kien@schools.gov.sg)
+</style>
+<b><u>Executive &amp; Administrative Staff</u></b>
+<table style="width:100%">
+  <tbody>
+<tr>
+	<td>Administration Manager</td>
+	<td>Ms Ng Lay Tin</td>
+	<td>ng_lay_tin@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Operations Manager</td>
+	<td>Mr Quek Swee Heng</td>
+    <td>quek_swee_heng@schools.gov.sg</td>
+	</tr>
+<tr>
+	<td>Administrative Executive</td>
+	<td>Ms Liew Dun Lin</td>
+	<td>liew_dun_lin@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Administrative Executive</td>
+	<td>Ms Nur Faradilah Binte Padawi</td>
+    <td>nur_faradilah_padawi@schools.gov.sg</td>
+	</tr>
+<tr>
+	<td>Adjunct Corporate Support Officer</td>
+	<td>Miss Nurradiyah Binti Ramdan</td>
+	<td>nurradiyah_ramdan@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Corporate Support Officer</td>
+	<td>Ms Florence Loh Boon Hoon</td>
+    <td>florence_loh_boon_hoon@schools.gov.sg</td>
+	</tr>
+<tr>
+	<td>Operations Support Officer</td>
+	<td>Mdm Lian Ai Leng (Irene)</td>
+	<td>lian_ai_leng_irene@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Operations Support Officer</td>
+	<td>Mdm Kasmawati Bte Kawi</td>
+    <td></td>
+	</tr>
+<tr>
+	<td>Operations Support Officer</td>
+	<td>Mr Tan See Kwee</td>
+	<td></td>
+	</tr>
+	<tr>
+	<td>Operations Support Officer</td>
+	<td>Mdm Ho Swee Hoon (Alice)</td>
+    <td></td>
+	</tr>
+<tr>
+	<td>Operations Support Officer</td>
+	<td>Mdm Norsiah Bte Abdul Majid</td>
+	</tr>
+	<tr>
+	<td>Adjunct ICT Associate</td>
+	<td>Mr Lai Wai Kien</td>
+    <td>lai_wai_kien@schools.gov.sg</td>
+	</tr>
+</tbody></table>
+<br>
+<b><u>Allied Educator</u></b>
 
-#### Allied Educator
+<table style="width:100%">
+ 
+<tbody><tr>
+	<td>School Counsellor</td>
+	<td>Mdm Ng Poh Xian (Mrs Rachel Tan)</td>
+	<td>ng_poh_xian@schools.gov.sg</td>
+	</tr>
+<tr>
+	<td>Senior Special Educational Needs (SEN) officer</td>
+	<td>Mdm Liyana Binte Zainudin</td>
+	<td>liyana_zainudin@schools.gov.sg</td>
+	</tr>
+<tr>
+	<td>Special Educational Needs (SEN) officer</td>
+	<td>Mdm Zarina Binte Abu Bakar</td>
+	<td>zarina_abu_bakar_a@schools.gov.sg</td>
+	</tr>    
+<tr>
+	<td>Allied Educator (T&amp;L)</td>
+	<td>Mdm Aminah Bte Ahmat</td>
+	<td>aminah_ahmat@schools.gov.sg</td>
+	</tr>  
+</tbody></table>
+<br>
+<b><u>Support Staff</u></b>
+<table style="width:100%">
+	<tbody><tr>
+	<td>Desktop Engineer</td>
+	<td>Mr Medapati Sri Sudhakar Reddy</td>
+    <td></td>
+	</tr>
+	<tr>
+	<td>Desktop Engineer</td>
+	<td>Miss Teng Yi En</td>
+    <td></td>
+	</tr>
+	<tr>
+	<td>Dental Therapist</td>
+	<td>Mdm Sharon Pang</td>
+    <td></td>
+	</tr>
+	<tr>
+	<td>Librarian</td>
+	<td>Mdm Siti Norhazar Omar</td>
+    <td></td>
+	</tr>
 
-| |  | |
-| -------- | -------- | -------- |
-|School Counsellor|	Mdm Ng Poh Xian (Mrs Rachel Tan)|[	ng_poh_xian@schools.gov.sg](mailto:ng_poh_xian@schools.gov.sg)
-|Senior Special Educational Needs (SEN) officer|Mdm Liyana Binte Zainudin|[liyana_zainudin@schools.gov.sg](mailto:liyana_zainudin@schools.gov.sg)
-|Special Educational Needs (SEN) officer|Mdm Zarina Binte Abu Bakar|[zarina_abu_bakar_a@schools.gov.sg](mailto:zarina_abu_bakar_a@schools.gov.sg)
-|Allied Educator (T&L) |Mdm Aminah Bte Ahmat |[aminah_ahmat@schools.gov.sg](mailto:aminah_ahmat@schools.gov.sg)
 
-#### Support Staff
-
-| |  | |
-| -------- | -------- | 
-|Desktop Engineer|Mr Medapati Sri Sudhakar Reddy
-|Desktop Engineer|Miss Teng Yi En
-|Dental Therapist|Mdm Sharon Pang
-|Librarian|Mdm Siti Norhazar Omar
+</tbody></table>
