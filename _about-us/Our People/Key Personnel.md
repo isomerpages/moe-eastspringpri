@@ -8,18 +8,16 @@ third_nav_title: Our People
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-
-
+  background-color: lightgoldenrodyellow;
 }
-
 
 </style>
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">School Leaders</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th>
+    <th style="width: 30%">School Leaders</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th>
 		<td>
   </td></tr>
 <tr>
@@ -40,9 +38,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Student Development Team (SDT)</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th style="width: 30%">Student Development Team (SDT)</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Year Head (Upper Primary)</td>
@@ -85,9 +83,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">English</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th style="width: 30%">English</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -106,9 +104,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Mathematics</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th style="width: 30%">Mathematics</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -134,9 +132,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Mother Tongue</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th style="width: 30%">Mother Tongue</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -164,9 +162,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Mother Tongue</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th style="width: 30%">Mother Tongue</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -186,9 +184,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Physical Education, Art and Music</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th style="width: 30%">Physical Education, Art and Music</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -216,13 +214,13 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">CCE</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th style="width: 30%">CCE (Character and Citizenship Education)</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
-	<td>Mr Lukman Hakim</td>
+	<td>Mr Lukman Hakim Bin Mahmood</td>
 	<td>lukman_hakim_b_mahmood@schools.gov.sg</td>
 	</tr>
 
@@ -232,9 +230,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Information and Communicaton Technology (ICT)</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th style="width: 30%">Information and Communicaton Technology (ICT)</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
@@ -248,9 +246,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Administration &amp; Operation</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th style="width: 30%">Administration &amp; Operation</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Administration Manager</td>
