@@ -32,7 +32,7 @@ Parents / guardians who wish to apply for MOE FAS can obtain an application form
 
 Please click&nbsp;[here](https://www.moe.gov.sg/financial-matters/financial-assistance)&nbsp;for the details on Financial Assistance Scheme.
 
-[Download MOE FAS Application Form](/files/MOE%20FAS%20Application%20Form%2030%20Sep%202020%20final.pdf)
+[Download MOE FAS Application Form](/files/ggas_fas%20application%20form%20(oct%202022).pdf)
 
 **Income Family MicroInsurance Scheme (IFMIS) - A free insurance scheme to cover parent/guardian of MOE FAS recipients at primary level**
 
