@@ -24,7 +24,7 @@ table, th, td {
 <tr>
 	<td>Principal</td>
 	<td>Mr Wong Kin Mun</td>
-	<th rowspan="3">esps@moe.edu.sg</th>
+	<td rowspan="3">esps@moe.edu.sg</td>
 	</tr>
 	<tr>
 	<td>Vice-Principal (Acad)</td>
