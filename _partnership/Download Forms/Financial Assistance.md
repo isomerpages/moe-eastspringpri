@@ -13,7 +13,7 @@ _To qualify, with effect from 1 January 2023, the student must meet the followin
 
 | Gross Monthly Household Income | Per Capita Income |
 | -------- | -------- |
-| **$3,000 or below**    | $750 or below     |
+| **$3,000 or below**    | **$750 or below**     |
 
 
 
