@@ -36,6 +36,8 @@ table, th, td {
 	</tr>
 </tbody></table>
 
+<br>
+
 <table style="width:100%">
   <tbody><tr>
     <th>Student Development Team (SDT)</th>
@@ -128,6 +130,8 @@ table, th, td {
 	</tr>		
 </tbody></table>
 
+<br>
+
 <table style="width:100%">
   <tbody><tr>
     <th>Mother Tongue</th>
@@ -156,6 +160,8 @@ table, th, td {
 	</tr>		
 </tbody></table>
 
+<br>
+
 <table style="width:100%">
   <tbody><tr>
     <th>Mother Tongue</th>
@@ -175,6 +181,8 @@ table, th, td {
 	<tr>
 
 </tr></tbody></table>
+
+<br>
 
 <table style="width:100%">
   <tbody><tr>
@@ -204,6 +212,8 @@ table, th, td {
 	</tr>		
 </tbody></table>
 
+<br>
+
 <table style="width:100%">
   <tbody><tr>
     <th>CCE</th>
@@ -218,6 +228,8 @@ table, th, td {
 
 </tbody></table>
 
+<br>
+
 <table style="width:100%">
   <tbody><tr>
     <th>Information and Communicaton Technology (ICT)</th>
@@ -231,6 +243,8 @@ table, th, td {
 	</tr>
 
 </tbody></table>
+
+<br>
 
 <table style="width:100%">
   <tbody><tr>
