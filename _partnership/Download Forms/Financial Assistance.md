@@ -13,7 +13,7 @@ _To qualify, with effect from 1 January 2023, the student must meet the followin
 
 | Gross Monthly Household Income | Per Capita Income |
 | -------- | -------- |
-|<b> $3,000 or below    | <b>$750 or below     |
+| **$3,000 or below**    | $750 or below     |
 
 
 
@@ -56,4 +56,4 @@ To apply, please click on the links below.
 |2.|**Application Form for PC/Laptop &amp; Broadband Bundle**<br>(For students under School-Based Financial Assistance Scheme.)<br>This application is to be submitted to the School’s General Office by hand or via email:&nbsp;[esps@moe.edu.sg](mailto:esps@moe.edu.sg)|**PC/Laptop**<br>[NPP Application Form v12.4 9July21 for NON MOE-SPED FAS.pdf](/files/NPP%20Application%20Form%20v124%209July21%20for%20NON%20MOE-SPED%20FAS.pdf)|**Internet Broadband**<br>[NEU\_PC\_Plus\_IMDA FBB\_service\_application\_form9 Apr2020.pdf](/files/NEU_PC_Plus_IMDA%20FBB_service_application_form9%20Apr2020.pdf)
 |3.|**Application for Internet Broadband Only.**<br>(For students who already own a PC/Laptop)<br>This application is to be submitted online or by post to IMDA:&nbsp;[https://eservice.imda.gov.sg/das/homepage](https://eservice.imda.gov.sg/das/homepage)  <br>Singapore 911141|[HA 3.0 App Form v2.0 HOMES\_AutoInclude 5 Apr 21.pdf](/files/HA%2030%20App%20Form%20v20%20HOMES_AutoInclude%205%20Apr%2021.pdf)
 
-\*To find out more on the MOE Financial Assistance Scheme, please visit:&nbsp;[https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance).</b></b>
+\*To find out more on the MOE Financial Assistance Scheme, please visit:&nbsp;[https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance).
