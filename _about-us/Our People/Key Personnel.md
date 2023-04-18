@@ -8,7 +8,8 @@ third_nav_title: Our People
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  width: 0%;
+  column-width: 100px;
+
 }
 
 
