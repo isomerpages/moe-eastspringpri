@@ -30,4 +30,4 @@ School Website:[https://eastspringpri.moe.edu.sg]
 <br>
 **Enquiry / Feedback**
 
-Please mention your child's name and class in your message if your enquiry pertains to your child. Fill up the form&nbsp;[here](http://forms.cwp.sg/eastspringpri/Form32GO9).
+Please mention your child's name and class in your message if your enquiry pertains to your child. Kindly email us at [esps@moe.edu.sg](esps@moe.edu.sg)
