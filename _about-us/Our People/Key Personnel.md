@@ -121,8 +121,9 @@ table, th, td {
 			<td>Mdm Chan Pui Ping</td>
 		<td>chan_pui_ping@schools.gov.sg</td>
 	</tr>
-		
+	<tr>
+	<td>Senior Teacher</td>
+			<td>Miss Ng Hui Peng</td>
+		<td>ng_hui_peng@schools.gov.sg</td>
+	</tr>		
 </tbody></table>
-
-
-
