@@ -99,3 +99,30 @@ table, th, td {
 	</tr>
 
 </tbody></table>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th>Mathematics</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
+  </td></tr>
+<tr>
+	<td>Head of Department</td>
+	<td>Mdm Sandra Foo Wei Sze (Mrs Ong)</td>
+	<td>foo_wei_sze_sandra@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Level Head</td>
+			<td>Miss Sheramin Phua Su Hui</td>
+		<td>sheramin_phua_su_hui@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Level Teacher</td>
+			<td>Mdm Chan Pui Ping</td>
+		<td>chan_pui_ping@schools.gov.sg</td>
+	</tr>
+		
+</tbody></table>
+
+
+
