@@ -38,9 +38,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 40%">Student Development Team (SDT)</th>
-    <th style="width: 25%">Name</th>
-		<th style="width: 35%">Email Address</th><td>
+    <th style="width: 30%">Student Development Team (SDT)</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Year Head (Upper Primary)</td>
@@ -214,13 +214,13 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 30%">CCE</th>
+    <th style="width: 30%">CCE (Character and Citizenship Education)</th>
     <th style="width: 30%">Name</th>
 		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Head of Department</td>
-	<td>Mr Lukman Hakim</td>
+	<td>Mr Lukman Hakim Bin Mahmood</td>
 	<td>lukman_hakim_b_mahmood@schools.gov.sg</td>
 	</tr>
 
