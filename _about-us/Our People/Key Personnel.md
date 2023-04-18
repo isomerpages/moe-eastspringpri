@@ -155,3 +155,23 @@ table, th, td {
 		<td>huang_linlin@schools.gov.sg</td>
 	</tr>		
 </tbody></table>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th>Mother Tongue</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
+  </td></tr>
+<tr>
+	<td>Head of Department</td>
+	<td>Miss Lee Sook San</td>
+	<td>lee_sook_san@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Level Head</td>
+			<td>Mdm Seah Wei Shan</td>
+		<td>seah_wei_shan@schools.gov.sg</td>
+	</tr>
+	<tr>
+
+</tr></tbody></table>
