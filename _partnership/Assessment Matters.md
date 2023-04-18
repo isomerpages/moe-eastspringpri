@@ -11,20 +11,17 @@ Weighting of Assessment
 
 _Note:_
 
-_1._     _The above assessment structure is meant for English, Mathematics, Science and Mother Tongue Languages (CL, ML & TL)._
+_1._&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_The above assessment structure is meant for English, Mathematics, Science and Mother Tongue Languages (CL, ML &amp; TL)._
 
-_2._     _All Formative Assessments (FA) are not weighted._
+_2._&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_All Formative Assessments (FA) are&nbsp;not&nbsp;weighted._
 
-_3._     _Details for each weighted assessment has been sent via Parent Gateway (PG)_
+_3._&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Details for each weighted assessment has been sent via Parent Gateway (PG)_
 
-_4._     _Scope for EYE will be loaded up nearer the date._
+_4._&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Scope for EYE will be loaded up nearer the date._
 
 
 ---------------------------------
-_**2023 EOY EXAM**_
+### _**2023 EOY EXAM**_
 
 details will be updated at later date...
 
-_**2023 MID YEAR EXAM**_
-
-details will be updated at later date...
