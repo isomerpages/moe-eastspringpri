@@ -203,3 +203,17 @@ table, th, td {
 		<td>tock_swee_guan_william@schools.gov.sg</td>
 	</tr>		
 </tbody></table>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th>CCE</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
+  </td></tr>
+<tr>
+	<td>Head of Department</td>
+	<td>Mr Lukman Hakim</td>
+	<td>lukman_hakim_b_mahmood@schools.gov.sg</td>
+	</tr>
+
+</tbody></table>
