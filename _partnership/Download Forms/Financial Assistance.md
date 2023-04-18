@@ -8,7 +8,7 @@ third_nav_title: Download Forms
 
 The Ministry of Education provides financial assistance to needy Singaporean students in Government and Government-Aided schools.
 
-_To qualify, with effect from 1 April 2018, the student must meet the following income criteria:_
+_To qualify, with effect from 1 January 2023, the student must meet the following income criteria:_
 
 
 | Gross Monthly Household Income | Per Capita Income |
