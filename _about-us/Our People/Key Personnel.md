@@ -83,43 +83,19 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th>Student Development Team (SDT)</th>
+    <th>English</th>
     <th>Name</th>
 		<th>Email Address</th><td>
   </td></tr>
 <tr>
-	<td>Year Head (Upper Primary)</td>
-	<td>Mdm Norizan Bte Syed Ahamed</td>
-	<td>norizan_syed_ahamed@schools.gov.sg</td>
+	<td>Head of Department</td>
+	<td>Mdm Smita Quintal Kaur</td>
+	<td>smita_quintal_kaur@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Assistant Year Head (Upper Pri)</td>
-			<td>Mdm Tok Shi Shi (Mrs Choo)</td>
-		<td>tok_shi_shi@schools.gov.sg</td>
+	<td>Level Head</td>
+			<td>Mdm Koh Hui Ling Valerie</td>
+		<td>koh_hui_ling_valerie@schools.gov.sg</td>
 	</tr>
-	<tr>
-	<td>Year Head (Middle Primary)</td>
-			<td>Mr Loo Leong Tuan</td>
-		<td>loo_leong_tuan@schools.gov.sg</td>
-	</tr>
-			<tr>
-				<td>Assistant Year Head (Int) (Middle Pri)</td>
-			<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
-		<td>yeo_xueli_sally@schools.gov.sg</td>
-	</tr>
-					<tr>
-						<td>Assistant Year Head (Int) (Middle Pri)</td>
-			<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
-		<td>yeo_xueli_sally@schools.gov.sg</td>
-	</tr>
-					<tr>
-						<td>Year Head (Lower Primary)</td>
-			<td>Mdm Marhamah Binte Yusof</td>
-		<td>marhamah_yusof@schools.gov.sg</td>
-	</tr>
-					<tr>
-						<td>Assistant Year Head (Int) (Lower Pri)</td>
-			<td>Mdm Shakilah Binte Mohamed Ansari</td>
-		<td>shakilah_mohamed_ansari@schools.gov.sg</td>
-	</tr>				
+
 </tbody></table>
