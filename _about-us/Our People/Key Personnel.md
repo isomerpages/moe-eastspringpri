@@ -16,7 +16,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 33%">School Leaders</th>
+    <th style="width: 34%">School Leaders</th>
     <th style="width: 33%">Name</th>
 		<th style="width: 33%">Email Address</th>
 		<td>
@@ -39,7 +39,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 33%">Student Development Team (SDT)</th>
+    <th style="width: 34%">Student Development Team (SDT)</th>
     <th style="width: 33%">Name</th>
 		<th style="width: 33%">Email Address</th><td>
   </td></tr>
@@ -84,7 +84,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 33%">English</th>
+    <th style="width: 34%">English</th>
     <th style="width: 33%">Name</th>
 		<th style="width: 33%">Email Address</th><td>
   </td></tr>
@@ -105,7 +105,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 33%">Mathematics</th>
+    <th style="width: 34%">Mathematics</th>
     <th style="width: 33%">Name</th>
 		<th style="width: 33%">Email Address</th><td>
   </td></tr>
@@ -133,7 +133,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 33%">Mother Tongue</th>
+    <th style="width: 34%">Mother Tongue</th>
     <th style="width: 33%">Name</th>
 		<th style="width: 33%">Email Address</th><td>
   </td></tr>
@@ -163,7 +163,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 33%">Mother Tongue</th>
+    <th style="width: 34%">Mother Tongue</th>
     <th style="width: 33%">Name</th>
 		<th style="width: 33%">Email Address</th><td>
   </td></tr>
@@ -185,7 +185,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 33%">Physical Education, Art and Music</th>
+    <th style="width: 34%">Physical Education, Art and Music</th>
     <th style="width: 33%">Name</th>
 		<th style="width: 33%">Email Address</th><td>
   </td></tr>
@@ -215,7 +215,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 33%">CCE</th>
+    <th style="width: 34%">CCE</th>
     <th style="width: 33%">Name</th>
 		<th style="width: 33%">Email Address</th><td>
   </td></tr>
@@ -231,7 +231,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 33%">Information and Communicaton Technology (ICT)</th>
+    <th style="width: 34%">Information and Communicaton Technology (ICT)</th>
     <th style="width: 33%">Name</th>
 		<th style="width: 33%">Email Address</th><td>
   </td></tr>
@@ -247,7 +247,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 33%">Administration &amp; Operation</th>
+    <th style="width: 34%">Administration &amp; Operation</th>
     <th style="width: 33%">Name</th>
 		<th style="width: 33%">Email Address</th><td>
   </td></tr>
