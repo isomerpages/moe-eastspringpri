@@ -53,8 +53,14 @@ table, th, td {
 			<td>Mr Loo Leong Tuan</td>
 		<td>loo_leong_tuan@schools.gov.sg</td>
 	</tr>
-			<tr><td>Year Head (Middle Primary)</td>
-			<td>Mr Loo Leong Tuan</td>
-		<td>loo_leong_tuan@schools.gov.sg</td>
+			<tr>
+				<td>Assistant Year Head (Int) (Middle Pri)</td>
+			<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
+		<td>yeo_xueli_sally@schools.gov.sg</td>
+	</tr>
+					<tr>
+						<td>Assistant Year Head (Int) (Middle Pri)</td>
+			<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
+		<td>yeo_xueli_sally@schools.gov.sg</td>
 	</tr>
 </tbody></table>
