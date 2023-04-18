@@ -16,12 +16,12 @@ table, th, td {
 <table style="width:100%">
   <tbody>
 <tr>
-	<td>Year Head (Lower Primary)</td>
+	<td><b>Year Head (Lower Primary)</b></td>
 	<td>Mdm Marhamah Binte Yusof</td>
 	<td>marhamah_yusof@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Assistant Year Head (Int)</td>
+	<td><b>Assistant Year Head (Int)</b></td>
 	<td>Mdm Shakilah Binte Mohamed Ansari</td>
     <td>shakilah_mohamed_ansari@schools.gov.sg</td>
 	</tr>
@@ -184,12 +184,12 @@ table, th, td {
 <table style="width:100%">
   <tbody>
 <tr>
-	<td>Year Head (Middle Primary)</td>
+	<td><b>Year Head (Middle Primary)</b></td>
 	<td>Mr Loo Leong Tuan</td>
 	<td>loo_leong_tuan@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Assistant Year Head (Int)</td>
+	<td><b>Assistant Year Head (Int)</b></td>
 	<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
     <td>yeo_xueli_sally@schools.gov.sg</td>
 	</tr>
@@ -336,12 +336,12 @@ table, th, td {
 <table style="width:100%">
   <tbody>
 <tr>
-	<td>Year Head (Upper Primary)</td>
+	<td><b>Year Head (Upper Primary)</b></td>
 	<td>Mdm Norizan Bte Syed Ahamed</td>
 	<td>norizan_syed_ahamed@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Assistant Year Head</td>
+	<td><b>Assistant Year Head</b></td>
 	<td>Mdm Tok Shi Shi Shirlyn (Mrs Choo)</td>
     <td>tok_shi_shi@schools.gov.sg</td>
 	</tr>
