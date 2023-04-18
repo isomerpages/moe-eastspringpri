@@ -175,3 +175,31 @@ table, th, td {
 	<tr>
 
 </tr></tbody></table>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th>Physical Education, Art and Music</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
+  </td></tr>
+<tr>
+	<td>Head of Department</td>
+	<td>Mr Bryan Chao Wei Nien</td>
+	<td>chao_wei_nien@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Subject Head&nbsp;(PE/CCA)</td>
+			<td>Mr Choo Yew Teck</td>
+		<td>choo_yew_teck@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Subject Head&nbsp; (Aesthetics)</td>
+			<td>Mdm Syaza Bte Mohd Sallehuddin</td>
+		<td>syaza_mohd_sallehuddin@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Senior Teacher - Art</td>
+			<td>Mr Tock Swee Guan William</td>
+		<td>tock_swee_guan_william@schools.gov.sg</td>
+	</tr>		
+</tbody></table>
