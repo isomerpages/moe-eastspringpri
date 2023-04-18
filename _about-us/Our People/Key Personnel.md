@@ -217,3 +217,17 @@ table, th, td {
 	</tr>
 
 </tbody></table>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th>Information and Communicaton Technology (ICT)</th>
+    <th>Name</th>
+		<th>Email Address</th><td>
+  </td></tr>
+<tr>
+	<td>Head of Department</td>
+	<td>Miss Lee Yen Lin Jenny</td>
+	<td>lee_yen_lin_jenny@schools.gov.sg</td>
+	</tr>
+
+</tbody></table>
