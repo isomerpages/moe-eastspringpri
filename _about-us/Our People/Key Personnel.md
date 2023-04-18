@@ -41,14 +41,20 @@ table, th, td {
 <tr>
 	<td>Year Head (Upper Primary)</td>
 	<td>Mdm Norizan Bte Syed Ahamed</td>
-	<th rowspan="3">norizan_syed_ahamed@schools.gov.sg</th>
+	<td>norizan_syed_ahamed@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Vice-Principal (Acad)</td>
-			<td>Ms Jes Neo Aik Seo</td>
+	<td>Assistant Year Head (Upper Pri)</td>
+			<td>Mdm Tok Shi Shi (Mrs Choo)</td>
+		<td>tok_shi_shi@schools.gov.sg</td>
 	</tr>
-		<tr>
-	<td>Vice-Principal (Admin)</td>
-				<td>Ms Jasmine Ng</td>
+	<tr>
+	<td>Year Head (Middle Primary)</td>
+			<td>Mr Loo Leong Tuan</td>
+		<td>loo_leong_tuan@schools.gov.sg</td>
+	</tr>
+			<tr><td>Year Head (Middle Primary)</td>
+			<td>Mr Loo Leong Tuan</td>
+		<td>loo_leong_tuan@schools.gov.sg</td>
 	</tr>
 </tbody></table>
