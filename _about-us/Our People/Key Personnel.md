@@ -63,4 +63,14 @@ table, th, td {
 			<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
 		<td>yeo_xueli_sally@schools.gov.sg</td>
 	</tr>
+					<tr>
+						<td>Year Head (Lower Primary)</td>
+			<td>Mdm Marhamah Binte Yusof</td>
+		<td>marhamah_yusof@schools.gov.sg</td>
+	</tr>
+					<tr>
+						<td>Assistant Year Head (Int) (Lower Pri)</td>
+			<td>Mdm Shakilah Binte Mohamed Ansari</td>
+		<td>shakilah_mohamed_ansari@schools.gov.sg</td>
+	</tr>				
 </tbody></table>
