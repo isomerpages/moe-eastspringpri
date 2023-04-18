@@ -8,14 +8,18 @@ third_nav_title: Our People
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+  width: 0%;
 }
+
+
 </style>
 
 <table style="width:100%">
   <tbody><tr>
     <th>School Leaders</th>
-    <td>Name</td>
-		<td>Email Address</td><td>
+    <th>Name</th>
+		<th>Email Address</th>
+		<td>
   </td></tr>
 <tr>
 	<td>Principal</td>
@@ -35,8 +39,8 @@ table, th, td {
 <table style="width:100%">
   <tbody><tr>
     <th>Student Development Team (SDT)</th>
-    <td>Name</td>
-		<td>Email Address</td><td>
+    <th>Name</th>
+		<th>Email Address</th><td>
   </td></tr>
 <tr>
 	<td>Year Head (Upper Primary)</td>
