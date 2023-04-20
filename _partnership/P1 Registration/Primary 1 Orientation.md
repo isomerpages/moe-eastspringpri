@@ -21,4 +21,4 @@ Primary 1 Orientation Slides
 [2. Discipline Talk_P1 Orientation Final](/files/P1%20Registration/P1OrientationSlides/2%20Discipline%20Talk_P1%20Orientation%20Final.pdf) <br>
 [3. Year Head Talk_Transitioning to P1 Final](/files/P1%20Registration/P1OrientationSlides/3Year%20Head%20Talk_Transitioning%20to%20P1%20Final.pdf) <br>
 [4. P1 Orientation_Admin-Finance Final](/files/P1%20Registration/P1OrientationSlides/4P1%20Orientation_Admin-Finance%20Final.pdf) <br>
-[FAQ](/files/P1%20Registration/8%20MOE%20Financial%20Assistance%20Scheme%20(MOE%20FAS)_Application%20Form%202023.pdf)
+[FAQ](/files/P1%20Registration/FAQ.pdf)

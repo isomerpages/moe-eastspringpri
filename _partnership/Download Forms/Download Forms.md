@@ -92,4 +92,4 @@ Singapore’s bilingual policy requires all students in the local schools to off
 
   
 
-Please click&nbsp;[here](/download-forms/bilingual-policy-forms)&nbsp;for more details.
+Please click&nbsp;[here](/parents/download-forms/bilingual-policy-forms/)&nbsp;for more details.
