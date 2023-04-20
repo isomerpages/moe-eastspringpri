@@ -24,7 +24,7 @@ SingPass is available to all Singapore Citizens and Singapore Permanent Resident
 | ![](/images/Parents%20Gateway/Singpass.png)     | ![](/images/Parents%20Gateway/2FA.jpg)     | 
 
 ### **Step 2 – Download the Parents Gateway Mobile App**
-
+<br>
 1.&nbsp; Open the&nbsp;[Apple App Store](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8)&nbsp;or&nbsp;[Google Play Store](https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG)&nbsp;app on your mobile phone.
 
 2.&nbsp; Search for the ‘Parents Gateway’ mobile app
