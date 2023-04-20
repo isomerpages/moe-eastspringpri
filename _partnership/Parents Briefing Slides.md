@@ -9,7 +9,7 @@ description: ""
 [3. Mathematics](/files/Parents%20Briefing%20Slides/3Parents%20Briefing%20P1%202023_Mathematics.pdf)<br>
 [4. Mother Tongue Language](/files/Parents%20Briefing%20Slides/4Parents%20Briefing_Mother%20Tongue.pdf) <br>
 [5. Programme of Active Learning](/files/Parents%20Briefing%20Slides/5Parents%20Briefing%20for%20P1%20Parents%202023_PAM_PAL_ALP%20%20-%20%20Compatibility%20Mode.pdf)<br>
-[6. CCE](/files/6Parents%20Briefing%20for%20PAM_PAL.pdf) <br>
+[6. CCE](/files/Parents%20Briefing%20Slides/6Parents%20Briefing%20for%20PAM_PAL.pdf) <br>
 [7. Non-MTL students (CL)](/files/Parents%20Briefing%20Slides/7Parents%20Briefing_non%20Chinese.pdf) <br>
 [8. Year Head Sharing](/files/Parents%20Briefing%20Slides/8Year%20Head%20Sharing.pdf)<br>
 
