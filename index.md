@@ -28,4 +28,5 @@ sections:
       title: East Spring Primary Instagram Channel
       button: Click here to view
       url: https://www.instagram.com/eastspringpri/
+      image: /images/Home/espsinsta.png
 ---
