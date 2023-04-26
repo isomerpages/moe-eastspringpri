@@ -24,4 +24,8 @@ sections:
       url: https://staging.d2u1zetbqqqiby.amplifyapp.com/parents/parents-briefing-slides/
       alt: Image alt text
       image: /images/Parents Briefing/Parents Briefing P1 NEW.jpeg
+  - infopic:
+      title: East Spring Primary Instagram Channel
+      button: Click here to view
+      url: https://www.instagram.com/eastspringpri/
 ---
