@@ -29,4 +29,5 @@ sections:
       button: Click here to view
       url: https://www.instagram.com/eastspringpri/
       image: /images/Home/espsinsta.png
+      alt: Image alt text
 ---
