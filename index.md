@@ -28,6 +28,6 @@ sections:
       title: East Spring Primary Instagram Channel
       button: Click here to Join Us
       url: https://www.instagram.com/eastspringpri/
-      image: /images/Home/espsinsta.png
+      image: /images/Home/espsinsta1.png
       alt: Image alt text
 ---
