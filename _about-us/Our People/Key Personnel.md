@@ -142,7 +142,7 @@ table, th, td {
 	<td>teo_sok_san_susan@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Level Head - Chinese Language</td>
+	<td>Lead Head - Chinese Language</td>
 			<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
 		<td>linda_tay_mei_hong@schools.gov.sg</td>
 	</tr>
@@ -162,7 +162,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 30%">Mother Tongue</th>
+    <th style="width: 30%">Science</th>
     <th style="width: 30%">Name</th>
 		<th style="width: 40%">Email Address</th><td>
   </td></tr>
