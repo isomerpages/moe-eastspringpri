@@ -153,7 +153,7 @@ table, th, td {
 	<td>hairina_hamzah@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Ms Audrey Yao Ting Ting</td>
+	<td>Ms Audrey Yow Ting Ting</td>
 	<td>yow_ting_ting@schools.gov.sg</td>
 
 </tr>
@@ -226,7 +226,7 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">3R3</td>
-	<td>Mdm Tan Kai Wen, Charmaine</td>
+	<td>Mdm Tan Kai Wei, Charmaine</td>
 	<td>tan_kai_wei_charmaine@schools.gov.sg</td>
 	</tr>
 	<tr>
