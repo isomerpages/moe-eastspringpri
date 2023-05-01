@@ -153,7 +153,7 @@ table, th, td {
 	<td>hairina_hamzah@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Ms Audrey Yao Ting Ting</td>
+	<td>Ms Audrey Yow Ting Ting</td>
 	<td>yow_ting_ting@schools.gov.sg</td>
 
 </tr>
