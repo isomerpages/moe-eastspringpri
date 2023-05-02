@@ -119,7 +119,7 @@ table, th, td {
 		<td>sheramin_phua_su_hui@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Level Teacher</td>
+	<td>Lead Teacher</td>
 			<td>Mdm Chan Pui Ping</td>
 		<td>chan_pui_ping@schools.gov.sg</td>
 	</tr>
@@ -142,7 +142,7 @@ table, th, td {
 	<td>teo_sok_san_susan@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Lead Head - Chinese Language</td>
+	<td>Level Head - Chinese Language</td>
 			<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
 		<td>linda_tay_mei_hong@schools.gov.sg</td>
 	</tr>
