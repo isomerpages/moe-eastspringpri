@@ -1,6 +1,6 @@
 ---
 title: Booklist 2023
-permalink: /Booklist-2023/
+permalink: /booklist2023/
 description: ""
 ---
 [**2023 P1 Booklist**](/files/ESPS%20P1%20Booklist%202023.pdf)
