@@ -17,6 +17,9 @@ sections:
         - title: Calendar
           description: ""
           url: /school-calendar/
+        - title: Alumni
+          description: ""
+          url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
   - infopic:
       title: Parents' Briefing Slides
