@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue Language Dept/Chinese Language.md
-      - Mother Tongue Language Dept/Mother Tongue Language Department.md
       - Mother Tongue Language Dept/.keep
+      - Mother Tongue Language Dept/Mother Tongue Language Department.md
+      - Mother Tongue Language Dept/Chinese Language.md
       - English Language Department/.keep
       - English Language Department/English Language Department.md
       - English Language Department/Strategies.md
