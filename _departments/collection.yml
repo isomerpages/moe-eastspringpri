@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue Language Dept/Mother Tongue Language Department.md
       - Mother Tongue Language Dept/.keep
       - English Language Department/.keep
       - English Language Department/English Language Department.md
