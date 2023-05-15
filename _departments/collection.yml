@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue Language Department.md
       - English Language Department/.keep
       - English Language Department/English Language Department.md
       - English Language Department/Strategies.md
@@ -13,3 +12,4 @@ collections:
       - Character & Citizenship Education (CCE).md
       - Student Management.md
       - Information & Communication Technology (ICT).md
+      - Mother Tongue Language Department.md
