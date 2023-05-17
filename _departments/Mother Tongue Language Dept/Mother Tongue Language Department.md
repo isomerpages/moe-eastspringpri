@@ -2,6 +2,7 @@
 title: Mother Tongue Language Department
 permalink: /departments/Mother-Tongue-Language-Department/
 description: ""
+third_nav_title: Mother Tongue Language Dept
 ---
 | ||
 | -------- | -------- | 
@@ -25,7 +26,7 @@ Designated cultural learning themes at respective level:
 *   Martial Art
 *   Musical Instruments
 *   Dramatisation
-*   Art & Craft
+*   Art &amp; Craft
 *   Custom and Practices
 
   
