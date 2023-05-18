@@ -32,9 +32,9 @@ Sincerely<br>
 Mr. Wong Kin Mun<br>
 Principal</td>
 </tr>
-
-
-</tbody></table><table style="width:100%">
+</tbody></table>
+<br>
+<table style="width:100%">
   <tbody>
 <tr>
 <td> 
