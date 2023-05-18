@@ -30,7 +30,8 @@ East Spring is dynamic learning community and we look forward to your participat
 
 Sincerely<br>
 Mr. Wong Kin Mun<br>
-Principal</td>
+Principal
+</td>
 </tr>
 </tbody></table>
 <br>
