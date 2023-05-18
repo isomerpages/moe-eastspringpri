@@ -27,6 +27,7 @@ With the introduction of ‘SHINE &amp; SPARKLE’ in ESPS, we hope to empower o
 
 East Spring is dynamic learning community and we look forward to your participation and partnership in flourishing our E’Lights. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+		<br>
 Sincerely<br>
 Mr. Wong Kin Mun<br>
 Principal</td>
