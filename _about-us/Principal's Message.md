@@ -13,7 +13,7 @@ table, th, td {
 
 </style>
 
-<br><table style="width:100%">
+<table style="width:100%">
   <tbody>
 <tr>
 <td> 
