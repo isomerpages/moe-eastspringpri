@@ -56,9 +56,9 @@ Principal<br>
 Mr Wong Kin Mun<br>
 <br>
 B.SC (Physics), PGDE, M.A (Instructional Design &amp; Technology)
-
+<br>
 Mr Wong Kin Mun joined East Spring Primary on 15 Dec 2017
-
+<br>
 He began his journey in Education in 1999 when he joined Yusof Ishak Secondary School as a Physics and English teacher.&nbsp; He later became the Head of Department for Information and Communication Technology (ICT) in the same school in 2001.&nbsp; Concurrently, he pursued his MA in Instructional Design and Technology to better support his role. In 2007, he joined the Educational Technology Division in MOE HQ and he was involved in standardizing the E-learning systems and the training of ICT Mentors.
 
 In 2011, he was appointed Vice-Principal of Nan Chiau Primary School which is a Future School where he assisted in the development and research of pedagogies supporting 1 to 1 device in the classroom. In 2015, he was appointed Vice-Principal of Fernvale Primary School where he supported the school in the partnership with the satellite partnership programme with MINDS School (Fernvale).
