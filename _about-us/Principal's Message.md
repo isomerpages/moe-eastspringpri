@@ -10,15 +10,47 @@ table, th, td {
   background-color: lightgoldenrodyellow;
 	text-align: justify;
 }
+.container {
+  position: relative;
+  width: 40%;
+}
 
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  color: black;
+  font-size: 16px;
+  padding: 3px 8px;
+}
 </style>
-
-
-|  | ![](/images/p_mr_wong_kin_mun.jpg)|  |
-| -------- | -------- | -------- |
-
-
-
+<div class="container">
+<img style="width:100%" class="image" alt="Avatar" src="/images/p_mr_wong_kin_mun.jpg">
+</div>
 
 <table style="width:100%">
   <tbody>
