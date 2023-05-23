@@ -13,6 +13,13 @@ table, th, td {
 
 </style>
 
+
+|  | ![](/images/p_mr_wong_kin_mun.jpg)|  |
+| -------- | -------- | -------- |
+
+
+
+
 <table style="width:100%">
   <tbody>
 <tr>
