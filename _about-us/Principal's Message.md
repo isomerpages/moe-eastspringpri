@@ -29,14 +29,14 @@ hr.dashed {
 }
 
 </style>
-<div class="container">
-<img style="width:100%" class="image" alt="Avatar" src="/images/p_mr%20wong%20kin%20mun.jpg">
-</div>
+
 
 <table style="width:100%">
   <tbody>
 <tr>
-<td> 
+<td> <div class="container">
+<img style="width:100%" class="image" alt="Avatar" src="/images/p_mr%20wong%20kin%20mun.jpg">
+</div>
 In East Spring Primary, we believe in providing a Positive and Caring environment to develop every E’Light into Lifelong Learners and Gracious Individuals. The focus of our ESPS curriculum is to provide a balanced emphasis on the cognitive academic pursuit and the development of 21st Century Competencies.&nbsp;
 
 The school’s programs are geared to develop E’Lights with knowledge, skills and dispositions that will equip them for current and future learning. Some of our signature programmes includes our Applied Learning Programme (ALP) which develops problem solving skills through Design Thinking and Coding Skills across their 6 years in ESPS. Other than the ALP, we also have our Lifelong Learning Programme which focus on the development of Social Emotional Skills through our Outdoor Education Syllabus in the middle and upper primary.
