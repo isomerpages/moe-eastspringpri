@@ -51,7 +51,7 @@ East Spring is dynamic learning community and we look forward to your participat
 Sincerely<br>
 Mr. Wong Kin Mun<br>
 Principal<br>
-	<hr class="dashed">
+<hr class="dashed">
 <br>	About the Principal<br>
 Mr Wong Kin Mun<br>
 B.SC (Physics), PGDE, M.A (Instructional Design &amp; Technology)
