@@ -47,9 +47,10 @@ table, th, td {
   font-size: 16px;
   padding: 3px 8px;
 }
+
 </style>
 <div class="container">
-<img style="width:100%" class="image" alt="Avatar" src="/images/p_mr_wong_kin_mun.jpg">
+<img style="width:100%" class="image" alt="Avatar" src="/images/p_mr%20wong%20kin%20mun.jpg">
 </div>
 
 <table style="width:100%">
