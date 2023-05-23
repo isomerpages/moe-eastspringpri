@@ -19,6 +19,8 @@ img {
   border-radius: 4px;
   padding: 5px;
   width: 150px;
+	  background-repeat: no-repeat;
+  background-size: 200px 50px;
 }
 
 img:hover {
