@@ -59,10 +59,9 @@ Mr. Wong Kin Mun<br>
 
 <br><b>About the Principal</b><br>
 Mr Wong Kin Mun<br>
-<br>
-	<br>
+
 <p style="color:blue">	<b><i>B.SC (Physics), PGDE, M.A (Instructional Design &amp; Technology)</i></b></p>
-<br><br>
+<br>
 Mr Wong Kin Mun joined East Spring Primary on 15 Dec 2017
 <br><br>
 He began his journey in Education in 1999 when he joined Yusof Ishak Secondary School as a Physics and English teacher.&nbsp; He later became the Head of Department for Information and Communication Technology (ICT) in the same school in 2001.&nbsp; Concurrently, he pursued his MA in Instructional Design and Technology to better support his role. In 2007, he joined the Educational Technology Division in MOE HQ and he was involved in standardizing the E-learning systems and the training of ICT Mentors.
