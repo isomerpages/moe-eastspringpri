@@ -29,7 +29,7 @@ img:hover {
 <div class="container">
 <img style="width:100%" class="image" alt="Avatar" src="/images/p_mr%20wong%20kin%20mun.jpg">
 </div>
-<br>
+
 <table style="width:100%">
   <tbody>
 <tr>
