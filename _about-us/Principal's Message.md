@@ -27,7 +27,6 @@ img:hover {
 hr.dashed {
   border-top: 3px dashed #bbb;
 }
-
 </style>
 
 
