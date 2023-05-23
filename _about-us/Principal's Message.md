@@ -24,8 +24,9 @@ img {
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
-hr.dashed {
-  border-top: 3px dashed #bbb;
+/* Solid border */
+hr.solid {
+  border-top: 3px solid #bbb;
 }
 </style>
 
@@ -50,7 +51,7 @@ East Spring is dynamic learning community and we look forward to your participat
 Sincerely<br>
 Mr. Wong Kin Mun<br>
 Principal<br>
-<hr class="dashed">
+<hr class="solid">
 <br>	About the Principal<br>
 Mr Wong Kin Mun<br>
 B.SC (Physics), PGDE, M.A (Instructional Design &amp; Technology)
