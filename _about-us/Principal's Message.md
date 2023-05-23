@@ -53,7 +53,7 @@ East Spring is dynamic learning community and we look forward to your participat
 <b>Sincerely<br>
 Mr. Wong Kin Mun<br>
 	Principal</b><br><br>
-![](/images/positive%20environment.jpeg)
+<img src="/images/positive%20environment.jpeg">
 	<br>
 <br>
 
