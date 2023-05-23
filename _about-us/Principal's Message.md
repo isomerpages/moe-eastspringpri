@@ -11,7 +11,7 @@ table, th, td {
 	text-align: justify;
 }
 .container {
-  position: relative;
+  position: center;
   width: 40%;
 }
 img {
