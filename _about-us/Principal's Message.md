@@ -54,6 +54,7 @@ Principal<br>
 <hr class="solid">
 <br>	About the Principal<br>
 Mr Wong Kin Mun<br>
+<br>
 B.SC (Physics), PGDE, M.A (Instructional Design &amp; Technology)
 
 Mr Wong Kin Mun joined East Spring Primary on 15 Dec 2017
