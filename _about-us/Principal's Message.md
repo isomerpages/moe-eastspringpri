@@ -52,7 +52,7 @@ Sincerely<br>
 Mr. Wong Kin Mun<br>
 Principal<br>
 <hr class="solid">
-<br>	About the Principal<br>
+	<br><b>	About the Principal</b><br>
 Mr Wong Kin Mun<br>
 <br>
 B.SC (Physics), PGDE, M.A (Instructional Design &amp; Technology)
