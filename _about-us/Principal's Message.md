@@ -11,7 +11,7 @@ table, th, td {
 	text-align: justify;
 }
 .container {
-  position: center;
+  position: left;
   width: 40%;
 }
 img {
@@ -22,7 +22,9 @@ img {
 	  background-repeat: no-repeat;
   background-size: 200px 50px;
 }
-
+img {
+  float: left;
+}
 
 /* Solid border */
 hr.solid {
