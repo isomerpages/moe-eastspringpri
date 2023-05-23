@@ -35,7 +35,7 @@ hr.solid {
   <tbody>
 <tr>
 <td> <div class="container">
-<img style="width:100%" class="image" alt="Avatar" src="/images/p_mr%20wong%20kin%20mun.jpg">
+<img style="width:100%" class="image" alt="Avatar" src="/images/mr%20wong%20garden.jpg">
 </div>
 In East Spring Primary, we believe in providing a Positive and Caring environment to develop every E’Light into Lifelong Learners and Gracious Individuals. The focus of our ESPS curriculum is to provide a balanced emphasis on the cognitive academic pursuit and the development of 21st Century Competencies.&nbsp;
 
