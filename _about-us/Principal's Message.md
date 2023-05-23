@@ -48,14 +48,14 @@ With the introduction of ‘SHINE &amp; SPARKLE’ in ESPS, we hope to empower o
 East Spring is dynamic learning community and we look forward to your participation and partnership in flourishing our E’Lights. 
 <br><br>
 
-Sincerely<br>
+<b>Sincerely<br>
 Mr. Wong Kin Mun<br>
-Principal<br>
+	Principal</b><br>
 <hr class="solid">
-	<br><b>	About the Principal</b><br>
+	<br><b>About the Principal</b><br>
 Mr Wong Kin Mun<br>
 <br>
-B.SC (Physics), PGDE, M.A (Instructional Design &amp; Technology)
+	<b><i>B.SC (Physics), PGDE, M.A (Instructional Design &amp; Technology)</i></b>
 <br><br>
 Mr Wong Kin Mun joined East Spring Primary on 15 Dec 2017
 <br><br>
