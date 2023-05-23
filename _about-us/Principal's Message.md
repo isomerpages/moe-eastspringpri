@@ -23,9 +23,7 @@ img {
   background-size: 200px 50px;
 }
 
-img:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-}
+
 /* Solid border */
 hr.solid {
   border-top: 3px solid #bbb;
