@@ -24,6 +24,9 @@ img {
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
+hr.dashed {
+  border-top: 3px dashed #bbb;
+}
 
 </style>
 <div class="container">
@@ -47,16 +50,9 @@ East Spring is dynamic learning community and we look forward to your participat
 
 Sincerely<br>
 Mr. Wong Kin Mun<br>
-Principal
-</td>
-</tr>
-</tbody></table>
-<br>
-<table style="width:100%">
-  <tbody>
-<tr>
-<td> 
-About the Principal<br>
+Principal<br>
+	<hr class="dashed">
+	About the Principal<br>
 Mr Wong Kin Mun<br>
 B.SC (Physics), PGDE, M.A (Instructional Design &amp; Technology)
 
@@ -66,4 +62,5 @@ He began his journey in Education in 1999 when he joined Yusof Ishak Secondary S
 
 In 2011, he was appointed Vice-Principal of Nan Chiau Primary School which is a Future School where he assisted in the development and research of pedagogies supporting 1 to 1 device in the classroom. In 2015, he was appointed Vice-Principal of Fernvale Primary School where he supported the school in the partnership with the satellite partnership programme with MINDS School (Fernvale).
 </td>
-</tr></tbody></table>
+</tr>
+</tbody></table>
