@@ -13,9 +13,7 @@ table, th, td {
 }
 	</style>
 
+
 To find out more information on P1 registration matters, please click the link to MOE website here
-		<table style="width:100%">
-  <tbody>
-<tr></tr>
-	</tbody>
-	</table>
+	
+	
