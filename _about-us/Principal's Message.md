@@ -30,6 +30,7 @@ img {
 hr.solid {
   border-top: 3px solid #bbb;
 }
+	
 </style>
 
 
@@ -53,11 +54,19 @@ East Spring is dynamic learning community and we look forward to your participat
 <b>Sincerely<br>
 Mr. Wong Kin Mun<br>
 	Principal</b><br><br>
+	
 <img src="/images/positive%20environment.jpeg">
-	<br>
-<br>
+	</td>
+</tr>
+</tbody></table>
 
-<br><b>About the Principal</b><br>
+
+<table style="width:100%">
+  <tbody>
+<tr>
+<td> <div class="container"></div>
+<br>
+	<b>About the Principal</b><br>
 Mr Wong Kin Mun<br>
 
 <p style="color:blue">	<b><i>B.SC (Physics), PGDE, M.A (Instructional Design &amp; Technology)</i></b></p>
