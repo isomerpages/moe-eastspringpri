@@ -240,22 +240,12 @@ table, th, td {
 	<td>leong_fong_lai_pauline@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Nur Fa’izah Binte Ahmad Fauzi</td>
-	<td>nur_faizah_ahmad_fauzi@schools.gov.sg</td>
-
-</tr>
-<tr>
-	<td rowspan="2">3R5</td>
-	<td>Mdm Seng Leanne</td>
-	<td>seng_leanne@schools.gov.sg</td>
-	</tr>
-	<tr>
 	<td>Mr Yam Hai Seng</td>
 	<td>yam_hai_seng@schools.gov.sg</td>
 
 </tr>
 <tr>
-	<td rowspan="2">3R6</td>
+	<td rowspan="2">3R5</td>
 	<td>Miss Iman ‘Izatti Binte Muhamed Musharraf</td>
 	<td>iman_izzati_mohamed_musharraf@schools.gov.sg</td>
 	</tr>
@@ -265,7 +255,7 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="2">3R7</td>
+	<td rowspan="2">3R6</td>
 	<td>Mr Melvin Au Jian An</td>
 	<td>au_jian_an_melvin@schools.gov.sg</td>
 	</tr>
