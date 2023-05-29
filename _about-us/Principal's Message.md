@@ -59,7 +59,8 @@ Mr. Wong Kin Mun<br>
 	</td>
 </tr>
 </tbody></table>
-
+<hr class="solid">
+<br>
 
 <table style="width:100%">
   <tbody>
