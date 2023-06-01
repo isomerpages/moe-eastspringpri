@@ -51,7 +51,7 @@ As part of the ECO-Stewardship Programme (ESP), our students are educated and in
 <br><br>
 With the introduction of ‘SHINE &amp; SPARKLE’ in ESPS, we hope to empower our E’Light with Positive strategies that they can use for self-care and care for others. We are currently embarking on the use of Character Strengths to better support student development in the school. &nbsp;
 <br><br>
-East Spring is dynamic learning community and we look forward to your participation and partnership in flourishing our E’Lights. 
+East Spring is a dynamic learning community and we look forward to your participation and partnership in flourishing our E’Lights. 
 <br><br>
 
 <b>Sincerely<br>
