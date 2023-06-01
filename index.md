@@ -32,7 +32,7 @@ sections:
       description: Find out all about the exciting happenings in Sementer 1
       button: CLICK HERE FOR MORE DETAILS
       url: https://issuu.com/elightssattelite/docs/e_lights_satellite_002
-      image: /images/Parents Briefing/elights satellite.png
+      image: /images/Parents Briefing/elights satellite 1.png
       alt: Image alt text
   - infopic:
       title: East Spring Primary Instagram Channel
