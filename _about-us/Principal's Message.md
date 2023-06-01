@@ -70,6 +70,7 @@ Mr. Wong Kin Mun<br>
 <tr>
 <td> <div class="container"></div>
 <br>
+<div class="a">	
 	<b>About the Principal</b><br>
 Mr Wong Kin Mun<br>
 
@@ -81,7 +82,7 @@ He began his journey in Education in 1999 when he joined Yusof Ishak Secondary S
 <br><br>
 In 2011, he was appointed Vice-Principal of Nan Chiau Primary School which is a Future School where he assisted in the development and research of pedagogies supporting 1 to 1 device in the classroom. In 2015, he was appointed Vice-Principal of Fernvale Primary School where he supported the school in the partnership with the satellite partnership programme with MINDS School (Fernvale).
 <br>
-
+	</div>
 </td>
 </tr>
 </tbody></table>
