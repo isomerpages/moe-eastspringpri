@@ -43,7 +43,7 @@ hr.solid {
 <img style="width:100%" class="image" alt="Avatar" src="/images/mr%20wong%20garden.jpg">
 </div>
 <div class="a">
-In East Spring Primary, we believe in providing a Positive and Caring environment to develop every E’Light into Lifelong Learners and Gracious Individuals. The focus of our ESPS curriculum is to provide a balanced emphasis on the cognitive academic pursuit and the development of 21st Century Competencies.&nbsp;
+&nbsp;In East Spring Primary, we believe in providing a Positive and Caring environment to develop every E’Light into Lifelong Learners and Gracious Individuals. The focus of our ESPS curriculum is to provide a balanced emphasis on the cognitive academic pursuit and the development of 21st Century Competencies.&nbsp;
 <br><br>
 The school’s programs are geared to develop E’Lights with knowledge, skills and dispositions that will equip them for current and future learning. Some of our signature programmes includes our Applied Learning Programme (ALP) which develops problem solving skills through Design Thinking and Coding Skills across their 6 years in ESPS. Other than the ALP, we also have our Learning For Life Programme which focus on the development of Social Emotional Skills through our Outdoor Education Syllabus in the middle and upper primary.
 <br><br>
