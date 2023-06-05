@@ -18,7 +18,7 @@ third_nav_title: School Information
 
 **Recess**
 
-Classes are assigned a fixed recess period which is reflected in the class timetable.
+Classes are assigned a fixed recess period which is reflected in the class timetable. (wef 26th June 2023)
 
 
 
