@@ -1,5 +1,5 @@
 ---
-title: EAS &amp; Support Staff
+title: EAS & Support Staff
 permalink: /about-us/Our-People/EAS-and-Support-Staff/
 description: ""
 third_nav_title: Our People
@@ -65,10 +65,7 @@ table, th, td {
 	<td>Mdm Ho Swee Hoon (Alice)</td>
     <td></td>
 	</tr>
-<tr>
-	<td>Operations Support Officer</td>
-	<td>Mdm Norsiah Bte Abdul Majid</td>
-	</tr>
+
 	<tr>
 	<td>Adjunct ICT Associate</td>
 	<td>Mr Lai Wai Kien</td>
