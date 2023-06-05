@@ -22,12 +22,6 @@ sections:
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
   - infopic:
-      title: Parents' Briefing Slides
-      button: Click here for more details
-      url: https://staging.d2u1zetbqqqiby.amplifyapp.com/parents/parents-briefing-slides/
-      alt: Image alt text
-      image: /images/Parents Briefing/picture6.png
-  - infopic:
       title: Our E-Newsletter
       description: Find out all about the exciting happenings in Sementer 1
       button: CLICK HERE FOR MORE DETAILS
@@ -40,4 +34,10 @@ sections:
       url: https://www.instagram.com/eastspringpri/
       image: /images/Home/espsinsta1.png
       alt: Image alt text
+  - infopic:
+      title: Parents' Briefing Slides
+      button: Click here for more details
+      url: https://staging.d2u1zetbqqqiby.amplifyapp.com/parents/parents-briefing-slides/
+      alt: Image alt text
+      image: /images/Parents Briefing/picture6.png
 ---
