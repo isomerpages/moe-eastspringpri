@@ -28,17 +28,17 @@ The Volleyball CCA was set up since school was founded in 1999. The objective of
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <th>Mdm Peh Poh Li<br>Mr Clement Kang<br> Mrs Vivien Yap <br> Mdm Siti Farhana
-		</th>
+    <td>Mdm Peh Poh Li<br>Mr Clement Kang<br> Mrs Vivien Yap <br> Mdm Siti Farhana
+		
 
-  </tr>
+  </td></tr>
   <tr>
-    <td><b>Training day/time:</b></td>
+    <th>Training day/time:</th>
     <td>Boys &amp; Girls : monday &amp; Wednesday : 2.15 p.m. - 4.15 p.m.</td>
   </tr>
 
   <tr>
-    <td><b>Venue: </b></td>
+    <th>Venue: </th>
     <td>Indoor Sports Hall/School Hall</td>
   </tr>
 
