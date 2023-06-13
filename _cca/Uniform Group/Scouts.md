@@ -78,7 +78,7 @@ Scouts emphasises on developing every student as a unique individual by providin
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Miss Pauline Leong<br>Mdm Roslina <br> Mr Ong Rui Sheng Daniel</td>
+    <td>Miss Pauline Leong<br>Mdm Roslinah Binte Junali <br> Mr Ong Rui Sheng Daniel</td>
   </tr>
   <tr>
     <th>Training day/time:</th>
