@@ -47,7 +47,7 @@ Members in the school team are selected from the Talent Development &amp; Recrea
   </tr>
   <tr>
     <th>Training day/time:</th>
-    <td>School Department Team - Monday &amp; Wednesday, 2.15 p.m. - 5.15 p.m.<br>Recreational Team - Monday, 2.15 p.m - 4.15 p.m.</td>
+    <td>School Department Team - Monday &amp; Wednesday, 2.15 p.m - 5.15 p.m.<br>Recreational Team - Monday, 2.15 p.m - 4.15 p.m.</td>
 
   </tr>
   <tr>
