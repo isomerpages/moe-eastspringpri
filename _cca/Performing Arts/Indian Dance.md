@@ -34,10 +34,10 @@ Indian Dance was first started in 2001. The objective is to provide a platform f
   </tr>
   <tr>
     <td>Venue:</td>
-    <td>ISH Level 3 (Dance Studio)</td>
+    <td>PAL Room</td>
   </tr>
 </tbody></table>
-![](/images/idance.png)
+
 
 Achievements
 ------------
