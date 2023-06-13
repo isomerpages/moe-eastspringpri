@@ -4,8 +4,6 @@ permalink: /cca/Sports-and-Games/Sports-Club/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-
 <style>
 table {
   border-collapse: collapse;
@@ -32,14 +30,14 @@ Members are given the opportunity to participate in annual external competitions
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <th>Mr Lee Gee Chye <br> Mr Yeoh Ying Kong <br> Mdm Leanne Seng</th>
+    <td>Mr Lee Gee Chye <br> Mr Yeoh Ying Kong <br> Mdm Leanne Seng</td>
   </tr>
   <tr>
-    <td>Training day/time:</td>
+    <th>Training day/time:</th>
     <td>Wednesday, 2.15 p.m. - 4.15 p.m.</td>
   </tr>
   <tr>
-    <td>Venue:</td>
+    <th>Venue:</th>
     <td>Indoor Sports Hall/Parade Square</td>
   </tr>
 
