@@ -37,7 +37,7 @@ Scouts emphasises on developing every student as a unique individual by providin
   </tr>
 </tbody></table>
 
-![](/images/scouts2.png)
+
 
 Achievements
 ------------
