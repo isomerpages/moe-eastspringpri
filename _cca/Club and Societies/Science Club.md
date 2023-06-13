@@ -28,11 +28,11 @@ The Science &amp; Technology club aims to stimulate interest in science activiti
     <td>Miss Nur Huda<br>Mdm Maznah <br>Mdm Siti Aisha</td>
   </tr>
   <tr>
-    <td>Training day/time:</td>
-    <td>Wednesday, 2.15 p.m - 4.15 p.m.</td>
-  </tr>
+    <th>Training day/time:
+    </th><td>Wednesday, 2.15 p.m - 4.15 p.m.
+  </td></tr>
   <tr>
-    <td>Venue:</td>
+    <th>Venue:</th>
     <td>Fun Science</td>
   </tr>
 </tbody></table>
