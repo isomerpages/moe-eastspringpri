@@ -26,11 +26,11 @@ Music Club was newly established in 2019. The CCA aims to provide an avenue for 
     <td>Mdm Jumaeyah Binte Zainal Abidin<br>Mdm Yow Ting Ting</td>
   </tr>
   <tr>
-    <td>Training day/time:</td>
+    <th>Training day/time:</th>
     <td>Wednesday, 2.15 p.m - 4.15 p.m.</td>
   </tr>
   <tr>
-    <td>Venue:</td>
+    <th>Venue:</th>
     <td>Music Room 1</td>
   </tr>
 </tbody></table>

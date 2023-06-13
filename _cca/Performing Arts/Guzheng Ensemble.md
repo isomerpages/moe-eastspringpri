@@ -32,11 +32,11 @@ Our instructor has a wealth of experience in coaching young children. Our studen
     <td>Mdm Tan Wui Ling (Mrs Lee)<br>Mdm Xu Haiyan<br>Miss Wee Wan Qing</td>
   </tr>
   <tr>
-    <td>Training day/time:</td>
+    <th>Training day/time:</th>
     <td>Wednesday, 2.15 p.m - 4.15 p.m.</td>
   </tr>
   <tr>
-    <td>Venue:</td>
+    <th>Venue:</th>
     <td>ISH Level 3 (Guzheng Room)</td>
   </tr>
 </tbody></table>

@@ -31,11 +31,11 @@ Through participation in Chinese Dance CCA, we hope that students develop leader
     <td>Mdm Haung Lin Lin<br>Mdm Wang Yi Mei Amy</td>
   </tr>
   <tr>
-    <td>Training day/time:</td>
+    <th>Training day/time:</th>
     <td>Wednesday, 2.15 p.m - 4.15 p.m.</td>
   </tr>
   <tr>
-    <td>Venue:</td>
+    <th>Venue:</th>
     <td>ISH Level 2 (Dance Studio)</td>
   </tr>
 </tbody></table>
