@@ -4,8 +4,6 @@ permalink: /cca/Performing-Arts/Chinese-Dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 <style>
 table {
   border-collapse: collapse;
@@ -26,6 +24,7 @@ table.c {
 
 <img style="width:50%;float:right" src="/images/cdanc5.jpeg">
 Through participation in Chinese Dance CCA, we hope that students develop leadership skills and acquire positive values such as perseverance, self-discipline and commitment. The students will also learn to appreciate the basic and finer gracious movements of Chinese Dance. Students are taught the fundamental skills of Chinese Dance and are given opportunities to perform in school functions. The dance instructress teaches our group of young dancers with zest and enthusiasm. Through the systematic training, students develop grace, agility, flexibility, balance and co-ordination.
+<br>
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
