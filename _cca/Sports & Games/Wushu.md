@@ -18,7 +18,8 @@ th,td {
   width: 100%;  
 }
 </style>
-<img src="/images/wushu1.jpeg" style="width:50%;float:right">
+![](/images/wushu1.jpeg)
+
 		 
 The Wushu CCA started in 2006. The objectives of the programme are:
 
