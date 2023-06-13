@@ -30,11 +30,11 @@ The Malay Dance Club was set up since the founding of the school. The objective 
     <td>Mdm Sheikha Fadzlon Shaik Yakob<br>Mdm Siti Nafisa Bte Mohd Daud<br>Mdm Khairunnisa Binte Mohamed</td>
   </tr>
   <tr>
-    <td>Training day/time:</td>
+    <th>Training day/time:</th>
     <td>Wednesday, 2.15 p.m - 4.15 p.m.</td>
   </tr>
   <tr>
-    <td>Venue:</td>
+    <th>Venue:</th>
     <td>ISH Level 3 (Dance Studio)</td>
   </tr>
 </tbody></table>
