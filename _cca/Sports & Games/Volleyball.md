@@ -4,10 +4,46 @@ permalink: /cca/Sports-and-Games/Volleyball/
 description: ""
 third_nav_title: Sports & Games
 ---
+<style>
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+} 
+
+th,td {
+  border: 1px solid black;
+}
+table.c {
+  table-layout: auto;
+  width: 100%;  
+}
+</style>
+
+
+	
 ![](/images/volleyball.png)
 The Volleyball CCA was set up since school was founded in 1999. The objective of the Volleyball CCA is to build the volleyball skills in each player and give them the opportunity to participate in the annual East Zone and National Inter-School Volleyball Competitions. Our teachers and coaches strongly believe that a player’s character determines his performance in the court. Thus, we are committed to develop our Volleyball players holistically. Our P6 Volleyball players have developed a passion and talent for Volleyball and have been identified by secondary schools such as Hwa Chong Institution, Dunman High School, Victoria School, Dunman Secondary School and Ngee Ann Secondary School for Direct School Admission.
 
-![](/images/volleyball2.png)
+	
+<table class="c">
+  <tbody><tr>
+    <th>Teacher-in-charge:</th>
+    <td>Mdm Peh Poh Li<br>Mr Clement Kang<br> Mrs Vivien Yap <br> Mdm Siti Farhana
+		
+
+  </td></tr>
+  <tr>
+    <th>Training day/time:</th>
+    <td>Boys &amp; Girls : monday &amp; Wednesday : 2.15 p.m. - 4.15 p.m.</td>
+  </tr>
+
+  <tr>
+    <th>Venue: </th>
+    <td>Indoor Sports Hall/School Hall</td>
+  </tr>
+
+</tbody></table>
+
 
 Achievements
 ------------

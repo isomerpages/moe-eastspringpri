@@ -4,16 +4,43 @@ permalink: /cca/Sports-and-Games/Wushu/
 description: ""
 third_nav_title: Sports & Games
 ---
-<img src="/images/wushu1.jpeg" 
-     style="width:50%;float:right">
+<style>
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+} 
+
+th,td {
+  border: 1px solid black;
+}
+	table.c {
+  table-layout: auto;
+  width: 100%;  
+}
+</style>
+<img src="/images/wushu1.jpeg" style="width:50%;float:right">
 		 
 The Wushu CCA started in 2006. The objectives of the programme are:
 
- 1. Develop fitness and discipline through the routines of Wushu
+&nbsp;1. Develop fitness and discipline through the routines of Wushu
 
- 2. Nuture students with a talent for Wushu to maximise their potential
+&nbsp;2. Nuture students with a talent for Wushu to maximise their potential
 
-![](/images/wushu.png)
+<table class="c">
+  <tbody><tr>
+    <th>Teacher-in-charge:</th>
+		<td>Mdm Nrarfah Bte Sudirman <br> Miss Ng Hui Peng <br> Mdm Aminah Bte Ahmat</td>
+  </tr>
+  <tr>
+    <th>Training day/time:</th>
+		<td>Wednesday, 2.15 p.m - 4.15 p.m.</td>
+  </tr>
+  <tr>
+    <th>Venue:</th>
+    <td>ISH Level 3</td>
+  </tr>
+
+</tbody></table>
 
 Achievements
 ------------
