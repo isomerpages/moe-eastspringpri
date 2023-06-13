@@ -19,7 +19,21 @@ table.c {
 }
 	</style>
 Music Club was newly established in 2019. The CCA aims to provide an avenue for students to learn a variety of musical skills and techniques. In the Music Club, students will have the opportunity to perform in school concerts, allowing them to grow in confidence through teamwork and develop an appreciation for Music.
-
+<br>
+<table class="c">
+  <tbody><tr>
+    <th>Teacher-in-charge:</th>
+    <td>Mdm Jumaeyah Binte Zainal Abidin<br>Mdm Yow Ting Ting</td>
+  </tr>
+  <tr>
+    <td>Training day/time:</td>
+    <td>Wednesday, 2.15 p.m - 4.15 p.m.</td>
+  </tr>
+  <tr>
+    <td>Venue:</td>
+    <td>Music Room 1</td>
+  </tr>
+</tbody></table>
 ![](/images/music.png)
 
 ![](/images/music2.png)
