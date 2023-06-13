@@ -4,10 +4,23 @@ permalink: /cca/Club-and-Societies/Media-and-IT-Club/
 description: ""
 third_nav_title: Club and Societies
 ---
-<img src="/images/mit1.jpeg" 
-     style="width:50%;float:right">
+<style>
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+} 
+
+th,td {
+  border: 1px solid black;
+}
+table.c {
+  table-layout: auto;
+  width: 100%;  
+}
+	</style>
+<img src="/images/mit1.jpeg" style="width:50%;float:right">
 		 
-Media & IT Club was formed in 2012. It exposes students to various learning experiences like Photography, Videography, Coding and AVA. The objectives are:
+Media &amp; IT Club was formed in 2012. It exposes students to various learning experiences like Photography, Videography, Coding and AVA. The objectives are:
 
 *   To equip students with the skills and knowledge of ICT and digital media.
 *   To provide students with the opportunities to learn various technical aspects of handling AV equipment and their functions.
