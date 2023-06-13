@@ -26,7 +26,21 @@ Media &amp; IT Club was formed in 2012. It exposes students to various learning 
 *   To provide students with the opportunities to learn various technical aspects of handling AV equipment and their functions.
 *   To develop students’ leadership skills and empower them to take charge and be in the forefront of capturing school events and other activities.
 *   To seek opportunities for students to apply their skills and showcase their talents.
-
+<br>
+<table class="c">
+  <tbody><tr>
+    <th>Teacher-in-charge:</th>
+    <td>MrMuhammad Fahmi Bin Fo'att<br>Mdm Azah Bte Abdul Aziz <br>Mdm Hairina Bte Hamzah</td>
+  </tr>
+  <tr>
+    <td>Training day/time:</td>
+    <td>Wednesday, 2.15 p.m - 4.15 p.m.</td>
+  </tr>
+  <tr>
+    <td>Venue:</td>
+    <td>Music Room 1</td>
+  </tr>
+</tbody></table>
 ![](/images/media.png)
 
 Achievements
