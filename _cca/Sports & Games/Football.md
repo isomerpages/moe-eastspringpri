@@ -4,9 +4,11 @@ permalink: /cca/Sports-and-Games/Football/
 description: ""
 third_nav_title: Sports & Games
 ---
-The Football club was set up since founding of the school. The objective of the club is to provide an avenue for students to enjoy playing Football while also developing their understanding of the sport and building their character through their involvement in the sport.
 
-The students will be categorized in three groups:
+
+The Football club was set up since founding of the school. The objective of the club is to provide an avenue for students to enjoy playing Football while also developing their understanding of the sport and building their character through their involvement in the sport. 
+
+The students will be categorized in **two** groups:
 
 Talent Development
 ------------------
