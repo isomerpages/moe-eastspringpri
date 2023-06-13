@@ -38,7 +38,7 @@ Media &amp; IT Club was formed in 2012. It exposes students to various learning 
   </tr>
   <tr>
     <td>Venue:</td>
-    <td>Music Room 1</td>
+    <td>Computer Lab 2 &amp; 3</td>
   </tr>
 </tbody></table>
 ![](/images/media.png)
