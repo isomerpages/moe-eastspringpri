@@ -36,7 +36,7 @@ The Science &amp; Technology club aims to stimulate interest in science activiti
     <td>Fun Science</td>
   </tr>
 </tbody></table>
-![](/images/scienceclub2.png)
+
 
 Achievements
 ------------
