@@ -15,4 +15,3 @@ Achievements
 
 *   Frank Cooper Sands Award 2018 (Scouts) — Bronze
 *   Frank Cooper Sands Award 2017 (Scouts) — Silver
-
