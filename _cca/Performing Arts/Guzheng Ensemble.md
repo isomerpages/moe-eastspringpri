@@ -41,7 +41,7 @@ Our instructor has a wealth of experience in coaching young children. Our studen
   </tr>
 </tbody></table>
 
-![](/images/guzheng2.png)
+
 
 Achievements
 ------------
