@@ -34,7 +34,7 @@ The Art Club is set up to develop students who possess strong interest in Art an
     <td>Art Room</td>
   </tr>
 </tbody></table>
-![](/images/art.png)
+
 
 ![](/images/art2.png)
 
