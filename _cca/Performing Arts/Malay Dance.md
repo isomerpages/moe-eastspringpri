@@ -38,7 +38,7 @@ The Malay Dance Club was set up since the founding of the school. The objective 
     <td>ISH Level 3 (Dance Studio)</td>
   </tr>
 </tbody></table>
-![](/images/mdance2.png)
+
 
 Achievements
 ------------
