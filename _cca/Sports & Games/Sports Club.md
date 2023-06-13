@@ -4,14 +4,47 @@ permalink: /cca/Sports-and-Games/Sports-Club/
 description: ""
 third_nav_title: Sports & Games
 ---
+
+
+<style>
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+} 
+
+th,td {
+  border: 1px solid black;
+}
+	table.c {
+  table-layout: auto;
+  width: 100%;  
+}
+</style>
+
+
+	
 The Sports Club was set up since 2011. The objectives of Sports Club:
 
 *   To introduce various courts games including badminton, basketball, tchoukball and floorball skills and develop pupils' psychomotor skills.
 *   To scout and send selected pupils for external competitions.
 
 Members are given the opportunity to participate in annual external competitions whereby our members have been talent-scouted by secondary schools.
+<table class="c">
+  <tbody><tr>
+    <th>Teacher-in-charge:</th>
+    <th>Mr Lee Gee Chye <br> Mr Yeoh Ying Kong <br> Mdm Leanne Seng</th>
+  </tr>
+  <tr>
+    <td>Training day/time:</td>
+    <td>Wednesday, 2.15 p.m. - 4.15 p.m.</td>
+  </tr>
+  <tr>
+    <td>Venue:</td>
+    <td>Indoor Sports Hall/Parade Square</td>
+  </tr>
 
-![](/images/sportsclub.png)
+</tbody></table>
+
 ![](/images/sportsclub2.png)
 
 Achievements
@@ -32,7 +65,7 @@ Achievements
     *   D Boys — 100m
     *   D Girls — 100m
     *   D Girls — 4 x 100m
-*   **53rd National Inter-Primary School Track & Field Championships 2012 — 9-19 April 2012**
+*   **53rd National Inter-Primary School Track &amp; Field Championships 2012 — 9-19 April 2012**
     *   C-Boys: 4 X 100 Metres Relay — 1st position  
         Muhammad Nur Rezeki (5N5), Han Sheng Guang (5N7), Athir Athari (5N5), Abdul Hakim (5N7)
     *   B-Boys: 4 X 100 Metres Relay — 5th position  
