@@ -4,9 +4,6 @@ permalink: /cca/Sports-and-Games/Volleyball/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-
-
 <style>
 table {
   border-collapse: collapse;
@@ -36,12 +33,12 @@ The Volleyball CCA was set up since school was founded in 1999. The objective of
 
   </tr>
   <tr>
-    <td>Training day/time:</td>
+    <td><b>Training day/time:</b></td>
     <td>Boys &amp; Girls : monday &amp; Wednesday : 2.15 p.m. - 4.15 p.m.</td>
   </tr>
 
   <tr>
-    <td>Venue: </td>
+    <td><b>Venue: </b></td>
     <td>Indoor Sports Hall/School Hall</td>
   </tr>
 
