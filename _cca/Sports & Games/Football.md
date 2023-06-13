@@ -4,22 +4,18 @@ permalink: /cca/Sports-and-Games/Football/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-
 The Football club was set up since founding of the school. The objective of the club is to provide an avenue for students to enjoy playing Football while also developing their understanding of the sport and building their character through their involvement in the sport. 
 
 The students will be categorized in **two** groups:
 
-Talent Development
-------------------
 
-Members in the Talent Development are selected and will learn the foundation skills of the sport and practice core skills into their game. Selected players who are equipped with a solid grasp of core skills will advance to school team for a more intensive & structured education.
+**School Development Team**
 
-  
+Members will learn the foundation skills of the sport and practice core skills into their game. Selected players who are equipped with a solid grasp of core skills will advance to school team for a more intensive & structured education. Players will be put through football drills that requires plenty of decision making skills and put through an intensive sets of football games to expand their understanding of the sport. Players will be exposed to friendly matches, football carnivals, and different level of tournaments, zonal and national competitions. 
 
-**Recreational**
+**Recreational** 
 
-Members in the recreational team are for students who were not selected for Talent development but are still keen to learn the foundation skills of the sport and play small sided tactical games to expand their understanding of the sport. Selected players who are equipped with a solid grasp of core skills will advance to school team for a more intensive & structured education.
+Members in the recreational team are for students who were not selected for Talent development but are still keen to learn the foundation skills of the sport and play small sided tactical games to expand their understanding of the sport.
 
   
 
