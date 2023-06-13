@@ -30,7 +30,7 @@ The Wushu CCA started in 2006. The objectives of the programme are:
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-		<td>Mdm Nrarfah Bte Sudirman <br> Miss Ng Hui Peng <br> Mdm Aminah Bte Ahmat</td>
+		<td>Mdm Nurarfah Bte Sudirman <br> Miss Ng Hui Peng <br> Mdm Aminah Bte Ahmat</td>
   </tr>
   <tr>
     <th>Training day/time:</th>

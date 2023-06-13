@@ -34,7 +34,7 @@ The Volleyball CCA was set up since school was founded in 1999. The objective of
   </td></tr>
   <tr>
     <th>Training day/time:</th>
-    <td>Boys &amp; Girls : monday &amp; Wednesday : 2.15 p.m. - 4.15 p.m.</td>
+    <td>Boys &amp; Girls : Monday &amp; Wednesday : 2.15 p.m. - 4.15 p.m.</td>
   </tr>
 
   <tr>

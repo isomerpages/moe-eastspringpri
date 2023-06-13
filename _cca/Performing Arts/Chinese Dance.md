@@ -28,7 +28,7 @@ Through participation in Chinese Dance CCA, we hope that students develop leader
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Mdm Haung Lin Lin<br>Mdm Wang Yi Mei Amy</td>
+    <td>Mdm Huang Lin Lin<br>Mdm Wang Yi Mei Amy</td>
   </tr>
   <tr>
     <th>Training day/time:</th>
