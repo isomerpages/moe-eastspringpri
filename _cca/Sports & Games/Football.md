@@ -42,7 +42,7 @@ Members in the school team are selected from the Talent Development &amp; Recrea
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Mr Au Jian'an Melvin <br> Mr Mohammed Yazid <br> Mdmd Nur Fai'zah</td>
+    <td>Mr Au Jian'an Melvin <br> Mr Mohammed Yazid <br> Mdm Nur Fai'zah</td>
 
   </tr>
   <tr>
