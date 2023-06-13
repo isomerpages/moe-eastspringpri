@@ -42,16 +42,16 @@ Members in the school team are selected from the Talent Development &amp; Recrea
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <th>Mr Au Jian'an Melvin <br> Mr Mohammed Yazid <br> Mdmd Nur Fai'zah</th>
+    <td>Mr Au Jian'an Melvin <br> Mr Mohammed Yazid <br> Mdmd Nur Fai'zah</td>
 
   </tr>
   <tr>
-    <td>Training day/time:</td>
+    <th>Training day/time:</th>
     <td>School Department Team - Monday &amp; Wednesday, 2.15 p.m. - 5.15 p.m.<br>Recreational Team - Monday, 2.15 p.m. - 4.15 p.m.</td>
 
   </tr>
   <tr>
-    <td>Venue:</td>
+    <th>Venue:</th>
     <td>Field</td>
 
   </tr>
