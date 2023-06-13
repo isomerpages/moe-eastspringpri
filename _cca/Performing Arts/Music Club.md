@@ -34,7 +34,7 @@ Music Club was newly established in 2019. The CCA aims to provide an avenue for 
     <td>Music Room 1</td>
   </tr>
 </tbody></table>
-![](/images/music.png)
+
 
 ![](/images/music2.png)
 
