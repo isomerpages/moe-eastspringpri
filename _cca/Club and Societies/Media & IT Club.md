@@ -33,11 +33,11 @@ Media &amp; IT Club was formed in 2012. It exposes students to various learning 
     <td>Mr Muhammad Fahmi Bin Fo'att<br>Mdm Azah Bte Abdul Aziz <br>Mdm Hairina Bte Hamzah</td>
   </tr>
   <tr>
-    <td>Training day/time:</td>
+    <th>Training day/time:</th>
     <td>Wednesday, 2.15 p.m - 4.15 p.m.</td>
   </tr>
   <tr>
-    <td>Venue:</td>
+    <th>Venue:</th>
     <td>Computer Lab 2 &amp; 3</td>
   </tr>
 </tbody></table>
