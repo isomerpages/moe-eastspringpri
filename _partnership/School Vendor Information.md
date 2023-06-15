@@ -48,7 +48,6 @@ Tel 6479 6811
 
 #### Dental Clinic (East Spring Primary School)  
 Dental Clinic Telephone 8940 1244  
-HPB Emergency Telephone 6435 3782  
   
 Operating Hours  
 Monday &amp; Thursday 8.00 am to 5.30 pm  

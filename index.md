@@ -23,7 +23,7 @@ sections:
       background: /images/Home/Homepage.gif
   - infopic:
       title: Our E-Newsletter
-      description: Find out all about the exciting happenings in Sementer 1
+      description: Find out all about the exciting happenings in Semester 1
       button: CLICK HERE FOR MORE DETAILS
       url: https://issuu.com/elightssattelite/docs/e_lights_satellite_002
       image: /images/Parents Briefing/elights satellite 1.png
