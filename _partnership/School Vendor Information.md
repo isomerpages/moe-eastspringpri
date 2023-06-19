@@ -38,7 +38,7 @@ Tel 6559 2269
 
   
 #### Booklist
-Click&nbsp;[here](/booklist-2023)&nbsp;for P1-P6 booklists
+Click&nbsp;[here](/Booklist%202023.md)&nbsp;for P1-P6 booklists
 
 **School uniforms &amp; Name tags**  
 Kah Huat Uniform Pte Ltd  
