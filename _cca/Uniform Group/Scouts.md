@@ -24,9 +24,8 @@ Scouts emphasises on developing every student as a unique individual by providin
 
 
 
-| ![](/images/CCA/2a8c3c30-723a-4d32-9171-329dc94ff134.JPG)  | ![](/images/CCA/8bd44475-a13a-44ae-b075-c9620820992e.JPG) | 
-| -------- | -------- | 
-| Text     | Text     |
+![](/images/CCA/8bd44475-a13a-44ae-b075-c9620820992e.JPG)
+
 
 
 
@@ -41,8 +40,10 @@ Scouts emphasises on developing every student as a unique individual by providin
 
 
 
-<br>
-<table class="c">
+<br><table class="c">
+  <tbody><tr>
+		<th>![](/images/CCA/2a8c3c30-723a-4d32-9171-329dc94ff134.JPG)</th>
+</tr></tbody></table><table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
     <td>Miss Pauline Leong<br>Mdm Roslinah Binte Junali <br> Mr Ong Rui Sheng Daniel</td>
