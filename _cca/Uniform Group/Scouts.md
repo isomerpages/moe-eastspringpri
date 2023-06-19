@@ -26,9 +26,10 @@ Scouts emphasises on developing every student as a unique individual by providin
 		<th>![](/images/CCA/2a8c3c30-723a-4d32-9171-329dc94ff134.JPG)</th>
 		<th>![](/images/CCA/8bd44475-a13a-44ae-b075-c9620820992e.JPG)</th>
 		  </tr><tr>
-								<th>![](/images/CCA/b711a21a-dcc2-4988-ac9b-d624f40e44cd.JPG)</th></tr>
-</tbody></table>
-				![](/images/CCA/94860eda-b2a1-4bb7-8c3b-1e7180f6ae3d.JPG)
+								<th>![](/images/CCA/b711a21a-dcc2-4988-ac9b-d624f40e44cd.JPG)</th></tr></tbody></table>
+		![](/images/CCA/94860eda-b2a1-4bb7-8c3b-1e7180f6ae3d.JPG)
+
+				
 		
 
 <table class="c">
