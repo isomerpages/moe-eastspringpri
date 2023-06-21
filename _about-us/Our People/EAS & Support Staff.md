@@ -20,6 +20,11 @@ table, th, td {
 	<td>Ms Ng Lay Tin</td>
 	<td>ng_lay_tin@schools.gov.sg</td>
 	</tr>
+		<tr>
+	<td>Administration Manager</td>
+	<td>Ms Khairunnisa Binte Mohamed Hussain</td>
+	<td>khairunnisa_mohamed_hussain@schools.gov.sg</td>
+	</tr>
 	<tr>
 	<td>Operations Manager</td>
 	<td>Mr Quek Swee Heng</td>
