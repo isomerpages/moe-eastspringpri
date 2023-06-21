@@ -70,7 +70,6 @@ table, th, td {
 	<td>Mdm Ho Swee Hoon (Alice)</td>
     <td></td>
 	</tr>
-
 	<tr>
 	<td>Adjunct ICT Associate</td>
 	<td>Mr Lai Wai Kien</td>
