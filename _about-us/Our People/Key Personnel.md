@@ -168,7 +168,7 @@ table, th, td {
 	</tr>
 	<tr>
 	<td>Level Head</td>
-			<td>Mdm Seah Wei Shan</td>
+			<td>Mdm Seah Wei Shan (Mrs Sim)</td>
 		<td>seah_wei_shan@schools.gov.sg</td>
 	</tr>
 	<tr>
