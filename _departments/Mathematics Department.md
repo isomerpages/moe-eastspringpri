@@ -295,8 +295,6 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 </tbody></table>
 
 
-![](/images/math6.png)
-![](/images/math7.png)
 
 **River Valley Mathematics Challenge**  
   
