@@ -58,7 +58,7 @@ table, th, td {
 		<td>loo_leong_tuan@schools.gov.sg</td>
 	</tr>
 			<tr>
-				<td>Assistant Year Head (Int) (Middle Pri)</td>
+				<td>Assistant Year Head (Middle Pri)</td>
 			<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
 		<td>yeo_xueli_sally@schools.gov.sg</td>
 	</tr>
@@ -68,7 +68,7 @@ table, th, td {
 		<td>marhamah_yusof@schools.gov.sg</td>
 	</tr>
 					<tr>
-						<td>Assistant Year Head (Int) (Lower Pri)</td>
+						<td>Assistant Year Head (Lower Pri)</td>
 			<td>Mdm Shakilah Binte Mohamed Ansari</td>
 		<td>shakilah_mohamed_ansari@schools.gov.sg</td>
 	</tr>				
@@ -168,7 +168,7 @@ table, th, td {
 	</tr>
 	<tr>
 	<td>Level Head</td>
-			<td>Mdm Seah Wei Shan</td>
+			<td>Mdm Seah Wei Shan (Mrs Sim)</td>
 		<td>seah_wei_shan@schools.gov.sg</td>
 	</tr>
 	<tr>
@@ -250,7 +250,13 @@ table, th, td {
 	<td>Ms Ng Lay Tin</td>
 	<td>ng_lay_tin@schools.gov.sg</td>
 	</tr>
+		<tr>
+	<td>Administration Manager</td>
+	<td>Ms Khairunnisa Binte Mohamed Hussain</td>
+	<td>khairunnisa_mohamed_hussain@schools.gov.sg</td>
+	</tr>
 <tr>
+</tr><tr>
 	<td>Operations Manager</td>
 	<td>Mr Quek Swee Heng</td>
 	<td>quek_swee_heng@schools.gov.sg</td>

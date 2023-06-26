@@ -20,6 +20,11 @@ table, th, td {
 	<td>Ms Ng Lay Tin</td>
 	<td>ng_lay_tin@schools.gov.sg</td>
 	</tr>
+		<tr>
+	<td>Administration Manager</td>
+	<td>Ms Khairunnisa Binte Mohamed Hussain</td>
+	<td>khairunnisa_mohamed_hussain@schools.gov.sg</td>
+	</tr>
 	<tr>
 	<td>Operations Manager</td>
 	<td>Mr Quek Swee Heng</td>
@@ -34,11 +39,6 @@ table, th, td {
 	<td>Administrative Executive</td>
 	<td>Ms Nur Faradilah Binte Padawi</td>
     <td>nur_faradilah_padawi@schools.gov.sg</td>
-	</tr>
-<tr>
-	<td>Adjunct Corporate Support Officer</td>
-	<td>Miss Nurradiyah Binti Ramdan</td>
-	<td>nurradiyah_ramdan@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Corporate Support Officer</td>
@@ -65,7 +65,6 @@ table, th, td {
 	<td>Mdm Ho Swee Hoon (Alice)</td>
     <td></td>
 	</tr>
-
 	<tr>
 	<td>Adjunct ICT Associate</td>
 	<td>Mr Lai Wai Kien</td>
