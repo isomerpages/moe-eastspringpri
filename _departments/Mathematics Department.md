@@ -113,6 +113,80 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 			<td>AGARAN ELANKATHIR ELAVAZHAGAN&nbsp; (6G1)</td>
 		</tr>
 </tbody></table>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width: 30%">Level</th>
+    <th style="width: 30%">Award</th>
+		<th style="width: 40%">Name</th>
+		</tr><tr>
+			<td>P5</td>
+			<td>Bronze Awardee</td>
+			<td>ALEXANDER JAYRAJ PRAGASAM (5N1)</td>
+		</tr>
+<tr>
+			<td>P5</td>
+			<td>Bronze Awardee</td>
+			<td>   ZHOU LINXI (5N1)</td>
+		</tr>
+		<tr>
+			<td>P5</td>
+			<td>Bronze Awardee</td>
+			<td>THANMAYA RANJITH (5N1)</td>
+		</tr>
+				<tr>
+			<td>P5</td>
+			<td>Bronze Awardee</td>
+			<td>WAN CHIN YIN (5N2)</td>
+		</tr>
+				<tr>
+			<td>P5</td>
+			<td>Bronze Awardee</td>
+			<td> RAPHAEL NAGA ALLENDRA DEPARI (5N2)</td>
+		</tr>
+				<tr>
+			<td>P6</td>
+			<td>Bronze Awardee</td>
+			<td> RAYNE KUAN (6G1)</td>
+		</tr>
+						<tr>
+			<td>P6</td>
+			<td>Bronze Awardee</td>
+			<td>   CAI YUZHE (6G1)</td>
+		</tr>
+						<tr>
+			<td>P6</td>
+			<td>Bronze Awardee</td>
+			<td>   PYAE PYAE (6G1)</td>
+		</tr>
+						<tr>
+			<td>P6</td>
+			<td>Bronze Awardee</td>
+			<td>   LEE DO YOUNG (6G1)</td>
+		</tr>
+						<tr>
+			<td>P6</td>
+			<td>Bronze Awardee</td>
+			<td>   MARAMREDDY AKSHAR REDDY (6G2)</td>
+		</tr>
+						<tr>
+			<td>P6</td>
+			<td>Bronze Awardee</td>
+			<td>   RAYNA FILZA AQEELAH MUFTAZANI (6G2)</td>
+		</tr>
+						<tr>
+			<td>P6</td>
+			<td>Bronze Awardee</td>
+			<td>   VEDANTH MUNIRAJU (6G2)</td>
+		</tr>
+						<tr>
+			<td>P6</td>
+			<td>Bronze Awardee</td>
+			<td>   NGUYEN CHUNG KHAI HUY (6G4)</td>
+		</tr>
+</tbody></table>
+
+
 ![](/images/math6.png)
 ![](/images/math7.png)
 
