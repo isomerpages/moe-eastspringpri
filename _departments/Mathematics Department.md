@@ -86,17 +86,33 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 			<td>Gold Awardee</td>
 			<td>DHANAKIAT HONDA (6G2)</td>
 		</tr>
-  
-
-</tbody></table><table style="width:100%">
-  <tbody><tr>
-    <th style="width: 30%">School Leaders</th>
-    <th style="width: 30%">Name</th>
-		<th style="width: 40%">Email Address</th>
-		<td>
-  </td></tr>
 </tbody></table>
-
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width: 30%">Level</th>
+    <th style="width: 30%">Award</th>
+		<th style="width: 40%">Name</th>
+		</tr><tr>
+			<td>P5</td>
+			<td>Silver Awardee</td>
+			<td>LAM WING YAN (5N1)</td>
+		</tr>
+<tr>
+			<td>P5</td>
+			<td>Silver Awardee</td>
+			<td>PALANIAPPAN CHIDAMBARAM (5N2)</td>
+		</tr>
+		<tr>
+			<td>P5</td>
+			<td>Silver Awardee</td>
+			<td>ADRISH SATHIYANARAYANAN (5N2)</td>
+		</tr>
+				<tr>
+			<td>P6</td>
+			<td>Silver Awardee</td>
+			<td>AGARAN ELANKATHIR ELAVAZHAGAN&nbsp; (6G1)</td>
+		</tr>
+</tbody></table>
 ![](/images/math6.png)
 ![](/images/math7.png)
 
