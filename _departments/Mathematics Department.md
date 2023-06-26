@@ -3,21 +3,29 @@ title: Mathematics Department
 permalink: /departments/Mathematics-Department/
 description: ""
 ---
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+
+}
+</style>
+
 Our Programmes
 --------------
 
 *   **Mission:**
     
-    -  Laying a Strong Foundation
+    -&nbsp;&nbsp;Laying a Strong Foundation
     
     **Vision:**
     
-    -   Effective and Reflective Problem Solvers who develop joy and love for Mathematics
+    -&nbsp;&nbsp;&nbsp;Effective and Reflective Problem Solvers who develop joy and love for Mathematics
     
 
 *   **Mathematics Amazing Week**
 
-Fun activities and competitions are organized to engage our students to ignite the joy and foster love in the learning of Mathematics. Students apply the Mathematical concepts and knowledge that they have learned and see the relevance of the subject in their daily lives. 
+Fun activities and competitions are organized to engage our students to ignite the joy and foster love in the learning of Mathematics. Students apply the Mathematical concepts and knowledge that they have learned and see the relevance of the subject in their daily lives.&nbsp;
 
   
 
@@ -27,12 +35,11 @@ The theme for 2022 is ‘The Great Escape’, similar to the concept of escape r
 
 *   **STRETCH Programmes**
 
-MA Talent Development (P2 & P3) This is a program for selected students who have demonstrated interest and ability in Mathematics. It aims to help students develop mathematical intuition, reasoning and logical thinking.
+MA Talent Development (P2 &amp; P3) This is a program for selected students who have demonstrated interest and ability in Mathematics. It aims to help students develop mathematical intuition, reasoning and logical thinking.
 
-<img src="/images/math2.jpeg" 
-     style="width:50%">
+<img src="/images/math2.jpeg" style="width:50%">
 
-E2K MATH (P4 & P5)
+E2K MATH (P4 &amp; P5)
 
 The E2K Mathematics is an enrichment programme for selected students who have demonstrated interest and aptitude in Mathematics. It aims to develop in students Mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.
 
@@ -41,25 +48,40 @@ The E2K Mathematics is an enrichment programme for selected students who have de
 *   **LEVEL-UP Programmes**  
     
 
-Peer Coaching Programme (P4 & P5)
+Peer Coaching Programme (P4 &amp; P5)
 
 The Peer Tutoring Program offers to enhance students’ level of readiness for Upper Primary
 
-Mathematics syllabus. The program was mooted as a platform for the Primary 5 and 6    students to give back and paying it forward, which in turn will benefit their peers.
+Mathematics syllabus. The program was mooted as a platform for the Primary 5 and 6&nbsp; &nbsp; students to give back and paying it forward, which in turn will benefit their peers.
 
 ![](/images/math4.png)
 
-Learning Support for Mathematics (LSM) &  
+Learning Support for Mathematics (LSM) &amp;  
 Improving Confidence and Achievement in Numeracy (ICAN) These programmes provide intervention support in Mathematics to identified students who need extra support in acquiring basic numeracy skills and strengthen their foundation in Mathematics.21
 
-<img src="/images/math5.png" 
-     style="width:50%">
+<img src="/images/math5.png" style="width:50%">
 		 
 **Mathematics Competitions Achievements**
 
 **Singapore and ASEAN Schools Math Olympiad (SASMO**)
 
-It is a math olympiad contest for selected Primary 5 and Primary 6 students. The competition is aimed at instilling confidence for students with a high focus on non-routine problem sums.
+It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students. The competition is aimed at instilling confidence for students with a high focus on non-routine problem sums.
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width: 30%">Level</th>
+    <th style="width: 30%">Award</th>
+		<th style="width: 40%">Name</th>
+		<td>
+  </td></tr>
+
+</tbody></table><table style="width:100%">
+  <tbody><tr>
+    <th style="width: 30%">School Leaders</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th>
+		<td>
+  </td></tr>
+</tbody></table>
 
 ![](/images/math6.png)
 ![](/images/math7.png)
