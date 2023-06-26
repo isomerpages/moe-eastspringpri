@@ -71,8 +71,22 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
     <th style="width: 30%">Level</th>
     <th style="width: 30%">Award</th>
 		<th style="width: 40%">Name</th>
-		<td>
-  </td></tr>
+		</tr><tr>
+			<td>P5</td>
+			<td>Gold Awardee</td>
+			<td>MUSKAN KISHOR GUDEKAR (5N2)</td>
+		</tr>
+				<tr>
+			<td>P6</td>
+			<td>Gold Awardee</td>
+			<td>NG ZONG HAO (6G1)</td>
+		</tr>
+				<tr>
+			<td>P6</td>
+			<td>Gold Awardee</td>
+			<td>DHANAKIAT HONDA (6G2)</td>
+		</tr>
+  
 
 </tbody></table><table style="width:100%">
   <tbody><tr>
