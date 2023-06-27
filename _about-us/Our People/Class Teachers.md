@@ -278,11 +278,7 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="2">4I3</td>
-	<td>Mdm Siti Aisha Abdul Latiff</td>
-	<td>siti_aisha_abdul_latiff@schools.gov.sg</td>
-	</tr>
-	<tr>
+	<td rowspan="1">4I3</td>
 	<td>Ms Lee Sook San</td>
 	<td>lee_sook_san@schools.gov.sg</td>
 
