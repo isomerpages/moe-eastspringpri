@@ -397,18 +397,13 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="3">6G2</td>
+	<td rowspan="2">6G2</td>
 	<td>Miss Phua Su Hui, Sheramin</td>
 	<td>sheramin_phua_su_hui@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Xu Haiyan</td>
 	<td>xu_haiyan@schools.gov.sg</td>
-
-</tr>
-	<tr>
-	<td>Mdm Rahmah Binte Rosdi</td>
-	<td>rahmah_rosdi@schools.gov.sg</td>
 
 </tr>
 <tr>
