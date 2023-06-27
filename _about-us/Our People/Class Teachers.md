@@ -120,8 +120,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">2P3</td>
-	<td>Mdm Sim Mui Liang (Eunice)</td>
-	<td>sim_mui_liang@schools.gov.sg</td>
+	<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
+	<td>linda_tay_mei_hong@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Noornisha</td>
