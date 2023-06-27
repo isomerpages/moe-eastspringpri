@@ -341,11 +341,7 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="2">5N3</td>
-	<td>Mr Lukman Hakim</td>
-	<td>lukman_hakim_b_mahmood@schools.gov.sg</td>
-	</tr>
-	<tr>
+	<td rowspan="1">5N3</td>
 	<td>Mdm Jumaeyah Bte Zainal Abidin</td>
 	<td>jumaeyah_zainalabidin@schools.gov.sg</td>
 
