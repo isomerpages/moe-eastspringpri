@@ -259,7 +259,7 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="2">4I1</td>
-	<td>Mrs Tan Wui Ling</td>
+	<td>Mdm Tan Wui Ling (Mrs Lee)</td>
 	<td>tan_wui_ling@schools.gov.sg</td>
 	</tr>
 	<tr>
