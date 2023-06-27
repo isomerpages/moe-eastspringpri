@@ -38,8 +38,8 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="2">1S1</td>
-	<td>Mdm Chui Wen Yan, Wendy</td>
-	<td>chui_wenyan@schools.gov.sg</td>
+	<td>Miss Chew Chi yin</td>
+	<td>chew_chi_yin@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Siti Nafisa Binte Mohd Daud</td>
