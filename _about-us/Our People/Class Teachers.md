@@ -37,24 +37,15 @@ table, th, td {
 		<th style="width: 40%">Email</th><td>
   </td></tr>
 <tr>
-	<td rowspan="2">1S1</td>
-	<td>Miss Chew Chi yin</td>
-	<td>chew_chi_yin@schools.gov.sg</td>
-	</tr>
-	<tr>
+	<td rowspan="1">1S1</td>
 	<td>Mdm Siti Nafisa Binte Mohd Daud</td>
 	<td>siti_nafisa_mohd_daud@schools.gov.sg</td>
 
 </tr>
 <tr>
-	<td rowspan="2">1S2</td>
+	<td rowspan="1">1S2</td>
 	<td>Miss Chew Chi Yin</td>
 	<td>chew_chi_yin@schools.gov.sg</td>
-	</tr>
-	<tr>
-	<td>Mdm Khairunnisa Binte Mohamed</td>
-	<td>khairunnisa_mohamed@schools.gov.sg</td>
-
 </tr>
 <tr>
 	<td rowspan="2">1S3</td>
