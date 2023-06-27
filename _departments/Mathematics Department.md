@@ -73,17 +73,17 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 		<th style="width: 40%">Name</th>
 		</tr><tr>
 			<td>P5</td>
-			<td>Gold Awardee</td>
+			<td>Gold </td>
 			<td>MUSKAN KISHOR GUDEKAR (5N2)</td>
 		</tr>
 				<tr>
 			<td>P6</td>
-			<td>Gold Awardee</td>
+			<td>Gold </td>
 			<td>NG ZONG HAO (6G1)</td>
 		</tr>
 				<tr>
 			<td>P6</td>
-			<td>Gold Awardee</td>
+			<td>Gold </td>
 			<td>DHANAKIAT HONDA (6G2)</td>
 		</tr>
 </tbody></table>
@@ -94,22 +94,22 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 		<th style="width: 40%">Name</th>
 		</tr><tr>
 			<td>P5</td>
-			<td>Silver Awardee</td>
+			<td>Silver </td>
 			<td>LAM WING YAN (5N1)</td>
 		</tr>
 <tr>
 			<td>P5</td>
-			<td>Silver Awardee</td>
+			<td>Silver </td>
 			<td>PALANIAPPAN CHIDAMBARAM (5N2)</td>
 		</tr>
 		<tr>
 			<td>P5</td>
-			<td>Silver Awardee</td>
+			<td>Silver </td>
 			<td>ADRISH SATHIYANARAYANAN (5N2)</td>
 		</tr>
 				<tr>
 			<td>P6</td>
-			<td>Silver Awardee</td>
+			<td>Silver </td>
 			<td>AGARAN ELANKATHIR ELAVAZHAGAN&nbsp; (6G1)</td>
 		</tr>
 </tbody></table>
@@ -121,67 +121,67 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 		<th style="width: 40%">Name</th>
 		</tr><tr>
 			<td>P5</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td>ALEXANDER JAYRAJ PRAGASAM (5N1)</td>
 		</tr>
 <tr>
 			<td>P5</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td>   ZHOU LINXI (5N1)</td>
 		</tr>
 		<tr>
 			<td>P5</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td>THANMAYA RANJITH (5N1)</td>
 		</tr>
 				<tr>
 			<td>P5</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td>WAN CHIN YIN (5N2)</td>
 		</tr>
 				<tr>
 			<td>P5</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td> RAPHAEL NAGA ALLENDRA DEPARI (5N2)</td>
 		</tr>
 				<tr>
 			<td>P6</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td> RAYNE KUAN (6G1)</td>
 		</tr>
 						<tr>
 			<td>P6</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td>   CAI YUZHE (6G1)</td>
 		</tr>
 						<tr>
 			<td>P6</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td>   PYAE PYAE (6G1)</td>
 		</tr>
 						<tr>
 			<td>P6</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td>   LEE DO YOUNG (6G1)</td>
 		</tr>
 						<tr>
 			<td>P6</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td>   MARAMREDDY AKSHAR REDDY (6G2)</td>
 		</tr>
 						<tr>
 			<td>P6</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td>   RAYNA FILZA AQEELAH MUFTAZANI (6G2)</td>
 		</tr>
 						<tr>
 			<td>P6</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td>   VEDANTH MUNIRAJU (6G2)</td>
 		</tr>
 						<tr>
 			<td>P6</td>
-			<td>Bronze Awardee</td>
+			<td>Bronze </td>
 			<td>   NGUYEN CHUNG KHAI HUY (6G4)</td>
 		</tr>
 </tbody></table>
