@@ -192,11 +192,7 @@ table, th, td {
 		<th style="width: 40%">Email</th><td>
   </td></tr>
 <tr>
-	<td rowspan="2">3R1</td>
-	<td>Oliveiro Lavinia Janell</td>
-	<td>oliveiro_lavinia_janell@schools.gov.sg</td>
-	</tr>
-	<tr>
+	<td rowspan="1">3R1</td>
 	<td>Mr Chao Wei Nien</td>
 	<td>chao_wei_nien@schools.gov.sg</td>
 
