@@ -129,11 +129,7 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="2">2P4</td>
-	<td>Mdm Jumidah Binte Mohd Said</td>
-	<td>jumidah_mohd_said@schools.gov.sg</td>
-	</tr>
-	<tr>
+	<td rowspan="1">2P4</td>
 	<td>Mdm Shakilah Nite Mohamed Ansari</td>
 	<td>shakilah_mohamed_ansari@schools.gov.sg</td>
 
