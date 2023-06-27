@@ -362,7 +362,7 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="2">5N5</td>
+	<td rowspan="3">5N5</td>
 	<td>Mr Muhammad Fahmi Bin Fo’att</td>
 	<td>muhammad_fahmi_foatt@schools.gov.sg</td>
 	</tr>
@@ -371,7 +371,11 @@ table, th, td {
 	<td>syaza_mohd_sallehuddin@schools.gov.sg</td>
 
 </tr>
+	<tr>
+	<td>Mr Lukman Hakim Bin Mahmood</td>
+	<td>lukman_hakim_b_mahmood@schools.gov.sg</td>
 
+</tr>
 </tbody></table>
 <br>
 <b><u>Primary 6</u></b>
