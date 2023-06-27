@@ -295,16 +295,6 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 </tbody></table>
 
 
-![](/images/math6.png)
-![](/images/math7.png)
-
-**River Valley Mathematics Challenge**  
-  
-A team of Primary 6 students had participated in River Valley High School Mathematics Challenge 2022. They were challenged to complete 4 task stations based on Primary Mathematics topics such as Arithmetic and Geometry, as well as logic.
-
-![](/images/math8.png)
-![](/images/math9.png)
-
 #### Important Links
 
 *   [Primary School Mathematics Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf)
