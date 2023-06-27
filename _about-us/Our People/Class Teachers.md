@@ -37,24 +37,15 @@ table, th, td {
 		<th style="width: 40%">Email</th><td>
   </td></tr>
 <tr>
-	<td rowspan="2">1S1</td>
-	<td>Mdm Chui Wen Yan, Wendy</td>
-	<td>chui_wenyan@schools.gov.sg</td>
-	</tr>
-	<tr>
+	<td rowspan="1">1S1</td>
 	<td>Mdm Siti Nafisa Binte Mohd Daud</td>
 	<td>siti_nafisa_mohd_daud@schools.gov.sg</td>
 
 </tr>
 <tr>
-	<td rowspan="2">1S2</td>
+	<td rowspan="1">1S2</td>
 	<td>Miss Chew Chi Yin</td>
 	<td>chew_chi_yin@schools.gov.sg</td>
-	</tr>
-	<tr>
-	<td>Mdm Khairunnisa Binte Mohamed</td>
-	<td>khairunnisa_mohamed@schools.gov.sg</td>
-
 </tr>
 <tr>
 	<td rowspan="2">1S3</td>
@@ -129,8 +120,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">2P3</td>
-	<td>Mdm Sim Mui Liang (Eunice)</td>
-	<td>sim_mui_liang@schools.gov.sg</td>
+	<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
+	<td>linda_tay_mei_hong@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Noornisha</td>
@@ -138,11 +129,7 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="2">2P4</td>
-	<td>Mdm Jumidah Binte Mohd Said</td>
-	<td>jumidah_mohd_said@schools.gov.sg</td>
-	</tr>
-	<tr>
+	<td rowspan="1">2P4</td>
 	<td>Mdm Shakilah Nite Mohamed Ansari</td>
 	<td>shakilah_mohamed_ansari@schools.gov.sg</td>
 
@@ -153,8 +140,8 @@ table, th, td {
 	<td>hairina_hamzah@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Ms Audrey Yow Ting Ting</td>
-	<td>yow_ting_ting@schools.gov.sg</td>
+	<td>Mdm Oliveiro Lavinia Janell</td>
+	<td>oliveiro_lavinia_janell@schools.gov.sg</td>
 
 </tr>
 <tr>
@@ -163,8 +150,8 @@ table, th, td {
 	<td>peh_poh_li@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Linda Tay Mei Hong (Mrs Goh)</td>
-	<td>linda_tay_mei_hong@schools.gov.sg</td>
+	<td>Mdm Yow Ting Ting (Audrey)</td>
+	<td>yow_ting_ting@schools.gov.sg</td>
 
 </tr>
 <tr>
@@ -205,11 +192,7 @@ table, th, td {
 		<th style="width: 40%">Email</th><td>
   </td></tr>
 <tr>
-	<td rowspan="2">3R1</td>
-	<td>Oliveiro Lavinia Janell</td>
-	<td>oliveiro_lavinia_janell@schools.gov.sg</td>
-	</tr>
-	<tr>
+	<td rowspan="1">3R1</td>
 	<td>Mr Chao Wei Nien</td>
 	<td>chao_wei_nien@schools.gov.sg</td>
 
@@ -276,7 +259,7 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="2">4I1</td>
-	<td>Mrs Tan Wui Ling</td>
+	<td>Mdm Tan Wui Ling (Mrs Lee)</td>
 	<td>tan_wui_ling@schools.gov.sg</td>
 	</tr>
 	<tr>
@@ -285,7 +268,7 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="3">4I2</td>
+	<td rowspan="2">4I2</td>
 	<td>Mdm Ang Pei Ying Janice (Mrs Keng)</td>
 	<td>ang_pei_ying_janice@schools.gov.sg</td>
 	</tr>
@@ -294,17 +277,8 @@ table, th, td {
 	<td>yeo_xueli_sally@schools.gov.sg</td>
 
 </tr>
-	<tr>
-	<td>Mdm Rahmah Binte Rosdi</td>
-	<td>rahmah_rosdi@schools.gov.sg</td>
-
-</tr>
 <tr>
-	<td rowspan="2">4I3</td>
-	<td>Mdm Siti Aisha Abdul Latiff</td>
-	<td>siti_aisha_abdul_latiff@schools.gov.sg</td>
-	</tr>
-	<tr>
+	<td rowspan="1">4I3</td>
 	<td>Ms Lee Sook San</td>
 	<td>lee_sook_san@schools.gov.sg</td>
 
@@ -367,11 +341,7 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="2">5N3</td>
-	<td>Mr Lukman Hakim</td>
-	<td>lukman_hakim_b_mahmood@schools.gov.sg</td>
-	</tr>
-	<tr>
+	<td rowspan="1">5N3</td>
 	<td>Mdm Jumaeyah Bte Zainal Abidin</td>
 	<td>jumaeyah_zainalabidin@schools.gov.sg</td>
 
@@ -392,7 +362,7 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="2">5N5</td>
+	<td rowspan="3">5N5</td>
 	<td>Mr Muhammad Fahmi Bin Fo’att</td>
 	<td>muhammad_fahmi_foatt@schools.gov.sg</td>
 	</tr>
@@ -401,7 +371,11 @@ table, th, td {
 	<td>syaza_mohd_sallehuddin@schools.gov.sg</td>
 
 </tr>
+	<tr>
+	<td>Mr Lukman Hakim Bin Mahmood</td>
+	<td>lukman_hakim_b_mahmood@schools.gov.sg</td>
 
+</tr>
 </tbody></table>
 <br>
 <b><u>Primary 6</u></b>
@@ -423,18 +397,13 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="3">6G2</td>
+	<td rowspan="2">6G2</td>
 	<td>Miss Phua Su Hui, Sheramin</td>
 	<td>sheramin_phua_su_hui@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Xu Haiyan</td>
 	<td>xu_haiyan@schools.gov.sg</td>
-
-</tr>
-	<tr>
-	<td>Mdm Rahmah Binte Rosdi</td>
-	<td>rahmah_rosdi@schools.gov.sg</td>
 
 </tr>
 <tr>
