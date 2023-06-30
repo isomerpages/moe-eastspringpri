@@ -35,4 +35,4 @@ url: /some\-page\-b/
 
 \- title: External Subitem 3
 
-url: https://www.site.com/url/to/page/
+url: https://sites.google.com/moe.edu.sg/
