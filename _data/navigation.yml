@@ -14,7 +14,7 @@ links:
     collection: students
   - title: Staff
     collection: staff
-  - title: Partership
+  - title: Partership Menu
     url: https://cms.isomer.gov.sg/sites/moe-eastspringpri/folders/partnership/editPage/Partnership.md
     sublinks:
       - title: External Link To Go
