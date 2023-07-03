@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - ESPS Term Letter/ESPS Term Letter.md
       - ESPS Term Letter/.keep
       - Partnership.md
       - P1 Registration/Primary 1 Registration.md
