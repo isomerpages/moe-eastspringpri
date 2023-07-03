@@ -19,3 +19,5 @@ links:
     sublinks:
       - title: Partnerhip
         url: https://cms.isomer.gov.sg/sites/moe-eastspringpri/folders/partnership/editPage/Partnership.md
+      - title: Submenu Title
+        url: /permalink
