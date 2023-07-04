@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - (SLS) Student Learning Space.md
       - ICT Support Page/SLS Password Reset.md
       - ICT Support Page/Student iCON Account.md
       - ICT Support Page/.keep
