@@ -14,7 +14,8 @@ background-color: lightgoldenrodyellow;
 <table style="width:100%">
   <tbody><tr>
 
-<th>### East Spring Primary School
+<th>
+East Spring Primary School
 
 31 Tampines Street 33
 
