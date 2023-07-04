@@ -2,24 +2,19 @@ collections:
   partnership:
     output: true
     order:
-      - Partnership.md
       - P1 Registration/Primary 1 Registration.md
       - P1 Registration/.keep
       - P1 Registration/ESPS E Open House.md
       - P1 Registration/Primary 1 Orientation.md
-      - Parents Briefing Slides.md
-      - Assessment Matters.md
       - Parents Gateway Onboarding.md
       - Programmes and Workshop/Focusing on our Children's Strength.md
       - Programmes and Workshop/.keep
       - Programmes and Workshop/Making of EcoEnzyme using Orange or Lemon
         Peels.md
       - Programmes and Workshop/CyberWellness Tips for Parents.md
-      - Edusave Character Award.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Volunteers.md
       - Parent Support Group/PSG Registration.md
-      - School Vendor Information.md
       - Download Forms/.keep
       - Download Forms/Download Forms.md
       - Download Forms/Financial Assistance.md
