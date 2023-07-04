@@ -1,7 +1,4 @@
 collections:
   students:
     output: true
-    order:
-      - ICT Support Page/SLS Password Reset.md
-      - ICT Support Page/Student iCON Account.md
-      - ICT Support Page/.keep
+    order: []
