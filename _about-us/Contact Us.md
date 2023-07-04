@@ -31,7 +31,7 @@ Singapore 529258
 <br><br>
 Tel: 6786 6192
 <br><br>
-**_General Office Opening Hours_&nbsp;&nbsp;:**
+	<b><u>General Office Opening Hours&nbsp;&nbsp;:</u></b>
 <br><br>
 Normal School Day: 7.15 a.m. - 5.00 p.m.
 <br><br>
