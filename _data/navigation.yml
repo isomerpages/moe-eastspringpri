@@ -38,4 +38,7 @@ links:
   - title: Students
     collection: students
   - title: Staff
-    collection: staff
+    url: https://sites.google.com/moe.edu.sg/e-springportal/staff/open-classroom?authuser=0
+    sublinks:
+      - title: ESPS Gogle Site
+        url: https://sites.google.com/moe.edu.sg/e-springportal/staff/open-classroom?authuser=0
