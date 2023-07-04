@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - KooBits.md
       - eZhishi.md
       - Pazhahu Tamil.md
       - Google Classroom.md
