@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Pazhahu Tamil.md
       - Google Classroom.md
       - (SLS) Student Learning Space.md
       - ICT Support Page/SLS Password Reset.md
