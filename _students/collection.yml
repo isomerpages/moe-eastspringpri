@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - eZhishi.md
       - Pazhahu Tamil.md
       - Google Classroom.md
       - (SLS) Student Learning Space.md
