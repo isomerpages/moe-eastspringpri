@@ -1,6 +1,6 @@
 ---
 title: Primary 1 Orientation
-permalink: /parents/p1-registration/primary-1-orientation/
+permalink: /parents/primary-1-orientation/
 description: ""
 ---
 Document for Parents
