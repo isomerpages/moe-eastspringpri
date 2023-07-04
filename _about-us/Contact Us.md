@@ -4,10 +4,14 @@ permalink: /about-us/Contact-Us/
 description: ""
 ---
 <style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-background-color: lightgoldenrodyellow;
+table, th {
+	background-color: lightgoldenrodyellow;
+	font-size: 30px;
+	
+}
+	td {
+  border-bottom: 1px solid #CDC1A7;
+	font-size: 20px;
 }
 </style>
 
@@ -18,7 +22,7 @@ East Spring Primary School
 		</th>
 </tr></tbody></table><table style="width:100%">
   <tbody><tr>
-<th>
+<td>
 31 Tampines Street 33
 
 Singapore 529258
@@ -44,6 +48,6 @@ School Website: [https://eastspringpri.moe.edu.sg](https://eastspringpri.moe.edu
 **Enquiry / Feedback**
 
 Please mention your child's name and class in your message if your enquiry pertains to your child. Kindly email us at [esps@moe.edu.sg](esps@moe.edu.sg)
-		</th>
+		</td>
 	</tr>
 </tbody></table>
