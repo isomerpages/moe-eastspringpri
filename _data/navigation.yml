@@ -8,13 +8,7 @@ links:
     collection: cca
   - title: Niche Programme
     collection: niche-programme
-  - title: Partnership
-    collection: partnership
-  - title: Students
-    collection: students
-  - title: Staff
-    collection: staff
-  - title: Partership Menu
+  - title: Partership
     url: Permalink
     sublinks:
       - title: Partnerhip
@@ -41,3 +35,7 @@ links:
         url: /parents/School-Vendor-Information/
       - title: Download Forms
         url: https://sites.google.com/moe.edu.sg/download-forms/home
+  - title: Students
+    collection: students
+  - title: Staff
+    collection: staff
