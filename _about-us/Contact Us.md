@@ -12,6 +12,7 @@ table, th {
 	td {
   border-bottom: 1px solid #CDC1A7;
 	font-size: 20px;
+	padding: 5px;
 }
 </style>
 
