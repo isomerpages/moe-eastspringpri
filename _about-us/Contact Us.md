@@ -51,8 +51,8 @@ School Website:
 <br><br>
 <b><u>Enquiry / Feedback</u></b>
 <br><br>
-Please mention your child's name and class in your message if your enquiry pertains to your child. Kindly email us at [esps@moe.edu.sg](esps@moe.edu.sg)
+Please mention your child's name and class in your message if your enquiry pertains to your child. Kindly email us at 	    <a href="mailto:esps@moe.edu.sg">esps@moe.edu.sg
 	<br>
-		</td>
+		</a></td>
 	</tr>
 </tbody></table>
