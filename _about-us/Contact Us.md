@@ -19,7 +19,7 @@ table, th {
 <table style="width:100%">
   <tbody><tr>
 <th>
-	<b>East Spring Primary School</b>
+	<u>East Spring Primary School</u>
 		</th>
 </tr></tbody></table><table style="width:100%">
   <tbody><tr>
