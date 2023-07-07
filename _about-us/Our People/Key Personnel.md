@@ -35,7 +35,7 @@ table, th, td {
 	</tr>
 </tbody></table>
 
-
+<br>
 <table style="width:100%">
   <tbody><tr>
     <th style="width: 30%">Student Development Team (SDT)</th>
@@ -95,7 +95,7 @@ table, th, td {
 
 </tbody></table>
 
-
+<br>
 
 <table style="width:100%">
   <tbody><tr>
@@ -124,7 +124,7 @@ table, th, td {
 		<td>ng_hui_peng@schools.gov.sg</td>
 	</tr>		
 </tbody></table>
-
+<br>
 <table style="width:100%">
   <tbody><tr>
     <th style="width: 30%">Mother Tongue</th>
@@ -153,7 +153,7 @@ table, th, td {
 	</tr>		
 </tbody></table>
 
-
+<br>
 
 <table style="width:100%">
   <tbody><tr>
@@ -175,7 +175,7 @@ table, th, td {
 
 </tr></tbody></table>
 
-
+<br>
 
 <table style="width:100%">
   <tbody><tr>
@@ -205,7 +205,7 @@ table, th, td {
 	</tr>		
 </tbody></table>
 
-
+<br>
 
 <table style="width:100%">
   <tbody><tr>
@@ -221,7 +221,7 @@ table, th, td {
 
 </tbody></table>
 
-
+<br>
 
 <table style="width:100%">
   <tbody><tr>
@@ -237,7 +237,7 @@ table, th, td {
 
 </tbody></table>
 
-
+<br>
 
 <table style="width:100%">
   <tbody><tr>
