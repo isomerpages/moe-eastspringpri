@@ -40,4 +40,11 @@ sections:
       url: https://staging.d2u1zetbqqqiby.amplifyapp.com/parents/parents-briefing-slides/
       alt: Image alt text
       image: /images/Parents Briefing/picture6.png
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have A Question?
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/esps
+      image: /images/esps-askgov.png
+      alt: Image alt text
 ---
