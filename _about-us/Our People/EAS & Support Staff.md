@@ -8,7 +8,7 @@ third_nav_title: Our People
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  background-color: lightgoldenrodyellow;
+  background-color: white;
 }
 
 </style>
