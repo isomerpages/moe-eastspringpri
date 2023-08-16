@@ -75,8 +75,8 @@ table, th, td {
 	<tr>
 	<td>Mdm Nadirah Binte Baharin</td>
 	<td>nadirah_baharin@schools.gov.sg</td>
-
 </tr>
+	
 <tr>
 	<td rowspan="2">1S6</td>
 	<td>Mdm Siti Farhana Subandi</td>
@@ -87,8 +87,8 @@ table, th, td {
 	<td>huang_linlin@schools.gov.sg</td>
 
 </tr>
-
 </tbody></table>
+
 <br>
 <b><u>Primary 2</u></b>
 
@@ -155,10 +155,11 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="2">2P7</td>
+	<td>2P7</td>
 	<td>Mdm Nurarfah Binte Sudirman</td>
 	<td>nurarfah_sudirman@schools.gov.sg</td>
 	</tr>
+	
 	<tr>
 	<td>Miss Wee Wanqing</td>
 	<td>wee_wanqing@schools.gov.sg</td>
