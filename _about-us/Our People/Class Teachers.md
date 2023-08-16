@@ -21,7 +21,7 @@ table, th, td {
 	<td>marhamah_yusof@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td><b>Assistant Year Head (Int)</b></td>
+	<td><b>Assistant Year Head</b></td>
 	<td>Mdm Shakilah Binte Mohamed Ansari</td>
     <td>shakilah_mohamed_ansari@schools.gov.sg</td>
 	</tr>
@@ -176,7 +176,7 @@ table, th, td {
 	<td>loo_leong_tuan@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td><b>Assistant Year Head (Int)</b></td>
+	<td><b>Assistant Year Head</b></td>
 	<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
     <td>yeo_xueli_sally@schools.gov.sg</td>
 	</tr>
