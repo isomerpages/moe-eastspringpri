@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid #D3D3D3;
   border-collapse: collapse;
   background-color: white;
 }
@@ -75,8 +75,8 @@ table, th, td {
 	<tr>
 	<td>Mdm Nadirah Binte Baharin</td>
 	<td>nadirah_baharin@schools.gov.sg</td>
-
 </tr>
+	
 <tr>
 	<td rowspan="2">1S6</td>
 	<td>Mdm Siti Farhana Subandi</td>
@@ -87,8 +87,8 @@ table, th, td {
 	<td>huang_linlin@schools.gov.sg</td>
 
 </tr>
-
 </tbody></table>
+
 <br>
 <b><u>Primary 2</u></b>
 

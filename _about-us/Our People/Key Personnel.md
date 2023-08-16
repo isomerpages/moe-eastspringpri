@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 <style>
 table, th, td {
-  border: 1px solid black;
+  border:  1px solid #D3D3D3;
   border-collapse: collapse;
   background-color: white;
 }
@@ -23,7 +23,7 @@ table, th, td {
 <tr>
 	<td>Principal</td>
 	<td>Mr Wong Kin Mun</td>
-	<td>esps@moe.edu.sg</td>
+	<td rowspan="3">esps@moe.edu.sg</td>
 	</tr>
 	<tr>
 	<td>Vice-Principal (Acad)</td>
