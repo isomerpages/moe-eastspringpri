@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 table, th, td {
-
+	border: 1px solid #D3D3D3;
   border-collapse: collapse;
   background-color: white;
 	text-align: justify;
