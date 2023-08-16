@@ -209,6 +209,11 @@ table, th, td {
 			<td>Mr Tock Swee Guan William</td>
 		<td>tock_swee_guan_william@schools.gov.sg</td>
 	</tr>	
+					<tr>
+	<td>Senior Teacher - Lower Primary</td>
+			<td>Mdm Noor Zehan Bte Mohamed Rashid</td>
+		<td>noor_zehan_mohamed_rashid@schools.gov.sg</td>
+	</tr>	
 </tbody></table>
 
 <br>
