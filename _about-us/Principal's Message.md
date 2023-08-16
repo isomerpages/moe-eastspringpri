@@ -7,7 +7,7 @@ description: ""
 table, th, td {
 
   border-collapse: collapse;
-  background-color: lightgoldenrodyellow;
+  background-color: white;
 	text-align: justify;
 }
 .container {
