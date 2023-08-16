@@ -83,37 +83,37 @@ table, th, td {
 		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 <tr>
-	<td>Head of Department</td>
+	<td>HOD / English Language</td>
 	<td>Mdm Smita Quintal Kaur</td>
 	<td>smita_quintal_kaur@schools.gov.sg</td>
 	</tr>
 <tr>
-	<td>Head of Department</td>
+	<td>HOD /  HOD Mathematics</td>
 	<td>Mdm Sandra Foo Wei Sze (Mrs Ong)</td>
 	<td>foo_wei_sze_sandra@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Head of Department</td>
+	<td>HOD / Mother Tongue Languages</td>
 	<td>Miss Teo Sok San Susan</td>
 	<td>teo_sok_san_susan@schools.gov.sg</td>
 	</tr>
 <tr>
-	<td>Head of Department</td>
+	<td>HOD / Science</td>
 	<td>Miss Lee Sook San</td>
 	<td>lee_sook_san@schools.gov.sg</td>
 	</tr>
 <tr>
-	<td>Head of Department</td>
+	<td>HOD / Physical Education, CCA &amp; Aesthetics</td>
 	<td>Mr Bryan Chao Wei Nien</td>
 	<td>chao_wei_nien@schools.gov.sg</td>
 	</tr>
 <tr>
-	<td>Head of Department</td>
+	<td>HOD / CCE</td>
 	<td>Mr Lukman Hakim Bin Mahmood</td>
 	<td>lukman_hakim_b_mahmood@schools.gov.sg</td>
 	</tr>
 <tr>
-	<td>Head of Department</td>
+	<td>HOD / ICT</td>
 	<td>Miss Lee Yen Lin Jenny</td>
 	<td>lee_yen_lin_jenny@schools.gov.sg</td>
 	</tr>
