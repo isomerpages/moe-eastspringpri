@@ -128,7 +128,7 @@ table, th, td {
 		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 	<tr>
-	<td>Lead Teacher</td>
+	<td>LT / Maths</td>
 			<td>Mdm Chan Pui Ping</td>
 		<td>chan_pui_ping@schools.gov.sg</td>
 	</tr>
@@ -142,22 +142,22 @@ table, th, td {
 		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 			<tr>
-	<td>Level Head</td>
+	<td>LH / English</td>
 			<td>Mdm Koh Hui Ling Valerie</td>
 		<td>koh_hui_ling_valerie@schools.gov.sg</td>
 		</tr>
 			<tr>
-	<td>Level Head</td>
+	<td>LH / Maths</td>
 			<td>Miss Sheramin Phua Su Hui</td>
 		<td>sheramin_phua_su_hui@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Level Head</td>
+	<td>LH / Science</td>
 			<td>Mdm Seah Wei Shan (Mrs Sim)</td>
 		<td>seah_wei_shan@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Level Head - Chinese Language</td>
+	<td>LH - Chinese Language</td>
 			<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
 		<td>linda_tay_mei_hong@schools.gov.sg</td>
 	</tr>
@@ -170,12 +170,12 @@ table, th, td {
 		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 			<tr>
-	<td>Subject Head&nbsp;(PE/CCA)</td>
+	<td>SH / (PE/CCA)</td>
 			<td>Mr Choo Yew Teck</td>
 		<td>choo_yew_teck@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Subject Head&nbsp; (Aesthetics)</td>
+	<td>SH / (Aesthetics)</td>
 			<td>Mdm Syaza Bte Mohd Sallehuddin</td>
 		<td>syaza_mohd_sallehuddin@schools.gov.sg</td>
 	</tr>
@@ -190,27 +190,27 @@ table, th, td {
 		<th style="width: 40%">Email Address</th><td>
   </td></tr>
 			<tr>
-	<td>Senior Teacher</td>
+	<td>ST / Maths</td>
 			<td>Miss Ng Hui Peng</td>
 		<td>ng_hui_peng@schools.gov.sg</td>
 	</tr>	
 			<tr>
-	<td>Senior Teacher - Malay Language</td>
+	<td>ST / Malay Language</td>
 			<td>Mdm Azah Bte Abdul Aziz</td>
 		<td>azah_abdul_aziz@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Senior Teacher - Chinese Language</td>
+	<td>ST / Chinese Language</td>
 			<td>Mdm Huang Lin Lin</td>
 		<td>huang_linlin@schools.gov.sg</td>
 	</tr>		
 			<tr>
-	<td>Senior Teacher - Art</td>
+	<td>ST / Art</td>
 			<td>Mr Tock Swee Guan William</td>
 		<td>tock_swee_guan_william@schools.gov.sg</td>
 	</tr>	
 					<tr>
-	<td>Senior Teacher - Lower Primary</td>
+	<td>ST / Lower Primary</td>
 			<td>Mdm Noor Zehan Bte Mohamed Rashid</td>
 		<td>noor_zehan_mohamed_rashid@schools.gov.sg</td>
 	</tr>	
