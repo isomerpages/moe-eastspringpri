@@ -124,7 +124,7 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 30%">Lead Head</th>
+    <th style="width: 30%">Lead Teacher</th>
     <th style="width: 30%">Name</th>
 		<th style="width: 40%">Email Address</th><td>
   </td></tr>
