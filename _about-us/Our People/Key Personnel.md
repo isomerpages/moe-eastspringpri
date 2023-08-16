@@ -8,7 +8,7 @@ third_nav_title: Our People
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  background-color: lightgoldenrodyellow;
+  background-color: white;
 }
 
 </style>
@@ -23,7 +23,7 @@ table, th, td {
 <tr>
 	<td>Principal</td>
 	<td>Mr Wong Kin Mun</td>
-	<td rowspan="3">esps@moe.edu.sg</td>
+	<td>esps@moe.edu.sg</td>
 	</tr>
 	<tr>
 	<td>Vice-Principal (Acad)</td>
@@ -74,11 +74,11 @@ table, th, td {
 	</tr>				
 </tbody></table>
 
-<b><u>Department</u></b>
+
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 30%">English</th>
+    <th style="width: 30%">Head of Department</th>
     <th style="width: 30%">Name</th>
 		<th style="width: 40%">Email Address</th><td>
   </td></tr>
@@ -87,84 +87,69 @@ table, th, td {
 	<td>Mdm Smita Quintal Kaur</td>
 	<td>smita_quintal_kaur@schools.gov.sg</td>
 	</tr>
-	<tr>
-	<td>Level Head</td>
-			<td>Mdm Koh Hui Ling Valerie</td>
-		<td>koh_hui_ling_valerie@schools.gov.sg</td>
-	</tr>
-
-</tbody></table>
-
-<br>
-
-<table style="width:100%">
-  <tbody><tr>
-    <th style="width: 30%">Mathematics</th>
-    <th style="width: 30%">Name</th>
-		<th style="width: 40%">Email Address</th><td>
-  </td></tr>
 <tr>
 	<td>Head of Department</td>
 	<td>Mdm Sandra Foo Wei Sze (Mrs Ong)</td>
 	<td>foo_wei_sze_sandra@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Level Head</td>
-			<td>Miss Sheramin Phua Su Hui</td>
-		<td>sheramin_phua_su_hui@schools.gov.sg</td>
+	<td>Head of Department</td>
+	<td>Miss Teo Sok San Susan</td>
+	<td>teo_sok_san_susan@schools.gov.sg</td>
 	</tr>
+<tr>
+	<td>Head of Department</td>
+	<td>Miss Lee Sook San</td>
+	<td>lee_sook_san@schools.gov.sg</td>
+	</tr>
+<tr>
+	<td>Head of Department</td>
+	<td>Mr Bryan Chao Wei Nien</td>
+	<td>chao_wei_nien@schools.gov.sg</td>
+	</tr>
+<tr>
+	<td>Head of Department</td>
+	<td>Mr Lukman Hakim Bin Mahmood</td>
+	<td>lukman_hakim_b_mahmood@schools.gov.sg</td>
+	</tr>
+<tr>
+	<td>Head of Department</td>
+	<td>Miss Lee Yen Lin Jenny</td>
+	<td>lee_yen_lin_jenny@schools.gov.sg</td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width: 30%">Lead Teacher</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
+  </td></tr>
 	<tr>
 	<td>Lead Teacher</td>
 			<td>Mdm Chan Pui Ping</td>
 		<td>chan_pui_ping@schools.gov.sg</td>
 	</tr>
-	<tr>
-	<td>Senior Teacher</td>
-			<td>Miss Ng Hui Peng</td>
-		<td>ng_hui_peng@schools.gov.sg</td>
-	</tr>		
-</tbody></table>
-<br>
-<table style="width:100%">
-  <tbody><tr>
-    <th style="width: 30%">Mother Tongue</th>
-    <th style="width: 30%">Name</th>
-		<th style="width: 40%">Email Address</th><td>
-  </td></tr>
-<tr>
-	<td>Head of Department</td>
-	<td>Miss Teo Sok San Susan</td>
-	<td>teo_sok_san_susan@schools.gov.sg</td>
-	</tr>
-	<tr>
-	<td>Level Head - Chinese Language</td>
-			<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
-		<td>linda_tay_mei_hong@schools.gov.sg</td>
-	</tr>
-	<tr>
-	<td>Senior Teacher - Malay Language</td>
-			<td>Mdm Azah Bte Abdul Aziz</td>
-		<td>azah_abdul_aziz@schools.gov.sg</td>
-	</tr>
-	<tr>
-	<td>Senior Teacher - Chinese Language</td>
-			<td>Mdm Huang Lin Lin</td>
-		<td>huang_linlin@schools.gov.sg</td>
-	</tr>		
 </tbody></table>
 
 <br>
-
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 30%">Science</th>
+    <th style="width: 30%">Level Head</th>
     <th style="width: 30%">Name</th>
 		<th style="width: 40%">Email Address</th><td>
   </td></tr>
-<tr>
-	<td>Head of Department</td>
-	<td>Miss Lee Sook San</td>
-	<td>lee_sook_san@schools.gov.sg</td>
+			<tr>
+	<td>Level Head</td>
+			<td>Mdm Koh Hui Ling Valerie</td>
+		<td>koh_hui_ling_valerie@schools.gov.sg</td>
+		</tr>
+			<tr>
+	<td>Level Head</td>
+			<td>Miss Sheramin Phua Su Hui</td>
+		<td>sheramin_phua_su_hui@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Level Head</td>
@@ -172,23 +157,19 @@ table, th, td {
 		<td>seah_wei_shan@schools.gov.sg</td>
 	</tr>
 	<tr>
-
-</tr></tbody></table>
-
-<br>
+	<td>Level Head - Chinese Language</td>
+			<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
+		<td>linda_tay_mei_hong@schools.gov.sg</td>
+	</tr>
+</tbody></table><br>
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width: 30%">Physical Education, Art and Music</th>
+    <th style="width: 30%">Subject Head</th>
     <th style="width: 30%">Name</th>
 		<th style="width: 40%">Email Address</th><td>
   </td></tr>
-<tr>
-	<td>Head of Department</td>
-	<td>Mr Bryan Chao Wei Nien</td>
-	<td>chao_wei_nien@schools.gov.sg</td>
-	</tr>
-	<tr>
+			<tr>
 	<td>Subject Head&nbsp;(PE/CCA)</td>
 			<td>Mr Choo Yew Teck</td>
 		<td>choo_yew_teck@schools.gov.sg</td>
@@ -198,46 +179,45 @@ table, th, td {
 			<td>Mdm Syaza Bte Mohd Sallehuddin</td>
 		<td>syaza_mohd_sallehuddin@schools.gov.sg</td>
 	</tr>
+</tbody></table><br>
+
+
+
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width: 30%">Senior Teacher</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
+  </td></tr>
+			<tr>
+	<td>Senior Teacher</td>
+			<td>Miss Ng Hui Peng</td>
+		<td>ng_hui_peng@schools.gov.sg</td>
+	</tr>	
+			<tr>
+	<td>Senior Teacher - Malay Language</td>
+			<td>Mdm Azah Bte Abdul Aziz</td>
+		<td>azah_abdul_aziz@schools.gov.sg</td>
+	</tr>
 	<tr>
+	<td>Senior Teacher - Chinese Language</td>
+			<td>Mdm Huang Lin Lin</td>
+		<td>huang_linlin@schools.gov.sg</td>
+	</tr>		
+			<tr>
 	<td>Senior Teacher - Art</td>
 			<td>Mr Tock Swee Guan William</td>
 		<td>tock_swee_guan_william@schools.gov.sg</td>
-	</tr>		
+	</tr>	
+					<tr>
+	<td>Senior Teacher - Lower Primary</td>
+			<td>Mdm Noor Zehan Bte Mohamed Rashid</td>
+		<td>noor_zehan_mohamed_rashid@schools.gov.sg</td>
+	</tr>	
 </tbody></table>
 
 <br>
 
-<table style="width:100%">
-  <tbody><tr>
-    <th style="width: 30%">CCE (Character and Citizenship Education)</th>
-    <th style="width: 30%">Name</th>
-		<th style="width: 40%">Email Address</th><td>
-  </td></tr>
-<tr>
-	<td>Head of Department</td>
-	<td>Mr Lukman Hakim Bin Mahmood</td>
-	<td>lukman_hakim_b_mahmood@schools.gov.sg</td>
-	</tr>
-
-</tbody></table>
-
-<br>
-
-<table style="width:100%">
-  <tbody><tr>
-    <th style="width: 30%">Information and Communicaton Technology (ICT)</th>
-    <th style="width: 30%">Name</th>
-		<th style="width: 40%">Email Address</th><td>
-  </td></tr>
-<tr>
-	<td>Head of Department</td>
-	<td>Miss Lee Yen Lin Jenny</td>
-	<td>lee_yen_lin_jenny@schools.gov.sg</td>
-	</tr>
-
-</tbody></table>
-
-<br>
 
 <table style="width:100%">
   <tbody><tr>

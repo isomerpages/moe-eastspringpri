@@ -8,7 +8,7 @@ third_nav_title: Our People
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  background-color: lightgoldenrodyellow;
+  background-color: white;
 }
 
 </style>
@@ -66,11 +66,16 @@ table, th, td {
     <td></td>
 	</tr>
 	<tr>
+	<td>Corporate Support Officer (Adjunct)</td>
+	<td>Miss Syaheera Beevi Binte Mohamed</td>
+    <td>Syaheera_Beevi_Mohamed@schools.gov.sg</td>
+	</tr>	<tr>
 	<td>Adjunct ICT Associate</td>
 	<td>Mr Lai Wai Kien</td>
     <td>lai_wai_kien@schools.gov.sg</td>
 	</tr>
 </tbody></table>
+
 <br>
 <b><u>Allied Educator</u></b>
 

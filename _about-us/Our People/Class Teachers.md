@@ -8,20 +8,20 @@ third_nav_title: Our People
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  background-color: lightgoldenrodyellow;
+  background-color: white;
 }
 
 </style>
 
 <table style="width:100%">
-  <tbody>
-<tr>
+
+<tbody><tr>
 	<td><b>Year Head (Lower Primary)</b></td>
 	<td>Mdm Marhamah Binte Yusof</td>
 	<td>marhamah_yusof@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td><b>Assistant Year Head (Int)</b></td>
+	<td><b>Assistant Year Head</b></td>
 	<td>Mdm Shakilah Binte Mohamed Ansari</td>
     <td>shakilah_mohamed_ansari@schools.gov.sg</td>
 	</tr>
@@ -31,7 +31,7 @@ table, th, td {
 <b><u>Primary 1</u></b>
 
 <table style="width:100%">
-  <tbody><tr>
+<tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
 		<th style="width: 40%">Email</th><td>
@@ -93,7 +93,7 @@ table, th, td {
 <b><u>Primary 2</u></b>
 
 <table style="width:100%">
-  <tbody><tr>
+<tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
 		<th style="width: 40%">Email</th><td>
@@ -176,7 +176,7 @@ table, th, td {
 	<td>loo_leong_tuan@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td><b>Assistant Year Head (Int)</b></td>
+	<td><b>Assistant Year Head</b></td>
 	<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
     <td>yeo_xueli_sally@schools.gov.sg</td>
 	</tr>
@@ -186,7 +186,7 @@ table, th, td {
 <b><u>Primary 3</u></b>
 <br>
 <table style="width:100%">
-  <tbody><tr>
+<tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
 		<th style="width: 40%">Email</th><td>
@@ -252,7 +252,7 @@ table, th, td {
 <b><u>Primary 4</u></b>
 
 <table style="width:100%">
-  <tbody><tr>
+<tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
 		<th style="width: 40%">Email</th><td>
@@ -298,8 +298,8 @@ table, th, td {
 
 <br>
 <table style="width:100%">
-  <tbody>
-<tr>
+ 
+<tbody><tr>
 	<td><b>Year Head (Upper Primary)</b></td>
 	<td>Mdm Norizan Bte Syed Ahamed</td>
 	<td>norizan_syed_ahamed@schools.gov.sg</td>
@@ -315,7 +315,7 @@ table, th, td {
 <b><u>Primary 5</u></b>
 <br>
 <table style="width:100%">
-  <tbody><tr>
+<tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
 		<th style="width: 40%">Email</th><td>
@@ -377,11 +377,12 @@ table, th, td {
 
 </tr>
 </tbody></table>
+
 <br>
 <b><u>Primary 6</u></b>
 
 <table style="width:100%">
-  <tbody><tr>
+<tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
 		<th style="width: 40%">Email</th><td>
@@ -436,5 +437,4 @@ table, th, td {
 	<td>ng_hui_peng@schools.gov.sg</td>
 
 </tr>
-
 </tbody></table>
