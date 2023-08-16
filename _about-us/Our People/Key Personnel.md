@@ -119,7 +119,6 @@ table, th, td {
 	</tr>
 </tbody></table>
 
-
 <br>
 
 <table style="width:100%">
@@ -135,9 +134,8 @@ table, th, td {
 	</tr>
 </tbody></table>
 
-
-
-<br><table style="width:100%">
+<br>
+<table style="width:100%">
   <tbody><tr>
     <th style="width: 30%">Level Head</th>
     <th style="width: 30%">Name</th>
