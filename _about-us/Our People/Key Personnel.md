@@ -120,8 +120,9 @@ table, th, td {
 </tbody></table>
 
 
+<br>
 
-<br><table style="width:100%">
+<table style="width:100%">
   <tbody><tr>
     <th style="width: 30%">Lead Head</th>
     <th style="width: 30%">Name</th>
@@ -132,15 +133,11 @@ table, th, td {
 			<td>Mdm Chan Pui Ping</td>
 		<td>chan_pui_ping@schools.gov.sg</td>
 	</tr>
+</tbody></table>
 
 
 
-
-
-
-
-
-</tbody></table><br><table style="width:100%">
+<br><table style="width:100%">
   <tbody><tr>
     <th style="width: 30%">Level Head</th>
     <th style="width: 30%">Name</th>
@@ -166,10 +163,9 @@ table, th, td {
 			<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
 		<td>linda_tay_mei_hong@schools.gov.sg</td>
 	</tr>
+</tbody></table><br>
 
-
-
-</tbody></table><br><table style="width:100%">
+<table style="width:100%">
   <tbody><tr>
     <th style="width: 30%">Subject Head</th>
     <th style="width: 30%">Name</th>
@@ -185,13 +181,11 @@ table, th, td {
 			<td>Mdm Syaza Bte Mohd Sallehuddin</td>
 		<td>syaza_mohd_sallehuddin@schools.gov.sg</td>
 	</tr>
+</tbody></table><br>
 
 
 
-
-
-
-</tbody></table><br><table style="width:100%">
+<table style="width:100%">
   <tbody><tr>
     <th style="width: 30%">Senior Teacher</th>
     <th style="width: 30%">Name</th>
@@ -217,14 +211,12 @@ table, th, td {
 			<td>Mr Tock Swee Guan William</td>
 		<td>tock_swee_guan_william@schools.gov.sg</td>
 	</tr>	
-		
+</tbody></table>
+
+<br>
 
 
-		
-		
-		
-		
-</tbody></table><table style="width:100%">
+<table style="width:100%">
   <tbody><tr>
     <th style="width: 30%">Administration &amp; Operation</th>
     <th style="width: 30%">Name</th>
