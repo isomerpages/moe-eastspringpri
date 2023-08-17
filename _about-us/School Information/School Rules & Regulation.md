@@ -45,6 +45,7 @@ third_nav_title: School Information
     *   Lost items should be reported to the teacher-in-charge immediately.
     *   Items found should be returned to the General Office immediately.
     *   Students must be truthful and have the courage to admit and learn from mistakes.
+<br>
 5.  Conduct and Behaviour
     *   All students must queue up for their food in an orderly manner.
     *   All food and drinks are to be consumed in the canteen.
@@ -52,6 +53,7 @@ third_nav_title: School Information
     *   Students must throw litter into the bins provided.
     *   Students are not to buy anything from the vendors once the end-of recess blinkers are switched on.
     *   Students must assemble promptly as soon as the end-of recess blinkers are switched on.
+<br>
 6.  Personal Belongings
     *   Students are responsible for their own belongings at all times.
     *   Students should label their personal belongings (like water bottle, pencil case, shoes, wallets, bags, food containers, etc) with their names and classes.
