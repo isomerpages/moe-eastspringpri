@@ -12,6 +12,7 @@ third_nav_title: School Information
     *   Students will take the National Pledge with the right fist placed over the heart.
     *   School Uniform  
         All students are to wear the prescribed school uniform/PE attire whenever they enter the school premises for all activities. No modification to the school uniform or PE attire is allowed.
+				<br>
 2.  General Appearance
     *   Neat Attire and Hairdo
 
@@ -22,13 +23,14 @@ third_nav_title: School Information
 *   Students should not put on any kind of rings, bangles or fanciful earrings. Only small simple ear studs are permissible (Girls only).
 *   Students reporting for Dental Treatment after/ before curriculum/ during school holidays must be in school uniform/ PE attire.
 *   Students are allowed to remain in their PE attire on days they have P.E. lessons/ Mass Jog.
-    1.  Attendance and Punctuality
+<br>
+3.  Attendance and Punctuality
 *   Attendance is compulsory for all school activities.
 *   Punctuality is to be observed at all times.
 *   Absence from school must be supported by a valid medical certificate from a qualified doctor or a letter from parents/guardians.
 *   Students who are not feeling well and wish to go home must obtain approval from the class teacher. A parent/ guardian must be present to sign out and accompany their child/ ward home.
-
-1.  Conduct and Behaviour – General
+<br>
+4.  Conduct and Behaviour – General
     *   Students must uphold the good name of our school at all times.
     *   All students are to be well-behaved, polite and courteous at all times.
     *   Students who must go to another room during a change of period must do so quietly and in an orderly manner.
