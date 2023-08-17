@@ -12,7 +12,7 @@ third_nav_title: School Information
     *   Students will take the National Pledge with the right fist placed over the heart.
     *   School Uniform  
         All students are to wear the prescribed school uniform/PE attire whenever they enter the school premises for all activities. No modification to the school uniform or PE attire is allowed.
-				<br>
+<br>
 2.  General Appearance
     *   Neat Attire and Hairdo
 
