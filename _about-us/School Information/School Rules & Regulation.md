@@ -6,14 +6,16 @@ third_nav_title: School Information
 ---
 ##### School Rules and Regulations
 
-1.  Compulsory
+**1.  Compulsory**
+
     *   National Anthem and Pledge
     *   Students who are Singapore Citizens must sing the National Anthem and take the Pledge.
     *   Students will take the National Pledge with the right fist placed over the heart.
     *   School Uniform  
         All students are to wear the prescribed school uniform/PE attire whenever they enter the school premises for all activities. No modification to the school uniform or PE attire is allowed.
 
-2.  General Appearance
+**2.  General Appearance**
+
     *   Neat Attire and Hairdo
 
 ![](https://staging.d2u1zetbqqqiby.amplifyapp.com/images/appearance.png)
@@ -31,6 +33,7 @@ third_nav_title: School Information
 *   Students who are not feeling well and wish to go home must obtain approval from the class teacher. A parent/ guardian must be present to sign out and accompany their child/ ward home.
 
 **4.  Conduct and Behaviour – General**
+
     *   Students must uphold the good name of our school at all times.
     *   All students are to be well-behaved, polite and courteous at all times.
     *   Students who must go to another room during a change of period must do so quietly and in an orderly manner.
@@ -47,6 +50,7 @@ third_nav_title: School Information
     *   Students must be truthful and have the courage to admit and learn from mistakes.
 
 **5.  Conduct and Behaviour**
+
     *   All students must queue up for their food in an orderly manner.
     *   All food and drinks are to be consumed in the canteen.
     *   Students must return used crockery, cutlery, cups or bottles to the respective containers provided.
@@ -55,6 +59,7 @@ third_nav_title: School Information
     *   Students must assemble promptly as soon as the end-of recess blinkers are switched on.
 
 **6.  Personal Belongings**
+
     *   Students are responsible for their own belongings at all times.
     *   Students should label their personal belongings (like water bottle, pencil case, shoes, wallets, bags, food containers, etc) with their names and classes.
     *   Students are NOT to bring any items that would disrupt the learning process such as toys and games.
