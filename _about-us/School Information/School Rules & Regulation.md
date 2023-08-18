@@ -8,12 +8,12 @@ third_nav_title: School Information
 
 **1.  Compulsory**
 
-    *   National Anthem and Pledge
-    *   Students who are Singapore Citizens must sing the National Anthem and take the Pledge.
-    *   Students will take the National Pledge with the right fist placed over the heart.
-    *   School Uniform  
-        All students are to wear the prescribed school uniform/PE attire whenever they enter the school premises for all activities. No modification to the school uniform or PE attire is allowed.
-
+*   National Anthem and Pledge
+*   Students who are Singapore Citizens must sing the National Anthem and take the Pledge.
+*   Students will take the National Pledge with the right fist placed over the heart.
+*   School Uniform  
+*  All students are to wear the prescribed school uniform/PE attire whenever they enter the school premises for all activities. No modification to the school uniform or PE attire is allowed.
+* 
 **2.  General Appearance**
 
     *   Neat Attire and Hairdo
