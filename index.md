@@ -22,11 +22,6 @@ sections:
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
   - infopic:
-      title: 2023 Teacher's Day
-      subtitle: School as polling station
-      image: /images/poster for alumni v5.jpeg
-      alt: Image alt text
-  - infopic:
       title: Our E-Newsletter
       description: Find out all about the exciting happenings in Semester 1
       button: CLICK HERE FOR MORE DETAILS
