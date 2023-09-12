@@ -2,5 +2,5 @@ collections:
   alumni:
     output: true
     order:
-      - Alumni Registration.md
       - Well wishes for P6.md
+      - Alumni Registration.md
