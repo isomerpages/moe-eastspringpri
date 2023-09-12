@@ -25,6 +25,7 @@ sections:
       title: Online Ordering of Class Photograph for 2023
       id: infopic
       alt: Image alt text
+      image: /images/photograph.JPG
   - infopic:
       title: Our E-Newsletter
       description: Find out all about the exciting happenings in Semester 1
