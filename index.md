@@ -21,6 +21,12 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
+  - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      description: "Closing Date: 15-OCT-23"
+      button: Click Here for more details
+      url: /school-canteen-advertisement/
   - infopic:
       title: Online Ordering of Class Photograph for 2023
       id: infopic
@@ -39,12 +45,6 @@ sections:
       url: https://www.instagram.com/eastspringpri/
       image: /images/Home/espsinsta1.png
       alt: Image alt text
-  - infopic:
-      title: Parents' Briefing Slides
-      button: Click here for more details
-      url: https://staging.d2u1zetbqqqiby.amplifyapp.com/parents/parents-briefing-slides/
-      alt: Image alt text
-      image: /images/Parents Briefing/picture6.png
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A Question?
