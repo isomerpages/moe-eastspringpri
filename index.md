@@ -26,7 +26,7 @@ sections:
       id: infobar
       description: "Closing Date: 15-OCT-23"
       button: Click Here for more details
-      url: https://cms.isomer.gov.sg/sites/moe-eastspringpri/editPage/School%20Canteen%20Advertisement.md
+      url: moe-eastspringpri/editPage/School%20Canteen%20Advertisement.md
   - infopic:
       title: Online Ordering of Class Photograph for 2023
       id: infopic
