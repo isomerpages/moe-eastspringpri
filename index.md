@@ -21,6 +21,11 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
+  - infobar:
+      title: "School Canteen Advertisement "
+      id: infobar
+      description: "Closing Date: 15-OCT-23"
+      button: Button Text
   - infopic:
       title: Online Ordering of Class Photograph for 2023
       id: infopic
