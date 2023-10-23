@@ -22,10 +22,10 @@ sections:
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
   - infobar:
-      title: ECHA Nomination
+      title: ECHA Nomination  for Parents
       id: infobar
       button: Click Here for more details
-      url: /school-canteen-advertisement/
+      url: https://form.gov.sg/6530b41f056119001254bea0
   - infopic:
       title: Our E-Newsletter
       description: Find out all about the exciting happenings in Semester 1
