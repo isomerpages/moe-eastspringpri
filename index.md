@@ -22,11 +22,10 @@ sections:
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
   - infobar:
-      title: School Canteen Advertisement
+      title: ECHA (Edusave Character Award) Nomination
       id: infobar
-      description: "Closing Date: 15-OCT-23"
       button: Click Here for more details
-      url: /school-canteen-advertisement/
+      url: /echa-nomination/permalink/
   - infopic:
       title: Our E-Newsletter
       description: Find out all about the exciting happenings in Semester 1
