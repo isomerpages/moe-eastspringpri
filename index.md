@@ -22,7 +22,7 @@ sections:
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
   - infobar:
-      title: ECHA Nomination
+      title: ECHA (Edusave Character Award) Nomination
       id: infobar
       button: Click Here for more details
       url: /ECHA%20Nomination.md
