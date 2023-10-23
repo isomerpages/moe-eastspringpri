@@ -25,7 +25,7 @@ sections:
       title: ECHA (Edusave Character Award) Nomination
       id: infobar
       button: Click Here for more details
-      url: /ECHA%20Nomination.md
+      url: /echa-nomination/permalink/
   - infopic:
       title: Our E-Newsletter
       description: Find out all about the exciting happenings in Semester 1
