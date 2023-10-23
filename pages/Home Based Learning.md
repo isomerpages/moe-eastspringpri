@@ -8,4 +8,4 @@ description: ""
 2\. Please click [here](/files/Students%20Guide%20to%20Video%20Conferencing%20with%20Teachers%20Using%20Zoom%20for%20HBL.pdf) for the Guide to Video Conferencing with Teachers Using Zoom for HBL
 
 
-[booklet](files\2023%20Orientation%20Booklet_Final.pdf)
+[booklet](\files\2023%20Orientation%20Booklet_Final.pdf)
