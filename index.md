@@ -22,9 +22,8 @@ sections:
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
   - infobar:
-      title: School Canteen Advertisement
+      title: ECHA Nomination
       id: infobar
-      description: "Closing Date: 15-OCT-23"
       button: Click Here for more details
       url: /school-canteen-advertisement/
   - infopic:
