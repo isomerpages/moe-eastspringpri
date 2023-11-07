@@ -2,24 +2,24 @@
 title: School Canteen Advertisement
 permalink: /school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 ## **School Canteen Advertisement**
 
 
 Contents:
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="803" style="width:602.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td valign="top" style="border:solid #D6D6D6 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-family:&quot;inherit&quot;,serif;color:#484848;mso-ligatures:none">Type of Stall</span></b><b><span style="font-family:&quot;Lato&quot;,sans-serif;color:#323232;
-  mso-ligatures:none"></span></b></p></td><td valign="top" style="border:solid #D6D6D6 1.0pt;border-left:none;padding:
-  6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-family:&quot;inherit&quot;,serif;color:#484848;mso-ligatures:none">Closing Date</span></b><b><span style="font-family:&quot;Lato&quot;,sans-serif;color:#323232;
-  mso-ligatures:none"></span></b></p></td><td valign="top" style="border:solid #D6D6D6 1.0pt;border-left:none;padding:
-  6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-family:&quot;inherit&quot;,serif;color:#484848;mso-ligatures:none">Requirements</span></b><b><span style="font-family:&quot;Lato&quot;,sans-serif;color:#323232;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td valign="top" style="border:solid #D6D6D6 1.0pt;border-top:none;padding:
-  6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-ligatures:none">Chinese Mixed Rice / Noodle (non-halal)</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #D6D6D6 1.0pt;
-  border-right:solid #D6D6D6 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-ligatures:none">15-OCT-23</span></p></td><td valign="top" style="border-top:none;border-left:none;border-bottom:solid #D6D6D6 1.0pt;
-  border-right:solid #D6D6D6 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-ligatures:none">Chinese mixed rice or noodle is acceptable.</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;background:white">Menu for mixed rice may include varieties such as chicken rice, char siew rice, braised pork rice, curry rice etc.</span><span style="background:white"></span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;background:white">Menu for noodle may include varieties such as fish ball noodles, wanton noodle, , tom yum noodle, laksa, fried bee hoon etc.</span><span style="font-family:&quot;Lato&quot;,sans-serif;mso-ligatures:
-  none"></span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="mso-ligatures:none">&nbsp;</span></p><p class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-ligatures:
-  none">Food must follow Health Promotion Board Healthy Meals Guidelines.</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="mso-ligatures:none">&nbsp;</span></p></td></tr></tbody></table>
-	
+<table style="width:602.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 0in 0in 0in" width="803" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="border:solid #D6D6D6 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p style="text-align:center" align="center" class="MsoNormal"><b><span style="font-family:&quot;inherit&quot;,serif;color:#484848;mso-ligatures:none">Type of Stall</span></b><b><span style="font-family:&quot;Lato&quot;,sans-serif;color:#323232;
+  mso-ligatures:none"></span></b></p></td><td style="border:solid #D6D6D6 1.0pt;border-left:none;padding:
+  6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p style="text-align:center" align="center" class="MsoNormal"><b><span style="font-family:&quot;inherit&quot;,serif;color:#484848;mso-ligatures:none">Closing Date</span></b><b><span style="font-family:&quot;Lato&quot;,sans-serif;color:#323232;
+  mso-ligatures:none"></span></b></p></td><td style="border:solid #D6D6D6 1.0pt;border-left:none;padding:
+  6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p style="text-align:center" align="center" class="MsoNormal"><b><span style="font-family:&quot;inherit&quot;,serif;color:#484848;mso-ligatures:none">Requirements</span></b><b><span style="font-family:&quot;Lato&quot;,sans-serif;color:#323232;mso-ligatures:none"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="border:solid #D6D6D6 1.0pt;border-top:none;padding:
+  6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-ligatures:none">Chinese Mixed Rice / Noodle (non-halal)</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #D6D6D6 1.0pt;
+  border-right:solid #D6D6D6 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-ligatures:none">31-DEC-23</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid #D6D6D6 1.0pt;
+  border-right:solid #D6D6D6 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-ligatures:none">Chinese mixed rice or noodle is acceptable.</span></p><p style="text-align:center" align="center" class="MsoNormal"><span style="color:black;background:white">Menu for mixed rice may include varieties such as chicken rice, char siew rice, braised pork rice, curry rice etc.</span><span style="background:white"></span></p><p style="text-align:center" align="center" class="MsoNormal"><span style="color:black;background:white">Menu for noodle may include varieties such as fish ball noodles, wanton noodle, , tom yum noodle, laksa, fried bee hoon etc.</span><span style="font-family:&quot;Lato&quot;,sans-serif;mso-ligatures:
+  none"></span></p><p style="text-align:center" align="center" class="MsoNormal"><span style="mso-ligatures:none">&nbsp;</span></p><p class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-ligatures:
+  none">Food must follow Health Promotion Board Healthy Meals Guidelines.</span></p><p style="text-align:center" align="center" class="MsoNormal"><span style="mso-ligatures:none">&nbsp;</span></p></td></tr></tbody></table>
 	
 
 ### **Application Procedure**
