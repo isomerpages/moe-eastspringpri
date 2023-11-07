@@ -26,6 +26,11 @@ sections:
       id: infobar
       button: Click Here for more details
       url: /echa-nomination/permalink/
+  - infobar:
+      title: Chinese Mixed Rice / Noodle (non-halal)
+      id: infobar
+      description: Closing Date 31-DEC-23
+      button: Button Text
   - infopic:
       title: Our E-Newsletter
       description: Find out all about the exciting happenings in Semester 1
