@@ -10,7 +10,7 @@ variant: markdown
 
 [**2024 P1 Booklist**](/files%2FBooklist/esps%20p1%20booklist%202024%20(revised).pdf)
 
-[**2024 P2 Booklist**](/files%2FBooklist/P2%20booklist%202023.pdf)
+[**2024 P2 Booklist**](/files%2FBooklist/p2%20booklist%20a%202024.pdf)
 
 [**2024 P3 Booklist**](/files%2FBooklist/P3%20BOOKLIST%202023.pdf)
 
