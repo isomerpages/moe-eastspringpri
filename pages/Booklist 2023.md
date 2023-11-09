@@ -4,6 +4,9 @@ permalink: /booklist2023/
 description: ""
 variant: markdown
 ---
+
+[**Annex A**](/files%2FBooklist/annex%20b%20p1%202024.pdf)
+
 [**2023 P1 Booklist**](/files%2FBooklist/ESPS%20P1%20Booklist%202023.pdf)
 
 [**2023 P2 Booklist**](/files%2FBooklist/P2%20booklist%202023.pdf)
