@@ -6,7 +6,7 @@ variant: markdown
 ---
 [**Annex A P1**](/files%2FBooklist/annex%20b%20p1%202024.pdf)
 
-[**Annex B P1**](/files%2FBooklist/annex%20b%20p2%20p6%202024.pdf)
+[**Annex B P2 - P6**](/files%2FBooklist/annex%20b%20p2%20p6%202024.pdf)
 
 [**2024 P1 Booklist**](/files%2FBooklist/esps%20p1%20booklist%202024%20(revised).pdf)
 
