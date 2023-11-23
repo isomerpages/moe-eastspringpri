@@ -27,9 +27,11 @@ sections:
       description: Welcome to yet another exciting edition of our newsletter where we
         share with you the remarkable achievements and incredible adventures of
         our E'Lights...
-      button: "Click here for more "
+      button: Click here for more
       url: https://simplebooklet.com/elightssatellite#page=3
       alt: Image alt text
+      subtitle: Newsletter
+      image: /images/Screenshot_2023_11_23_140215.png
   - infobar:
       title: ECHA (Edusave Character Award) Nomination
       id: infobar
