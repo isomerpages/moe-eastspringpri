@@ -24,9 +24,7 @@ sections:
   - infopic:
       title: Our E-Newsletter
       id: infopic
-      description: Welcome to yet another exciting edition of our newsletter where we
-        share with you the remarkable achievements and incredible adventures of
-        our E'Lights...
+      description: Find out all about the exciting happenings in Semester 2...
       button: Click here for more
       url: https://simplebooklet.com/elightssatellite#page=3
       alt: Image alt text
