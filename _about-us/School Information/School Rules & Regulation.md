@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Information
 variant: markdown
 ---
-##### School Rules and Regulations
+#### School Rules and Regulations
 
 1.1.&nbsp;&nbsp;&nbsp; National Anthem and Pledge
 
@@ -125,7 +125,7 @@ variant: markdown
   background:transparent" class="Other10"><span style="color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>injury on their foot/feet. No slippers are allowed.</span></p></td></tr></tbody></table>			
         *Please refer to the pictures on page 15 for the acceptable school attire.
 						
-**2.  General Appearance**
+#### **2.  General Appearance**
 
 2.1&nbsp;&nbsp;&nbsp; &nbsp;Neat attire and hairdo.
 
@@ -254,7 +254,7 @@ variant: markdown
 	
     
 
-**3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Attendance and Punctuality**
+#### **3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Attendance and Punctuality**
 
 3.1&nbsp;&nbsp;&nbsp; Attendance is compulsory for all school activities.
 
@@ -268,7 +268,7 @@ variant: markdown
 
 
 
-**4.  Conduct and Behaviour – During School Hours**
+#### **4.  Conduct and Behaviour – During School Hours**
 
 4.1&nbsp;&nbsp;&nbsp; Students must always uphold the good name of our school.
 
@@ -299,7 +299,7 @@ variant: markdown
 4.14&nbsp; Students must be truthful and have the courage to admit and learn from mistakes.
 
 
-**5.  Conduct and Behaviour - During Recess**
+#### **5.  Conduct and Behaviour - During Recess**
 
 5.1&nbsp;&nbsp;&nbsp; All students must queue up for their food in an orderly manner.
 
@@ -316,7 +316,7 @@ variant: markdown
 5.7&nbsp;&nbsp;&nbsp; Students must assemble promptly as soon as the end-of recess blinkers are switched on.
 
 
-**6.  Personal Belongings**
+#### **6.  Personal Belongings**
 
 6.1&nbsp;&nbsp;&nbsp; Students are responsible for their own belongings at all times. Students should label their personal belongings (like water bottle, pencil case, shoes, wallets, bags, food containers, etc) with their names and classes.
 
