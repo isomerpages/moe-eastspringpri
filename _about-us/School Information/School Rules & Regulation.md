@@ -127,21 +127,146 @@ variant: markdown
 						
 **2.  General Appearance**
 
-    *   Neat Attire and Hairdo
+2.1&nbsp;&nbsp;&nbsp; &nbsp;Neat attire and hairdo.
 
-![](https://staging.d2u1zetbqqqiby.amplifyapp.com/images/appearance.png)
+2.2&nbsp;&nbsp;&nbsp; Students should have short and clean fingernails. No nail varnish/polish is allowed.
 
-*   Students should have short and clean fingernails (no varnish).
-*   Students should put on only simple and functional watches/spectacles. No fanciful watches or spectacles/rims are allowed.
-*   Students should not put on any kind of rings, bangles or fanciful earrings. Only small simple ear studs are permissible (Girls only).
-*   Students reporting for Dental Treatment after/ before curriculum/ during school holidays must be in school uniform/ PE attire.
-*   Students are allowed to remain in their PE attire on days they have P.E. lessons/ Mass Jog.
+2.3&nbsp;&nbsp;&nbsp; Students should not put on ornaments or jewellery of any kind such as rings, bangles, or fanciful earrings.
+         <!-- /\* Font Definitions \*/ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0; mso-font-charset:2; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:0 268435456 0 0 -2147483648 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Lato; mso-font-alt:"Segoe UI"; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-520092929 1342237951 33 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:none; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman"; color:black; mso-fareast-language:EN-US; mso-bidi-language:EN-US;} span.Other1 {mso-style-name:Other|1\_; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:Other|1; mso-ansi-font-size:8.0pt; mso-bidi-font-size:8.0pt; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; background:white;} p.Other10, li.Other10, div.Other10 {mso-style-name:Other|1; mso-style-unhide:no; mso-style-link:Other|1\_; margin-top:0in; margin-right:0in; margin-bottom:5.0pt; margin-left:0in; line-height:120%; mso-pagination:none; background:white; font-size:8.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} /\* List Definitions \*/ @list l0 {mso-list-id:367529773; mso-list-type:hybrid; mso-list-template-ids:-407591002 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;} @list l0:level1 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:.25in; text-indent:-.25in; font-family:Symbol;} @list l0:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:.75in; text-indent:-.25in; font-family:"Courier New";} @list l0:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:1.25in; text-indent:-.25in; font-family:Wingdings;} @list l0:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:1.75in; text-indent:-.25in; font-family:Symbol;} @list l0:level5 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:2.25in; text-indent:-.25in; font-family:"Courier New";} @list l0:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:2.75in; text-indent:-.25in; font-family:Wingdings;} @list l0:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:3.25in; text-indent:-.25in; font-family:Symbol;} @list l0:level8 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:3.75in; text-indent:-.25in; font-family:"Courier New";} @list l0:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:4.25in; text-indent:-.25in; font-family:Wingdings;} @list l1 {mso-list-id:476920434; mso-list-type:hybrid; mso-list-template-ids:193120934 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;} @list l1:level1 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:.25in; text-indent:-.25in; font-family:Symbol;} @list l1:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:.75in; text-indent:-.25in; font-family:"Courier New";} @list l1:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:1.25in; text-indent:-.25in; font-family:Wingdings;} @list l1:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:1.75in; text-indent:-.25in; font-family:Symbol;} @list l1:level5 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:2.25in; text-indent:-.25in; font-family:"Courier New";} @list l1:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:2.75in; text-indent:-.25in; font-family:Wingdings;} @list l1:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:3.25in; text-indent:-.25in; font-family:Symbol;} @list l1:level8 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:3.75in; text-indent:-.25in; font-family:"Courier New";} @list l1:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:4.25in; text-indent:-.25in; font-family:Wingdings;} @list l2 {mso-list-id:528299572; mso-list-type:hybrid; mso-list-template-ids:1669907068 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;} @list l2:level1 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:.25in; text-indent:-.25in; font-family:Symbol;} @list l2:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:.75in; text-indent:-.25in; font-family:"Courier New";} @list l2:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:1.25in; text-indent:-.25in; font-family:Wingdings;} @list l2:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:1.75in; text-indent:-.25in; font-family:Symbol;} @list l2:level5 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:2.25in; text-indent:-.25in; font-family:"Courier New";} @list l2:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:2.75in; text-indent:-.25in; font-family:Wingdings;} @list l2:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:3.25in; text-indent:-.25in; font-family:Symbol;} @list l2:level8 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:3.75in; text-indent:-.25in; font-family:"Courier New";} @list l2:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:4.25in; text-indent:-.25in; font-family:Wingdings;} @list l3 {mso-list-id:607658352; mso-list-template-ids:367038382;} @list l3:level1 {mso-level-number-format:bullet; mso-level-text:•; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0in; text-indent:0in; mso-ansi-font-size:8.0pt; mso-bidi-font-size:8.0pt; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; font-variant:normal !important; color:black; position:relative; top:0pt; mso-text-raise:0pt; letter-spacing:0pt; mso-font-width:100%; mso-ansi-language:EN-US; mso-fareast-language:EN-US; mso-bidi-language:EN-US; mso-ansi-font-weight:normal; mso-bidi-font-weight:normal; mso-ansi-font-style:normal; mso-bidi-font-style:normal; text-decoration:none; text-underline:none; text-decoration:none; text-line-through:none;} @list l3:level2 {mso-level-start-at:0; mso-level-text:""; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0in; text-indent:0in;} @list l3:level3 {mso-level-start-at:0; mso-level-text:""; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0in; text-indent:0in;} @list l3:level4 {mso-level-start-at:0; mso-level-text:""; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0in; text-indent:0in;} @list l3:level5 {mso-level-start-at:0; mso-level-text:""; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0in; text-indent:0in;} @list l3:level6 {mso-level-start-at:0; mso-level-text:""; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0in; text-indent:0in;} @list l3:level7 {mso-level-start-at:0; mso-level-text:""; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0in; text-indent:0in;} @list l3:level8 {mso-level-start-at:0; mso-level-text:""; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0in; text-indent:0in;} @list l3:level9 {mso-level-start-at:0; mso-level-text:""; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:0in; text-indent:0in;} ol {margin-bottom:0in;} ul {margin-bottom:0in;} -->
 
-**3.  Attendance and Punctuality**
-*   Attendance is compulsory for all school activities.
-*   Punctuality is to be observed at all times.
-*   Absence from school must be supported by a valid medical certificate from a qualified doctor or a letter from parents/guardians.
-*   Students who are not feeling well and wish to go home must obtain approval from the class teacher. A parent/ guardian must be present to sign out and accompany their child/ ward home.
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-table-overlap:
+ never;mso-padding-alt:0in .5pt 0in .5pt" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:18.25pt;mso-height-rule:
+  exactly"><td style="width:49.25pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  background:white;padding:0in .5pt 0in .5pt;height:18.25pt;mso-height-rule:
+  exactly" width="66"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:5.0pt">&nbsp;</span></p></td><td style="width:134.25pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  background:white;padding:0in .5pt 0in .5pt;height:18.25pt;mso-height-rule:
+  exactly" width="179"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;background:transparent" align="center" class="Other10"><b><span style="color:black;
+  mso-color-alt:windowtext">Girls</span></b></p></td><td style="width:134.25pt;border:solid windowtext 1.0pt;border-bottom:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;background:white;padding:0in .5pt 0in .5pt;
+  height:18.25pt;mso-height-rule:exactly" width="179"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;background:transparent" align="center" class="Other10"><b><span style="color:black;
+  mso-color-alt:windowtext">Boys</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:226.1pt;mso-height-rule:exactly"><td style="width:49.25pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  background:white;padding:0in .5pt 0in .5pt;height:226.1pt;mso-height-rule:
+  exactly" width="66"><p style="margin-top:4.0pt;margin-right:0in;
+  margin-bottom:0in;margin-left:0in;text-align:center;line-height:125%;
+  background:transparent" align="center" class="Other10"><span style="color:black;mso-color-alt:windowtext">Hair</span></p></td><td style="width:134.25pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  background:white;padding:0in .5pt 0in .5pt;height:226.1pt;mso-height-rule:
+  exactly" valign="top" width="179"><p style="margin-bottom:0in;line-height:115%;tab-stops:13.45pt;
+  background:transparent" class="Other10"><b><u><span style="color:black;mso-color-alt:windowtext">Long hair:</span></u></b></p><p style="margin-top:4.0pt;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l2 level1 lfo3;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Fringe must be 1cm above the eyebrows.</span></p><p style="margin-top:4.0pt;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l2 level1 lfo3;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Long fringes must be clipped up or pulled back with black hairclip or headband.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l2 level1 lfo3;
+  tab-stops:13.45pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Long hair to be neatly tied up with only black hairband.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l2 level1 lfo3;
+  tab-stops:13.45pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Hair colour should remain natural.</span></p><p style="margin-bottom:0in;line-height:115%;tab-stops:13.45pt;
+  background:transparent" class="Other10">&nbsp;</p><p style="margin-bottom:0in;line-height:115%;tab-stops:13.45pt;
+  background:transparent" class="Other10"><b><u><span style="color:black;mso-color-alt:windowtext">Short hair:</span></u></b></p><p style="margin-top:4.0pt;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l2 level1 lfo3;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Fringe must be 1cm above the eyebrows.</span></p><p style="margin-top:4.0pt;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l2 level1 lfo3;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Long fringes must be clipped up or pulled back with black hairclip or headband.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l2 level1 lfo3;
+  tab-stops:13.45pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Hair length must not touch the collar.</span></p><p style="text-align:right" align="right" class="MsoNormal">&nbsp;</p></td><td style="width:134.25pt;border:solid windowtext 1.0pt;
+  border-bottom:none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  white;padding:0in .5pt 0in .5pt;height:226.1pt;mso-height-rule:exactly" valign="top" width="179"><p style="margin-top:4.0pt;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l1 level1 lfo2;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Hair must be short and neat.</span></p><p style="margin-top:4.0pt;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l1 level1 lfo2;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Fringe must be 1cm above the eyebrows.</span></p><p style="margin-top:4.0pt;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l1 level1 lfo2;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Sideburns must not touch the ears. No long sideburns are allowed.</span></p><p style="margin-top:4.0pt;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l1 level1 lfo2;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Sideburns must not be fully shaven.</span></p><p style="margin-top:4.0pt;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l1 level1 lfo2;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext;
+  background:white">Normal slope at the side and back.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l1 level1 lfo2;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Hair at the back must not touch the collar.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l1 level1 lfo2;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:#484848;background:white">&nbsp;</span><span style="color:black;
+  mso-color-alt:windowtext;background:white">No undercut hairstyle and thick crop are allowed.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l1 level1 lfo2;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Hair colour should remain natural.</span></p><p style="margin-bottom:0in;line-height:115%;tab-stops:13.9pt;
+  background:transparent" class="Other10">&nbsp;</p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l1 level1 lfo2;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext;
+  background:white">Must be clean-shaven and neat in appearance.</span></p></td></tr><tr style="mso-yfti-irow:2;height:.9in;mso-height-rule:exactly"><td style="width:49.25pt;border:solid windowtext 1.0pt;
+  border-right:none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:
+  solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;background:
+  white;padding:0in .5pt 0in .5pt;height:.9in;mso-height-rule:exactly" rowspan="2" width="66"><p style="margin-top:4.0pt;margin-right:0in;
+  margin-bottom:0in;margin-left:0in;text-align:center;line-height:125%;
+  background:transparent" align="center" class="Other10"><span style="color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp;</span>Accessories</span></p></td><td style="width:134.25pt;border-top:solid windowtext 1.0pt;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  background:white;padding:0in .5pt 0in .5pt;height:.9in;mso-height-rule:exactly" valign="top" width="179"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l0 level1 lfo4;
+  tab-stops:13.45pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Only small, round ear studs are allowed measuring 0.3cm in diameter.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l0 level1 lfo4;
+  tab-stops:13.45pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Permitted colours: Gold, Silver and Black.</span></p></td><td style="width:134.25pt;border:solid windowtext 1.0pt;
+  border-bottom:none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  white;padding:0in .5pt 0in .5pt;height:.9in;mso-height-rule:exactly" valign="top" width="179"><p style="margin-top:4.0pt;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;text-indent:-.25in;line-height:115%;mso-list:l0 level1 lfo4;
+  tab-stops:13.9pt;background:transparent" class="Other10"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">No accessories allowed.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:29.3pt;mso-height-rule:
+  exactly"><td style="width:268.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:white;padding:0in .5pt 0in .5pt;
+  height:29.3pt;mso-height-rule:exactly" colspan="2" width="358"><p style="margin:0in;text-indent:0in;line-height:normal;
+  mso-list:l3 level1 lfo1;tab-stops:13.9pt;background:transparent" class="Other10"><span style="color:black;mso-color-alt:windowtext;mso-fareast-language:EN-US;
+  mso-bidi-language:EN-US"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Only simple and functional watches and spectacles are allowed.</span></p><p style="margin:0in;text-indent:0in;line-height:normal;
+  mso-list:l3 level1 lfo1;tab-stops:13.9pt;background:transparent" class="Other10"><span style="color:black;mso-color-alt:windowtext;mso-fareast-language:EN-US;
+  mso-bidi-language:EN-US"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext;background:white">Ornament accessories like friendship bands and bracelets are not</span></p><p style="margin-bottom:0in;line-height:normal;tab-stops:13.9pt;
+  background:transparent" class="Other10"><span style="color:black;mso-color-alt:windowtext;
+  background:white"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>allowed.</span></p></td></tr></tbody></table>
+	*Please refer to the pictures on page 16 for the acceptable hairstyles and accessories.
+	
+    
+
+**3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Attendance and Punctuality**
+
+3.1&nbsp;&nbsp;&nbsp; Attendance is compulsory for all school activities.
+
+3.2&nbsp;&nbsp;&nbsp; Punctuality is to be observed at all times. Students are expected to be in the hall/classroom **by 7:25 a.m. sharp** for the flag-raising ceremony and pledge-taking or they will be considered late.
+
+3.3&nbsp;&nbsp;&nbsp; Absence from school must be supported with a **valid medical certificate** from a qualified doctor or a letter with valid reason(s) from parents/ guardians. **Only 5 letters from parents/guardians are accepted per semester.**
+
+3.4&nbsp;&nbsp;&nbsp; Students who are not feeling well and wish to go home must obtain approval from the class teacher. A parent/ guardian must be present to sign out at the General Office and accompany their child/ ward home.
+
+3.5&nbsp;&nbsp;&nbsp; All students are expected to attend school on school days and are strongly discouraged from taking leave before the school vacation period or during term time. Please obtain a form for Leave of Absence and submit it at least one week in advance to the Form Teachers if students are travelling before the school vacation period or during term time.
+
+
 
 **4.  Conduct and Behaviour – General**
 
