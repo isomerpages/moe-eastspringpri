@@ -299,14 +299,21 @@ variant: markdown
 4.14&nbsp; Students must be truthful and have the courage to admit and learn from mistakes.
 
 
-**5.  Conduct and Behaviour**
+**5.  Conduct and Behaviour - During Recess**
 
-*  All students must queue up for their food in an orderly manner.
-*  All food and drinks are to be consumed in the canteen.
-*  Students must return used crockery, cutlery, cups or bottles to the respective containers provided.
-*  Students must throw litter into the bins provided.
-*  Students are not to buy anything from the vendors once the end-of recess blinkers are switched on.
-*  Students must assemble promptly as soon as the end-of recess blinkers are switched on.
+5.1&nbsp;&nbsp;&nbsp; All students must queue up for their food in an orderly manner.
+
+5.2&nbsp;&nbsp;&nbsp; All students are not allowed to run and play in the canteen.
+
+5.3&nbsp;&nbsp;&nbsp; All food and drinks are to be consumed in the canteen.
+
+5.4&nbsp;&nbsp;&nbsp; Students must return used crockery, cutlery, cups or bottles to the respective containers provided.
+
+5.5&nbsp;&nbsp;&nbsp; Students must throw litter into the bins provided.
+
+5.6&nbsp;&nbsp;&nbsp; Students are not to buy anything from the vendors once the end-of recess blinkers are switched on.
+
+5.7&nbsp;&nbsp;&nbsp; Students must assemble promptly as soon as the end-of recess blinkers are switched on.
 
 
 
