@@ -268,23 +268,35 @@ variant: markdown
 
 
 
-**4.  Conduct and Behaviour – General**
+**4.  Conduct and Behaviour – During School Hours**
 
-*   Students must uphold the good name of our school at all times.
-*   All students are to be well-behaved, polite and courteous at all times.
-*   Students who must go to another room during a change of period must do so quietly and in an orderly manner.
-*   Students should keep to the left when they are walking up/down the staircase, corridors and along the walk-ways.
-*   As a class, students should walk in twos or in a single file as instructed by their respective teacher.
-*   Students must have the teachers’ permission before leaving the classroom during lessons. Students must have a “CORRIDOR PASS” when leaving the class.
-*   No student should remain in the classroom during recess unless accompanied by a teacher.
-*   Assigned homework must be handed in on time.
-*   Students must treat school property with care. Students must not deface any wall or furniture; tamper with the fire alarm or the fire extinguishers; spit or litter.
-*   Students should practice good toilet habits like flushing after use and keeping the toilets clean and dry.
-*   Students should play an active part in the preservation and conservation of the environment.
-*   Lost items should be reported to the teacher-in-charge immediately.
-*   Items found should be returned to the General Office immediately.
-*   Students must be truthful and have the courage to admit and learn from mistakes.
+4.1&nbsp;&nbsp;&nbsp; Students must always uphold the good name of our school.
 
+4.2&nbsp;&nbsp;&nbsp; Students are to be well-behaved, polite and courteous at all times.
+
+4.3&nbsp;&nbsp;&nbsp; Students moving to another classroom during a change of period must do so quietly and in an orderly manner.
+
+4.4&nbsp;&nbsp;&nbsp; Students should keep to the left when they are walking up/down the staircase, corridors and along the walkways.
+
+4.5&nbsp;&nbsp;&nbsp; As a class, students should walk in twos or in a single file as instructed by their respective teachers.
+
+4.6&nbsp;&nbsp;&nbsp; Students must obtain the teachers’ permission before leaving the classroom during lessons. Students must have a "CORRIDOR PASS" when leaving the class.
+
+4.7&nbsp;&nbsp;&nbsp; No student should remain in the classroom during recess unless accompanied by a teacher.
+
+4.8&nbsp;&nbsp;&nbsp; All assigned homework must be handed in on time.
+
+4.9&nbsp;&nbsp;&nbsp; Students must treat school property with care. Students must not deface any wall or furniture; tamper with the fire alarm or the fire extinguishers; spit or litter.
+
+4.10&nbsp; Students should practice good toilet habits like flushing after use and keeping the toilets clean and dry.
+
+4.11&nbsp; Students should play an active part in the preservation and conservation of the school environment.
+
+1.12&nbsp; Lost items should be reported to the teacher-in-charge immediately.
+
+4.13&nbsp; Items found should be returned to the General Office or kept in the Lost &amp; Found cupboard immediately.
+
+4.14&nbsp; Students must be truthful and have the courage to admit and learn from mistakes.
 
 
 **5.  Conduct and Behaviour**
