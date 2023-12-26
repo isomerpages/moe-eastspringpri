@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Information
 variant: markdown
 ---
-## **School Rules and Regulations**
+### **School Rules and Regulations**
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Compulsory**
 
