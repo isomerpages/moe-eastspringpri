@@ -316,11 +316,12 @@ variant: markdown
 5.7&nbsp;&nbsp;&nbsp; Students must assemble promptly as soon as the end-of recess blinkers are switched on.
 
 
-
-
 **6.  Personal Belongings**
 
-*   Students are responsible for their own belongings at all times.
-*   Students should label their personal belongings (like water bottle, pencil case, shoes, wallets, bags, food containers, etc) with their names and classes.
-*   Students are NOT to bring any items that would disrupt the learning process such as toys and games.
-*   All hand-phones are to be switched off during school hours.
+6.1&nbsp;&nbsp;&nbsp; Students are responsible for their own belongings at all times. Students should label their personal belongings (like water bottle, pencil case, shoes, wallets, bags, food containers, etc) with their names and classes.
+
+6.2&nbsp;&nbsp;&nbsp; Students are NOT to bring any items that would disrupt the learning process such as toys and games.
+
+6.3&nbsp;&nbsp;&nbsp; Students are strongly discouraged from bringing mobile phones/smart wrist watches to school. All communication devices such as mobiles phones/smart wrist watches **must** be switched off during school hours.
+
+6.4&nbsp;&nbsp;&nbsp; All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.
