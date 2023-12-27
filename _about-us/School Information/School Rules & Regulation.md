@@ -121,8 +121,10 @@ holidays must be in school uniform/ PE attire.
   mso-list:l1 level1 lfo5;tab-stops:13.9pt;background:transparent" class="Other10"><span style="color:black;mso-color-alt:windowtext;mso-fareast-language:EN-US;
   mso-bidi-language:EN-US"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Students are allowed to put on a pair of sandals if they have any</span></p><p style="margin-bottom:0in;line-height:normal;tab-stops:13.9pt;
   background:transparent" class="Other10"><span style="color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>injury on their foot/feet. No slippers are allowed.</span></p></td></tr></tbody></table>			
-        *Please refer to the pictures on page 15 for the acceptable school attire.
-						
+        *Please refer to the pictures for the acceptable school attire.
+
+
+
 #### **2.  General Appearance**
 
 2.1 Neat attire and hairdo.
@@ -248,9 +250,10 @@ holidays must be in school uniform/ PE attire.
   mso-bidi-language:EN-US"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext;background:white">Ornament accessories like friendship bands and bracelets are not</span></p><p style="margin-bottom:0in;line-height:normal;tab-stops:13.9pt;
   background:transparent" class="Other10"><span style="color:black;mso-color-alt:windowtext;
   background:white"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>allowed.</span></p></td></tr></tbody></table>
-	*Please refer to the pictures on page 16 for the acceptable hairstyles and accessories.
+	*Please refer to the pictures for the acceptable hairstyles and accessories.
 	
-    
+![](/images/SDT/Girl_Hairs.jpg)
+![](/images/SDT/Boys_Hair.jpg)
 
 #### **3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Attendance and Punctuality**
 
@@ -329,4 +332,3 @@ holidays must be in school uniform/ PE attire.
 ### SCHOOL ATTIRE, SOCKS &amp; SHOES
 
 **·&nbsp; School Uniform**
-
