@@ -254,6 +254,7 @@ holidays must be in school uniform/ PE attire.
 	
 ![](/images/SDT/Girl_Hairs.jpg)
 ![](/images/SDT/Boys_Hair.jpg)
+![](/images/SDT/Ear_Studs_.jpg)
 
 #### **3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Attendance and Punctuality**
 
