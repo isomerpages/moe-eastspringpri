@@ -123,7 +123,8 @@ holidays must be in school uniform/ PE attire.
   background:transparent" class="Other10"><span style="color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>injury on their foot/feet. No slippers are allowed.</span></p></td></tr></tbody></table>			
         *Please refer to the pictures for the acceptable school attire.
 
-
+![](/images/SDT/School_uniform.jpg)
+![](/images/SDT/PE_attire.jpg)
 
 #### **2.  General Appearance**
 
