@@ -323,3 +323,10 @@ holidays must be in school uniform/ PE attire.
 6.3 Students are strongly discouraged from bringing mobile phones/smart wrist watches to school. All communication devices such as mobiles phones/smart wrist watches **must** be switched off during school hours.
 
 6.4 All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.
+
+
+
+### SCHOOL ATTIRE, SOCKS &amp; SHOES
+
+**·&nbsp; School Uniform**
+
