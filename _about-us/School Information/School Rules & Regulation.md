@@ -125,6 +125,7 @@ holidays must be in school uniform/ PE attire.
 
 ![](/images/SDT/School_uniform.jpg)
 ![](/images/SDT/PE_attire.jpg)
+![](/images/SDT/Shoes_and_Socks.jpg)
 
 #### **2.  General Appearance**
 
