@@ -320,6 +320,14 @@ table, th, td {
 	<td>Mdm Sheeba d/o Balakrishnan</td>
 	<td>sheeba_d_o_balakrishnan@schools.gov.sg</td>
 </tr>
+	<tr><td rowspan="2">4I5</td>
+	<td>Mr Yeo Ying Khong</td>
+	<td>yeo_ying_khong@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Mr Goh Choon Siong, Michael</td>
+	<td>goh_choon_siong@schools.gov.sg</td>
+</tr>
 	<tr><td rowspan="3">4I5</td>
 	<td>Mr Yeo Ying Khong</td>
 	<td>yeo_ying_khong@schools.gov.sg</td>
@@ -328,7 +336,6 @@ table, th, td {
 	<td>Mr Goh Choon Siong, Michael</td>
 	<td>goh_choon_siong@schools.gov.sg</td>
 </tr>
-
 </tbody></table>
 
 <br>
