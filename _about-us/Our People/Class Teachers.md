@@ -47,9 +47,17 @@ table, th, td {
 	<td>azah_abdul_aziz@schools.gov.sg</td>
 </tr>
 <tr>
-	<td rowspan="1">1S2</td>
+	<td rowspan="3">1S2</td>
 	<td>Mr Lee Gee Chye</td>
 	<td>lee_gee_chye@schools.gov.sg</td>
+</tr>
+	<tr>
+		<td>Mdm Shakilah Mohamed Ansari</td>
+	<td>shakilah_mohamed_ansari@schools.gov.sg</td>
+</tr>
+		<tr>
+		<td>Mdm Aishah Binte Sidik</td>
+	<td>aishah_sidik@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="2">1S3</td>
