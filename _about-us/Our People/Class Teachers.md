@@ -309,8 +309,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">4I4</td>
-	<td>Mr Mohammed Yazid Kasnoen</td>
-	<td>mohammed_yazid_kasnoen@schools.gov.sg</td>
+	<td>Mr Yam Hai Seng</td>
+	<td>yam_hai_seng@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Vivien Naomi (Mrs Yap)</td>
