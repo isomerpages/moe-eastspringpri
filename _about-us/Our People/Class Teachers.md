@@ -277,8 +277,8 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="2">4I1</td>
-	<td>Mdm Tan Wui Ling (Mrs Lee)</td>
-	<td>tan_wui_ling@schools.gov.sg</td>
+	<td>Mr Chao Wei Nien, Bryan</td>
+	<td>chao_wei_nien@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Maznah Bte Md Rashid</td>
