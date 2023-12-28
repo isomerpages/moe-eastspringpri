@@ -203,8 +203,8 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="1">3R1</td>
-	<td>Mr Chao Wei Nien</td>
-	<td>chao_wei_nien@schools.gov.sg</td>
+	<td>Miss Gloria Lim Wei</td>
+	<td>gloria_lim_wei@schools.gov.sg</td>
 
 </tr>
 <tr>
