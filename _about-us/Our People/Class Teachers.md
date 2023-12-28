@@ -228,8 +228,8 @@ table, th, td {
 	<td>siti_farhana_subandi@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mr Ong Rui Sheng, Daniel</td>
-	<td>ong_rui_sheng_daniel_a@schools.gov.sg</td>
+	<td>Miss Wee Wanqing</td>
+	<td>wee_wanqing@schools.gov.sg</td>
 
 </tr>
 <tr>
