@@ -173,16 +173,7 @@ table, th, td {
 	<td>s_nasheylen_pillai@schools.gov.sg</td>
 
 </tr>
-<tr>
-	<td rowspan="2">2P7</td>
-	<td>Mdm Nurarfah Binte Sudirman</td>
-	<td>nurarfah_sudirman@schools.gov.sg</td>
-	</tr>
-	<tr>
-	<td>Miss Wee Wanqing</td>
-	<td>wee_wanqing@schools.gov.sg</td>
 
-</tr>
 
 </tbody></table>
 
