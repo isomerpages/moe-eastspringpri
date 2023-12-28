@@ -144,11 +144,15 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="1">2P4</td>
+	<td rowspan="2">2P4</td>
 	<td>Mr Clement Kang Aik Kwan</td>
 	<td>kang_aik_kwan_clement@schools.gov.sg</td>
+	</tr><tr>
+	<td>Miss Lee Zhibin</td>
+	<td>lee_zhibin@schools.gov.sg</td>
 
 </tr>
+
 <tr>
 	<td rowspan="2">2P5</td>
 	<td>Mdm Hairina Binte Hamzah</td>
