@@ -94,8 +94,8 @@ table, th, td {
 	
 <tr>
 	<td rowspan="2">1S6</td>
-	<td>Mdm Siti Farhana Subandi</td>
-	<td>siti_farhana_subandi@schools.gov.sg</td>
+	<td>Mdm Noornisha</td>
+	<td>n_n_noornisha@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Huang Lin Lin</td>
