@@ -115,8 +115,8 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="2">2P1</td>
-	<td>Mr Lee Gee Chye</td>
-	<td>lee_gee_chye@schools.gov.sg</td>
+	<td>Mdm Siti Nafisa</td>
+	<td>siti_nafisa_mohd_daud@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Azah Bte Abdul Aziz</td>
