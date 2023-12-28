@@ -3,6 +3,7 @@ title: Class Teachers
 permalink: /about-us/Our-People/Class-Teachers/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <style>
 table, th, td {
@@ -38,8 +39,8 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="1">1S1</td>
-	<td>Mdm Siti Nafisa Binte Mohd Daud</td>
-	<td>siti_nafisa_mohd_daud@schools.gov.sg</td>
+	<td>Mrs Oliveiro Lavinia</td>
+	<td>Oliveiro_Lavinia_Janell@schools.gov.sg</td>
 
 </tr>
 <tr>
