@@ -218,8 +218,8 @@ table, th, td {
 	<td>lam_yew_sung@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Seah Wei Shan (Mrs Sim)</td>
-	<td>seah_wei_shan@schools.gov.sg</td>
+	<td>Mdm Hairina Bte Hamzah</td>
+	<td>hairina_hamzah@schools.gov.sg</td>
 
 </tr>
 <tr>
