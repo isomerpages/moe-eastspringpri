@@ -254,8 +254,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">3R6</td>
-	<td>Mr Melvin Au Jian An</td>
-	<td>au_jian_an_melvin@schools.gov.sg</td>
+	<td>Mr Mohammed Yazid Bin Kasnoen</td>
+	<td>mohammed_yazid_kasnoen@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Miss Lee Zhi Bin</td>
