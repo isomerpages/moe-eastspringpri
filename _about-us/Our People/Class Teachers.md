@@ -78,7 +78,7 @@ table, th, td {
 	<td>nurarfah_sudirman@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Linda Tay (Mrs Goh</td>
+	<td>Mdm Linda Tay (Mrs Goh)</td>
 	<td>linda_tay_mei_hong@schools.gov.sg</td>
 
 </tr>
