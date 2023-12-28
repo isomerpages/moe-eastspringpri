@@ -60,14 +60,17 @@ table, th, td {
 	<td>aishah_sidik@schools.gov.sg</td>
 </tr>
 <tr>
-	<td rowspan="2">1S3</td>
-	<td>Mdm Wang Yimei Amy (Mrs Tan)</td>
-	<td>wang_yimei_amy@schools.gov.sg</td>
+	<td rowspan="3">1S3</td>
+	<td>Mdm Xu Haiyan</td>
+	<td>xu_haiyan@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Foo Wei Sze, Sandra (Mrs Ong)</td>
-	<td>foo_wei_sze_sandra@schools.gov.sg</td>
-
+	<td>Miss Chew Chi Yin</td>
+	<td>chew_chi_yin@schools.gov.sg</td>
+</tr>
+		<tr>
+	<td>Mdm Rosana Abdul Rahman</td>
+	<td>rosana_abdul_rahman@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="2">1S4</td>
