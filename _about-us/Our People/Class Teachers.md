@@ -329,8 +329,8 @@ table, th, td {
 	<td>goh_choon_siong@schools.gov.sg</td>
 </tr>
 	<tr><td rowspan="3">4I5</td>
-	<td>Mr Yeo Ying Khong</td>
-	<td>yeo_ying_khong@schools.gov.sg</td>
+	<td>Miss Leong Fong Lai, Pauline</td>
+	<td>leong_fong_lai_pauline@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mr Goh Choon Siong, Michael</td>
