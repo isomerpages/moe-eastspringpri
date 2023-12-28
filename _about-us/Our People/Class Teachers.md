@@ -38,10 +38,14 @@ table, th, td {
 		<th style="width: 40%">Email</th><td>
   </td></tr>
 <tr>
-	<td rowspan="1">1S1</td>
+	<td rowspan="2">1S1</td>
 	<td>Mrs Oliveiro Lavinia</td>
 	<td>Oliveiro_Lavinia_Janell@schools.gov.sg</td>
-
+	</tr>
+	<tr>
+	<td rowspan="1">1S2</td>
+	<td>Mdm Azah Abdul Aziz</td>
+	<td>azah_abdul_aziz@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="1">1S2</td>
