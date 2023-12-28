@@ -129,8 +129,8 @@ table, th, td {
 	<td>yow_ting_ting@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mr Tock Swee Guan William</td>
-	<td>tock_swee_guan_william@schools.gov.sg</td>
+	<td>Mdm Sheikha Fadzlon</td>
+	<td>sheikha_fadzlon_shaik_yakob@schools.gov.sg</td>
 
 </tr>
 <tr>
