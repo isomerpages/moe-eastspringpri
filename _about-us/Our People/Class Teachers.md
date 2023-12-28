@@ -299,10 +299,13 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="1">4I3</td>
+	<td rowspan="2">4I3</td>
 	<td>Mdm Charmaine Tan</td>
 	<td>tan_kai_wei_charmaine@schools.gov.sg</td>
-
+</tr>
+	<tr>
+		<td>Mdm Charmaine Tan</td>
+	<td>tan_kai_wei_charmaine@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="2">4I4</td>
