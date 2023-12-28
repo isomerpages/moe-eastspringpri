@@ -276,14 +276,17 @@ table, th, td {
 		<th style="width: 40%">Email</th><td>
   </td></tr>
 <tr>
-	<td rowspan="2">4I1</td>
+	<td rowspan="3">4I1</td>
 	<td>Mr Chao Wei Nien, Bryan</td>
 	<td>chao_wei_nien@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Maznah Bte Md Rashid</td>
+	<td>Mdm Koh Wei Ling, Valerie</td>
 	<td>maznah_md_rashid@schools.gov.sg</td>
-
+</tr>
+		<tr>
+	<td>Mdm Sim, Lynette-Marie</td>
+	<td>sim_lynette-marie@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="2">4I2</td>
