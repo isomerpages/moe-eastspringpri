@@ -238,14 +238,14 @@ table, th, td {
 	<td>iman_izzati_mohamed_musharraf@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mr Yam Hai Seng</td>
-	<td>yam_hai_seng@schools.gov.sg</td>
+	<td>Mdm Julia Lim Bee Fung</td>
+	<td>lim_bee_fung_julia@schools.gov.sg</td>
 
 </tr>
 <tr>
 	<td rowspan="2">3R5</td>
-	<td>Miss Iman ‘Izatti Binte Muhamed Musharraf</td>
-	<td>iman_izzati_mohamed_musharraf@schools.gov.sg</td>
+	<td>Mdm Nur Fai'zah Binte Ahmad Fauzi</td>
+	<td>nur_faizah_ahmad_fauzi@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mr Goh Choon Siong, Michael</td>
