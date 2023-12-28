@@ -45,8 +45,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="1">1S2</td>
-	<td>Miss Chew Chi Yin</td>
-	<td>chew_chi_yin@schools.gov.sg</td>
+	<td>Mdm Azah Abdul Aziz</td>
+	<td>azah_abdul_aziz@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="2">1S3</td>
