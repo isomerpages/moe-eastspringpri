@@ -43,7 +43,6 @@ table, th, td {
 	<td>Oliveiro_Lavinia_Janell@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td rowspan="1">1S2</td>
 	<td>Mdm Azah Abdul Aziz</td>
 	<td>azah_abdul_aziz@schools.gov.sg</td>
 </tr>
