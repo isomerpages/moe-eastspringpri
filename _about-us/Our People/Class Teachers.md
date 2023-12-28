@@ -202,9 +202,14 @@ table, th, td {
 		<th style="width: 40%">Email</th><td>
   </td></tr>
 <tr>
-	<td rowspan="1">3R1</td>
+	<td rowspan="2">3R1</td>
 	<td>Miss Gloria Lim Wei</td>
 	<td>gloria_lim_wei@schools.gov.sg</td>
+
+</tr>
+	<tr>
+			<td>Mdm Peh Poh Li (Mrs Toh)</td>
+	<td>peh_poh_li@schools.gov.sg</td>
 
 </tr>
 <tr>
