@@ -155,8 +155,8 @@ table, th, td {
 
 <tr>
 	<td rowspan="2">2P5</td>
-	<td>Mdm Hairina Binte Hamzah</td>
-	<td>hairina_hamzah@schools.gov.sg</td>
+	<td>Mdm Leanne Seng</td>
+	<td>seng_leanne@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Oliveiro Lavinia Janell</td>
