@@ -159,8 +159,8 @@ table, th, td {
 	<td>seng_leanne@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Oliveiro Lavinia Janell</td>
-	<td>oliveiro_lavinia_janell@schools.gov.sg</td>
+	<td>Mdm Nadirah Baharin</td>
+	<td>nadirah_baharin@schools.gov.sg</td>
 
 </tr>
 <tr>
