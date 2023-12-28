@@ -48,8 +48,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="1">1S2</td>
-	<td>Mdm Azah Abdul Aziz</td>
-	<td>azah_abdul_aziz@schools.gov.sg</td>
+	<td>Mr Lee Gee Chye</td>
+	<td>lee_gee_chye@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="2">1S3</td>
