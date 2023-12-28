@@ -258,8 +258,8 @@ table, th, td {
 	<td>mohammed_yazid_kasnoen@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Miss Lee Zhi Bin</td>
-	<td>lee_zhibin@schools.gov.sg</td>
+	<td>Mr Daniel Ong Rui Sheng</td>
+	<td>ong_rui_sheng_daniel@schools.gov.sg</td>
 
 </tr>
 </tbody></table>
