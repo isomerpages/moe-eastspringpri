@@ -214,8 +214,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">3R2</td>
-	<td>Mdm Sarasvathy d/o Varathappan</td>
-	<td>sarasvathy_s_varathappa_n@schools.gov.sg</td>
+	<td>Mr Lam Yew Sung</td>
+	<td>lam_yew_sung@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Seah Wei Shan (Mrs Sim)</td>
