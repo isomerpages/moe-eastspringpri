@@ -378,8 +378,8 @@ table, th, td {
 	<td>sheramin_phua_su_hui@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Tok Shi Shi Shirlyn</td>
-	<td>tok_shi_shi@schools.gov.sg</td>
+	<td>Miss Lee Sook San</td>
+	<td>lee_sook_san@schools.gov.sg</td>
 
 </tr>
 <tr>
