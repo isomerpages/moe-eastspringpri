@@ -424,8 +424,8 @@ table, th, td {
 	<td>smita_quintal_kaur@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Chan Pui Ping</td>
-	<td>chan_pui_ping@schools.gov.sg</td>
+	<td>Mdm Jiang Yanni</td>
+	<td>jiang_yanni@schools.gov.sg</td>
 
 </tr>
 <tr>
