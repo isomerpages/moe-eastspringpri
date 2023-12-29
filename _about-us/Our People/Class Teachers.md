@@ -243,14 +243,17 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="2">3R5</td>
+	<td rowspan="3">3R5</td>
 	<td>Mdm Nur Fai'zah Binte Ahmad Fauzi</td>
 	<td>nur_faizah_ahmad_fauzi@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Miss Lam Yi Xin</td>
 	<td>lam_yi_xin@schools.gov.sg</td>
-
+</tr>
+		<tr>
+	<td>Mrs Leo Teng Hui</td>
+	<td>leo_teng_hui@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="3">3R6</td>
