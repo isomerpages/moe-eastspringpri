@@ -99,7 +99,7 @@ table, th, td {
 	</tr>
 	<tr>
 	<td>Mdm Tan Wui Ling (Mrs Lee)</td>
-	<td>lee_wui_ling@schools.gov.sg</td>
+	<td>tan_wui_ling@schools.gov.sg</td>
 
 </tr>
 </tbody></table>
