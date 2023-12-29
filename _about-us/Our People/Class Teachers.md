@@ -463,8 +463,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">6G5</td>
-	<td>Mdm Tan Siew Lay, Shirley (Mrs Lim)</td>
-	<td>tan_siew_lay_shirley@schools.gov.sg</td>
+	<td>Mr Lukman Hakim Bin Mahmood</td>
+	<td>lukman_hakim_b_mahmood@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Ms Ng Hui Peng</td>
