@@ -98,7 +98,7 @@ table, th, td {
 	<td>n_n_noornisha@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mrs Lee Wui Ling</td>
+	<td>Mdm Tan Wui Ling (Mrs Lee)</td>
 	<td>lee_wui_ling@schools.gov.sg</td>
 
 </tr>
