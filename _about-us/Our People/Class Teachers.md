@@ -383,10 +383,13 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="1">5N3</td>
+	<td rowspan="2">5N3</td>
 	<td>Mdm Tan Si Hui</td>
 	<td>tan_si_hui_a@schools.gov.sg</td>
-
+</tr>
+<tr>
+		<td>Mdm Vivien Naomi Lee Min (Mrs Yap)</td>
+	<td>vivien_naomi_lee_min@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="3">5N4</td>
