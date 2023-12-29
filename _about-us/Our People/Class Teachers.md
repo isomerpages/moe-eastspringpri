@@ -317,7 +317,7 @@ table, th, td {
 	</tr>
 	<tr>
 	<td>Miss Sonika</td>
-	<td>@schools.gov.sg</td>
+	<td></td>
 </tr>
 	<tr>
 	<td>Mdm Sheeba d/o Balakrishnan</td>
