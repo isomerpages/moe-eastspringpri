@@ -248,8 +248,8 @@ table, th, td {
 	<td>nur_faizah_ahmad_fauzi@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mr Goh Choon Siong, Michael</td>
-	<td>goh_choon_siong@schools.gov.sg</td>
+	<td>Miss Lam Yi Xin</td>
+	<td>lam_yi_xin@schools.gov.sg</td>
 
 </tr>
 <tr>
