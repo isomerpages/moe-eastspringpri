@@ -404,11 +404,7 @@ table, th, td {
 	<td>ng_hui_peng@schools.gov.sg</td>
 
 </tr>
-<tr>
-	<td>Miss Lee Yen Lin, Jenny</td>
-	<td>lee_yen_lin_jenny@schools.gov.sg</td>
 
-</tr>
 
 </tbody></table>
 
