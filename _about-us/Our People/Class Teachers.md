@@ -98,8 +98,8 @@ table, th, td {
 	<td>n_n_noornisha@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Huang Lin Lin</td>
-	<td>huang_linlin@schools.gov.sg</td>
+	<td>Mrs Lee Wui Ling</td>
+	<td>lee_wui_ling@schools.gov.sg</td>
 
 </tr>
 </tbody></table>
