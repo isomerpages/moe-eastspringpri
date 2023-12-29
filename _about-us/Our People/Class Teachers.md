@@ -419,14 +419,17 @@ table, th, td {
 		<th style="width: 40%">Email</th><td>
   </td></tr>
 <tr>
-	<td rowspan="2">6G1</td>
+	<td rowspan="3">6G1</td>
 	<td>Mdm Smita Quintal Kaur</td>
 	<td>smita_quintal_kaur@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Jiang Yanni</td>
 	<td>jiang_yanni@schools.gov.sg</td>
-
+</tr>
+		<tr>
+	<td>Mr Mohamed Abdul Rauf </td>
+	<td>mohamed_abdul_rauf_mohamed@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="2">6G2</td>
