@@ -393,8 +393,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="3">5N4</td>
-	<td>Mdm Roslinah Binte Junali</td>
-	<td>roslinah_junali@schools.gov.sg</td>
+	<td>Mdm Chui Wenyan, Wendy</td>
+	<td>chui_wenyan@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Miss Nur Huda Binte Ismail</td>
