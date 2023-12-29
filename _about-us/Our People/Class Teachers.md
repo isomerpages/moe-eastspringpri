@@ -433,8 +433,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">6G2</td>
-	<td>Miss Phua Su Hui, Sheramin</td>
-	<td>sheramin_phua_su_hui@schools.gov.sg</td>
+	<td>Miss Quek Jia Xin</td>
+	<td>quek_jia_xin@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Xu Haiyan</td>
