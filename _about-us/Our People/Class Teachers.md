@@ -457,8 +457,8 @@ table, th, td {
 	<td>roslinah_junali@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mr Choo Yew Teck, Jacky</td>
-	<td>choo_yew_teck@schools.gov.sg</td>
+	<td>Miss Lee Yen Lin, Jenny</td>
+	<td>lee_yen_lin_jenny@schools.gov.sg</td>
 
 </tr>
 <tr>
