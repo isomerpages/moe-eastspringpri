@@ -467,8 +467,8 @@ table, th, td {
 	<td>lukman_hakim_b_mahmood@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Ms Ng Hui Peng</td>
-	<td>ng_hui_peng@schools.gov.sg</td>
+	<td>Mdm Syaza Binte Mohd Sallehhuddin</td>
+	<td>syaza_mohd_sallehuddin@schools.gov.sg</td>
 
 </tr>
 </tbody></table>
