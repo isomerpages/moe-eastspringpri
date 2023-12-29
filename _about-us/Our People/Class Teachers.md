@@ -453,8 +453,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">6G4</td>
-	<td>Mr Yeoh Ying Khong</td>
-	<td>yeoh_ying_khong@schools.gov.sg</td>
+	<td>Mdm Roslinah Binte Junali</td>
+	<td>roslinah_junali@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mr Choo Yew Teck, Jacky</td>
