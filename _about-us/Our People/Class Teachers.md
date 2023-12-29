@@ -420,8 +420,8 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="2">6G1</td>
-	<td>Mdm Koh Hui Ling, Valerie</td>
-	<td>koh_hui_ling_valerie@schools.gov.sg</td>
+	<td>Mdm Smita Quintal Kaur</td>
+	<td>smita_quintal_kaur@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Chan Pui Ping</td>
