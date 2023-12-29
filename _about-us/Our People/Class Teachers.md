@@ -437,8 +437,8 @@ table, th, td {
 	<td>quek_jia_xin@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Xu Haiyan</td>
-	<td>xu_haiyan@schools.gov.sg</td>
+	<td>Mdm Tok Shi Shi (Mrs Choo)</td>
+	<td>tok_shi_shi@schools.gov.sg</td>
 
 </tr>
 <tr>
