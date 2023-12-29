@@ -297,7 +297,7 @@ table, th, td {
 	<td>seah_wei_shan@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mr William Tock</td>
+	<td>Mr Tock Swee Guan, William</td>
 	<td>tock_swee_guan_william@schools.gov.sg</td>
 
 </tr>
