@@ -303,7 +303,7 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">4I3</td>
-	<td>Mdm Charmaine Tan</td>
+	<td>Mdm Tan Kai Wei, Charmaine</td>
 	<td>tan_kai_wei_charmaine@schools.gov.sg</td>
 </tr>
 	<tr>
