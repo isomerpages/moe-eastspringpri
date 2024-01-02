@@ -19,12 +19,9 @@ Please scan the QR code or click on the link below to the School Bus Registratio
 URL Link :&nbsp;[https://forms.gle/aCqLtjPdPxYhVa667](https://forms.gle/aCqLtjPdPxYhVa667)
 
 
-#### **Kidz Treehouse Student Care**  
+#### **Nascans East Spring Primary Student Care Centre**
 
-Tel 6850 5027 or 9128 7795
-
-
-[www.kidztreehouse.com.sg](https://www.kidztreehouse.com.sg/)
+For enquiries, please email to [estscc@nascans.com](mailto:estscc@nascans.com)
 
 #### **Textbooks &amp; Stationery**  
 Pacific Bookstores Pte Ltd.  
