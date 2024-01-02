@@ -311,10 +311,7 @@ table, th, td {
 	<td>Mr Yam Hai Seng</td>
 	<td>yam_hai_seng@schools.gov.sg</td>
 	</tr>
-	<tr>
-	<td>Miss Sonika</td>
-	<td></td>
-</tr>
+
 	<tr>
 	<td>Mdm Sheeba d/o Balakrishnan</td>
 	<td>sheeba_d_o_balakrishnan@schools.gov.sg</td>
