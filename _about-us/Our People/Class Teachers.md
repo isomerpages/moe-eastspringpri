@@ -256,14 +256,10 @@ table, th, td {
 	<td>leo_teng_hui@schools.gov.sg</td>
 </tr>
 <tr>
-	<td rowspan="3">3R6</td>
+	<td rowspan="2">3R6</td>
 	<td>Mr Mohammed Yazid Bin Kasnoen</td>
 	<td>mohammed_yazid_kasnoen@schools.gov.sg</td>
 	</tr>
-	<tr>
-	<td>Mr Daniel Ong Rui Sheng</td>
-	<td>ong_rui_sheng_daniel@schools.gov.sg</td>
-</tr>
 		<tr>
 	<td>Mdm Yeo Xueli, Sally</td>
 	<td>yeo_xueli_sally@schools.gov.sg</td>
