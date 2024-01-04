@@ -74,7 +74,7 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">1S4</td>
-	<td>Miss Nurarfah Sudirman</td>
+	<td>Mdm Nurarfah Sudirman</td>
 	<td>nurarfah_sudirman@schools.gov.sg</td>
 	</tr>
 	<tr>
@@ -169,8 +169,8 @@ table, th, td {
 	<td>huang_linlin@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mr S Nasheylen Pillai</td>
-	<td>s_nasheylen_pillai@schools.gov.sg</td>
+	<td>Mdm Siti Farhana Bte Subandi</td>
+	<td>siti_farhana_subandi@schools.gov.sg</td>
 
 </tr>
 
@@ -224,8 +224,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">3R3</td>
-	<td>Mdm Siti Farhana Binti Subandi</td>
-	<td>siti_farhana_subandi@schools.gov.sg</td>
+	<td>Mr Au Jian'An Melvin</td>
+	<td>au_jian_an_melvin@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Miss Wee Wanqing</td>
@@ -238,8 +238,8 @@ table, th, td {
 	<td>iman_izzati_mohamed_musharraf@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Julia Lim Bee Fung</td>
-	<td>lim_bee_fung_julia@schools.gov.sg</td>
+	<td>Miss Nur Huda Binte Ismail</td>
+	<td>nur_huda_ismail@schools.gov.sg</td>
 
 </tr>
 <tr>
@@ -303,8 +303,8 @@ table, th, td {
 	<td>tan_kai_wei_charmaine@schools.gov.sg</td>
 </tr>
 	<tr>
-		<td>Mdm Rahmah Bte Rosdi</td>
-	<td>rahmah_rosdi@schools.gov.sg</td>
+		<td>Mr S Nasheylen Pillai</td>
+	<td>s_nasheylen_pillai@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="2">4I4</td>
@@ -328,8 +328,8 @@ table, th, td {
 	<td>leong_fong_lai_pauline@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mr Au Jian An, Melvin</td>
-	<td>au_jian_an_melvin@schools.gov.sg</td>
+	<td>Mdm Rahmah Bte Rosdi</td>
+	<td>rahmah_rosdi@schools.gov.sg</td>
 </tr>
 </tbody></table>
 
