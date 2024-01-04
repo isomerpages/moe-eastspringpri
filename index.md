@@ -21,6 +21,12 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
+  - infobar:
+      title: Chinese Mixed Rice / Noodle (non-halal)
+      id: infobar
+      description: Closing Date 30-JUN-24
+      button: CLICK HERE FOR MORE DETAILS
+      url: /school-canteen-advertisement/
   - infopic:
       title: Our E-Newsletter
       id: infopic
@@ -34,12 +40,6 @@ sections:
       id: infobar
       button: Click Here for more details
       url: /echa-nomination/permalink/
-  - infobar:
-      title: Chinese Mixed Rice / Noodle (non-halal)
-      id: infobar
-      description: Closing Date 31-DEC-23
-      button: CLICK HERE FOR MORE DETAILS
-      url: /school-canteen-advertisement/
   - infopic:
       title: Our E-Newsletter
       description: Find out all about the exciting happenings in Semester 1
