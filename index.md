@@ -37,7 +37,7 @@ sections:
   - infobar:
       title: Chinese Mixed Rice / Noodle (non-halal)
       id: infobar
-      description: Closing Date 31-DEC-23
+      description: Closing Date 30-JUN-24
       button: CLICK HERE FOR MORE DETAILS
       url: /school-canteen-advertisement/
   - infopic:
