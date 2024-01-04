@@ -74,7 +74,7 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">1S4</td>
-	<td>Miss Nurarfah Sudirman</td>
+	<td>Mdm Nurarfah Sudirman</td>
 	<td>nurarfah_sudirman@schools.gov.sg</td>
 	</tr>
 	<tr>
