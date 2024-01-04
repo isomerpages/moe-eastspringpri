@@ -224,8 +224,8 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">3R3</td>
-	<td>Mdm Siti Farhana Binti Subandi</td>
-	<td>siti_farhana_subandi@schools.gov.sg</td>
+	<td>Mr Au Jian'An Melvin</td>
+	<td>au_jian_an_melvin@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Miss Wee Wanqing</td>
