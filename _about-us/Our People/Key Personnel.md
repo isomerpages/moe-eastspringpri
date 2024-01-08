@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /about-us/Our-People/Key-Personnel/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <style>
 table, th, td {
@@ -152,7 +153,7 @@ table, th, td {
 		<td>sheramin_phua_su_hui@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>LH / Science</td>
+	<td>SSD / Science</td>
 			<td>Mdm Seah Wei Shan (Mrs Sim)</td>
 		<td>seah_wei_shan@schools.gov.sg</td>
 	</tr>
