@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Development Team.md
       - Student Development Team (SDT).md
       - English Language Department/.keep
       - English Language Department/English Language Department.md
