@@ -332,6 +332,3 @@ holidays must be in school uniform/ PE attire.
 
 
 
-### SCHOOL ATTIRE, SOCKS &amp; SHOES
-
-**·&nbsp; School Uniform**
