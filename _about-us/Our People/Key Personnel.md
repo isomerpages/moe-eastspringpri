@@ -95,8 +95,8 @@ table, th, td {
 	</tr>
 	<tr>
 	<td>HOD / Mother Tongue Languages</td>
-	<td>Miss Teo Sok San Susan</td>
-	<td>teo_sok_san_susan@schools.gov.sg</td>
+	<td>-</td>
+	<td>-</td>
 	</tr>
 <tr>
 	<td>HOD / Science</td>
