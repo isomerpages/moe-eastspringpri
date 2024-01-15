@@ -233,13 +233,18 @@ table, th, td {
 
 </tr>
 <tr>
-	<td rowspan="2">3R4</td>
+	<td rowspan="3">3R4</td>
 	<td>Miss Iman Izzati Binte Mohamed Musharraf</td>
 	<td>iman_izzati_mohamed_musharraf@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Miss Nur Huda Binte Ismail</td>
 	<td>nur_huda_ismail@schools.gov.sg</td>
+
+</tr>
+		<tr>
+	<td>Mdm Julia Lim Bee Fung </td>
+	<td>Lim_Bee_Fung_Julia@schools.gov.sg</td>
 
 </tr>
 <tr>

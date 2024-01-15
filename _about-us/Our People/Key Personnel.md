@@ -28,7 +28,7 @@ table, th, td {
 	</tr>
 	<tr>
 	<td>Vice-Principal (Acad)</td>
-			<td>Ms Jes Neo Aik Seo</td>
+			<td>Mdm Fazilah Maricar</td>
 	</tr>
 		<tr>
 	<td>Vice-Principal (Admin)</td>
@@ -95,8 +95,8 @@ table, th, td {
 	</tr>
 	<tr>
 	<td>HOD / Mother Tongue Languages</td>
-	<td>Miss Teo Sok San Susan</td>
-	<td>teo_sok_san_susan@schools.gov.sg</td>
+	<td>-</td>
+	<td>-</td>
 	</tr>
 <tr>
 	<td>HOD / Science</td>

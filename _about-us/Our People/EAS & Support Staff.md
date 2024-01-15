@@ -3,6 +3,7 @@ title: EAS & Support Staff
 permalink: /about-us/Our-People/EAS-and-Support-Staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <style>
 table, th, td {
@@ -66,6 +67,11 @@ table, th, td {
     <td></td>
 	</tr>
 	<tr>
+	<td>Operations Support Officer (Adjunct)</td>
+	<td>Mdm Norlela Binte Kitang</td>
+    <td></td>
+	</tr>
+	<tr>
 	<td>Corporate Support Officer (Adjunct)</td>
 	<td>Miss Syaheera Beevi Binte Mohamed</td>
     <td>Syaheera_Beevi_Mohamed@schools.gov.sg</td>
@@ -110,9 +116,9 @@ table, th, td {
 	<td>Mr Medapati Sri Sudhakar Reddy</td>
     <td></td>
 	</tr>
-	<tr>
+<tr>
 	<td>Desktop Engineer</td>
-	<td>Miss Teng Yi En</td>
+	<td></td>
     <td></td>
 	</tr>
 	<tr>
