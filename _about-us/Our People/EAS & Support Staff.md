@@ -67,6 +67,11 @@ table, th, td {
     <td></td>
 	</tr>
 	<tr>
+	<td>Operations Support Officer (Adjunct)</td>
+	<td>Mdm Norlela Binte Kitang</td>
+    <td></td>
+	</tr>
+	<tr>
 	<td>Corporate Support Officer (Adjunct)</td>
 	<td>Miss Syaheera Beevi Binte Mohamed</td>
     <td>Syaheera_Beevi_Mohamed@schools.gov.sg</td>
