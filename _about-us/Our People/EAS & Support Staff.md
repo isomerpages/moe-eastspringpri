@@ -3,6 +3,7 @@ title: EAS & Support Staff
 permalink: /about-us/Our-People/EAS-and-Support-Staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <style>
 table, th, td {
@@ -110,11 +111,7 @@ table, th, td {
 	<td>Mr Medapati Sri Sudhakar Reddy</td>
     <td></td>
 	</tr>
-	<tr>
-	<td>Desktop Engineer</td>
-	<td>Miss Teng Yi En</td>
-    <td></td>
-	</tr>
+
 	<tr>
 	<td>Dental Therapist</td>
 	<td>Mdm Sharon Pang</td>
