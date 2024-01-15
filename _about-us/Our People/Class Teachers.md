@@ -242,6 +242,11 @@ table, th, td {
 	<td>nur_huda_ismail@schools.gov.sg</td>
 
 </tr>
+		<tr>
+	<td>Mdm Julia Lim Bee Fung </td>
+	<td>Lim_Bee_Fung_Julia@schools.gov.sg</td>
+
+</tr>
 <tr>
 	<td rowspan="3">3R5</td>
 	<td>Mdm Nur Fai'zah Binte Ahmad Fauzi</td>
