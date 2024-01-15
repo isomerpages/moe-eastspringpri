@@ -28,7 +28,7 @@ table, th, td {
 	</tr>
 	<tr>
 	<td>Vice-Principal (Acad)</td>
-			<td>Ms Jes Neo Aik Seo</td>
+			<td>Mdm Fazilah Maricar</td>
 	</tr>
 		<tr>
 	<td>Vice-Principal (Admin)</td>
