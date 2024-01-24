@@ -1,0 +1,6 @@
+collections:
+  alumni:
+    output: true
+    order:
+      - Well wishes for P6.md
+      - Alumni Registration.md
