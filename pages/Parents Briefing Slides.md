@@ -15,6 +15,8 @@ variant: tiptap
     <br>
 </p>
 <h4><strong>P2 Parents Briefing slides</strong></h4>
+<p><a href="https://sites.google.com/moe.edu.sg/principalsaddress/home" rel="noopener noreferrer nofollow" target="_blank">Principal's Address</a>
+</p>
 <p><a href="/files/Parents Briefing Slides/2024/2024_P2_Parents_Briefing_YH_26_Jan_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Parents Briefing 2024 YH</a>
 </p>
 <p><a href="/files/Parents Briefing Slides/2024/2024_Parents_Briefing_by_FTs_P2_Updated.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Parents Briefing 2024 FT</a>
@@ -23,5 +25,5 @@ variant: tiptap
 <p><a href="/files/Parents Briefing Slides/2024/2024_P3_P4_Parents_Briefing_19_Jan_for_school_website_final.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P4 Briefing Slides 2024</a>
 </p>
 <h4><strong>P5 - P6 Parents Briefing slides</strong></h4>
-<p><a href="/files/Parents%20Briefing%20Slides/P2%20Briefing/P2%20Parents%20Briefing%202023_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">An update on the link will be provided at a later time </a>
+<p><a href="/files/Parents%20Briefing%20Slides/P2%20Briefing/P2%20Parents%20Briefing%202023_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">An update on the link will be provided at a later time</a>
 </p>
