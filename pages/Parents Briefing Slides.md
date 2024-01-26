@@ -22,6 +22,6 @@ variant: tiptap
 <h4><strong>P3 - P4 Parents Briefing slides</strong></h4>
 <p><a href="/files/Parents Briefing Slides/2024/2024_P3_P4_Parents_Briefing_19_Jan_for_school_website_final.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P4 Briefing Slides 2024</a>
 </p>
-<h4><strong>P5P6 Parents Briefing slides</strong></h4>
-<p><a href="/files/Parents%20Briefing%20Slides/P2%20Briefing/P2%20Parents%20Briefing%202023_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">An update on the link will be provided at a later time</a>
+<h4><strong>P5 - P6 Parents Briefing slides</strong></h4>
+<p><a href="/files/Parents%20Briefing%20Slides/P2%20Briefing/P2%20Parents%20Briefing%202023_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">An update on the link will be provided at a later time </a>
 </p>
