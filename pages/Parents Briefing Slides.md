@@ -17,6 +17,8 @@ variant: tiptap
 <h4><strong>P2 Parents Briefing slides</strong></h4>
 <p><a href="/files/Parents Briefing Slides/2024/2024_P2_Parents_Briefing_YH_26_Jan_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Parents Briefing 2024 YH</a>
 </p>
+<p><a href="/files/Parents Briefing Slides/2024/2024_Parents_Briefing_by_FTs_P2_Updated.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Parents Briefing 2024 FT</a>
+</p>
 <h4><strong>P3 - P4 Parents Briefing slides</strong></h4>
 <p><a href="/files/Parents Briefing Slides/2024/2024_P3_P4_Parents_Briefing_19_Jan_for_school_website_final.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P4 Briefing Slides 2024</a>
 </p>
