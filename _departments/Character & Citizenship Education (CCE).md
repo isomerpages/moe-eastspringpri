@@ -473,11 +473,11 @@ and learn to behave maturely towards each other.</p>
 <p>8.&nbsp;Parents may opt their children out of the Growing Years programme,
 and/or supplementary sexuality education programmes by MOE-approved external
 providers.</p>
-<p>9. Parents who wish to opt their children out of the Growing Years (GY)
-programme need to complete an opt-out form. This form will be distributed
-to parents at the start of the programme. A hardcopy of the form, duly
-completed and signed, is to be submitted to the teacher in-charge of the
-programme by the end of Term 4 Week 9.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the Sexuality Education lessons need to complete an opt-out form.
+This form will be communicated to parents at the start of the year and
+is also downloadable <u>here</u>. The completed opt-out form is to be submitted
+by 8 November 2024.</p>
 <p>10. Parents can also contact the school at 67866192 or email the school
 to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
