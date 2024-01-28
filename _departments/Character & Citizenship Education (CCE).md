@@ -129,7 +129,7 @@ in the neighbourhood during the main festive celebrations.</p>
 <li>
 <p>
 <br>&nbsp;&nbsp;&nbsp;
-<br><strong>Sexuality Education</strong>
+<br><strong>Sexuality Education</strong> 
 <br>&nbsp;&nbsp;&nbsp;</p>
 <p>
 <br>
@@ -467,7 +467,7 @@ and learn to behave maturely towards each other.</p>
 </table>
 <p><strong><br></strong>
 </p>
-<p><strong>Information For Parents</strong>
+<p><strong>Information For Parents</strong> 
 <br>
 </p>
 <p>8.&nbsp;Parents may opt their children out of the Growing Years programme,
