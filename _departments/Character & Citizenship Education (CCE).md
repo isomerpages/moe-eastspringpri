@@ -192,13 +192,17 @@ on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
-<p>6. The upper primary years mark the onset of puberty. With better nutrition
-and improved health care, Children are reaching puberty at a younger age
-and have to grapple with physical, emotional and psychological changes
-in themselves. The implication is that our children are becoming biologically
-ready for sexual activity sooner without necessarily having the corresponding
-cognitive or emotional maturity to modulate their behaviours. “Curious
-Minds” is a response to these challenges.</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years
+mark the onset of puberty. With better nutrition and improved health care,
+children are reaching puberty at a younger age and have to grapple with
+physical, emotional and psychological changes in themselves. The implication
+is that our children are becoming biologically ready for sexual activity
+sooner without necessarily having the corresponding cognitive or emotional
+maturity to modulate their behaviours. Furthermore, our young are also
+exposed to a wide range of influences that could endanger health and undermine
+the integrity of the family. Our students require close guidance so that
+they can respond with discernment to the sexual messages in the media and
+other sources.</p>
 <p>7. The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2nd
 Edition)”, aims to meet students’ developmental needs, give emphasis to
 the teaching of skills and values, and focus on helping students navigate
