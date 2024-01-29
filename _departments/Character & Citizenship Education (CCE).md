@@ -164,19 +164,19 @@ matters.</p>
 Help students develop a moral compass and respect for themselves and others
 by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
-<p>3. The key messages of Sexuality Education are:</p>
-<p>i. Love and respect yourself as you love and respect others;</p>
-<p>ii. Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>iii. Make responsible decisions for yourself, your family and society;
-and</p>
-<p>iv. Abstinence before marriage is the best protection against STIs/HIV
-and unintended pregnancies. Casual sex can harm and hurt you and your loved
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+Sexuality Education are:</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Love and respect yourself as you love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Build positive relationships based on love and respect (which are the foundation
+for strong families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Make responsible decisions for yourself, your family and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Abstinence before marriage is the best protection against STIs/HIV and
+unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information on MOE Sexuality Education.</p>
-<p>Overview of East Spring Primary School's Sexuality Education Programme
-for 2022</p>
 <p>4.&nbsp;Sexuality Education is delivered in a holistic manner through
 the school curriculum. The content for Sexuality Education is grouped into
 five main themes: Human Development, Interpersonal Relationships, Sexual
