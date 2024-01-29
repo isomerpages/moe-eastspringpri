@@ -203,13 +203,13 @@ exposed to a wide range of influences that could endanger health and undermine
 the integrity of the family. Our students require close guidance so that
 they can respond with discernment to the sexual messages in the media and
 other sources.</p>
-<p>7. The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2nd
-Edition)”, aims to meet students’ developmental needs, give emphasis to
-the teaching of skills and values, and focus on helping students navigate
-changes, build healthy relationships, especially online relationships,
-and exercise safety. At East Spring Primary School, the following lessons
-from the Growing Years Programme for Primary 5 and Primary 6 pupils will
-be taught in 2024:</p>
+<p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
+lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these
+lessons, students will learn healthy ways to manage the physiological,
+social and emotional changes in their growing years. They learn to build
+healthy and rewarding relationships with others, including those with members
+of the opposite sex. Students are also guided to make wise, informed and
+responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
 </li>
 </ul>
