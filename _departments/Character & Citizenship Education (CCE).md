@@ -181,19 +181,17 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p>4.&nbsp;Sexuality Education is delivered in a holistic manner through
-the school curriculum. The content for Sexuality Education is grouped into
-five main themes: Human Development, Interpersonal Relationships, Sexual
-Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
-<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
-in the school curriculum.</p>
-<p>5. The subjects that incorporate topics on sexuality include:</p>
-<p>a. Form Teacher Guidance Period (FTGP)</p>
-<p>b.&nbsp;Science</p>
-<p>c.&nbsp;Health Education</p>
-<p>d.&nbsp;Character and Citizenship Education (CCE)</p>
-<p>Growing Years (GY) Programme: "Curious Minds (2nd Edition)" (Primary 5
-&amp; 6) Teaching &amp; Learning resource package</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
+is delivered in a holistic manner through the school curriculum. The content
+for Sexuality Education is grouped into five main themes: Human Development,
+Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
+Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+more information on the scope of Sexuality Education in the school curriculum.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
+on sexuality include:</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+(CCE)</p>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, Children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
