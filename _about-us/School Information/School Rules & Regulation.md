@@ -123,10 +123,9 @@ holidays must be in school uniform/ PE attire.
   background:transparent" class="Other10"><span style="color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>injury on their foot/feet. No slippers are allowed.</span></p></td></tr></tbody></table>			
         *Please refer to the pictures for the acceptable school attire.
 
-![](/images/SDT/School_uniform.jpg)
-![](/images/SDT/PE_attire.jpg)
-![](/images/SDT/Shoes_and_Socks.jpg)
-
+![](/images/2024/School_uniform.jpg)
+![](/images/2024/PE_Attire_Boys_and_Girls.jpg)
+![](/images/2024/Shoes_and_Socks__Boys_and_Girls_.jpg)
 #### **2.  General Appearance**
 
 2.1 Neat attire and hairdo.
@@ -329,6 +328,3 @@ holidays must be in school uniform/ PE attire.
 6.3 Students are strongly discouraged from bringing mobile phones/smart wrist watches to school. All communication devices such as mobiles phones/smart wrist watches **must** be switched off during school hours.
 
 6.4 All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.
-
-
-
