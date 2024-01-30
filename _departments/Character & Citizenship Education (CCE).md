@@ -4,10 +4,8 @@ permalink: /departments/Character-and-Citizenship-Education-CCE/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <ul>
-<li>
-<p>&nbsp;</p>
-</li>
 <li>
 <p>&nbsp;&nbsp;&nbsp; <strong>Our Programmes</strong> &nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -303,108 +301,6 @@ and how to seek help for themselves and their friends.</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong><br></strong>
-</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>UNIT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>LESSONS/ DURATION</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
-</p>
-<p><strong>At the end of the lessons, pupils will be able to:</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Gosh! I Am Changing</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Did You Know</p>
-<p>(60 mins)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp; know what pornography is and how it can affect themselves
-and others</p>
-<p>·&nbsp;&nbsp;&nbsp; understand the dangers of pornography and reject the
-viewing&nbsp; and/ or reading of pornographic materials</p>
-<p>·&nbsp;&nbsp;&nbsp; recognise possible situation where they may encounter
-pornography</p>
-<p>·&nbsp;&nbsp;&nbsp; evaluate their own responses when they encounter pornography
-by using ‘Stop-Think-Go’.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 4/ Week 9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Keeping Myself Safe</p>
-<p>(60 mins)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp; know their right to keep themselves safe from sexual
-abuse</p>
-<p>·&nbsp;&nbsp;&nbsp; take precautionary measures when they communicate
-with people online</p>
-<p>·&nbsp;&nbsp;&nbsp; protect themselves online and offline and how to avoid
-dangers</p>
-<p>·&nbsp;&nbsp;&nbsp; know the importance of seeking help and how to identify
-ways to seek help</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 4/ Week 9</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Changes In Me</p>
-<p>(60 mins)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp; identify the emotions and stresses caused by physical
-changes during puberty</p>
-<p>·&nbsp;&nbsp;&nbsp; describe healthy ways to manage stress caused by physical
-and emotional changes during puberty</p>
-<p>·&nbsp;&nbsp;&nbsp; recognise that one’s identity does not change even
-when one’s body is experiencing change due to puberty</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 4/ Week 9</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
 <h4><strong><u>Primary 6</u></strong></h4>
