@@ -64,7 +64,7 @@ table, th, td {
 <tr>
 	<td>Operations Support Officer</td>
 	<td>Mdm Lian Ai Leng (Irene)</td>
-	<td>lian_ai_leng_irene@schools.gov.sg</td>
+	<td></td>
 	</tr>
 		<tr>
 	<td>Operations Support Officer</td>
