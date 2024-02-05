@@ -51,10 +51,25 @@ table, th, td {
 	<td>Ms Florence Loh Boon Hoon</td>
     <td>florence_loh_boon_hoon@schools.gov.sg</td>
 	</tr>
+			<tr>
+	<td>Corporate Support Officer (Adjunct)</td>
+	<td>Miss Syaheera Beevi Binte Mohamed</td>
+    <td>Syaheera_Beevi_Mohamed@schools.gov.sg</td>
+	</tr>
+			<tr>
+	<td>Operations Support Officer (Adjunct)</td>
+	<td>Mdm Norlela Binte Kitang</td>
+    <td></td>
+	</tr>
 <tr>
 	<td>Operations Support Officer</td>
 	<td>Mdm Lian Ai Leng (Irene)</td>
 	<td>lian_ai_leng_irene@schools.gov.sg</td>
+	</tr>
+		<tr>
+	<td>Operations Support Officer</td>
+	<td>Mdm Ho Swee Hoon (Alice)</td>
+    <td></td>
 	</tr>
 	<tr>
 	<td>Operations Support Officer</td>
@@ -66,21 +81,7 @@ table, th, td {
 	<td>Mr Tan See Kwee</td>
 	<td></td>
 	</tr>
-	<tr>
-	<td>Operations Support Officer</td>
-	<td>Mdm Ho Swee Hoon (Alice)</td>
-    <td></td>
-	</tr>
-	<tr>
-	<td>Operations Support Officer (Adjunct)</td>
-	<td>Mdm Norlela Binte Kitang</td>
-    <td></td>
-	</tr>
-	<tr>
-	<td>Corporate Support Officer (Adjunct)</td>
-	<td>Miss Syaheera Beevi Binte Mohamed</td>
-    <td>Syaheera_Beevi_Mohamed@schools.gov.sg</td>
-	</tr>
+
 </tbody></table>
 
 <br>
