@@ -11,45 +11,64 @@ table, th, td {
   border-collapse: collapse;
   background-color: white;
 }
-
 </style>
 <b><u>Executive &amp; Administrative Staff</u></b>
 <table style="width:100%">
   <tbody>
-<tr>
-	<td>Administration Manager</td>
-	<td>Ms Ng Lay Tin</td>
-	<td>ng_lay_tin@schools.gov.sg</td>
-	</tr>
 		<tr>
 	<td>Administration Manager</td>
 	<td>Ms Khairunnisa Binte Mohamed Hussain</td>
 	<td>khairunnisa_mohamed_hussain@schools.gov.sg</td>
 	</tr>
 	<tr>
+	<td>Administration Manager</td>
+	<td>Ms Ng Lay Tin</td>
+	<td>ng_lay_tin@schools.gov.sg</td>
+	</tr>
+	<tr>
 	<td>Operations Manager</td>
 	<td>Mr Quek Swee Heng</td>
     <td>quek_swee_heng@schools.gov.sg</td>
-	</tr>
-<tr>
-	<td>Administrative Executive</td>
-	<td>Ms Liew Dun Lin</td>
-	<td>liew_dun_lin@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Administrative Executive</td>
 	<td>Ms Nur Faradilah Binte Padawi</td>
     <td>nur_faradilah_padawi@schools.gov.sg</td>
 	</tr>
-	<tr>
+		<tr>
+	<td>Administrative Executive</td>
+	<td>Ms Liew Dun Lin</td>
+	<td>liew_dun_lin@schools.gov.sg</td>
+	</tr>
+<tr>
+<td>Adjunct ICT Associate</td>
+<td>Mr Lai Wai Kien</td>
+<td>lai_wai_kien@schools.gov.sg</td>
+</tr>
+<tr>
 	<td>Corporate Support Officer</td>
 	<td>Ms Florence Loh Boon Hoon</td>
     <td>florence_loh_boon_hoon@schools.gov.sg</td>
 	</tr>
+			<tr>
+	<td>Corporate Support Officer (Adjunct)</td>
+	<td>Miss Syaheera Beevi Binte Mohamed</td>
+    <td>Syaheera_Beevi_Mohamed@schools.gov.sg</td>
+	</tr>
+			<tr>
+	<td>Operations Support Officer (Adjunct)</td>
+	<td>Mdm Norlela Binte Kitang</td>
+    <td></td>
+	</tr>
 <tr>
 	<td>Operations Support Officer</td>
 	<td>Mdm Lian Ai Leng (Irene)</td>
-	<td>lian_ai_leng_irene@schools.gov.sg</td>
+	<td></td>
+	</tr>
+		<tr>
+	<td>Operations Support Officer</td>
+	<td>Mdm Ho Swee Hoon (Alice)</td>
+    <td></td>
 	</tr>
 	<tr>
 	<td>Operations Support Officer</td>
@@ -61,25 +80,7 @@ table, th, td {
 	<td>Mr Tan See Kwee</td>
 	<td></td>
 	</tr>
-	<tr>
-	<td>Operations Support Officer</td>
-	<td>Mdm Ho Swee Hoon (Alice)</td>
-    <td></td>
-	</tr>
-	<tr>
-	<td>Operations Support Officer (Adjunct)</td>
-	<td>Mdm Norlela Binte Kitang</td>
-    <td></td>
-	</tr>
-	<tr>
-	<td>Corporate Support Officer (Adjunct)</td>
-	<td>Miss Syaheera Beevi Binte Mohamed</td>
-    <td>Syaheera_Beevi_Mohamed@schools.gov.sg</td>
-	</tr>	<tr>
-	<td>Adjunct ICT Associate</td>
-	<td>Mr Lai Wai Kien</td>
-    <td>lai_wai_kien@schools.gov.sg</td>
-	</tr>
+
 </tbody></table>
 
 <br>
