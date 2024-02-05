@@ -31,17 +31,22 @@ table, th, td {
 	<td>Mr Quek Swee Heng</td>
     <td>quek_swee_heng@schools.gov.sg</td>
 	</tr>
-<tr>
-	<td>Administrative Executive</td>
-	<td>Ms Liew Dun Lin</td>
-	<td>liew_dun_lin@schools.gov.sg</td>
-	</tr>
 	<tr>
 	<td>Administrative Executive</td>
 	<td>Ms Nur Faradilah Binte Padawi</td>
     <td>nur_faradilah_padawi@schools.gov.sg</td>
 	</tr>
-	<tr>
+		<tr>
+	<td>Administrative Executive</td>
+	<td>Ms Liew Dun Lin</td>
+	<td>liew_dun_lin@schools.gov.sg</td>
+	</tr>
+<tr>
+<td>Adjunct ICT Associate</td>
+<td>Mr Lai Wai Kien</td>
+<td>lai_wai_kien@schools.gov.sg</td>
+</tr>
+<tr>
 	<td>Corporate Support Officer</td>
 	<td>Ms Florence Loh Boon Hoon</td>
     <td>florence_loh_boon_hoon@schools.gov.sg</td>
@@ -75,10 +80,6 @@ table, th, td {
 	<td>Corporate Support Officer (Adjunct)</td>
 	<td>Miss Syaheera Beevi Binte Mohamed</td>
     <td>Syaheera_Beevi_Mohamed@schools.gov.sg</td>
-	</tr>	<tr>
-	<td>Adjunct ICT Associate</td>
-	<td>Mr Lai Wai Kien</td>
-    <td>lai_wai_kien@schools.gov.sg</td>
 	</tr>
 </tbody></table>
 
