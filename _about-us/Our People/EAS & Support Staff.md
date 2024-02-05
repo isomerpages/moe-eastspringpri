@@ -16,15 +16,15 @@ table, th, td {
 <b><u>Executive &amp; Administrative Staff</u></b>
 <table style="width:100%">
   <tbody>
-<tr>
-	<td>Administration Manager</td>
-	<td>Ms Ng Lay Tin</td>
-	<td>ng_lay_tin@schools.gov.sg</td>
-	</tr>
 		<tr>
 	<td>Administration Manager</td>
 	<td>Ms Khairunnisa Binte Mohamed Hussain</td>
 	<td>khairunnisa_mohamed_hussain@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Administration Manager</td>
+	<td>Ms Ng Lay Tin</td>
+	<td>ng_lay_tin@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Operations Manager</td>
