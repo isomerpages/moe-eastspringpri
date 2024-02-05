@@ -11,7 +11,6 @@ table, th, td {
   border-collapse: collapse;
   background-color: white;
 }
-
 </style>
 <b><u>Executive &amp; Administrative Staff</u></b>
 <table style="width:100%">
