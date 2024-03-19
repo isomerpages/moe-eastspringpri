@@ -109,7 +109,7 @@ table, th, td {
 	<td>aminah_ahmat@schools.gov.sg</td>
 	</tr>  
 	<tr>
-	<td>SEN officer (UT) </td>
+	<td>Special Educational Needs (SEN) officer (UT) </td>
 	<td>Ms Jermaine Ho</td>
 	<td>Jermaine_Ho@schools.gov.sg</td>
 	</tr>  
