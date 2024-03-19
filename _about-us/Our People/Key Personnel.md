@@ -205,11 +205,6 @@ table, th, td {
 			<td>Mdm Huang Lin Lin</td>
 		<td>huang_linlin@schools.gov.sg</td>
 	</tr>		
-			<tr>
-	<td>ST / Art</td>
-			<td>Mr Tock Swee Guan William</td>
-		<td>tock_swee_guan_william@schools.gov.sg</td>
-	</tr>	
 					<tr>
 	<td>ST / Lower Primary</td>
 			<td>Mdm Noor Zehan Bte Mohamed Rashid</td>
