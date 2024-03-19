@@ -108,6 +108,11 @@ table, th, td {
 	<td>Mdm Aminah Bte Ahmat</td>
 	<td>aminah_ahmat@schools.gov.sg</td>
 	</tr>  
+	<tr>
+	<td>Special Educational Needs (SEN) officer (UT) </td>
+	<td>Ms Jermaine Ho</td>
+	<td>Jermaine_Ho@schools.gov.sg</td>
+	</tr>  
 </tbody></table>
 <br>
 <b><u>Support Staff</u></b>

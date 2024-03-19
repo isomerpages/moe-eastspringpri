@@ -39,8 +39,8 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="2">1S1</td>
-	<td>Mrs Oliveiro Lavinia</td>
-	<td>Oliveiro_Lavinia_Janell@schools.gov.sg</td>
+	<td>Mdm Tan Wui Ling (Mrs Lee)</td>
+	<td>tan_wui_ling@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Azah Abdul Aziz</td>
@@ -98,8 +98,8 @@ table, th, td {
 	<td>n_n_noornisha@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Tan Wui Ling (Mrs Lee)</td>
-	<td>tan_wui_ling@schools.gov.sg</td>
+	<td>Mdm Sonika Kaur Dhaliwal</td>
+	<td>sonika_kaur_dhaliwal@schools.gov.sg</td>
 
 </tr>
 </tbody></table>
