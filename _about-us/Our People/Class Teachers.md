@@ -316,7 +316,7 @@ table, th, td {
 	<td>sheeba_d_o_balakrishnan@schools.gov.sg</td>
 </tr>
 	<tr><td rowspan="2">4I5</td>
-	<td>Mr Yeo Ying Khong</td>
+	<td>Mr Yeoh Ying Khong</td>
 	<td>yeo_ying_khong@schools.gov.sg</td>
 	</tr>
 	<tr>
