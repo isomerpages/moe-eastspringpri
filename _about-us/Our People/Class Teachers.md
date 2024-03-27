@@ -203,7 +203,7 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="2">3R1</td>
-	<td>Miss Gloria Lim Wei</td>
+	<td>Mrs Gloria Lim Wei</td>
 	<td>gloria_lim_wei@schools.gov.sg</td>
 
 </tr>
@@ -316,7 +316,7 @@ table, th, td {
 	<td>sheeba_d_o_balakrishnan@schools.gov.sg</td>
 </tr>
 	<tr><td rowspan="2">4I5</td>
-	<td>Mr Yeo Ying Khong</td>
+	<td>Mr Yeoh Ying Khong</td>
 	<td>yeo_ying_khong@schools.gov.sg</td>
 	</tr>
 	<tr>
@@ -434,7 +434,7 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="2">6G3</td>
-	<td>Mrs Tan Siew Lay, Shirley (Mrs Lim)</td>
+	<td>Mdm Tan Siew Lay, Shirley (Mrs Lim)</td>
 	<td>tan_siew_lay_shirley@schools.gov.sg</td>
 	</tr>
 	<tr>
