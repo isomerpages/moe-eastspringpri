@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Safety and Emergency Management.md
       - Principal's Message.md
       - School Information/.keep
       - School Information/School Rules & Regulation.md
@@ -18,6 +17,7 @@ collections:
       - Our People/Key Personnel.md
       - Our People/Class Teachers.md
       - Our People/EAS & Support Staff.md
+      - School Safety and Emergency Management.md
       - ESPS 20th Anniversary/.keep
       - ESPS 20th Anniversary/ESPS 20th Anniversary.md
       - ESPS 20th Anniversary/Sports Carnival.md
