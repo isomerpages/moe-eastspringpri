@@ -45,7 +45,7 @@ Tel 6479 6811
 [www.khuniform.com](https://khuniform.com/)
 
 #### Dental Clinic (East Spring Primary School)  
-Dental Clinic Telephone 8940 1244  
+Dental Clinic Telephone Number: 8940 1244  
   
 Operating Hours  
 Monday &amp; Thursday 8.00 am to 5.30 pm  
@@ -53,11 +53,11 @@ Tuesday &amp; Wednesday 8.00 am to 1.00 pm
 Friday - Clinic is closed  
 Lunch Hour 1pm - 2pm  
   
-Clinic operates on alternate weeks  
+Clinic operates on alternate weeks. Please call to make an appointment for your child (if required)  
   
 Buddy Clinics that students may go to when ESPS Clinic is closed:  
   
 
-*   Chong Zheng Primary – Tel 8940 1137
+*   Chongzheng Primary  – Tel 8940 1137
 *   Maha Bodhi School – Tel 8940 5089
 *   Mobile Dental Clinic – Tel 9237 9142
