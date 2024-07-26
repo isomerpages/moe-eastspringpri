@@ -154,15 +154,18 @@ table, th, td {
 </tr>
 
 <tr>
-	<td rowspan="2">2P5</td>
+	<td rowspan="3">2P5</td>
 	<td>Mdm Leanne Seng</td>
 	<td>seng_leanne@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Nadirah Baharin</td>
 	<td>nadirah_baharin@schools.gov.sg</td>
-
-</tr>
+ </tr>
+	<tr>
+	<td>Mr Nathaniel Tan Wei Oon</td>
+	<td>nathaniel_tan_oon@schools.gov.sg</td>
+  </tr>
 <tr>
 	<td rowspan="2">2P6</td>
 	<td>Mdm Huang Lin Lin</td>
@@ -237,12 +240,11 @@ table, th, td {
 	<td>Miss Iman Izzati Binte Mohamed Musharraf</td>
 	<td>iman_izzati_mohamed_musharraf@schools.gov.sg</td>
 	</tr>
-		<tr>
-	<td>Mdm Julia Lim Bee Fung </td>
-	<td>Lim_Bee_Fung_Julia@schools.gov.sg</td>
-
-</tr>
-<tr>
+	<tr>
+	<td>Mdm Koh Hui Ling, Valerie</td>
+	<td>koh_hui_ling_valerie@schools.gov.sg</td>
+  </tr>
+  <tr>
 	<td rowspan="3">3R5</td>
 	<td>Mdm Nur Fai'zah Binte Ahmad Fauzi</td>
 	<td>nur_faizah_ahmad_fauzi@schools.gov.sg</td>
@@ -280,8 +282,8 @@ table, th, td {
 	<td>chao_wei_nien@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Koh Wei Ling, Valerie</td>
-	<td>maznah_md_rashid@schools.gov.sg</td>
+	<td>Ms Munirah Binte Abdul Aziz</td>
+	<td>munirah_abdul_aziz@schools.gov.sg</td>
 </tr>
 		<tr>
 	<td>Mdm Sim, Lynette-Marie</td>
@@ -303,10 +305,10 @@ table, th, td {
 	<td>tan_kai_wei_charmaine@schools.gov.sg</td>
 </tr>
 	<tr>
-		<td>Mr S Nasheylen Pillai</td>
-	<td>s_nasheylen_pillai@schools.gov.sg</td>
-</tr>
-<tr>
+		<td>Mr Choo Yew Teck, Jacky</td>
+	  <td>choo_yew_teck@schools.gov.sg</td>
+  </tr>
+ <tr>
 	<td rowspan="2">4I4</td>
 	<td>Mr Yam Hai Seng</td>
 	<td>yam_hai_seng@schools.gov.sg</td>
@@ -319,7 +321,10 @@ table, th, td {
 	<td>Mr Yeoh Ying Khong</td>
 	<td>yeo_ying_khong@schools.gov.sg</td>
 	</tr>
-
+	  <tr>
+		<td>Mdm Khairunnisa Binte Mohamed</td>
+	  <td>khairunnisa_mohamed@schools.gov.sg</td>
+   </tr>
 	<tr><td rowspan="2">4I6</td>
 	<td>Miss Leong Fong Lai, Pauline</td>
 	<td>leong_fong_lai_pauline@schools.gov.sg</td>
@@ -407,18 +412,14 @@ table, th, td {
 		<th style="width: 40%">Email</th><td>
   </td></tr>
 <tr>
-	<td rowspan="3">6G1</td>
+	<td rowspan="2">6G1</td>
 	<td>Mdm Smita Quintal Kaur</td>
 	<td>smita_quintal_kaur@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Jiang Yanni</td>
-	<td>jiang_yanni@schools.gov.sg</td>
-</tr>
-		<tr>
 	<td>Mr Mohamed Abdul Rauf </td>
 	<td>mohamed_abdul_rauf_mohamed@schools.gov.sg</td>
-</tr>
+ </tr>
 <tr>
 	<td rowspan="2">6G2</td>
 	<td>Miss Quek Jia Xin</td>

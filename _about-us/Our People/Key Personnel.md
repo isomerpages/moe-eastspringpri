@@ -124,6 +124,22 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
+    <th style="width: 30%">School Staff Developer</th>
+    <th style="width: 30%">Name</th>
+		<th style="width: 40%">Email Address</th><td>
+  </td></tr>
+<tr>
+	<td>SSD</td>
+	<td>Mdm Seah Wei Shan (Mrs Sim)</td>
+	<td>seah_wei_shan@schools.gov.sg</td>
+	</tr>
+<tr>
+</tr></tbody></table>
+
+<br>
+
+<table style="width:100%">
+  <tbody><tr>
     <th style="width: 30%">Lead Teacher</th>
     <th style="width: 30%">Name</th>
 		<th style="width: 40%">Email Address</th><td>
@@ -151,11 +167,6 @@ table, th, td {
 	<td>LH / Maths</td>
 			<td>Miss Sheramin Phua Su Hui</td>
 		<td>sheramin_phua_su_hui@schools.gov.sg</td>
-	</tr>
-	<tr>
-	<td>SSD / Science</td>
-			<td>Mdm Seah Wei Shan (Mrs Sim)</td>
-		<td>seah_wei_shan@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>LH - Chinese Language</td>
