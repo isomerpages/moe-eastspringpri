@@ -169,7 +169,7 @@ table, th, td {
 		<td>sheramin_phua_su_hui@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>LH - Chinese Language</td>
+	<td>LH / Chinese Language</td>
 			<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
 		<td>linda_tay_mei_hong@schools.gov.sg</td>
 	</tr>
@@ -259,5 +259,10 @@ table, th, td {
 	<td>Operations Manager</td>
 	<td>Mr Quek Swee Heng</td>
 	<td>quek_swee_heng@schools.gov.sg</td>
+	</tr>
+		<tr>
+	<td>ICT Manager (Adjunct)</td>
+	<td>Ms Norliza Binte Dasuni</td>
+	<td>norliza_dasuni@schools.gov.sg</td>
 	</tr>
 </tbody></table>
