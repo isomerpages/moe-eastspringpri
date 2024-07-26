@@ -210,6 +210,18 @@ table, th, td {
 			<td>Mdm Noor Zehan Bte Mohamed Rashid</td>
 		<td>noor_zehan_mohamed_rashid@schools.gov.sg</td>
 	</tr>	
+						<tr>
+	<td>ST / English Language</td>
+			<td>Mdm Wang Yimei, Amy</td>
+		<td>wang_yimei_amy@schools.gov.sg</td>
+	</tr>	
+				<tr>
+	<td>ST / CCE</td>
+			<td>Mdm Nurarfah Sudirman</td>
+		<td>nurarfah_sudirman@schools.gov.sg</td>
+	</tr>	
+	
+	
 </tbody></table>
 
 <br>
