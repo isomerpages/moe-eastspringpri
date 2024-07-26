@@ -42,8 +42,8 @@ table, th, td {
 	</tr>
 <tr>
 <td>Adjunct ICT Associate</td>
-<td>Mr Lai Wai Kien</td>
-<td>lai_wai_kien@schools.gov.sg</td>
+<td>Ms Norliza Binte Dasuni</td>
+<td>norliza_dasuni@schools.gov.sg</td>
 </tr>
 <tr>
 	<td>Corporate Support Officer</td>
