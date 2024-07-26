@@ -254,15 +254,15 @@ table, th, td {
 	<td>Ms Khairunnisa Binte Mohamed Hussain</td>
 	<td>khairunnisa_mohamed_hussain@schools.gov.sg</td>
 	</tr>
-<tr>
-</tr><tr>
-	<td>Operations Manager</td>
-	<td>Mr Quek Swee Heng</td>
-	<td>quek_swee_heng@schools.gov.sg</td>
-	</tr>
-		<tr>
+	<tr>
 	<td>ICT Manager (Adjunct)</td>
 	<td>Ms Norliza Binte Dasuni</td>
 	<td>norliza_dasuni@schools.gov.sg</td>
 	</tr>
+<tr>
+	<td>Operations Manager</td>
+	<td>Mr Quek Swee Heng</td>
+	<td>quek_swee_heng@schools.gov.sg</td>
+	</tr>
+
 </tbody></table>
