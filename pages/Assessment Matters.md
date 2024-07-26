@@ -2,25 +2,221 @@
 title: Assessment Matters
 permalink: /parents/assessment-matters/
 description: ""
+variant: tiptap
 ---
-<table class="iveo_table ives_tab_simple3" width="100%" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170);"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="12%" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Term</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="87%" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Definition</span></b><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="12%" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Formative assessment</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">(FA)</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="87%" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Assessment that is carried out to provide timely feedback to adjust ongoing teaching and learning in order to improve students</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;">’ achievement of intended instructional outcomes. Marks will not be awarded for such assessment and they do not count towards the subject grade.<span>&nbsp;</span></span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">For example: Reading Aloud, Journal Writing etc.</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="12%" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Weighted assessment (WA)</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="87%" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Assessment for which marks attained count towards the subject grade. For example: Listening Comprehension, Topical Test etc.</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="12%" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Standardised assessment</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="87%" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Assessment that is carried out, scored and interpreted in a consistent manner within the school. For example: End-of-Year (EYE)</span><span class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr></tbody></table>
-
-#### Weighting of Assessment
-
-<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170);"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="125" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;</span></b></p></td><td width="281" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Semester 1</span></b></p></td><td width="265" colspan="2" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Semester 2</span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Term 1</span></b></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Term 2</span></b></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Term 3</span></b></p></td><td width="125" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Term 4</span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="125" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Primary 1</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td><td width="546" colspan="4" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Formative Assessment (FA)</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="125" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Primary 2</span></b></p></td><td width="546" colspan="4" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Formative Assessment (FA)</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="125" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Primary 3</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td><td width="546" colspan="4" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Formative Assessment (FA)</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Weighted Assessment (WA)-10%</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Weighted Assessment (WA)-15%</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Weighted Assessment (WA)-15%</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="125" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">EYE- 60%</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="125" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Primary 4</span></b></p></td><td width="546" colspan="4" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Formative Assessment (FA)</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Weighted Assessment (WA)- 10%</span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Weighted Assessment (WA)-15%</span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Weighted Assessment (WA)-15%</span></p></td><td width="125" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">EYE - 60%</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="125" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Primary 5</span></b><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td><td width="546" colspan="4" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Formative Assessment (FA)</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Weighted Assessment (WA)- 10%</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Weighted Assessment (WA)-15%</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Weighted Assessment (WA)-15%</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td><td width="125" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">EYE - 60%</span><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="125" rowspan="2" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Primary 6</span></b></p></td><td width="546" colspan="4" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Formative Assessment (FA)</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">-</span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">-</span></p></td><td width="141" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Preliminary Exam (100%)</span></p></td><td width="125" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 16px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">PSLE</span></p></td></tr></tbody></table>
-
-_Note:_
-
-_1._&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_The above assessment structure is meant for English, Mathematics, Science and Mother Tongue Languages (CL, ML &amp; TL)._
-
-_2._&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_All Formative Assessments (FA) are&nbsp;not&nbsp;weighted._
-
-_3._&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Details for each weighted assessment has been sent via Parent Gateway (PG)_
-
-_4._&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Scope for EYE will be loaded up nearer the date._
-
-
----------------------------------
-### _**2023 EOY EXAM**_
-
-details will be updated at later date...
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Definition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Formative assessment</p>
+<p>(FA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assessment that is carried out to provide timely feedback to adjust ongoing
+teaching and learning in order to improve students’ achievement of intended
+instructional outcomes. Marks will not be awarded for such assessment and
+they do not count towards the subject grade.&nbsp;For example: Reading
+Aloud, Journal Writing etc.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Weighted assessment (WA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assessment for which marks attained count towards the subject grade. For
+example: Listening Comprehension, Topical Test etc.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Standardised assessment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assessment that is carried out, scored and interpreted in a consistent
+manner within the school. For example: End-of-Year (EYE)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Weighting of Assessment</h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Semester 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Semester 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Term 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Term 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Term 4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>Formative Assessment (FA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>Formative Assessment (FA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Primary 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>Formative Assessment (FA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment (WA)-10%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment (WA)-15%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment (WA)-15%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EYE- 60%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Primary 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>Formative Assessment (FA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment (WA)- 10%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment (WA)-15%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment (WA)-15%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EYE - 60%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Primary 5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>Formative Assessment (FA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment (WA)- 10%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment (WA)-15%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment (WA)-15%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EYE - 60%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Primary 6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>Formative Assessment (FA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preliminary Exam (100%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note:</em>
+</p>
+<p><em>1.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>The above assessment structure is meant for English, Mathematics, Science and Mother Tongue Languages (CL, ML &amp; TL).</em>
+</p>
+<p><em>2.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>All Formative Assessments (FA) are&nbsp;not&nbsp;weighted.</em>
+</p>
+<p><em>3.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Details for each weighted assessment has been sent via Parent Gateway (PG)</em>
+</p>
+<p><em>4.</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Scope for EYE will be loaded up nearer the date.</em>
+</p>
+<hr>
+<h3><strong><em>2023 EOY EXAM</em></strong></h3>
+<p>details will be updated at later date...</p>
