@@ -89,7 +89,7 @@ table, th, td {
 	<td>smita_quintal_kaur@schools.gov.sg</td>
 	</tr>
 <tr>
-	<td>HOD /  HOD Mathematics</td>
+	<td>HOD / Mathematics</td>
 	<td>Mdm Sandra Foo Wei Sze (Mrs Ong)</td>
 	<td>foo_wei_sze_sandra@schools.gov.sg</td>
 	</tr>
