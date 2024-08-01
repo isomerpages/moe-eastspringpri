@@ -25,6 +25,11 @@ table, th, td {
 	<td>Ms Ng Lay Tin</td>
 	<td>ng_lay_tin@schools.gov.sg</td>
 	</tr>
+<tr>
+<td>ICT Manager (Adjunct)</td>
+<td>Ms Norliza Binte Dasuni</td>
+<td>norliza_dasuni@schools.gov.sg</td>
+</tr>
 	<tr>
 	<td>Operations Manager</td>
 	<td>Mr Quek Swee Heng</td>
@@ -40,11 +45,6 @@ table, th, td {
 	<td>Ms Liew Dun Lin</td>
 	<td>liew_dun_lin@schools.gov.sg</td>
 	</tr>
-<tr>
-<td>Adjunct ICT Manager</td>
-<td>Ms Norliza Binte Dasuni</td>
-<td>norliza_dasuni@schools.gov.sg</td>
-</tr>
 <tr>
 	<td>Corporate Support Officer</td>
 	<td>Ms Florence Loh Boon Hoon</td>
@@ -124,7 +124,7 @@ table, th, td {
 	</tr>
 <tr>
 	<td>Desktop Engineer</td>
-	<td></td>
+	<td>Mr Ahmad Bin Abdul Rab</td>
     <td></td>
 	</tr>
 	<tr>
