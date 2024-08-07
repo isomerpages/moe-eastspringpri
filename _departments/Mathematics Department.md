@@ -2,6 +2,7 @@
 title: Mathematics Department
 permalink: /departments/Mathematics-Department/
 description: ""
+variant: markdown
 ---
 <style>
 table, th, td {
@@ -72,20 +73,11 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
     <th style="width: 30%">Award</th>
 		<th style="width: 40%">Name</th>
 		</tr><tr>
-			<td>P5</td>
-			<td>Gold </td>
-			<td>MUSKAN KISHOR GUDEKAR (5N2)</td>
-		</tr>
-				<tr>
 			<td>P6</td>
 			<td>Gold </td>
-			<td>NG ZONG HAO (6G1)</td>
+			<td>MUSKAN KISHOR GUDEKAR (6G1)</td>
 		</tr>
-				<tr>
-			<td>P6</td>
-			<td>Gold </td>
-			<td>DHANAKIAT HONDA (6G2)</td>
-		</tr>
+
 </tbody></table>
 <table style="width:100%">
   <tbody><tr>
@@ -95,22 +87,27 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 		</tr><tr>
 			<td>P5</td>
 			<td>Silver </td>
-			<td>LAM WING YAN (5N1)</td>
+			<td>LIU YUXIN (5N1)</td>
 		</tr>
 <tr>
 			<td>P5</td>
 			<td>Silver </td>
-			<td>PALANIAPPAN CHIDAMBARAM (5N2)</td>
+			<td>NAFIZ RIFAIE BIN SOFIAN (5N1)</td>
 		</tr>
 		<tr>
-			<td>P5</td>
+			<td>P6</td>
 			<td>Silver </td>
-			<td>ADRISH SATHIYANARAYANAN (5N2)</td>
+			<td>ALEXANDER JAYRAJ PRAGASAM (6G1)</td>
 		</tr>
 				<tr>
 			<td>P6</td>
 			<td>Silver </td>
-			<td>AGARAN ELANKATHIR ELAVAZHAGAN&nbsp; (6G1)</td>
+			<td>WOON JIA QI (6G1)</td>
+		</tr>
+				<tr>
+			<td>P6</td>
+			<td>Silver </td>
+			<td>PALANIAPPAN CHIDAMBARAM (6G2)</td>
 		</tr>
 </tbody></table>
 
@@ -122,68 +119,29 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 		</tr><tr>
 			<td>P5</td>
 			<td>Bronze </td>
-			<td>ALEXANDER JAYRAJ PRAGASAM (5N1)</td>
+			<td>CHONG ZHI MING, RICHARD (5N1)</td>
 		</tr>
 <tr>
 			<td>P5</td>
 			<td>Bronze </td>
-			<td>   ZHOU LINXI (5N1)</td>
+			<td>WAKODIKAR AVYAN (5N1)</td>
 		</tr>
 		<tr>
-			<td>P5</td>
+			<td>P6</td>
 			<td>Bronze </td>
-			<td>THANMAYA RANJITH (5N1)</td>
-		</tr>
-				<tr>
-			<td>P5</td>
-			<td>Bronze </td>
-			<td>WAN CHIN YIN (5N2)</td>
-		</tr>
-				<tr>
-			<td>P5</td>
-			<td>Bronze </td>
-			<td> RAPHAEL NAGA ALLENDRA DEPARI (5N2)</td>
+			<td>SOFIA EILIYAH BINTE ZAKI (6G1)</td>
 		</tr>
 				<tr>
 			<td>P6</td>
 			<td>Bronze </td>
-			<td> RAYNE KUAN (6G1)</td>
+			<td>AYRA AMELIA BINTE ROHAIZAN (6G2)</td>
 		</tr>
-						<tr>
+				<tr>
 			<td>P6</td>
 			<td>Bronze </td>
-			<td>   CAI YUZHE (6G1)</td>
+			<td>CHEO JIE RYE LEROY (6G2)</td>
 		</tr>
-						<tr>
-			<td>P6</td>
-			<td>Bronze </td>
-			<td>   PYAE PYAE (6G1)</td>
-		</tr>
-						<tr>
-			<td>P6</td>
-			<td>Bronze </td>
-			<td>   LEE DO YOUNG (6G1)</td>
-		</tr>
-						<tr>
-			<td>P6</td>
-			<td>Bronze </td>
-			<td>   MARAMREDDY AKSHAR REDDY (6G2)</td>
-		</tr>
-						<tr>
-			<td>P6</td>
-			<td>Bronze </td>
-			<td>   RAYNA FILZA AQEELAH MUFTAZANI (6G2)</td>
-		</tr>
-						<tr>
-			<td>P6</td>
-			<td>Bronze </td>
-			<td>   VEDANTH MUNIRAJU (6G2)</td>
-		</tr>
-						<tr>
-			<td>P6</td>
-			<td>Bronze </td>
-			<td>   NGUYEN CHUNG KHAI HUY (6G4)</td>
-		</tr>
+
 </tbody></table>
 
 <table style="width:100%">
@@ -192,19 +150,29 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
     <th style="width: 30%">Award</th>
 		<th style="width: 40%">Name</th>
 				</tr><tr>
-			<td>P6</td>
+			<td>P5</td>
 			<td>Honorable Mentioned</td>
-			<td>   Wu YuTong Tony (6G1)</td>
+			<td>Khairul Amri (5N1)</td>
 		</tr>
 						<tr>
-			<td>P6</td>
+			<td>P5</td>
 			<td>Honorable Mentioned</td>
-			<td>Tang YiLan (6G1)</td>
+			<td>Prudence Lim Yu Xuan (5N2)</td>
 		</tr>
 						<tr>
+			<td>P5</td>
+			<td>Honorable Mentioned</td>
+			<td>Saini Agampreet Singh (5N2)</td>
+		</tr>
+								<tr>
 			<td>P6</td>
 			<td>Honorable Mentioned</td>
-			<td>   Zhang ZiHan (6G2)</td>
+			<td>Lam Wing Yan (6G1)</td>
+		</tr>
+								<tr>
+			<td>P6</td>
+			<td>Honorable Mentioned</td>
+			<td>Wang Chin Yin (6G2)</td>
 		</tr>
 </tbody></table>
 <table style="width:100%">
@@ -215,82 +183,118 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 				</tr><tr>
 			<td>P5</td>
 			<td>Certificate of Participation</td>
-			<td>   Tylia Chua Yun Xi (5N1)</td>
+			<td>Anoso Thaniel Asilo (5N1)</td>
 		</tr>
 						<tr>
 			<td>P5</td>
 			<td>Certificate of Participation</td>
-			<td>    Woon Jia Qi (5N1)</td>
+			<td>Janelle Yoong Hui Xuan (5N1)</td>
 		</tr>
 						<tr>
 			<td>P5</td>
 			<td>Certificate of Participation</td>
-			<td>    Edlea Ann Ruo Yi (5N1)</td>
+			<td>Kyaw Nanda Wini (5N1)</td>
 		</tr>
 						<tr>
 			<td>P5</td>
 			<td>Certificate of Participation</td>
-			<td>   Chengrungrotsakun Jayden (5N1)</td>
+			<td>La Yaung Lin (5N1)</td>
 		</tr>
 						<tr>
 			<td>P5</td>
 			<td>Certificate of Participation</td>
-			<td>   Soh En Xuan, Carrie (5N1)</td>
+			<td>Sherraine Yap (5N1)</td>
 		</tr>
 						<tr>
 			<td>P5</td>
 			<td>Certificate of Participation</td>
-			<td>   Nelea Ann Cai Qi (5N2)</td>
+			<td>Teh Xue Lin Sheryn (5N1)</td>
 		</tr>
 						<tr>
 			<td>P5</td>
 			<td>Certificate of Participation</td>
-			<td>   Aqeel Mohamed Iqbal (5N2)</td>
+			<td>Adam Bin Fazly (5N2)</td>
 		</tr>
 						<tr>
 			<td>P5</td>
 			<td>Certificate of Participation</td>
-			<td>   Syed Yusuf Bin Syed Alhadi Barakbah (5N2)</td>
+			<td>Chris Raj Patrick Shawn (5N2)</td>
 		</tr>
 						<tr>
 			<td>P5</td>
 			<td>Certificate of Participation</td>
-			<td>   Wong Seng Kiat Samuel (5N2)</td>
+			<td>Chua Jing En Gabrielle (5N2)</td>
 		</tr>
 						<tr>
 			<td>P5</td>
 			<td>Certificate of Participation</td>
-			<td>   Liu KangJing (5N2)</td>
+			<td>Daing Muhammad Firdaus (5N2)</td>
 		</tr>
 						<tr>
 			<td>P5</td>
 			<td>Certificate of Participation</td>
-			<td>   Mikayla Koh Jiu Ern (5N2)</td>
+			<td>Kumarwar Deepshika (5N2)</td>
+		</tr>
+						<tr>
+			<td>P5</td>
+			<td>Certificate of Participation</td>
+			<td>Song YuChen Clara (5N4))</td>
 		</tr>
 						<tr>
 			<td>P6</td>
 			<td>Certificate of Participation</td>
-			<td>   Liow Wen Qing Michelle (6G1)</td>
-		</tr>
-						<tr>
-			<td>P6</td>
-			<td>Certificate of Participation</td>
-			<td>   Aleesya Binte Mohamed Faizal (6G1)</td>
+			<td>Lim Si Qi Janice (6G1)</td>
 		</tr>
 								<tr>
 			<td>P6</td>
 			<td>Certificate of Participation</td>
-			<td>   Prakharenka Yuliana (6G1)</td>
+			<td>Lim Yong Ming (6G1)</td>
 		</tr>
 								<tr>
 			<td>P6</td>
 			<td>Certificate of Participation</td>
-			<td>   Gutierrez Eilish Banda (6G2)</td>
+			<td>Ng Kai En, Kayden (6G1)</td>
 		</tr>
 										<tr>
 			<td>P6</td>
 			<td>Certificate of Participation</td>
-			<td>   Hay Mar Lwin Oo (6G2)</td>
+			<td>Tan Yuan Si (6G1)</td>
+		</tr>
+												<tr>
+			<td>P6</td>
+			<td>Certificate of Participation</td>
+			<td>Tylia Chua Yun Xi (6G1)</td>
+		</tr>
+												<tr>
+			<td>P6</td>
+			<td>Certificate of Participation</td>
+			<td>Zara Oking (6G1)</td>
+		</tr>
+												<tr>
+			<td>P6</td>
+			<td>Certificate of Participation</td>
+			<td>Zhou LinXi(6G1)</td>
+		</tr>
+												<tr>
+			<td>P6</td>
+			<td>Certificate of Participation</td>
+			<td>Adrish Sathiyanarayanan (6G2)</td>
+		</tr>
+												<tr>
+			<td>P6</td>
+			<td>Certificate of Participation</td>
+			<td>Raphael Naga Allendradepari (6G2)</td>
+		</tr>
+												<tr>
+			<td>P6</td>
+			<td>Certificate of Participation</td>
+			<td>Neo Kaiyuan Kelgene (6G3)</td>
+		</tr>
+												<tr>
+			<td>P6</td>
+			<td>Certificate of Participation</td>
+			<td>Crystal Chan Xing Yi (6G4)
+</td>
 		</tr>
 </tbody></table>
 
