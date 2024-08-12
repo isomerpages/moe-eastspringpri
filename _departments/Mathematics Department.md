@@ -238,7 +238,7 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 						<tr>
 			<td>P5</td>
 			<td>Certificate of Participation</td>
-			<td>Song YuChen Clara (5N4))</td>
+			<td>Song YuChen Clara (5N4)</td>
 		</tr>
 						<tr>
 			<td>P6</td>
