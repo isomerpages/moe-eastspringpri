@@ -98,8 +98,10 @@ terrorism.</p>
 may be captured during school programmes and events. From time to time,
 the school may use these photos, images or video footages on our school
 website, social media, feature walls and publications.</p>
+<p></p>
 <p>We seek your understanding that the school may feature your child/ward’s
 photographs and videos on these platforms. If you do not wish to have your
 child/ward featured in our publications and the other platforms mentioned
 above, please inform us in writing via email at esps@moe.edu.sg.</p>
-<p>.</p>
+<p></p>
+<p></p>
