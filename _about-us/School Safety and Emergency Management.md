@@ -86,10 +86,11 @@ measures appropriate to the severity and scope of each situation. Annual
 emergency exercises are conducted to ensure our staff and students are
 well-prepared with the necessary knowledge and skills to handle emergencies.</p>
 <p>For more information on the community’s response to terrorism, please
-visit the SGSecure website at <a href="www.sgsecure.sg" rel="noopener noreferrer nofollow" target="_blank">www.sgsecure.sg</a>. SGSecure is a national movement
-designed to sensitize, train, and mobilize Singaporeans to prevent and
-respond to terrorist attacks. This initiative plays a crucial role in protecting
-our way of life and maintaining community resilience against terrorism.</p>
+visit the SGSecure website at <a href="https://www.sgsecure.sg" rel="noopener noreferrer nofollow" target="_blank">www.sgsecure.sg</a>. SGSecure is a national
+movement designed to sensitize, train, and mobilize Singaporeans to prevent
+and respond to terrorist attacks. This initiative plays a crucial role
+in protecting our way of life and maintaining community resilience against
+terrorism.</p>
 <p></p>
 <p><strong>Notification on the Use of Pictures and Videos</strong>
 </p>
