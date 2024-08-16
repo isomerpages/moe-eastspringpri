@@ -86,10 +86,11 @@ measures appropriate to the severity and scope of each situation. Annual
 emergency exercises are conducted to ensure our staff and students are
 well-prepared with the necessary knowledge and skills to handle emergencies.</p>
 <p>For more information on the community’s response to terrorism, please
-visit the SGSecure website at <a href="www.sgsecure.sg" rel="noopener noreferrer nofollow" target="_blank">www.sgsecure.sg</a>. SGSecure is a national movement
-designed to sensitize, train, and mobilize Singaporeans to prevent and
-respond to terrorist attacks. This initiative plays a crucial role in protecting
-our way of life and maintaining community resilience against terrorism.</p>
+visit the SGSecure website at <a href="https://www.sgsecure.sg" rel="noopener noreferrer nofollow" target="_blank">www.sgsecure.sg</a>. SGSecure is a national
+movement designed to sensitize, train, and mobilize Singaporeans to prevent
+and respond to terrorist attacks. This initiative plays a crucial role
+in protecting our way of life and maintaining community resilience against
+terrorism.</p>
 <p></p>
 <p><strong>Notification on the Use of Pictures and Videos</strong>
 </p>
@@ -97,12 +98,10 @@ our way of life and maintaining community resilience against terrorism.</p>
 may be captured during school programmes and events. From time to time,
 the school may use these photos, images or video footages on our school
 website, social media, feature walls and publications.</p>
+<p></p>
 <p>We seek your understanding that the school may feature your child/ward’s
 photographs and videos on these platforms. If you do not wish to have your
 child/ward featured in our publications and the other platforms mentioned
-above, please inform us in writing via email at <a href="esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>.</p>
+above, please inform us in writing via email at esps@moe.edu.sg.</p>
 <p></p>
 <p></p>
-<p></p>
-<p>ememailem<a rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>.
-<a rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>.</p>
