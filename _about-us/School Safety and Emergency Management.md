@@ -100,7 +100,7 @@ website, social media, feature walls and publications.</p>
 <p>We seek your understanding that the school may feature your child/ward’s
 photographs and videos on these platforms. If you do not wish to have your
 child/ward featured in our publications and the other platforms mentioned
-above, please inform us in writing via email at <a href="esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>.</p>
+above, please inform us in writing via email at esps@moe.edu.sg.</p>
 <p></p>
 <p></p>
 <p></p>
