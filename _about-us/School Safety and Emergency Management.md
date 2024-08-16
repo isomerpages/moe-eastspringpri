@@ -19,6 +19,10 @@ the roads safe and traffic smooth in/around the school vicinity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+</div>
 <p>Use designated vehicle drop-off and pick-up at Gate C only. Avoid stopping
 in unauthorized zones such as along Tampines Street 31 as it may cause
 traffic congestion along the road.</p>
