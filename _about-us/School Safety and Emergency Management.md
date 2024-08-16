@@ -13,13 +13,9 @@ Please wear the provided sticker or access lanyard for identification purposes.<
 </p>
 <p>We seek your continual support to exercise care and consideration in making
 the roads safe and traffic smooth in/around the school vicinity.</p>
+<p></p>
 <p><strong>a)&nbsp; Vehicle Drop off and Pick Up Zone at Gate C, Tampines Street 33</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
@@ -30,6 +26,7 @@ traffic congestion along the road.</p>
 Do use designated parking spaces at nearby HDB carparks if you are early.</p>
 <p>LTA will take enforcement actions against vehicles found parking indiscriminately
 and causing inconvenience to others.</p>
+<p></p>
 <p><strong>b)&nbsp;&nbsp;&nbsp; Driving Into School</strong>
 </p>
 <p>If you are driving into the school, please adhere to vehicle speed of
