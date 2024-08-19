@@ -39,7 +39,7 @@ sections:
       url: /echa-nomination/permalink/
   - infopic:
       title: Our E-Newsletter
-      description: Find out all about the exciting happenings in Semester 1
+      description: Find out all about the exciting happenings in Semester 4
       button: CLICK HERE FOR MORE DETAILS
       url: https://drive.google.com/drive/folders/1o-P5y1tAXMB3dHTgfcIYl5SmWJrrR0V-?usp=sharing
       image: /images/Home/Elight_Newsletter_S4_2024_new.png
