@@ -2,6 +2,7 @@
 title: Science Department
 permalink: /departments/Science-Department/
 description: ""
+variant: markdown
 ---
 | ||
 | -------- | -------- | 
@@ -11,18 +12,15 @@ description: ""
 Science Competitions Achievement
 --------------------------------
 
-**Raffles Science Olympiad (RSO) 2021:**
+**Singapore Science Primary Olympiad 2024:**
 
 Award - Certificate of participation
 
-**Singapore Youth Science Fair (SYSF) 2021:**
+| Class     | Name    |  Award |
+| -------- | -------- | -------- |
+| P5-N1    | ETHAN LEE JUN MING     | Bronze     |
+| P5-N2   | CHAN MAN KONG             | Bronze     |
 
-Award - Accoomplishment <br>
-Award - Commendation</br>
-
-**Sony Creative Science Award (SCSA) 2021**
-
-Finalist (Junior Whizkid Category)
 
 Our Programmes
 --------------
@@ -47,7 +45,7 @@ During the integrated learning journey, students will learn orienteering skills 
 
 ![](/images/science5.png)
 
-*   **ESPS Every Child a Seed** **( _in partnership with NParks_ )**
+*   **ESPS Every Child a Seed**&nbsp;**(&nbsp;_in partnership with NParks_&nbsp;)**
 
 Through this programme, the Primary 3 students are each given a plant starter kit from NParks. These kits allow each student to grow seedlings on their own to learn about the life cycle of plants and the parts of a plant. Students can transfer their seedlings and continue to nurture them in the school allocated garden plots to extend their learning and be responsible and caring individuals.
 
@@ -58,7 +56,7 @@ Primary 6 students are exposed to different hands-on activities during their tri
 ![](/images/science6.png)
 ![](/images/science7.jpeg)
 
-*   **E2k Programme (P4 & P5)**
+*   **E2k Programme (P4 &amp; P5)**
 
 Selected students who demonstrate interest and ability in Science will be introduced to E2k enrichment programme that include scientific investigations and given opportunities to develop critical and inventive thinking and effective communication skills.
 
