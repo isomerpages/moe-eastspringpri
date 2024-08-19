@@ -27,11 +27,11 @@ sections:
   - infopic:
       title: Our E-Newsletter
       id: infopic
-      description: Find out all about the exciting happenings in Semester 2...
+      description: Find out all about the exciting happenings in Semester 4
       button: Click here for more
       url: https://simplebooklet.com/elightssatellite#page=3
       alt: Image alt text
-      image: /images/Screenshot_2023_11_23_140215.png
+      image: /images/Home/Elight_Newsletter_S4_2024_new.png
   - infobar:
       title: ECHA (Edusave Character Award) Nomination
       id: infobar
@@ -42,7 +42,7 @@ sections:
       description: Find out all about the exciting happenings in Semester 1
       button: CLICK HERE FOR MORE DETAILS
       url: https://issuu.com/elightssattelite/docs/e_lights_satellite_002
-      image: /images/Parents Briefing/elights satellite 1.png
+      image: /images/Screenshot_2023_11_23_140215.png
       alt: Image alt text
   - infopic:
       title: East Spring Primary Instagram Channel
