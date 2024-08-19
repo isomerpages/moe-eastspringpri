@@ -6,15 +6,15 @@ variant: markdown
 ---
 | ||
 | -------- | -------- | 
-| Vision:  | 	A school with independent and passionate science learners| 
-|Mission:|To develop a spirit of inquiry in the pursuit of scientific knowledge
+|<b> Vision:<b>  | <b>	A school with independent and passionate science learners
+|<b>Mission:<b>|<b>To develop a spirit of inquiry in the pursuit of scientific knowledge
 
 Science Competitions Achievement
 --------------------------------
 
-**Singapore Science Primary Olympiad 2024:**
+**Singapore Science Primary Olympiad (SPSO) 2024:**
 
-Award - Certificate of participation
+Awards
 
 | Class     | Name    |  Award |
 | -------- | -------- | -------- |
@@ -60,4 +60,4 @@ Primary 6 students are exposed to different hands-on activities during their tri
 
 Selected students who demonstrate interest and ability in Science will be introduced to E2k enrichment programme that include scientific investigations and given opportunities to develop critical and inventive thinking and effective communication skills.
 
-![](/images/science8.png)
+![](/images/science8.png)</b></b></b></b></b></b>
