@@ -18,12 +18,11 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
-  - infobar:
-      title: Chinese Mixed Rice / Noodle (non-halal)
-      id: infobar
-      description: Closing Date 30-APR-24
-      button: CLICK HERE FOR MORE DETAILS
-      url: /school-canteen-advertisement/
+  - infopic:
+      title: Happy Teachers’ Day
+      id: infopic
+      image: /images/Happy_Teachers_Day_2024.png
+      alt: Image alt text
   - infopic:
       title: Our E-Newsletter
       id: infopic
@@ -32,6 +31,12 @@ sections:
       url: https://simplebooklet.com/elightssatellite#page=3
       alt: Image alt text
       image: /images/Home/Elight_Newsletter_S4_2024_new.png
+  - infobar:
+      title: Chinese Mixed Rice / Noodle (non-halal)
+      id: infobar
+      description: Closing Date 30-APR-24
+      button: CLICK HERE FOR MORE DETAILS
+      url: /school-canteen-advertisement/
   - infobar:
       title: ECHA (Edusave Character Award) Nomination
       id: infobar
