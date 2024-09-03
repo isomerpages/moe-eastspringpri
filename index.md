@@ -18,11 +18,11 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
-  - infopic:
-      title: Happy Teachers’ Day
-      id: infopic
-      image: /images/Happy_Teachers_Day_2024.png
-      alt: Image alt text
+  - infobar:
+      title: ECHA (Edusave Character Award) Nomination
+      id: infobar
+      button: Click Here for more details
+      url: /echa-nomination/permalink/
   - infopic:
       title: Our E-Newsletter
       id: infopic
@@ -37,11 +37,6 @@ sections:
       description: Closing Date 30-APR-24
       button: CLICK HERE FOR MORE DETAILS
       url: /school-canteen-advertisement/
-  - infobar:
-      title: ECHA (Edusave Character Award) Nomination
-      id: infobar
-      button: Click Here for more details
-      url: /echa-nomination/permalink/
   - infopic:
       title: Our E-Newsletter
       description: Find out all about the exciting happenings in Semester 1
