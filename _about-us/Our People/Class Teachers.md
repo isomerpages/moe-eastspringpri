@@ -164,7 +164,7 @@ table, th, td {
  </tr>
 	<tr>
 	<td>Mr Nathaniel Tan Wei Oon</td>
-	<td>nathaniel_tan_oon@schools.gov.sg</td>
+	<td>nathaniel_tan_wei_oon@schools.gov.sg</td>
   </tr>
 <tr>
 	<td rowspan="2">2P6</td>
