@@ -18,37 +18,31 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
-  - infobar:
-      title: ECHA (Edusave Character Award) Nomination
-      id: infobar
-      button: Click Here for more details
-      url: /echa-nomination/permalink/
+  - infopic:
+      title: East Spring Primary Instagram Channel
+      button: Click here to Join Us
+      url: https://www.instagram.com/eastspringpri/
+      image: /images/Home/espsinsta1.png
+      alt: Image alt text
+  - infopic:
+      title: P1 Orientation 2025
+      id: infopic
+      image: /images/P1_0rientation_Banner1.jpg
+      alt: Image alt text
   - infopic:
       title: Our E-Newsletter
       id: infopic
-      description: Find out all about the exciting happenings in Semester 4
+      description: Find out all about the exciting happenings in Semester 1
       button: Click here for more
       url: https://simplebooklet.com/elightssatellite#page=3
       alt: Image alt text
       image: /images/Home/Elight_Newsletter_S4_2024_new.png
-  - infobar:
-      title: Chinese Mixed Rice / Noodle (non-halal)
-      id: infobar
-      description: Closing Date 30-APR-24
-      button: CLICK HERE FOR MORE DETAILS
-      url: /school-canteen-advertisement/
   - infopic:
       title: Our E-Newsletter
       description: Find out all about the exciting happenings in Semester 1
       button: CLICK HERE FOR MORE DETAILS
       url: https://issuu.com/elightssattelite/docs/e_lights_satellite_002
       image: /images/Screenshot_2023_11_23_140215.png
-      alt: Image alt text
-  - infopic:
-      title: East Spring Primary Instagram Channel
-      button: Click here to Join Us
-      url: https://www.instagram.com/eastspringpri/
-      image: /images/Home/espsinsta1.png
       alt: Image alt text
   - infopic:
       title: Get official answers from our Q&A Platform
