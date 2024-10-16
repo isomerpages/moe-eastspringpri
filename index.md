@@ -25,7 +25,7 @@ sections:
       image: /images/Home/espsinsta1.png
       alt: Image alt text
   - infopic:
-      title: P1 Orientation 2025
+      title: 2025 P1 Orientation
       id: infopic
       image: /images/P1_0rientation_Banner1.jpg
       alt: Image alt text
