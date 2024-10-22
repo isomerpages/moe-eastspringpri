@@ -60,12 +60,7 @@ table, th, td {
 	<td>Mdm Norlela Binte Kitang</td>
     <td></td>
 	</tr>
-<tr>
-	<td>Operations Support Officer</td>
-	<td>Mdm Lian Ai Leng (Irene)</td>
-	<td></td>
-	</tr>
-		<tr>
+	<tr>
 	<td>Operations Support Officer</td>
 	<td>Mdm Ho Swee Hoon (Alice)</td>
     <td></td>
