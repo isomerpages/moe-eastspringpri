@@ -119,8 +119,6 @@ table, th, td {
 	<td>siti_nafisa_mohd_daud@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Jumidah Mohd Said</td>
-	<td>jumidah_mohd_said@schools.gov.sg</td>
 
 </tr>
 <tr>
