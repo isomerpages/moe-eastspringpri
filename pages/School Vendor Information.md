@@ -12,7 +12,7 @@ Telephone :
 Darren Gan&nbsp; &nbsp;Tel 9009 1919  
 Natalie Gan&nbsp; &nbsp;Tel 9424 1063  
   
-Please scan the QR code or click on the link below to the School Bus Registration Form 2023
+Please scan the QR code or click on the link below to the School Bus Registration Form
 
 <img src="/images/School%20Bus%20Registration%202023.jpeg" style="width:30%">
 
