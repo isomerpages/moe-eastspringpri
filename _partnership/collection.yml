@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Booklist 2025/.keep
-      - New Title.md
       - P1 Registration/Primary 1 Registration.md
       - P1 Registration/.keep
       - P1 Registration/ESPS E Open House.md
