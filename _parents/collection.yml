@@ -1,4 +1,5 @@
 collections:
   parents:
     output: true
-    order: []
+    order:
+      - Primary 1 Orientation.md
