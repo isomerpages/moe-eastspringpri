@@ -1,6 +1,4 @@
 collections:
   parents:
     output: true
-    order:
-      - ESPS E Open House/Primary 1 Orientation.md
-      - ESPS E Open House/.keep
+    order: []
