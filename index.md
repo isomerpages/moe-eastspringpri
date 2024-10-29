@@ -29,7 +29,7 @@ sections:
       id: infobar
       description: P1 - P6
       button: Click here
-      url: https://eastspringpri.moe.edu.sg/booklist-2025/
+      url: https://staging-lite.d7rx32h3rin43.amplifyapp.com/booklist-2025/
   - infopic:
       title: East Spring Primary Instagram Channel
       button: Click here to Join Us
