@@ -19,15 +19,22 @@ sections:
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
   - infopic:
+      title: 2025 P1 Orientation
+      id: infopic
+      image: /images/P1_0rientation_Banner1.jpg
+      alt: Image alt text
+  - infobar:
+      title: 2025 Booklist
+      subtitle: available now
+      id: infobar
+      description: P1 - P6
+      button: Click here
+      url: /booklist-2025/
+  - infopic:
       title: East Spring Primary Instagram Channel
       button: Click here to Join Us
       url: https://www.instagram.com/eastspringpri/
       image: /images/Home/espsinsta1.png
-      alt: Image alt text
-  - infopic:
-      title: 2025 P1 Orientation
-      id: infopic
-      image: /images/P1_0rientation_Banner1.jpg
       alt: Image alt text
   - infopic:
       title: Our E-Newsletter

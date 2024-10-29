@@ -12,7 +12,7 @@ Telephone :
 Darren Gan&nbsp; &nbsp;Tel 9009 1919  
 Natalie Gan&nbsp; &nbsp;Tel 9424 1063  
   
-Please scan the QR code or click on the link below to the School Bus Registration Form 2023
+Please scan the QR code or click on the link below to the School Bus Registration Form
 
 <img src="/images/School%20Bus%20Registration%202023.jpeg" style="width:30%">
 
@@ -36,7 +36,7 @@ Tel 6559 2269
 
   
 #### Booklist
-Click&nbsp;[here](/booklist2024/)&nbsp;for P1-P6 booklists
+Click&nbsp;[here](/booklist-2025/)&nbsp;for P1-P6 booklists
 
 **School uniforms &amp; Name tags**  
 Kah Huat Uniform Pte Ltd  
