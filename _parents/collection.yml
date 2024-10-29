@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Primary 1 Orientation/Parents Briefing.md
       - Primary 1 Orientation/ESPS eOpen House.md
       - Primary 1 Orientation/.keep
