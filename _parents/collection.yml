@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - Consent for Photo and media.md
-      - Assessment Matters.md
       - Parents Page.md
+      - Primary 1 Orientation/.keep
       - Primary 1 Orientation/Example Title.md
       - Primary 1 Orientation/Parents Briefing Slides.md
       - Primary 1 Orientation/ESPS eOpen House.md
-      - Primary 1 Orientation/.keep
+      - Assessment Matters.md
+      - Consent for Photo and media.md
