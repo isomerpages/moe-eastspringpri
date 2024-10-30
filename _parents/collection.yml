@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parents Page.md
       - Primary 1 Orientation/Example Title.md
       - Primary 1 Orientation/Parents Briefing Slides.md
       - Primary 1 Orientation/ESPS eOpen House.md
