@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Assessment Matters.md
       - Parents Page.md
       - Primary 1 Orientation/Example Title.md
       - Primary 1 Orientation/Parents Briefing Slides.md
