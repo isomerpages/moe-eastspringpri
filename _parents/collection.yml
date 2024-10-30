@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Example Title.md
       - Photography and Media/.keep
       - Assessment Matters/.keep
       - Edusave Character Award/.keep
