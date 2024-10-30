@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Consent for Photo and media.md
       - Assessment Matters.md
       - Parents Page.md
       - Primary 1 Orientation/Example Title.md
