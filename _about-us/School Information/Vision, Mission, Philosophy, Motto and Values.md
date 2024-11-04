@@ -4,8 +4,8 @@ permalink: /about-us/School-Information/Vision-Mission-Philosophy-Motto-and-Valu
 description: ""
 third_nav_title: School Information
 image: /images/Home/about-us.jpg
+variant: markdown
 ---
-
 ### **[Vision]**<b>
 
 Gracious School, Life-long Learners
@@ -16,19 +16,11 @@ Gracious School, Life-long Learners
 
 Nurturing Caring Citizens and Independent Learners
 
-  
-
-### **[Philosophy]**<b>
-
-We believe that every child is unique. With passion and dedication we can develop their potential and inspire them to realize their dreams.
-
-  
 
 ### **[Motto]**<b>
 
 Excellence for Success
 
-  
 
 ### **[Values]**<b>
 
@@ -55,4 +47,4 @@ E'Lights are proud to be Singaporean and stand up for the nation.
 #### Gratefulness<b>
 E'Lights use words and actions to express their appreciation to others.
 <b>
---------------------------------------------------------------
+--------------------------------------------------------------</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>
