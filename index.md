@@ -24,7 +24,7 @@ sections:
       image: /images/P1_0rientation_Banner1.jpg
       alt: Image alt text
   - infobar:
-      title: 2025 Booklist
+      title: 2025 Booklist and Uniforms
       subtitle: available now
       id: infobar
       description: P1 - P6
