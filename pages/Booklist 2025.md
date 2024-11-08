@@ -4,9 +4,10 @@ permalink: /booklist-2025/
 variant: tiptap
 description: ""
 ---
+<h3><u>Booklist</u></h3>
 <p><a href="/files/2025_Primary_1_Booklist.pdf" rel="noopener nofollow" target="_blank">2025 P1 Booklist</a>
 </p>
-<p><a href="/files/2025_P2_booklist.pdf" rel="noopener nofollow" target="_blank">2025 P2 Booklist</a>
+<p><a href="/files/1__2025_P2_booklist_edited.pdf" rel="noopener nofollow" target="_blank">2025 P2 Booklist</a>
 </p>
 <p><a href="/files/2025_P3_booklist.pdf" rel="noopener nofollow" target="_blank">2025 P3 Booklist</a>
 </p>
@@ -20,3 +21,10 @@ description: ""
 </p>
 <p><a href="/files/2025_P6__F__booklist.pdf" rel="noopener nofollow" target="_blank">2025 P6 (F) Booklist</a>
 </p>
+<p></p>
+<h4><u>Online order for Uniforms and Textbooks</u></h4>
+<p><a href="/files/2__InfoSheet_A__2_.pdf" rel="noopener nofollow" target="_blank">Click here for details</a>
+</p>
+<p><a href="/files/3__InfoSheet_B__2_.pdf" rel="noopener nofollow" target="_blank">School Uniform</a>
+</p>
+<p></p>
