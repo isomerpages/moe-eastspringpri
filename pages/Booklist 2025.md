@@ -23,7 +23,7 @@ description: ""
 </p>
 <p></p>
 <h4><u>Online order for Uniforms and Textbooks</u></h4>
-<p><a href="/files/2__InfoSheet_A__2_.pdf" rel="noopener nofollow" target="_blank">Click here for details</a>
+<p><a href="/files/2__InfoSheet_A__2_.pdf" rel="noopener nofollow" target="_blank">Click here for details (P2-P6)</a>
 </p>
 <p><a href="/files/3__InfoSheet_B__2_.pdf" rel="noopener nofollow" target="_blank">School Uniform</a>
 </p>
