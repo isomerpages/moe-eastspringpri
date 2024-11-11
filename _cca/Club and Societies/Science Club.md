@@ -3,6 +3,7 @@ title: Science Club
 permalink: /cca/Club-and-Societies/Science-Club/
 description: ""
 third_nav_title: Club and Societies
+variant: markdown
 ---
 <style>
 table {
@@ -25,7 +26,7 @@ The Science &amp; Technology club aims to stimulate interest in science activiti
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Miss Nur Huda<br>Mdm Maznah <br>Mdm Siti Aisha</td>
+    <td>Mdm Maznah <br>Mdm Siti Aisha</td>
   </tr>
   <tr>
     <th>Training day/time:
