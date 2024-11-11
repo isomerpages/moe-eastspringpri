@@ -10,8 +10,9 @@ variant: markdown
 
 Gracious School, Life-long Learners
 
-  
-### <p style="color:#46d6ce;">[Mission]</p>
+### <font color="#46d6ce"> [Mission] </font>
+	
+### **[Mission]**<b>
 
 Nurturing Caring Citizens and Independent Learners
 
@@ -47,4 +48,4 @@ E'Lights are proud to be Singaporean and stand up for the nation.
 #### Gratefulness<b>
 E'Lights use words and actions to express their appreciation to others.
 <b>
---------------------------------------------------------------</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>
+--------------------------------------------------------------</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>
