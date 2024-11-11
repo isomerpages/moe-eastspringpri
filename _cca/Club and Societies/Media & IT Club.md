@@ -3,6 +3,7 @@ title: Media & IT Club
 permalink: /cca/Club-and-Societies/Media-and-IT-Club/
 description: ""
 third_nav_title: Club and Societies
+variant: markdown
 ---
 <style>
 table {
@@ -30,7 +31,7 @@ Media &amp; IT Club was formed in 2012. It exposes students to various learning 
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Mr Muhammad Fahmi Bin Fo'att<br>Mdm Azah Bte Abdul Aziz <br>Mdm Hairina Bte Hamzah</td>
+    <td>Mdm Azah Bte Abdul Aziz <br>Mdm Hairina Bte Hamzah</td>
   </tr>
   <tr>
     <th>Training day/time:</th>
