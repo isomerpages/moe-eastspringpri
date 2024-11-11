@@ -6,22 +6,23 @@ third_nav_title: School Information
 image: /images/Home/about-us.jpg
 variant: markdown
 ---
-### <p style="color:#46d6ce;"><b>[Vision]<b> </b></b></p><b><b>
+### **[Vision]**<b>
 
 Gracious School, Life-long Learners
 
   
-### <p style="color:#46d6ce;"><b>[Mission]<b> </b></b></p><b><b>
+### <p style="color:#46d6ce;">[Mission]<b> </b></p><b>
 
 Nurturing Caring Citizens and Independent Learners
 
 
-### <p style="color:#46d6ce;"><b>[Motto]<b></b></b></p><b><b>
+### **[Motto]**<b>
 
 Excellence for Success
 
 
-### <p style="color:#46d6ce;"><b>[Values]<b></b></b></p><b><b>
+### **[Values]**<b>
+
 
 #### Self-Control<b>
 E'Lights set their own limits and do not act impulsively.
@@ -46,4 +47,4 @@ E'Lights are proud to be Singaporean and stand up for the nation.
 #### Gratefulness<b>
 E'Lights use words and actions to express their appreciation to others.
 <b>
---------------------------------------------------------------</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>
+--------------------------------------------------------------</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>
