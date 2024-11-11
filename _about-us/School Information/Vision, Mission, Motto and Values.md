@@ -11,7 +11,7 @@ variant: markdown
 Gracious School, Life-long Learners
 
   
-### <p style="color:#46d6ce;">[Mission]<b> </b></p><b>
+### **[Mission]**<b>
 
 Nurturing Caring Citizens and Independent Learners
 
