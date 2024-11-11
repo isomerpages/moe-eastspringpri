@@ -6,7 +6,7 @@ third_nav_title: School Information
 image: /images/Home/about-us.jpg
 variant: markdown
 ---
-### **[Vision]**<b>
+### <b><font color="#46d6ce">[Vision]</font><b>
 
 Gracious School, Life-long Learners
 
@@ -47,4 +47,4 @@ E'Lights are proud to be Singaporean and stand up for the nation.
 #### Gratefulness<b>
 E'Lights use words and actions to express their appreciation to others.
 <b>
---------------------------------------------------------------</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>
+--------------------------------------------------------------</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>
