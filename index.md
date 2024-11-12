@@ -18,11 +18,6 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
-  - infopic:
-      title: 2025 P1 Orientation
-      id: infopic
-      image: /images/P1_0rientation_Banner1.jpg
-      alt: Image alt text
   - infobar:
       title: 2025 Booklist and Uniforms
       subtitle: available now
