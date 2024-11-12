@@ -19,7 +19,7 @@ sections:
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
   - infobar:
-      title: 2025 Booklist and Uniforms
+      title: 2025 Booklist and Uniform Infosheet
       subtitle: available now
       id: infobar
       description: P1 - P6
