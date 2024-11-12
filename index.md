@@ -23,7 +23,7 @@ sections:
       subtitle: available now
       id: infobar
       description: P1 - P6
-      button: Click here
+      button: Click here to download
       url: /booklist-2025/
   - infopic:
       title: East Spring Primary Instagram Channel
