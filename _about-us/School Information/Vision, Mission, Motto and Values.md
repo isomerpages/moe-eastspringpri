@@ -25,16 +25,16 @@ variant: markdown
 <b>E'Lights set their own limits and do not act impulsively<b>
 
 ### *Perseverance*<b>
-<b>*E'Lights work hard to achieve their goals regardless of the challenges*<b>
+<b>E'Lights work hard to achieve their goals regardless of the challenges<b>
 
 ### *Responsibility*<b>
-<b>*E'Lights know and do what is expected of them*<b>
+<b>E'Lights know and do what is expected of them<b>
 
 ### *Integrity*<b>
-<b>*E'Lights uphold what is right and true*<b>
+<b>E'Lights uphold what is right and true<b>
 
 ### *National Pride*<b>
-<b><font color="#46d6ce">*E'Lights are proud to be Singaporean and stand up for the nation*</font><b>
+<b><font color="#46d6ce">E'Lights are proud to be Singaporean and stand up for the nation</font><b>
 
 ### *Gratefulness*<b>
-<b>*E'Lights use words and actions to express their appreciation to others*<b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>
+E'Lights use words and actions to express their appreciation to others</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>
