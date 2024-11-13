@@ -8,7 +8,7 @@ variant: markdown
 ---
 ### <b><font color="#46d6ce">Vision</font></b>
 	
-<b>Gracious School, Life-long Learners</b>
+Gracious School, Life-long Learners
 
 ### <b><font color="#46d6ce">Mission</font></b>
 
