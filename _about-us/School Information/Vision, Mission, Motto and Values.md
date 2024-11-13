@@ -24,17 +24,17 @@ Excellence for Success
 #### <b>*Self-Control*</b>
 E'Lights set their own limits and do not act impulsively
 
-### <b>*Perseverance*</b>
+#### <b>*Perseverance*</b>
 E'Lights work hard to achieve their goals regardless of the challenges
 
-### <b>*Responsibility*</b>
+#### <b>*Responsibility*</b>
 E'Lights know and do what is expected of them
 
 ### <b>*Integrity*</b>
 E'Lights uphold what is right and true
 
-### <b>*National Pride*</b>
-<font color="#46d6ce">E'Lights are proud to be Singaporean and stand up for the nation</font>
+#### <b>*National Pride*</b>
+E'Lights are proud to be Singaporean and stand up for the nation
 
-### <b>*Gratefulness*</b>
+#### <b>*Gratefulness*</b>
 E'Lights use words and actions to express their appreciation to other
