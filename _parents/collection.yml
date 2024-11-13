@@ -1,0 +1,10 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Parents Page.md
+      - Primary 1 Orientation/.keep
+      - Primary 1 Orientation/Parents Briefing Slides.md
+      - Primary 1 Orientation/ESPS eOpen House.md
+      - Assessment Matters.md
+      - Consent for Photo and media.md

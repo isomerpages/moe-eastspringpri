@@ -18,17 +18,12 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
-  - infopic:
-      title: 2025 P1 Orientation
-      id: infopic
-      image: /images/P1_0rientation_Banner1.jpg
-      alt: Image alt text
   - infobar:
-      title: 2025 Booklist
+      title: Purchase of School Textbooks and Uniform 2025
       subtitle: available now
       id: infobar
       description: P1 - P6
-      button: Click here
+      button: Click here to download
       url: /booklist-2025/
   - infopic:
       title: East Spring Primary Instagram Channel
