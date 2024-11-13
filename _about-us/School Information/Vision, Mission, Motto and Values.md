@@ -12,16 +12,16 @@ Gracious School, Life-long Learners
 
 ### <b><font color="#46d6ce">Mission</font></b>
 
-<b>Nurturing Caring Citizens and Independent Learners</b>
+Nurturing Caring Citizens and Independent Learners
 
 
 ### <b><font color="#46d6ce">Motto</font></b>
 
-<b>Excellence for Success</b>
+Excellence for Success
 
 ### <b><font color="#46d6ce">Values</font></b>
 
-### <b>*Self-Control*</b>
+#### <b>*Self-Control*</b>
 E'Lights set their own limits and do not act impulsively
 
 ### <b>*Perseverance*</b>
