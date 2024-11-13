@@ -21,20 +21,20 @@ variant: markdown
 
 ### <b><font color="#46d6ce">Values</font><b>
 
-### *Self-Control*<b>
-<b>E'Lights set their own limits and do not act impulsively<b>
+### <b>*Self-Control*<b>
+E'Lights set their own limits and do not act impulsively
 
-### *Perseverance*<b>
-<b>E'Lights work hard to achieve their goals regardless of the challenges<b>
+### <b>*Perseverance*<b>
+E'Lights work hard to achieve their goals regardless of the challenges
 
-### *Responsibility*<b>
-<b>E'Lights know and do what is expected of them<b>
+### <b>*Responsibility*<b>
+E'Lights know and do what is expected of them
 
-### *Integrity*<b>
-<b>E'Lights uphold what is right and true<b>
+### <b>*Integrity*<b>
+E'Lights uphold what is right and true
 
-### *National Pride*<b>
-<b><font color="#46d6ce">E'Lights are proud to be Singaporean and stand up for the nation</font><b>
+### <b>*National Pride*<b>
+<font color="#46d6ce">E'Lights are proud to be Singaporean and stand up for the nation</font>
 
-### *Gratefulness*<b>
-E'Lights use words and actions to express their appreciation to others</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>
+### <b>*Gratefulness*<b>
+E'Lights use words and actions to express their appreciation to others</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>
