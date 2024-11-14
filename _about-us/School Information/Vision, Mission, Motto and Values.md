@@ -21,20 +21,20 @@ Excellence for Success
 
 ### <b><font color="#46d6ce">Values</font></b>
 
-#### <b>*Self-Control*</b>
+#### <br>_**S**elf-Control_
 E'Lights set their own limits and do not act impulsively
 
-#### <b>*Perseverance*</b>
+#### <br>_**P**erseverance_
 E'Lights work hard to achieve their goals regardless of the challenges
 
-#### <b>*Responsibility*</b>
+#### <br>_**R**esponsibility_
 E'Lights know and do what is expected of them
 
-### <b>*Integrity*</b>
+### <br>_**I**ntegrity_
 E'Lights uphold what is right and true
 
-#### <b>*National Pride*</b>
+#### <br>_**N**ational Pride_
 E'Lights are proud to be Singaporean and stand up for the nation
 
-#### <b>*Gratefulness*</b>
+#### <br>_**G**ratefulness*_<br>
 E'Lights use words and actions to express their appreciation to other
