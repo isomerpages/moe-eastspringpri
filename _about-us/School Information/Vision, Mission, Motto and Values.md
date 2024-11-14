@@ -36,5 +36,5 @@ E'Lights uphold what is right and true
 #### <br>_**N**ational Pride_
 E'Lights are proud to be Singaporean and stand up for the nation
 
-#### <br>_**G**ratefulness*_<br>
+#### <br>_**G**ratefulness_<br>
 E'Lights use words and actions to express their appreciation to other
