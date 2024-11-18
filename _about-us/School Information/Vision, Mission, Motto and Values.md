@@ -6,45 +6,29 @@ third_nav_title: School Information
 image: /images/Home/about-us.jpg
 variant: markdown
 ---
-### <b><font color="#46d6ce">[Vision]</font><b>
-
+### <b><font color="#46d6ce">Vision</font></b>
+	
 Gracious School, Life-long Learners
 
-
-### **[Mission]**<b>
+### <b><font color="#46d6ce">Mission</font></b>
 
 Nurturing Caring Citizens and Independent Learners
 
 
-### **[Motto]**<b>
+### <b><font color="#46d6ce">Motto</font></b>
 
 Excellence for Success
 
+### <b><font color="#46d6ce">Values <i>(S.P.R.I.N.G)</i></font></b>
 
-### **[Values]**<b>
-
-
-#### Self-Control<b>
-E'Lights set their own limits and do not act impulsively.
-<b>
-
-#### Perseverance<b>
-E'Lights work hard to achieve their goals regardless of the challenges.
-<b>
-
-#### Responsibility<b>
-E'Lights know and do what is expected of them.
-<b>
-
-#### Integrity<b>
-E'Lights uphold what is right and true.
-<b>
-
-#### National Pride<b>
-E'Lights are proud to be Singaporean and stand up for the nation.
-<b>
-
-#### Gratefulness<b>
-E'Lights use words and actions to express their appreciation to others.
-<b>
---------------------------------------------------------------</b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b></b>
+<b><font color="#46d6ce">S</font></b>elf-Control -  <i>E'Lights set their own limits and do not act impulsively </i>
+<br>
+<b><font color="#46d6ce">P</font></b>erseverance -  <i>E'Lights work hard to achieve their goals regardless of the challenges</i>
+<br>
+<b><font color="#46d6ce">R</font></b>esponsibility - <i>E'Lights know and do what is expected of them</i>
+<br>
+<b><font color="#46d6ce">I</font></b>ntegrity - <i>E'Lights uphold what is right and true</i>
+<br>
+<b><font color="#46d6ce">N</font></b>ational Pride - <i>E'Lights are proud to be Singaporean and stand up for the nation</i>
+<br>
+<b><font color="#46d6ce">G</font></b>ratefulness - <i>E'Lights use words and actions to express their appreciation to other</i>
