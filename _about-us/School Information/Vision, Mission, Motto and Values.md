@@ -6,20 +6,20 @@ third_nav_title: School Information
 image: /images/Home/about-us.jpg
 variant: markdown
 ---
-### <b><font color="#46d6ce">Vision</font></b>
+<h3><b><font color="#46d6ce">Vision</font></b></h3>
 	
 Gracious School, Life-long Learners
 
-### <b><font color="#46d6ce">Mission</font></b>
+<h3><b><font color="#46d6ce">Mission</font></b></h3>
 
 Nurturing Caring Citizens and Independent Learners
 
 
-### <b><font color="#46d6ce">Motto</font></b>
+<h3><b><font color="#46d6ce">Motto</font></b></h3>
 
 Excellence for Success
 
-### <b><font color="#46d6ce">Values <i>(S.P.R.I.N.G)</i></font></b>
+<h3><b><font color="#46d6ce">Values<i>(S.P.R.I.N.G)</i></font></b></h3>
 
 <b><font color="#46d6ce">S</font></b>elf-Control -  <i>E'Lights set their own limits and do not act impulsively </i>
 <br>
