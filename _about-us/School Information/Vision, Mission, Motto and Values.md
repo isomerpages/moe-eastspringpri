@@ -21,14 +21,14 @@ Excellence for Success
 
 ### <b><font color="#46d6ce">Values <i>(S.P.R.I.N.G)</i></font></b>
 
-<b>S</b>elf-Control -  <i>E'Lights set their own limits and do not act impulsively </i>
+<b><font color="#46d6ce">S</font></b>elf-Control -  <i>E'Lights set their own limits and do not act impulsively </i>
 <br>
-<b>P</b>erseverance -  <i>E'Lights work hard to achieve their goals regardless of the challenges</i>
+<b><font color="#46d6ce">P</font></b>erseverance -  <i>E'Lights work hard to achieve their goals regardless of the challenges</i>
 <br>
-<b>R</b>esponsibility - <i>E'Lights know and do what is expected of them</i>
+<b><font color="#46d6ce">R</font></b>esponsibility - <i>E'Lights know and do what is expected of them</i>
 <br>
-<b>I</b>ntegrity - <i>E'Lights uphold what is right and true</i>
+<b><font color="#46d6ce">I</font></b>ntegrity - <i>E'Lights uphold what is right and true</i>
 <br>
-<b>N</b>ational Pride - <i>E'Lights are proud to be Singaporean and stand up for the nation</i>
+<b><font color="#46d6ce">N</font></b>ational Pride - <i>E'Lights are proud to be Singaporean and stand up for the nation</i>
 <br>
-<b>G</b>ratefulness - <i>E'Lights use words and actions to express their appreciation to other</i>
+<b><font color="#46d6ce">G</font></b>ratefulness - <i>E'Lights use words and actions to express their appreciation to other</i>
