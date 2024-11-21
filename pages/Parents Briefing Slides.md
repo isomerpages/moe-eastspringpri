@@ -5,6 +5,25 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>P1 Parents Briefing slides</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025_P1_Orientation_Finance_Admin_Pt1.pdf" rel="noopener noreferrer nofollow" target="_blank">Introduction Slide 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_P1_Orientation_Finance_Admin_Pt2.pdf" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance Scheme</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_P1_Orientation_Finance_Admin_POSB.pdf" rel="noopener nofollow" target="_blank">Introduction to POSB Smart Buddy System</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Year_Head_Talk_Transitioning_to_P1_2025_try.pdf" rel="noopener nofollow" target="_blank">Year Head Sharing</a>
+</p>
+</li>
+</ol>
+<p></p>
 <p><a href="/files/Parents Briefing Slides/2024/Primary_1_Parents_Briefing_2024_Principal.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Introduction Slide 2024</a> 
 <br><a href="/files/Parents Briefing Slides/2024/2024_part_1_p1_parents_briefing_by_fts_consolidated.pdf" rel="noopener noreferrer nofollow" target="_blank">2. Part 1</a> 
 <br><a href="/files/Parents Briefing Slides/2024/2024_part_2_p1_parents_briefing_by_fts_consolidated.pdf" rel="noopener noreferrer nofollow" target="_blank">3. Part 2</a> 
