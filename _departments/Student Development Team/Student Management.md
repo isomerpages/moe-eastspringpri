@@ -1,7 +1,7 @@
 ---
 title: Student Management
 permalink: /departments/student-development-team/student-management/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Student Development Team
 ---
@@ -16,8 +16,9 @@ space to learn from their mistakes and make improvements in their conduct.&nbsp;
 <p></p>
 <p>In line with our plans to move towards positive education, we follow MOE's
 guidelines closely towards a more positive and proactive approach to discipline.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Discipline Framework" src="/images/Discipline_Framework_image.png">
+<img style="width: 100%" height="auto" width="100%" alt="Discipline Framework" src="/images/SDT/Discipline_Framework_image.png">
 </div>
 <p>We strongly believe in the importance of the home-school partnership and
 working closely and collaboratively with parents and guardians in order
