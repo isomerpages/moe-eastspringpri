@@ -7,6 +7,8 @@ variant: tiptap
 ---
 <h3><strong>School Rules and Regulations</strong></h3>
 <h4><strong>1. Compulsory</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>1.1 National Anthem and Pledge
 <br>1.1.1 Students who are Singapore Citizens must sing the National Anthem
 and recite the Pledge.
@@ -14,6 +16,8 @@ and recite the Pledge.
 heart
 <br>1.1.3 Non-citizens are to stand at attention to show respect during the
 flag raising ceremony.</p>
+</li>
+<li>
 <p>1.2 School Uniform
 <br>1.2.1Students are to wear the prescribed school uniform. Modification
 to the uniform is not allowed.
@@ -22,6 +26,8 @@ allowed to remain in their PE attire on days they have PE. lessons, Modular
 PE, or CCA.
 <br>1.2.3 Students reporting for Dental Treatment after/before curriculum/during
 school holidays must be in school uniform/ PE attire.</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
