@@ -7,37 +7,21 @@ variant: tiptap
 ---
 <h3><strong>School Rules and Regulations</strong></h3>
 <h4><strong>1. Compulsory</strong></h4>
-<p>1.1 National Anthem and Pledge</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1.1.1 Students who are Singapore Citizens must sing the National Anthem
-and recite the Pledge.</p>
-</li>
-<li>
-<p>1.1.2 Students will take the Pledge with the right fist placed over the
-heart</p>
-</li>
-<li>
-<p>1.1.3 Non-citizens are to stand at attention to show respect during the
+<p>1.1 National Anthem and Pledge
+<br>1.1.1 Students who are Singapore Citizens must sing the National Anthem
+and recite the Pledge.
+<br>1.1.2 Students will take the Pledge with the right fist placed over the
+heart
+<br>1.1.3 Non-citizens are to stand at attention to show respect during the
 flag raising ceremony.</p>
-</li>
-</ul>
-<p>1.2 School Uniform</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1.2.1Students are to wear the prescribed school uniform. Modification
-to the uniform is not allowed.</p>
-</li>
-<li>
-<p>1.2.2 School uniform and PE attire are to be neatly worn. Students are
+<p>1.2 School Uniform
+<br>1.2.1Students are to wear the prescribed school uniform. Modification
+to the uniform is not allowed.
+<br>1.2.2 School uniform and PE attire are to be neatly worn. Students are
 allowed to remain in their PE attire on days they have PE. lessons, Modular
-PE, or CCA.</p>
-</li>
-<li>
-<p>1.2.3 Students reporting for Dental Treatment after/before curriculum/during
+PE, or CCA.
+<br>1.2.3 Students reporting for Dental Treatment after/before curriculum/during
 school holidays must be in school uniform/ PE attire.</p>
-</li>
-</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -138,10 +122,10 @@ on their foot/feet. No slippers are allowed.</p>
 <img style="width: 100%" height="auto" width="100%" alt="School Attire" src="/images/School_Uniform.png">
 </div>
 <h4><strong>2. General Appearance</strong></h4>
-<p>2.1 Neat attire and hairdo.</p>
-<p>2.2 Students should have short and clean fingernails. No nail varnish/polish
-is allowed.</p>
-<p>2.3 Students should not put on ornaments or jewellery of any kind such
+<p>2.1 Neat attire and hairdo.
+<br>2.2 Students should have short and clean fingernails. No nail varnish/polish
+is allowed.
+<br>2.3 Students should not put on ornaments or jewellery of any kind such
 as rings, bangles, or fanciful earrings.</p>
 <table style="minWidth: 75px">
 <colgroup>
