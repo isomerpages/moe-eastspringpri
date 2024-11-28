@@ -331,29 +331,31 @@ recess blinkers are switched on.</p>
 <p>5.7 Students must assemble promptly as soon as the end-of recess blinkers
 are switched on.</p>
 <h4><strong>6. Personal Belongings</strong></h4>
-<p>6.1 Students are responsible for their own belongings at all times. Students
-should label their personal belongings (like water bottle, pencil case,
-shoes, wallets, bags, food containers, etc) with their names and classes.</p>
-<p>6.2 Students are <strong><u>not allowed</u></strong> to bring any items
-that would disrupt the learning process such as toys and games.</p>
-<p>6.3&nbsp;&nbsp; All students are <strong><u>not allowed</u></strong> to
+<p><strong>6.1</strong> Students are responsible for their own belongings
+at all times. Students should label their personal belongings (like water
+bottle, pencil case, shoes, wallets, bags, food containers, etc) with their
+names and classes.
+<br><strong>6.2</strong> Students are <strong><u>not allowed</u></strong> to
+bring any items that would disrupt the learning process such as toys and
+games.
+<br><strong>6.3</strong>&nbsp;&nbsp; All students are <strong><u>not allowed</u></strong> to
 have in their possession any weapon. They are also not allowed to bring
 any weapon-like item which can be used or intended to be used to cause
-harm to others.</p>
-<p>6.4 Students are <strong><u>not allowed</u></strong> to use the smartphone
-or smartwatches (except POSB Smart Buddy) during school hours including
-recess, CCA and after-school programmes.</p>
-<p>6.5 Students who bring such devices (if any) are to put them in their
-schoolbags <strong><u>before</u></strong> school start time. They can retrieve
-their devices after <strong><u>all</u></strong> school programmes/activities
-end. Students will be issued a ziplock bag to keep their smartphones or
-smartwatches before placing them in their bags.</p>
-<p>6.6&nbsp;Students should bear responsibility for safekeeping these devices
-and school will not be liable for any loss or damage to the smartphones
-or smartwatches.</p>
-<p>6.7&nbsp;Students are <strong><u>only allowed</u></strong> to use the smartphones
-or smartwatches <strong><u>within</u></strong> the marked area <strong>(Phone Zone)</strong> at
-the foyer after school hours.</p>
+harm to others.
+<br><strong>6.4 </strong>Students are <strong><u>not allowed</u></strong> to
+use the smartphone or smartwatches (except POSB Smart Buddy) during school
+hours including recess, CCA and after-school programmes.
+<br><strong>6.5 </strong>Students who bring such devices (if any) are to put
+them in their schoolbags <strong><u>before</u></strong> school start time.
+They can retrieve their devices after <strong><u>all</u></strong> school
+programmes/activities end. Students will be issued a ziplock bag to keep
+their smartphones or smartwatches before placing them in their bags.
+<br><strong>6.6&nbsp;</strong>Students should bear responsibility for safekeeping
+these devices and school will not be liable for any loss or damage to the
+smartphones or smartwatches.
+<br><strong>6.7&nbsp;</strong>Students are <strong><u>only allowed</u></strong> to
+use the smartphones or smartwatches <strong><u>within</u></strong> the marked
+area <strong>(Phone Zone)</strong> at the foyer after school hours.</p>
 <p>
 <br>
 </p>
