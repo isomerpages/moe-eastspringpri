@@ -51,10 +51,12 @@ school holidays must be in school uniform/ PE attire.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girls</p>
+<p><strong>Girls</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys</p>
+<p><strong>Boys</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,11 +67,8 @@ school holidays must be in school uniform/ PE attire.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>White school blouse and turquoise knee-length</p>
+<p>White school blouse and turquoise knee-length culottes</p>
 </li>
-</ul>
-<p>culottes</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Name tag (1cm above pocket)</p>
 </li>
@@ -187,7 +186,6 @@ headband.</p>
 <p>Hair colour should remain natural.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong><u>Short hair:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -227,10 +225,9 @@ headband.</p>
 <p>No undercut hairstyle and thick crop are allowed.</p>
 </li>
 <li>
-<p>Hair colour should remain natural.</p>
+<p>Hair colour should remain natural. Must be clean-shaven and neat in appearance.</p>
 </li>
 </ul>
-<p>&nbsp;Must be clean-shaven and neat in appearance.</p>
 </td>
 </tr>
 <tr>
@@ -257,11 +254,14 @@ headband.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only simple and functional watches and
-spectacles are allowed.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ornament accessories like friendship bands
-and bracelets are not</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; allowed.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Only simple and functional watches and spectacles are allowed.</p>
+</li>
+<li>
+<p>Ornament accessories like friendship bands and bracelets are not allowed.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
