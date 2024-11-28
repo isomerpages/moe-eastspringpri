@@ -98,9 +98,7 @@ school holidays must be in school uniform/ PE attire.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Shoes and</strong>
-</p>
-<p><strong>Socks</strong>
+<p><strong>Shoes and Socks</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -119,6 +117,17 @@ school holidays must be in school uniform/ PE attire.</p>
 on their foot/feet. No slippers are allowed.</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
