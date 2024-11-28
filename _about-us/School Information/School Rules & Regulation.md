@@ -164,7 +164,8 @@ as rings, bangles, or fanciful earrings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hair</p>
+<p><strong>Hair</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Long hair:</u></strong>
@@ -230,7 +231,8 @@ headband.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>&nbsp;Accessories</p>
+<p>&nbsp;<strong>Accessories</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
