@@ -5,12 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Student Development Team
 ---
-<ul>
-<li>
-<p><strong>Student Management &amp; Discipline</strong>
-</p>
-</li>
-</ul>
+<h4><strong>Student Management &amp; Discipline</strong></h4>
 <p><strong><u>Discipline Objective (Our Discipline Policy)</u></strong>
 </p>
 <p>At East Spring Primary School,<strong> </strong>our aim is to develop
