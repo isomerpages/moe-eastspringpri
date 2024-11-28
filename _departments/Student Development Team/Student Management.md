@@ -37,7 +37,7 @@ academic year.&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Punctuality and Attendance</strong>
-</p>
+</p><h6>
 <ul data-tight="true" class="tight">
 <li>
 <p>Arriving in school during or after the Flag-Raising Ceremony, without
@@ -51,9 +51,8 @@ per semester)</p>
 <li>
 <p>Missing lessons/activities (including CCA, Enrichment and Remedial) without
 a medical certificate or a letter with valid reason(s) from parent/guardian</p>
-</li>
-</ul>
-</li>
+</li></ul>
+</h6></li>
 <li>
 <p><strong>Attire and Grooming</strong>
 </p>
