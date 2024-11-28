@@ -34,7 +34,8 @@ together to guide and support our students.</p>
 <p>We take a whole-school approach to discipline and articulate explicitly
 to our students the school rules and expectations at the start of every
 academic year.&nbsp;</p>
-<p><strong>Please refer to the Student Handbook on what is expected of our students.</strong>
+<p><strong>Please refer to the Student Handbook on what is expected of our students. Click </strong>
+<a href="/about-us/school-information/permalink/" rel="noopener nofollow" target="_blank">link</a><strong> for on School Rules.</strong>
 </p>
 <h4><strong><u>Minor Offences</u></strong></h4>
 <ol data-tight="true" class="tight">
@@ -183,7 +184,6 @@ to the public</p>
 </li>
 </ol>
 <h4><strong><u>Major Offences</u></strong></h4>
-<p></p>
 <ol>
 <li>
 <p><strong>Truancy</strong>
