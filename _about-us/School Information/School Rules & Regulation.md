@@ -202,7 +202,6 @@ headband.</p>
 <p>Hair length must not touch the collar.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
