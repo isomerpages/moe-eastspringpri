@@ -6,8 +6,7 @@ third_nav_title: School Information
 variant: tiptap
 ---
 <h3><strong>School Rules and Regulations</strong></h3>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Compulsory</strong>
-</p>
+<h4><strong>1. Compulsory</strong></h4>
 <p>1.1 National Anthem and Pledge</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -264,13 +263,21 @@ headband.</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>*Please refer to the pictures for the acceptable hairstyles and accessories.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="General Appearance" src="/images/School_Appearance.png">
 </div>
-<h4><strong>3</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Attendance and Punctuality</strong></h4>
+<h4><strong>3</strong>. <strong>Attendance and Punctuality</strong></h4>
 <p>3.1 Attendance is compulsory for all school activities.</p>
 <p>3.2 Punctuality is to be observed at all times. Students are expected
 to be in the hall/classroom <strong>by 7:25 a.m. sharp</strong> for the flag-raising
