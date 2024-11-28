@@ -1,7 +1,7 @@
 ---
 title: Student Management
 permalink: /departments/student-development-team/student-management/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Student Development Team
 ---
@@ -31,7 +31,7 @@ together to guide and support our students.</p>
 to our students the school rules and expectations at the start of every
 academic year.&nbsp;</p>
 <p><strong>Please refer to the Student Handbook on what is expected of our students. Click </strong>
-<a href="/about-us/school-information/permalink/" rel="noopener nofollow" target="_blank">link</a><strong> for on School Rules.</strong>
+<a href="/about-us/school-information/permalink/" rel="noopener nofollow" target="_blank">link</a><strong> for School Rules and Regulations</strong>
 </p>
 <h4><strong><u>Minor Offences</u></strong></h4>
 <ol data-tight="true" class="tight">
@@ -174,7 +174,6 @@ to the public</p>
 </li>
 <li>
 <p>Use of handphone or other unauthorized devices during school hours</p>
-<p></p>
 </li>
 </ul>
 </li>
@@ -345,7 +344,7 @@ electronic mail) improperly or unlawfully</p>
 <p></p>
 <p></p>
 <p></p>
-<p><em>*Minor offences committed persistently will be considered as a Major offence.</em>
+<p><strong><em>*Minor offences committed persistently will be considered as a Major offence.</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -393,6 +392,14 @@ electronic mail) improperly or unlawfully</p>
 <p>Making a police report</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
