@@ -13,7 +13,6 @@ third_nav_title: Student Development Team
 </ul>
 <p><strong><u>Discipline Objective (Our Discipline Policy)</u></strong>
 </p>
-<p></p>
 <p>At East Spring Primary School,<strong> </strong>our aim is to develop
 our students into individuals with good self-discipline so that they can
 create a conducive learning environment for them and their peers. <strong>We believe that students learn well when there is order and discipline</strong>.
@@ -37,7 +36,7 @@ to our students the school rules and expectations at the start of every
 academic year.&nbsp;</p>
 <p><strong>Please refer to the Student Handbook on what is expected of our students.</strong>
 </p>
-<h4><u>Minor Offences</u></h4>
+<h4><strong><u>Minor Offences</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Punctuality and Attendance</strong>
@@ -405,27 +404,16 @@ electronic mail) improperly or unlawfully</p>
 <p>The discipline policy stated above serves as a guide. Every case is unique
 and bound by different circumstances. The school will take the necessary
 action(s) in the best interest of our students, school staff and the community.</p>
-<p></p>
-<ul>
-<li>
-<p><strong><u>Restorative Practices</u></strong>
-</p>
-</li>
-</ul>
-<p></p>
+<h4><strong><u>Restorative Practices</u></strong></h4>
 <p><strong>Discipline is an educative process, and our goal is to instill self-discipline and good character in our students, strengthened by our SPRING values. </strong>Our
 disciplinary measures help our students learn the consequences of their
 inappropriate actions and to take responsibility for the poor choices made.
 Thus, it is important for the consequences to be meted out fairly, firmly,
 and appropriately.&nbsp;</p>
-<p></p>
 <p>At East Spring Primary School, we believe in the importance of restoring
 relationships among our students through restorative practices.&nbsp;</p>
-<p></p>
 <p>In order for us to achieve this, the Discipline Team works closely with
-the Form Teachers and Year Heads using these three steps:</p>
-<p></p>
-<p>
+the Form Teachers and Year Heads using these three steps:
 <br>
 </p>
 <table style="minWidth: 50px">
