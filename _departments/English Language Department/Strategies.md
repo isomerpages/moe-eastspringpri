@@ -3,11 +3,12 @@ title: Strategies
 permalink: /departments/English-Language-Department/Strategies/
 description: ""
 third_nav_title: English Language Department
+variant: markdown
 ---
 Strategies for English Language/Mother Tongue
 ---------------------------------------------
 
-### **Primary 1 & Primary 2**
+### **Primary 1 &amp; Primary 2**
 
 | Component | Tips to help your child |
 | --- | --- |
@@ -17,7 +18,7 @@ Strategies for English Language/Mother Tongue
 | Writing | -   Encourage your child to write notes to you.<br>   Please ensure that letters are formed correctly and writing is neat. There must be a clear distinction between letters in the Upper and Lower cases.|
 | Others | -   Insist that your child practices what the teacher has taught in terms of examination skills – e.g. highlighting of contextual clues.|
 
-### **Primary 3 & Primary 4**
+### **Primary 3 &amp; Primary 4**
 
 | Component | Tips to help your child |
 | --- | --- |
@@ -28,7 +29,7 @@ Strategies for English Language/Mother Tongue
 Only for EL
 | Others |-   For the Comprehension OE section, pupils are expected to practice the HBC way of addressing the questions by doing the following: Highlight the 5W1H (Why, When, Who, Where, What, How), Box the tense marker and Circle the key words.|
 
-### **Primary 5 & Primary 6**
+### **Primary 5 &amp; Primary 6**
 
 | Component | Tips to help your child |
 | --- | --- |
@@ -42,7 +43,7 @@ Only for EL
 Strategies for Mathematics
 --------------------------
 
-### **Primary 1 & Primary 2**
+### **Primary 1 &amp; Primary 2**
 
 You may like to strengthen their numeral skills through the following:  
 
@@ -59,7 +60,7 @@ With the increased usage of mobile devices, the following Mathematics apps are a
 
 ![](/images/engstrat.png)
 
-### **Primary 3 & Primary 4**
+### **Primary 3 &amp; Primary 4**
 
 You may like to strengthen their mathematics concepts through the following:
 
@@ -74,7 +75,7 @@ With the increased usage of mobile devices, the following Mathematics apps are a
 
 ![](/images/strat.png)
 
-### **Primary 5 & Primary 6**
+### **Primary 5 &amp; Primary 6**
 
 You may like to strengthen their mathematics concepts through the following:
 
@@ -112,12 +113,12 @@ Pupils will be assessed on their understanding of:
 *   Scientific instruments and apparatus including techniques and aspects of safety
 *   Scientific and technological applications
 
-Applicable for both Sections A & B
+Applicable for both Sections A &amp; B
 
 *   Read and highlight key words
 *   Observe and study given diagram, graph, table, etc
 *   Understand the context of the question
-*   Know which topic/s &/or concept/s is being tested
+*   Know which topic/s &amp;/or concept/s is being tested
 
 Applicable for Section A only
 
