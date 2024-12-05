@@ -17,7 +17,7 @@ the roads safe and traffic smooth in/around the school vicinity.</p>
 <p><strong>a)&nbsp; Vehicle Drop off and Pick Up Zone at Gate C, Tampines Street 33</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sch Layout" src="/images/About Us/Sch_Layout.png">
 </div>
 <p>Use designated vehicle drop-off and pick-up at Gate C only. Avoid stopping
 in unauthorized zones such as along Tampines Street 31 as it may cause
@@ -32,10 +32,10 @@ and causing inconvenience to others.</p>
 <p>If you are driving into the school, please adhere to vehicle speed of
 15km/h when within the school’s premises, stay alert for pedestrians and
 cooperate with traffic marshals.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Please inform our security officers if you are driving in to pick up your
 unwell child/ward.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>If it rains during school arrival time, you are allowed to drive into
 the school foyer to alight your&nbsp; child/ward.&nbsp; Please ensure your
 child/ward is ready to alight when approaching the gate.&nbsp; Do drop
@@ -44,19 +44,18 @@ doing so to prevent congestion at the school’s roundabout.</p>
 <p>You may drive in to pick up your child once the school gates open after
 1:50 PM. This will be a pick-and-go arrangement, and vehicles are not permitted
 to wait on school premises.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>c)&nbsp;&nbsp;&nbsp; Safe Route to School</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sch Route" src="/images/About Us/Fire_Escape_Layout.png">
 </div>
 <p>If your child/ward walks or cycles to school from Block 358, please advise
 him/her to use the traffic junction in front of Block 357 to cross over
 to the school for their safety, as the traffic junction is supervised by
 a teacher from 7.15 am to 7.30 am.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Safe Cycling</strong>
 </p>
 <p>With many of our students choosing to cycle to and from school, it is
