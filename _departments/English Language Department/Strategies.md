@@ -17,12 +17,12 @@ Strategies for English Language/Mother Tongue
 | Listening | -   Listen to your child without interrupting him/her to show what a good listener does<br>-   Have your child listen to a story or an article that you have read aloud and have him/her retell the gist/summary of it to you.|
 | Writing | -   Encourage your child to write notes to you.<br>   Please ensure that letters are formed correctly and writing is neat. There must be a clear distinction between letters in the Upper and Lower cases.|
 | Others | -   Insist that your child practices what the teacher has taught in terms of examination skills – e.g. highlighting of contextual clues.|
-||
+
 ### **Primary 3 &amp; Primary 4**
 | Component | Tips to help your child |
 | --- | --- |
-| Reading | -   The reading habit is the best gift that you can give to your child.<br>-   Visit the library with your child and select books of different genres.<br>-   Read aloud with your child and to your child. Have your child read sections of a story aloud to you with expression.|
-| Speaking | -   Listen to good models of speaking e.g. news readers, announcers on TV and radio<br>-   Encourage your child to speak clearly<br>-   Insist that your child makes and maintains eye contact with the audience|
+| Reading | -   Visit the library with your child and help him/her select books of different genres.<br>-   Read aloud to your child. Have your child read sections of a story/book aloud to you with expression.|
+| Speaking | -   Listen to good models of speaking e.g. news readers, announcers on TV and radio<br>-   Encourage your child to speak clearly<br>-    Insist that your child makes and maintains eye contact with the audience.<br>-    While out shopping or eating, encourage your child to explain why he/she has made certain choices. This does not have to be for everything that your child does.<br>-    Do not try to correct your child immediately if he/she makes a mistake. Instead how ask he/she can improve and make suggestions.|
 | Listening | -   Listen to your child without interrupting him/her to show what a good listener does<br>-   Have your child listen to a story or an article that you have read aloud and have him/her retell the gist/summary of it to you.|
 | Writing | -   Encourage your child to write notes to you.<br>   Please ensure that letters are formed correctly and writing is neat. There must be a clear distinction between letters in the Upper and Lower cases.|
 | Others | -   Insist that your child practices what the teacher has taught in terms of examination skills – e.g. highlighting of contextual clues.|
