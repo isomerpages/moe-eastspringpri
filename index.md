@@ -28,6 +28,13 @@ sections:
       image: /images/Newsletter Cover/Issue_5_2024.png
       alt: Image alt text
   - infobar:
+      title: E'LIGHTS Satellite
+      subtitle: Our Newsletters
+      id: infobar
+      description: Previous Issues
+      button: Get your copy
+      url: /e-lights-newsletter/
+  - infobar:
       title: Purchase of School Textbooks and Uniform 2025
       subtitle: available now
       id: infobar
