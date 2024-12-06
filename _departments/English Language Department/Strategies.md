@@ -29,14 +29,12 @@ Strategies for English Language/Mother Tongue
 | Others | -   For the Comprehension OE section, pupils are expected to practice the HBC way of addressing the questions by doing the following: Highlight the 5W1H (Why, When, Who, Where, What, How), Box the tense marker and Circle the key words.
 
 ### **Primary 5 &amp; Primary 6**
-
 | Component | Tips to help your child |
 | --- | --- |
 | Reading | -   Encourage your child to read the newspapers. Children who read anything and everything have lots to gain. The more your child reads the more knowledge he/she has to fall back on when required.|
 | Speaking | -   Listen to good models of speaking e.g. news readers, announcers on TV and radio<br>-   Encourage your child to speak clearly.<br>-   Insist that your child makes and maintains eye contact with whoever he/she speaks to.<br>-   Engage your child in conversation and ask for their opinion in discussions. While out shopping or eating, encourage your child to explain why he/she has made certain choices. However, this does not have to be for everything that your child does.<br>-   Do not try to correct your child immediately if he/she makes a mistake when speaking. Instead how ask he/she can improve and make suggestions.|
 | Listening | -   Listen to your child without interrupting him/her to show what a good listener does<br>-   Listen to the news on TV and have your child retell the gist/summary of a news clip to you.|
 | Writing | -   Please ensure that your child writes neatly.<br>-   Encourage your child to keep a book of good phrases and words. As he/she come across these words through reading, they should copy them down into the book. This book should be used when they are writing a composition.<br>-   Planning what is to be written is important. Encourage your child to always plan before they start writing.<br>-   Insist that your child practices what the teacher has taught in terms of examination skills – e.g. highlighting of contextual clues, checking for spelling, punctuation and tenses used in writing answers.|
-Only for EL
 | Others | - For the Comprehension OE section, pupils are expected to practice the HBC way of addressing the questions by doing the following: Highlight the 5W1H (Why, When, Who, Where, What, How), Box the tense marker and Circle the key words.
 
 Strategies for Mathematics
