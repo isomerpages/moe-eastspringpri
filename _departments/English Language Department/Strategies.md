@@ -32,7 +32,7 @@ Strategies for English Language/Mother Tongue
 
 | Component | Tips to help your child |
 | --- | --- |
-| Reading | -   The reading habit is the best gift that you can give to your child.<br>-   Visit the library with your child and select books of different genres.<br>-   Read aloud with your child and to your child. Have your child read sections of a story aloud to you with expression.
+| Reading | -   Encourage your child to read the newspapers. Children who read anything and everything have lots to gain. The more your child reads the more knowledge he/she has to fall back on when required.
 | Speaking | -   Listen to good models of speaking e.g. news readers, announcers on TV and radio<br>-   Encourage your child to speak clearly<br>-   Insist that your child makes and maintains eye contact with the audience.
 | Listening | -   Listen to your child without interrupting him/her to show what a good listener does<br>-   Have your child listen to a story or an article that you have read aloud and have him/her retell the gist/summary of it to you.
 | Writing | -   Encourage your child to write notes to you.<br>-   Please ensure that letters are formed correctly and writing is neat. There must be a clear distinction between letters in the Upper and Lower cases.
