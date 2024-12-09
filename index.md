@@ -28,7 +28,7 @@ sections:
       image: /images/Newsletter Cover/Issue_5_2024.png
       alt: Image alt text
   - infobar:
-      title: E'LIGHTS Satellite
+      title: E'Lights Satellite
       subtitle: Our Newsletters
       id: infobar
       description: Previous Issues
