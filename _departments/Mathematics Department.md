@@ -4,25 +4,21 @@ permalink: /departments/Mathematics-Department/
 description: ""
 variant: markdown
 ---
+
+| ||
+| -------- | -------- | 
+|<b> Vision:<b>  | <b>	Laying a Strong Foundation
+|<b>Mission:<b>|<b>Effective and Reflective Problem Solvers who develop joy and love for Mathematics
+	
 <style>
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-
 }
 </style>
 
 Our Programmes
 --------------
-
-*   **Mission:**
-    
-    -&nbsp;&nbsp;Laying a Strong Foundation
-    
-    **Vision:**
-    
-    -&nbsp;&nbsp;&nbsp;Effective and Reflective Problem Solvers who develop joy and love for Mathematics
-    
 
 *   **Mathematics Amazing Week**
 
@@ -303,4 +299,4 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 
 *   [Primary School Mathematics Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf)
 *   [Approved Calculator List](https://www.seab.gov.sg/home/examinations/approved-calculators)
-*   [Koobits](https://problemsums.koobits.com/)
+*   [Koobits](https://problemsums.koobits.com/)</b></b></b></b></b></b>
