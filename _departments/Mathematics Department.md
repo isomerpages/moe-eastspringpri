@@ -4,18 +4,10 @@ permalink: /departments/Mathematics-Department/
 description: ""
 variant: markdown
 ---
-
 | ||
 | -------- | -------- | 
 |<b> Vision:<b>  | <b>	Laying a Strong Foundation
 |<b>Mission:<b>|<b>Effective and Reflective Problem Solvers who develop joy and love for Mathematics
-	
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
 
 Our Programmes
 --------------
