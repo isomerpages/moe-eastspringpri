@@ -4,10 +4,24 @@ permalink: /departments/Mathematics-Department/
 description: ""
 variant: markdown
 ---
-| ||
-| -------- | -------- | 
-|<b> Vision:<b>  | <b>	Laying a Strong Foundation
-|<b>Mission:<b>|<b>Effective and Reflective Problem Solvers who develop joy and love for Mathematics
+
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+
+<table style="width:100%">
+  <tbody><tr>
+    <td><b> Vision:<b></b></b></td>
+    <td><b>Laying a Strong Foundation</b></td>
+  </tr>
+  <tr>
+    <td><b>Mission:<b></b></b></td>
+    <td><b>Effective and Reflective Problem Solvers who develop joy and love for Mathematics</b></td>
+  </tr>
+</tbody></table>
 
 Our Programmes
 --------------
@@ -291,4 +305,4 @@ It is&nbsp;a math olympiad contest for selected Primary 5 and Primary 6 students
 
 *   [Primary School Mathematics Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf)
 *   [Approved Calculator List](https://www.seab.gov.sg/home/examinations/approved-calculators)
-*   [Koobits](https://problemsums.koobits.com/)</b></b></b></b></b></b>
+*   [Koobits](https://problemsums.koobits.com/)
