@@ -102,7 +102,18 @@ table, th, td {
 	<tr>
 	<td>Mdm Saras</td>
 	<td>@schools.gov.sg</td>
-
+</tr>
+	<tr><td rowspan="3">1S7</td>
+	<td>Mdm Hairina Bte Hamzah</td>
+	<td>hairina_hamzah@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Ms Lee Zhibin</td>
+	<td>lee_zhibin@schools.gov.sg</td>
+</tr>
+	<tr>
+	<td>Mrs Christopher</td>
+	<td>chew_chi_yin@schools.gov.sg</td>
 </tr>
 </tbody></table>
 
