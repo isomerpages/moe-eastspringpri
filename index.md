@@ -24,7 +24,7 @@ sections:
       id: infopic
       description: 5th edition
       button: read it now
-      url: https://simplebooklet.com/elightssatellite05
+      url: https://simplebooklet.com/2024sem2elightssatellite05
       image: /images/Newsletter Cover/Issue_5_2024.png
       alt: Image alt text
   - infobar:
