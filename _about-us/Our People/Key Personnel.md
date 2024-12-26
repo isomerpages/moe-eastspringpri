@@ -23,7 +23,7 @@ table, th, td {
   </td></tr>
 <tr>
 	<td>Principal</td>
-	<td>Mr Wong Kin Mun</td>
+	<td>Mdm Neo Lay Wah</td>
 	<td rowspan="3">esps@moe.edu.sg</td>
 	</tr>
 	<tr>
@@ -45,13 +45,13 @@ table, th, td {
   </td></tr>
 <tr>
 	<td>Year Head (Upper Primary)</td>
-	<td>Mdm Norizan Bte Syed Ahamed</td>
-	<td>norizan_syed_ahamed@schools.gov.sg</td>
+			<td>Mdm Tok Shi Shi (Mrs Choo)</td>
+		<td>tok_shi_shi@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Assistant Year Head (Upper Pri)</td>
-			<td>Mdm Tok Shi Shi (Mrs Choo)</td>
-		<td>tok_shi_shi@schools.gov.sg</td>
+			<td>-</td>
+		<td>-</td>
 	</tr>
 	<tr>
 	<td>Year Head (Middle Primary)</td>
@@ -95,8 +95,8 @@ table, th, td {
 	</tr>
 	<tr>
 	<td>HOD / Mother Tongue Languages</td>
-	<td>-</td>
-	<td>-</td>
+	<td>Miss Quek Kah Hoon, Jasmin</td>
+	<td>quek_kah_hoon@schools.gov.sg</td>
 	</tr>
 <tr>
 	<td>HOD / Science</td>
@@ -105,8 +105,8 @@ table, th, td {
 	</tr>
 <tr>
 	<td>HOD / Physical Education, CCA &amp; Aesthetics</td>
-	<td>Mr Bryan Chao Wei Nien</td>
-	<td>chao_wei_nien@schools.gov.sg</td>
+	<td>Mr Muhammad Azhari Bin Shahri</td>
+	<td>muhammad_azhari_shahri@schools.gov.sg</td>
 	</tr>
 <tr>
 	<td>HOD / CCE</td>
