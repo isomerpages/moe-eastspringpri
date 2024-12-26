@@ -7,27 +7,21 @@ variant: tiptap
 ---
 <h3><strong>School Rules and Regulations</strong></h3>
 <h4><strong>1. Compulsory</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>1.1 National Anthem and Pledge
-<br>1.1.1 Students who are Singapore Citizens must sing the National Anthem
-and recite the Pledge.
-<br>1.1.2 Students will take the Pledge with the right fist placed over the
-heart
-<br>1.1.3 Non-citizens are to stand at attention to show respect during the
+<p>1.1 National Anthem and Pledge</p>
+<p>1.1.1 Students who are Singapore Citizens must sing the National Anthem
+and recite the Pledge.</p>
+<p>1.1.2 Students will take the Pledge with the right fist placed over the
+heart</p>
+<p>1.1.3 Non-citizens are to stand at attention to show respect during the
 flag raising ceremony.</p>
-</li>
-<li>
-<p>1.2 School Uniform
-<br>1.2.1Students are to wear the prescribed school uniform. Modification
-to the uniform is not allowed.
-<br>1.2.2 School uniform and PE attire are to be neatly worn. Students are
+<p>1.2 School Uniform</p>
+<p>1.2.1Students are to wear the prescribed school uniform. Modification
+to the uniform is not allowed.</p>
+<p>1.2.2 School uniform and PE attire are to be neatly worn. Students are
 allowed to remain in their PE attire on days they have PE. lessons, Modular
-PE, or CCA.
-<br>1.2.3 Students reporting for Dental Treatment after/before curriculum/during
+PE, or CCA.</p>
+<p>1.2.3 Students reporting for Dental Treatment after/before curriculum/during
 school holidays must be in school uniform/ PE attire.</p>
-</li>
-</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -137,10 +131,10 @@ on their foot/feet. No slippers are allowed.</p>
 <img style="width: 100%" height="auto" width="100%" alt="School Attire" src="/images/School_Uniform.png">
 </div>
 <h4><strong>2. General Appearance</strong></h4>
-<p>2.1 Neat attire and hairdo.
-<br>2.2 Students should have short and clean fingernails. No nail varnish/polish
-is allowed.
-<br>2.3 Students should not put on ornaments or jewellery of any kind such
+<p>2.1 Neat attire and hairdo.</p>
+<p>2.2 Students should have short and clean fingernails. No nail varnish/polish
+is allowed.</p>
+<p>2.3 Students should not put on ornaments or jewellery of any kind such
 as rings, bangles, or fanciful earrings.</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -332,31 +326,29 @@ recess blinkers are switched on.</p>
 <p>5.7 Students must assemble promptly as soon as the end-of recess blinkers
 are switched on.</p>
 <h4><strong>6. Personal Belongings</strong></h4>
-<p><strong>6.1</strong> Students are responsible for their own belongings
-at all times. Students should label their personal belongings (like water
-bottle, pencil case, shoes, wallets, bags, food containers, etc) with their
-names and classes.
-<br><strong>6.2</strong> Students are <strong><u>not allowed</u></strong> to
-bring any items that would disrupt the learning process such as toys and
-games.
-<br><strong>6.3</strong>&nbsp;&nbsp; All students are <strong><u>not allowed</u></strong> to
+<p>6.1 Students are responsible for their own belongings at all times. Students
+should label their personal belongings (like water bottle, pencil case,
+shoes, wallets, bags, food containers, etc) with their names and classes.</p>
+<p>6.2 Students are <strong><u>not allowed</u></strong> to bring any items
+that would disrupt the learning process such as toys and games.</p>
+<p>6.3&nbsp;&nbsp; All students are <strong><u>not allowed</u></strong> to
 have in their possession any weapon. They are also not allowed to bring
 any weapon-like item which can be used or intended to be used to cause
-harm to others.
-<br><strong>6.4 </strong>Students are <strong><u>not allowed</u></strong> to
-use the smartphone or smartwatches (except POSB Smart Buddy) during school
-hours including recess, CCA and after-school programmes.
-<br><strong>6.5 </strong>Students who bring such devices (if any) are to put
-them in their schoolbags <strong><u>before</u></strong> school start time.
-They can retrieve their devices after <strong><u>all</u></strong> school
-programmes/activities end. Students will be issued a ziplock bag to keep
-their smartphones or smartwatches before placing them in their bags.
-<br><strong>6.6&nbsp;</strong>Students should bear responsibility for safekeeping
-these devices and school will not be liable for any loss or damage to the
-smartphones or smartwatches.
-<br><strong>6.7&nbsp;</strong>Students are <strong><u>only allowed</u></strong> to
-use the smartphones or smartwatches <strong><u>within</u></strong> the marked
-area <strong>(Phone Zone)</strong> at the foyer after school hours.</p>
+harm to others.</p>
+<p>6.4 Students are <strong><u>not allowed</u></strong> to use the smartphone
+or smartwatches (except POSB Smart Buddy) during school hours including
+recess, CCA and after-school programmes.</p>
+<p>6.5 Students who bring such devices (if any) are to put them in their
+schoolbags <strong><u>before</u></strong> school start time. They can retrieve
+their devices after <strong><u>all</u></strong> school programmes/activities
+end. Students will be issued a ziplock bag to keep their smartphones or
+smartwatches before placing them in their bags.</p>
+<p>6.6&nbsp;Students should bear responsibility for safekeeping these devices
+and school will not be liable for any loss or damage to the smartphones
+or smartwatches.</p>
+<p>6.7&nbsp;Students are <strong><u>only allowed</u></strong> to use the smartphones
+or smartwatches <strong><u>within</u></strong> the marked area <strong>(Phone Zone)</strong> at
+the foyer after school hours.</p>
 <p>
 <br>
 </p>
