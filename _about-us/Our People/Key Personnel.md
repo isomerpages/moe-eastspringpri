@@ -173,21 +173,12 @@ table, th, td {
 			<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
 		<td>linda_tay_mei_hong@schools.gov.sg</td>
 	</tr>
-</tbody></table><br>
-
-<table style="width:100%">
-  <tbody><tr>
-    <th style="width: 30%">Subject Head</th>
-    <th style="width: 30%">Name</th>
-		<th style="width: 40%">Email Address</th><td>
-  </td></tr>
-			<tr>
-	<td>SH / (PE/CCA)</td>
+			<tr><td>LH / (PE/CCA)</td>
 			<td>Mr Choo Yew Teck</td>
 		<td>choo_yew_teck@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>SH / (Aesthetics)</td>
+	<td>LH / (Aesthetics)</td>
 			<td>Mdm Syaza Bte Mohd Sallehuddin</td>
 		<td>syaza_mohd_sallehuddin@schools.gov.sg</td>
 	</tr>
@@ -208,8 +199,8 @@ table, th, td {
 	</tr>	
 			<tr>
 	<td>ST / Malay Language</td>
-			<td>Mdm Azah Bte Abdul Aziz</td>
-		<td>azah_abdul_aziz@schools.gov.sg</td>
+			<td>-</td>
+		<td>-</td>
 	</tr>
 	<tr>
 	<td>ST / Chinese Language</td>
