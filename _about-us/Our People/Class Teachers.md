@@ -39,67 +39,69 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="2">1S1</td>
-	<td>Mdm Tan Wui Ling (Mrs Lee)</td>
-	<td>tan_wui_ling@schools.gov.sg</td>
+	<td>Ms Nur Sabrina Binte Harun</td>
+	<td>nur_sabrina_harun@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Azah Abdul Aziz</td>
-	<td>azah_abdul_aziz@schools.gov.sg</td>
+	<td>Mdm Peh Poh Li (Mrs Toh)</td>
+	<td>peh_poh_li@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="3">1S2</td>
-	<td>Mr Lee Gee Chye</td>
-	<td>lee_gee_chye@schools.gov.sg</td>
+	<td>Ms Ng Su Ying</td>
+	<td>ng_su_ying@schools.gov.sg</td>
 </tr>
 	<tr>
-		<td>Mdm Shakilah Mohamed Ansari</td>
-	<td>shakilah_mohamed_ansari@schools.gov.sg</td>
+		<td>Mdm Syaza Binte Mohd Sallehhuddin</td>
+	<td>syaza_mohd_sallehuddin@schools.gov.sg</td>
 </tr>
 		<tr>
-		<td>Mdm Aishah Binte Sidik</td>
-	<td>aishah_sidik@schools.gov.sg</td>
+		<td>Mdm Chan Yoke Ying</td>
+	<td>Chan_Yoke_Ying_A@schools.gov.sg</td>
 </tr>
 <tr>
-	<td rowspan="3">1S3</td>
-	<td>Mdm Xu Haiyan</td>
-	<td>xu_haiyan@schools.gov.sg</td>
+	<td rowspan="2">1S3</td>
+	<td>Ms Ong Lay Ping</td>
+	<td>ong_lay_ping@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Miss Chew Chi Yin</td>
-	<td>chew_chi_yin@schools.gov.sg</td>
+	<td>Mdm Nadirah Baharin</td>
+	<td>nadirah_baharin@schools.gov.sg</td>
 </tr>
 		<tr>
-	<td>Mdm Rosana Abdul Rahman</td>
-	<td>rosana_abdul_rahman@schools.gov.sg</td>
 </tr>
 <tr>
-	<td rowspan="2">1S4</td>
-	<td>Mdm Nurarfah Sudirman</td>
-	<td>nurarfah_sudirman@schools.gov.sg</td>
+	<td rowspan="3">1S4</td>
+	<td>Mdm Audrey Yow</td>
+	<td>yow_ting_ting@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Linda Tay Mei Hong(Mrs Goh)</td>
-	<td>linda_tay_mei_hong@schools.gov.sg</td>
-
+	<td> Mrs Karen Ong</td>
+	<td>ong_lay_hoon_karen@schools.gov.sg</td>
+		</tr><tr>
+		<td>Mdm Huang Lin Lin</td>
+	<td>huang_linlin@schools.gov.sg</td>
+</tr>
+<tr>
 </tr>
 <tr>
 	<td rowspan="2">1S5</td>
-	<td>Mdm Maznah Mohd Rashid</td>
-	<td>maznah_md_rashid@schools.gov.sg</td>
+	<td>Mdm Aishah Binte Sidik</td>
+	<td>aishah_sidik@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Rohaya Mohamad</td>
-	<td>rohaya_mohamad@schools.gov.sg</td>
+	<td>Mr Kang Aik Kwan, Clement</td>
+	<td>kang_aik_kwan_clement@schools.gov.sg</td>
 </tr>
 	
 <tr>
 	<td rowspan="2">1S6</td>
-	<td>Mdm Noornisha</td>
-	<td>n_n_noornisha@schools.gov.sg</td>
+	<td>Mdm Georgina Lau</td>
+	<td>lau_kai_wen@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Sonika Kaur Dhaliwal</td>
-	<td>sonika_kaur_dhaliwal@schools.gov.sg</td>
+	<td>Mdm Saras</td>
+	<td>@schools.gov.sg</td>
 
 </tr>
 </tbody></table>
