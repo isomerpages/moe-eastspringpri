@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /cca/Performing-Arts/Malay-Dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <style>
 table {
@@ -27,7 +28,7 @@ The Malay Dance Club was set up since the founding of the school. The objective 
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Mdm Sheikha Fadzlon Shaik Yakob<br>Mdm Siti Nafisa Bte Mohd Daud<br>Mdm Khairunnisa Binte Mohamed</td>
+    <td>Mdm Sheikha Fadzlon Shaik Yakob<br>Mdm Siti Nafisa Bte Mohd Daud</td>
   </tr>
   <tr>
     <th>Training day/time:</th>
