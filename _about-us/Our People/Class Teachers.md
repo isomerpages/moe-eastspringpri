@@ -112,8 +112,8 @@ table, th, td {
 	<td>lee_zhibin@schools.gov.sg</td>
 </tr>
 	<tr>
-	<td>Mrs Christopher</td>
-	<td>-</td>
+	<td>Mrs Christopher Francis Shearley </td>
+	<td>christopher_francis_shearl@schools.gov.sg</td>
 </tr>
 </tbody></table>
 
@@ -174,12 +174,12 @@ table, th, td {
 	<td>rohaya_mohamad@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Sitti Maisarah Binte Abu Bakar</td>
-	<td>-</td>
+	<td>Mdm Sitti Maisarah Binte Abu Bakar</td>
+	<td>sitti_maisarah_abu_bakar@schools.gov.sg</td>
  </tr>
 	<tr>
-	<td>Ang Wai Ling, Sylvia (Mrs Chua)</td>
-	<td>-</td>
+	<td>Mdm Ang Wai Ling, Sylvia (Mrs Chua)</td>
+	<td>ang_wai_ling_sylvia@schools.gov.sg</td>
   </tr>
 <tr>
 	<td rowspan="3">2P6</td>
@@ -340,7 +340,7 @@ table, th, td {
 	  <td>siew_nai_min@schools.gov.sg</td>
    </tr>
 		<tr><td>Mdm Nur Fithriah Binte Anas</td>
-	<td>-</td>
+	<td>nur_fithriah_anas@schools.gov.sg</td>
 	</tr><tr><td rowspan="3">4I6</td>
 	<td>Mdm Tan Siew Lay, Shirley (Mrs Lim)</td>
 	<td>tan_siew_lay_shirley@schools.gov.sg</td>
