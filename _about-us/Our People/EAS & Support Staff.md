@@ -53,7 +53,7 @@ table, th, td {
 			<tr>
 	<td>Corporate Support Officer (Adjunct)</td>
 	<td>Ms Syaheera Beevi Binte Mohamed</td>
-    <td>Syaheera_Beevi_Mohamed@schools.gov.sg</td>
+    <td>syaheera_beevi_mohamed@schools.gov.sg</td>
 	</tr>
 			<tr>
 	<td>Operations Support Officer (Adjunct)</td>
@@ -106,7 +106,7 @@ table, th, td {
 	<tr>
 	<td>Special Educational Needs (SEN) officer (UT) </td>
 	<td>Ms Jermaine Ho</td>
-	<td>Jermaine_Ho@schools.gov.sg</td>
+	<td>jermaine_ho@schools.gov.sg</td>
 	</tr>  
 </tbody></table>
 <br>
