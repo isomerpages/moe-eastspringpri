@@ -57,7 +57,7 @@ table, th, td {
 </tr>
 		<tr>
 		<td>Mdm Chan Yoke Ying</td>
-	<td>Chan_Yoke_Ying_A@schools.gov.sg</td>
+	<td>chan_yoke_ying_a@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="2">1S3</td>
