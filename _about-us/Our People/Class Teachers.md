@@ -136,14 +136,17 @@ table, th, td {
 	<td>sheikha_fadzlon_shaik_yakob@schools.gov.sg</td>
 </tr>
 <tr>
-	<td rowspan="2">2P2</td>
+	<td rowspan="3">2P2</td>
 	<td>Mdm Noor Zehan</td>
 	<td>noor_zehan_mohamed_rashid@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Mr Lee Gee Chyen</td>
 	<td>lee_gee_chye@schools.gov.sg</td>
-
+</tr>
+			<tr>
+	<td>Miss Erlina Binte Ramli</td>
+	<td>erlina_ramli_a@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="3">2P3</td>
