@@ -266,7 +266,7 @@ table, th, td {
   <tr>
 	<td rowspan="3">3R5</td>
 	<td>Mr Alif Zulhilmi Bin Zakaria</td>
-	<td>nur_faizah_ahmad_fauzi@schools.gov.sg</td>
+	<td>alif_zulhilmi_zakaria@schools.gov.sg</td>
 	</tr>
 	<tr>
 	<td>Miss Lam Yi Xin</td>
