@@ -31,7 +31,7 @@ Media &amp; IT Club was formed in 2012. It exposes students to various learning 
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Mdm Azah Bte Abdul Aziz <br>Mdm Hairina Bte Hamzah</td>
+    <td>Mdm Nur Fa'izah <br>Mr Mohamed Abdul Rauf</td>
   </tr>
   <tr>
     <th>Training day/time:</th>
