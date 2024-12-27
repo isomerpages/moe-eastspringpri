@@ -96,7 +96,7 @@ table, th, td {
 	
 <tr>
 	<td rowspan="2">1S6</td>
-	<td>Mdm Georgina Lau</td>
+	<td>Mdm Lau Kai Wen, Georgina</td>
 	<td>lau_kai_wen@schools.gov.sg</td>
 	</tr>
 	<tr>
