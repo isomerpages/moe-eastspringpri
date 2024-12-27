@@ -26,12 +26,12 @@ third_nav_title: Student Development Team
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mr Loo Leong Tuan (YH/ Middle Pri)
-<br>Mdm Norizan Bte Syed Ahamed (YH/ Upper Pri)
+<p>Mr Loo Leong Tuan (YH/ Middle Pri)
+<br>Mdm Tok Shi Shi (Mrs Choo) (YH/ Upper Pri)
 <br>Mdm Shakilah Binte Mohamed Ansari (AYH/ Lower Pri)
 <br>Mdm Sally Yeo Xueli (Mrs Koh) (AYH/ Middle Pri)
-<br>Mdm Tok Shi Shi (Mrs Choo) (AYH/ Upper Pri)
-<br>Mdm Vivien Naomi (Mrs Yap) (Student Leadership Coordinator)
+<br>Mdm Wendy Chui (Level IC/ Upper Pri)
+<br>Mdm Tan Si Hui (Mrs Peh) (Student Leadership Coordinator)
 <br>Mdm Siti Nafisa Binte Mohd Daud (Student Management Coordinator)</p>
 </td>
 </tr>
