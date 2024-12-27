@@ -52,7 +52,7 @@ table, th, td {
 	</tr>
 			<tr>
 	<td>Corporate Support Officer (Adjunct)</td>
-	<td>Miss Syaheera Beevi Binte Mohamed</td>
+	<td>Ms Syaheera Beevi Binte Mohamed</td>
     <td>Syaheera_Beevi_Mohamed@schools.gov.sg</td>
 	</tr>
 			<tr>
@@ -72,7 +72,7 @@ table, th, td {
 	</tr>
 <tr>
 	<td>Operations Support Officer</td>
-	<td>Mr Tan See Kwee</td>
+	<td>Mdm Goh Magie@Goh Ah Keng</td>
 	<td></td>
 	</tr>
 
@@ -99,7 +99,7 @@ table, th, td {
 	<td>zarina_abu_bakar_a@schools.gov.sg</td>
 	</tr>    
 <tr>
-	<td>Allied Educator (T&amp;L)</td>
+	<td>Allied Educator (Admin)</td>
 	<td>Mdm Aminah Bte Ahmat</td>
 	<td>aminah_ahmat@schools.gov.sg</td>
 	</tr>  
