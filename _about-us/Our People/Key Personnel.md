@@ -49,11 +49,6 @@ table, th, td {
 		<td>tok_shi_shi@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Assistant Year Head (Upper Pri)</td>
-			<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
 	<td>Year Head (Middle Primary)</td>
 			<td>Mr Loo Leong Tuan</td>
 		<td>loo_leong_tuan@schools.gov.sg</td>
