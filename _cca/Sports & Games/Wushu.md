@@ -3,6 +3,7 @@ title: Wushu
 permalink: /cca/Sports-and-Games/Wushu/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <style>
 table {
@@ -30,7 +31,7 @@ The Wushu CCA started in 2006. The objectives of the programme are:
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-		<td>Mdm Nurarfah Bte Sudirman <br> Miss Ng Hui Peng <br> Mdm Aminah Bte Ahmat</td>
+		<td>Mdm Nurarfah Bte Sudirman <br> Miss Ng Hui Peng <br> Mr Siew Nai Min</td>
   </tr>
   <tr>
     <th>Training day/time:</th>
