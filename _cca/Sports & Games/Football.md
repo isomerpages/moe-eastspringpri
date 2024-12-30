@@ -3,6 +3,7 @@ title: Football
 permalink: /cca/Sports-and-Games/Football/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <style>
 table {
@@ -42,7 +43,7 @@ Members in the school team are selected from the Talent Development &amp; Recrea
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Mr Au Jian'an Melvin <br> Mr Mohammed Yazid <br> Mdm Nur Fai'zah</td>
+    <td>Mr Au Jian'an Melvin <br> Mdm Norizan Bte Syed Ahamed <br> Mr Nathaniel Tan</td>
 
   </tr>
   <tr>

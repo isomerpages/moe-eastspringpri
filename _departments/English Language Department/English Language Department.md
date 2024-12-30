@@ -3,14 +3,13 @@ title: English Language Department
 permalink: /departments/English-Language-Department/English-Language-Department/
 description: ""
 third_nav_title: English Language Department
+variant: markdown
 ---
-
-
 | ||
 | -------- | -------- | 
-| Vision:  | Affective Learners, Effective Communicators| 
-|Mission:|To provide a conducive environment for the learning and use of the English Language
-|Tag Line:|Today a Reader, Tomorrow a Leader
+|<b> Vision:  | <b>Affective Learners, Effective Communicators| 
+|<b>Mission:|<b>To provide a conducive environment for the learning and use of the English Language
+|<b>Tag Line:|<b>Today a Reader, Tomorrow a Leader
 
 Our Programmes
 --------------
@@ -61,7 +60,7 @@ This year the P4 students will be watching an educational drama performance enti
 
 ![](/images/english4.png)
 
-**5) P1 & P2 Celebrating Talents**
+**5) P1 &amp; P2 Celebrating Talents**
 
 Primary One and Two students are given this platform to showcase their performing talents. Each class will perform in the form of a song, a skit, poetry recitation or Readers’ Theatre based on their collective consensus. This whole-class involvement will give students an opportunity to learn to collaboratively work together and showcase their different linguistic skills.
 
@@ -119,4 +118,4 @@ Important Links
 ---------------
 
 [https://www.nlb.gov.sg/](https://www.nlb.gov.sg/)  
-[https://eresources.nlb.gov.sg/](https://eresources.nlb.gov.sg/)
+[https://eresources.nlb.gov.sg/](https://eresources.nlb.gov.sg/)</b></b></b></b></b></b>

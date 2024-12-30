@@ -3,6 +3,7 @@ title: Sports Club
 permalink: /cca/Sports-and-Games/Sports-Club/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <style>
 table {
@@ -30,7 +31,7 @@ Members are given the opportunity to participate in annual external competitions
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Mr Lee Gee Chye <br> Mr Yeoh Ying Kong <br> Mdm Leanne Seng</td>
+    <td>Mr Lee Gee Chye <br> Mdm Shazwani Binte Mustaffa</td>
   </tr>
   <tr>
     <th>Training day/time:</th>

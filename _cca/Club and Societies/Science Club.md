@@ -26,7 +26,7 @@ The Science &amp; Technology club aims to stimulate interest in science activiti
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Mdm Maznah <br>Mdm Siti Aisha</td>
+    <td>Mdm Hairina Bte Hamzah  <br>Mdm Jiang Yanni</td>
   </tr>
   <tr>
     <th>Training day/time:

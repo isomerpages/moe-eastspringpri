@@ -4,25 +4,27 @@ permalink: /departments/Mathematics-Department/
 description: ""
 variant: markdown
 ---
+
 <style>
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-
 }
 </style>
 
+<table style="width:100%">
+  <tbody><tr>
+    <td><b> Vision:<b></b></b></td>
+    <td><b>Laying a Strong Foundation</b></td>
+  </tr>
+  <tr>
+    <td><b>Mission:<b></b></b></td>
+    <td><b>Effective and Reflective Problem Solvers who develop joy and love for Mathematics</b></td>
+  </tr>
+</tbody></table>
+
 Our Programmes
 --------------
-
-*   **Mission:**
-    
-    -&nbsp;&nbsp;Laying a Strong Foundation
-    
-    **Vision:**
-    
-    -&nbsp;&nbsp;&nbsp;Effective and Reflective Problem Solvers who develop joy and love for Mathematics
-    
 
 *   **Mathematics Amazing Week**
 

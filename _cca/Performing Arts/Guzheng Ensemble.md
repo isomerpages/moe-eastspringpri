@@ -3,6 +3,7 @@ title: Guzheng Ensemble
 permalink: /cca/Performing-Arts/Guzheng-Ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <style>
 table {
@@ -29,7 +30,7 @@ Our instructor has a wealth of experience in coaching young children. Our studen
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Mdm Tan Wui Ling (Mrs Lee)<br>Mdm Xu Haiyan<br>Miss Wee Wan Qing</td>
+    <td>Mdm Tan Wui Ling (Mrs Lee)<br>Ms Ng Su Ying<br>Miss Wee Wan Qing</td>
   </tr>
   <tr>
     <th>Training day/time:</th>

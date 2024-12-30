@@ -23,7 +23,7 @@ table, th, td {
   </td></tr>
 <tr>
 	<td>Principal</td>
-	<td>Mr Wong Kin Mun</td>
+	<td>Mdm Neo Lay Wah</td>
 	<td rowspan="3">esps@moe.edu.sg</td>
 	</tr>
 	<tr>
@@ -45,11 +45,6 @@ table, th, td {
   </td></tr>
 <tr>
 	<td>Year Head (Upper Primary)</td>
-	<td>Mdm Norizan Bte Syed Ahamed</td>
-	<td>norizan_syed_ahamed@schools.gov.sg</td>
-	</tr>
-	<tr>
-	<td>Assistant Year Head (Upper Pri)</td>
 			<td>Mdm Tok Shi Shi (Mrs Choo)</td>
 		<td>tok_shi_shi@schools.gov.sg</td>
 	</tr>
@@ -95,8 +90,8 @@ table, th, td {
 	</tr>
 	<tr>
 	<td>HOD / Mother Tongue Languages</td>
-	<td>-</td>
-	<td>-</td>
+	<td>Miss Quek Kah Hoon, Jasmin</td>
+	<td>quek_kah_hoon@schools.gov.sg</td>
 	</tr>
 <tr>
 	<td>HOD / Science</td>
@@ -105,8 +100,8 @@ table, th, td {
 	</tr>
 <tr>
 	<td>HOD / Physical Education, CCA &amp; Aesthetics</td>
-	<td>Mr Bryan Chao Wei Nien</td>
-	<td>chao_wei_nien@schools.gov.sg</td>
+	<td>Mr Muhammad Azhari Bin Shahri</td>
+	<td>muhammad_azhari_shahri@schools.gov.sg</td>
 	</tr>
 <tr>
 	<td>HOD / CCE</td>
@@ -173,21 +168,12 @@ table, th, td {
 			<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
 		<td>linda_tay_mei_hong@schools.gov.sg</td>
 	</tr>
-</tbody></table><br>
-
-<table style="width:100%">
-  <tbody><tr>
-    <th style="width: 30%">Subject Head</th>
-    <th style="width: 30%">Name</th>
-		<th style="width: 40%">Email Address</th><td>
-  </td></tr>
-			<tr>
-	<td>SH / (PE/CCA)</td>
+			<tr><td>LH / (PE/CCA)</td>
 			<td>Mr Choo Yew Teck</td>
 		<td>choo_yew_teck@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>SH / (Aesthetics)</td>
+	<td>LH / (Aesthetics)</td>
 			<td>Mdm Syaza Bte Mohd Sallehuddin</td>
 		<td>syaza_mohd_sallehuddin@schools.gov.sg</td>
 	</tr>
@@ -208,8 +194,8 @@ table, th, td {
 	</tr>	
 			<tr>
 	<td>ST / Malay Language</td>
-			<td>Mdm Azah Bte Abdul Aziz</td>
-		<td>azah_abdul_aziz@schools.gov.sg</td>
+			<td>-</td>
+		<td>-</td>
 	</tr>
 	<tr>
 	<td>ST / Chinese Language</td>

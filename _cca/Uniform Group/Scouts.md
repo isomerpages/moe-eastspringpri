@@ -3,6 +3,7 @@ title: Scouts
 permalink: /cca/Uniform-Group/Scouts/
 description: ""
 third_nav_title: Uniform Group
+variant: markdown
 ---
 <style>
 table {
@@ -30,7 +31,7 @@ Scouts emphasises on developing every student as a unique individual by providin
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Miss Pauline Leong<br>Mdm Roslinah Binte Junali <br> Mr Ong Rui Sheng Daniel</td>
+    <td>Mdm Roslinah Binte Junali <br> Mdm Sitti Maisarah Binte Abu Bakar</td>
   </tr>
   <tr>
     <th>Training day/time:</th>

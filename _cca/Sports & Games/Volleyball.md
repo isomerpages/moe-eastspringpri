@@ -3,6 +3,7 @@ title: Volleyball
 permalink: /cca/Sports-and-Games/Volleyball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <style>
 table {
@@ -28,7 +29,7 @@ The Volleyball CCA was set up since school was founded in 1999. The objective of
 <table class="c">
   <tbody><tr>
     <th>Teacher-in-charge:</th>
-    <td>Mdm Peh Poh Li<br>Mr Clement Kang<br> Mrs Vivien Yap <br> Mdm Siti Farhana
+    <td>Mdm Peh Poh Li<br>Mr Clement Kang<br> Ms Aishah Sidik <br> Lau Kai Wen, Georgina
 		
 
   </td></tr>
