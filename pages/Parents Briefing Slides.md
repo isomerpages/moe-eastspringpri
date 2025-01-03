@@ -24,15 +24,29 @@ variant: tiptap
 </li>
 </ol>
 <p></p>
-<p><a href="/files/Parents Briefing Slides/2024/Primary_1_Parents_Briefing_2024_Principal.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Introduction Slide 2024</a> 
-<br><a href="/files/Parents Briefing Slides/2024/2024_part_1_p1_parents_briefing_by_fts_consolidated.pdf" rel="noopener noreferrer nofollow" target="_blank">2. Part 1</a> 
-<br><a href="/files/Parents Briefing Slides/2024/2024_part_2_p1_parents_briefing_by_fts_consolidated.pdf" rel="noopener noreferrer nofollow" target="_blank">3. Part 2</a> 
-<br><a href="/files/Parents Briefing Slides/2024/2024_part_3_p1_parents_briefing_by_fts_consolidated.pdf" rel="noopener noreferrer nofollow" target="_blank">4. Part 3</a> 
-<br><a href="/files/Parents Briefing Slides/2024/2024_part_4_p1_parents_briefing_by_fts_consolidated.pdf" rel="noopener noreferrer nofollow" target="_blank">5. Part 4</a> 
-<br><a href="/files/Parents Briefing Slides/2024/2024_part_5_p1_parents_briefing_by_fts_consolidated.pdf" rel="noopener noreferrer nofollow" target="_blank">6. Part 5</a> 
-<br><a href="/files/Parents Briefing Slides/2024/Primary_1_Parents_Briefing_2024_YH.pdf" rel="noopener noreferrer nofollow" target="_blank">7. Year Head Sharing</a> 
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parents Briefing Slides/P1 2025 Briefing/1__Parents__Briefing_2025_Principal.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Briefing Slides/P1 2025 Briefing/2__P1_YH_Talk_2025.pdf" rel="noopener nofollow" target="_blank">Year Head Talk</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Briefing Slides/P1 2025 Briefing/4__Math_P1_Parents_Briefing__2025__pdf.pdf" rel="noopener nofollow" target="_blank">Mathematics</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Briefing Slides/P1 2025 Briefing/5__MTL_P1_Parents_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Mother Tongue Language (MTL)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Briefing Slides/P1 2025 Briefing/6__PAM_PAL__P1_Parents_Briefing_for_P1_Parents_2025_PAM_PAL.pdf" rel="noopener nofollow" target="_blank">Physical Education(PE), Arts and Music - (PAM)</a>
 <br>
 </p>
+</li>
+</ol>
 <h4><strong>P2 Parents Briefing slides</strong></h4>
 <p><a href="https://sites.google.com/moe.edu.sg/principalsaddress/home" rel="noopener noreferrer nofollow" target="_blank">Principal's Address</a>
 </p>
