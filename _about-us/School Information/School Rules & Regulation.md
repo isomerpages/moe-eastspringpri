@@ -15,7 +15,7 @@ heart</p>
 <p>1.1.3 Non-citizens are to stand at attention to show respect during the
 flag raising ceremony.</p>
 <p>1.2 School Uniform</p>
-<p>1.2.1Students are to wear the prescribed school uniform. Modification
+<p>1.2.1 Students are to wear the prescribed school uniform. Modification
 to the uniform is not allowed.</p>
 <p>1.2.2 School uniform and PE attire are to be neatly worn. Students are
 allowed to remain in their PE attire on days they have PE. lessons, Modular
@@ -331,10 +331,9 @@ should label their personal belongings (like water bottle, pencil case,
 shoes, wallets, bags, food containers, etc) with their names and classes.</p>
 <p>6.2 Students are <strong><u>not allowed</u></strong> to bring any items
 that would disrupt the learning process such as toys and games.</p>
-<p>6.3&nbsp;&nbsp; All students are <strong><u>not allowed</u></strong> to
-have in their possession any weapon. They are also not allowed to bring
-any weapon-like item which can be used or intended to be used to cause
-harm to others.</p>
+<p>6.3 All students are <strong><u>not allowed</u></strong> to have in their
+possession any weapon. They are also not allowed to bring any weapon-like
+item which can be used or intended to be used to cause harm to others.</p>
 <p>6.4 Students are <strong><u>not allowed</u></strong> to use the smartphone
 or smartwatches (except POSB Smart Buddy) during school hours including
 recess, CCA and after-school programmes.</p>
