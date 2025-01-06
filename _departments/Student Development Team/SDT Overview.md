@@ -212,17 +212,6 @@ how difficult it is.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="285" width="190" src="https://lh7-us.googleusercontent.com/H4ToRxAFPOFhMpozKYfwU1P8YQ-mZAauuq6jOQsyASeeQFXCWIqPPSaTJrId4XdLYXrxRIw4UMR5SFUnT8zWD85l0Xdqh8Jax4rauFyFfLzsa0P4PNbx92tVEnRi8UR5bqRrTn-pNLY2">
-</div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 <ul>
 <li>
 <p><strong>Social Skills</strong>
