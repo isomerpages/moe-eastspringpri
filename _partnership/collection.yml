@@ -2,5 +2,6 @@ collections:
   partnership:
     output: true
     order:
+      - Forms/Downloads.md
       - Forms/.keep
       - Forms.md
