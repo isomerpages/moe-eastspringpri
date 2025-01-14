@@ -2,5 +2,5 @@ collections:
   students:
     output: true
     order:
-      - Learning Links/Useful Links.md
-      - Learning Links/.keep
+      - Learning/Useful Links.md
+      - Learning/.keep
