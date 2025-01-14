@@ -2,5 +2,4 @@ collections:
   students:
     output: true
     order:
-      - Google Classroom/Learning Links.md
       - Google Classroom/.keep
