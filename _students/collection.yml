@@ -2,4 +2,4 @@ collections:
   students:
     output: true
     order:
-      - Google Classroom/.keep
+      - Learning Links/.keep
