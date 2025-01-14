@@ -95,7 +95,7 @@ table, th, td {
 </tr>
 	
 <tr>
-	<td rowspan="3">1S6</td>
+	<td rowspan="2">1S6</td>
 	<td>Mdm Lau Kai Wen, Georgina</td>
 	<td>lau_kai_wen@schools.gov.sg</td>
 	</tr>
@@ -103,18 +103,19 @@ table, th, td {
 	<td>Ms Lee Zhibin</td>
 	<td>lee_zhibin@schools.gov.sg</td>
 </tr>
-	<tr>
-	<td>Mrs Christopher Francis Shearley </td>
-	<td>christopher_francis_shearl@schools.gov.sg</td>
-</tr>
 	<tr><td rowspan="3">1S7</td>
 	<td>Mdm Hairina Bte Hamzah</td>
 	<td>hairina_hamzah@schools.gov.sg</td>
 	</tr>
-	<tr>
-	<td>Mdm Saras</td>
-	<td>-</td>
+		<tr>
+	<td>Mrs Christopher Francis Shearley </td>
+	<td>christopher_francis_shearl@schools.gov.sg</td>
 </tr>
+	<tr>
+	<td>Mdm Sarasvathy S Varathappan</td>
+	<td>sarasvathy_s_varathappa_n@schools.gov.sg</td>
+</tr>
+	
 </tbody></table>
 
 <br>
