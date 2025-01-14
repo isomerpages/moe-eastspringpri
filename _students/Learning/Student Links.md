@@ -18,3 +18,5 @@ third_nav_title: Learning
 <p></p>
 <p><strong><u>Home Based Learning</u></strong>
 </p>
+<p>Please click&nbsp;<a href="/files/Students Guide to Using Google Meet for HBL.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the Guide to Using Google Meet for HBL</p>
