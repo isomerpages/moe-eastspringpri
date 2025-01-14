@@ -95,25 +95,25 @@ table, th, td {
 </tr>
 	
 <tr>
-	<td rowspan="2">1S6</td>
+	<td rowspan="3">1S6</td>
 	<td>Mdm Lau Kai Wen, Georgina</td>
 	<td>lau_kai_wen@schools.gov.sg</td>
 	</tr>
-	<tr>
-	<td>Mdm Saras</td>
-	<td>-</td>
-</tr>
-	<tr><td rowspan="3">1S7</td>
-	<td>Mdm Hairina Bte Hamzah</td>
-	<td>hairina_hamzah@schools.gov.sg</td>
-	</tr>
-	<tr>
+		<tr>
 	<td>Ms Lee Zhibin</td>
 	<td>lee_zhibin@schools.gov.sg</td>
 </tr>
 	<tr>
 	<td>Mrs Christopher Francis Shearley </td>
 	<td>christopher_francis_shearl@schools.gov.sg</td>
+</tr>
+	<tr><td rowspan="3">1S7</td>
+	<td>Mdm Hairina Bte Hamzah</td>
+	<td>hairina_hamzah@schools.gov.sg</td>
+	</tr>
+	<tr>
+	<td>Mdm Saras</td>
+	<td>-</td>
 </tr>
 </tbody></table>
 
@@ -141,7 +141,7 @@ table, th, td {
 	<td>noor_zehan_mohamed_rashid@schools.gov.sg</td>
 	</tr>
 	<tr>
-	<td>Mr Lee Gee Chyen</td>
+	<td>Mr Lee Gee Chye</td>
 	<td>lee_gee_chye@schools.gov.sg</td>
 </tr>
 			<tr>
@@ -427,7 +427,15 @@ table, th, td {
 		<td>Ms Fadhilah Binte Mohamed Faiz</td>
 	  <td>-</td>
 </tr>
-
+<tr>
+	<td rowspan="2">5N5</td>
+	<td>Mdm Roslinah Binte Junali</td>
+	<td>roslinah_junali@schools.gov.sg</td>
+</tr>
+<tr>
+	<td>Jiang Yanni</td>
+	<td>jiang_yanni@schools.gov.sg</td>
+</tr>
 
 </tbody></table>
 
