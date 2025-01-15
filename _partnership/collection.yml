@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Bilingual Policy Form.md
-      - Forms/.keep
       - Forms.md
