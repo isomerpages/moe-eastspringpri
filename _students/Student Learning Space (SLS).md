@@ -4,7 +4,7 @@ permalink: /student-learning-space-sls/
 variant: tiptap
 description: ""
 ---
-<h3><strong>SLS Website: <a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://learning.moe.edu.sg</u></a></strong></h3>
+<h4><strong>SLS Website: <a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://learning.moe.edu.sg</u></a></strong></h4>
 <p>SLS is an online learning portal that allows all students to have equal
 access to quality curriculum-aligned resources. These resources are available
 to all students for major subjects from primary to pre-university level.
