@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - School Vendors.md
       - Parents/Parents Gateway Onboarding.md
       - Parents/Parents Briefing Slides.md
       - Parents/Parent Volunteer.md
