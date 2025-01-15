@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - Parents/MOE Financial Assistance FAS Scheme.md
       - Parents/Term Letter.md
       - Parents/.keep
       - Parents/Parents Gateway Onboarding.md
