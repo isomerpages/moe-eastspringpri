@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - Assessment Matters/P3 Scope of Weighted Assessment.md
       - Assessment Matters/.keep
       - Parents/.keep
       - Parents/Term Letter.md
