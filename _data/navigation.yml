@@ -45,23 +45,7 @@ links:
         url: /parents/School-Vendor-Information/
   - title: Student
     url: /permalink
-    sublinks:
-      - title: Google Classroom
-        url: https://edu.google.com/intl/ALL_sg/workspace-for-education/classroom/
-      - title: Home Based Learning
-        url: /students/HBL/
-      - title: Student Zoom Onboarding
-        url: /students/Student-Zoom-Onboarding/
-      - title: ICT Support Page
-        url: https://sites.google.com/moe.edu.sg/sls-reset/student-icon-account
-      - title: (SLS) Student Learning Space
-        url: https://sites.google.com/moe.edu.sg/sls-student-learning-space/home
-      - title: KooBits
-        url: https://www.koobits.com/
-      - title: eZhishi
-        url: https://www.ezhishi.net/Contents/
-      - title: Pazhahu Tamil
-        url: https://pazhahutamil.com/login/index.php
+    sublinks: []
   - title: Staff
     url: https://sites.google.com/moe.edu.sg/e-springportal/staff/open-classroom?authuser=0
     sublinks:
