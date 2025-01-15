@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Student Learning Space (SLS).md
-      - Learning/Student Links.md
       - Learning/.keep
