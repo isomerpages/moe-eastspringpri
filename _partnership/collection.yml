@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - Partnership.md
       - ECHA Nomination.md
       - E'lights Newsletter.md
       - Parents/.keep
