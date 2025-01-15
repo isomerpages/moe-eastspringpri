@@ -2,7 +2,6 @@ collections:
   partnership:
     output: true
     order:
-      - Parents Support Group (PSG)/Parents.md
       - Parents Support Group (PSG)/.keep
       - Bilingual Policy Form.md
       - Forms.md
