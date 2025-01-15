@@ -2,5 +2,6 @@ collections:
   partnership:
     output: true
     order:
+      - Parents/.keep
       - Bilingual Policy Form.md
       - Forms.md
