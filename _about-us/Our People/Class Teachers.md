@@ -77,7 +77,7 @@ table, th, td {
 	</tr>
 	<tr>
 	<td> Mrs Karen Ong</td>
-	<td>ong_lay_hoon_karen@schools.gov.sg</td>
+	<td>ong_lay_hoon_karen_a@moe.edu.sg</td>
 		</tr><tr>
 		<td>Mdm Huang Lin Lin</td>
 	<td>huang_linlin@schools.gov.sg</td>
@@ -264,8 +264,8 @@ table, th, td {
 	<td>au_jian_an_melvin@schools.gov.sg</td>
   </tr>
 		<tr>
-	<td> Mdm Kelly Teo</td>
-	<td>-</td>
+	<td> Mdm Kelly Teo Hwee Keng</td>
+	<td>kelly_teo_hwee_keng@schools.gov.sg</td>
   </tr>
   <tr>
 	<td rowspan="3">3R5</td>
@@ -426,7 +426,7 @@ table, th, td {
 </tr>
 		<tr>
 		<td>Ms Fadhilah Binte Mohamed Faiz</td>
-	  <td>-</td>
+	  <td>fadhilah_mohamed_faiz@schools.gov.sg</td>
 </tr>
 <tr>
 	<td rowspan="2">5N5</td>
