@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - InfoSheet for School Textbook and Uniforms.md
       - School Vendor Information.md
       - Parents/MOE Financial Assistance FAS Scheme.md
       - Parents/Term Letter.md
