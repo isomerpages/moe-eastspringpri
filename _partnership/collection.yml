@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - Parents/Term Letter.md
       - Parents/.keep
       - Parents/Parents Gateway Onboarding.md
       - Parents/Parents Briefing Slides.md
