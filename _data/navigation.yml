@@ -44,7 +44,7 @@ links:
       - title: School Vendor Information
         url: /parents/School-Vendor-Information/
   - title: Student
-    url: /permalink
+    url: /student/permalink
     sublinks:
       - title: Student Learning Space(SLS)
         url: /student-learning-space-sls/
