@@ -46,10 +46,10 @@ links:
   - title: Student
     url: /permalink
     sublinks:
-      - title: Student Links
-        url: /student-links/
       - title: Student Learning Space(SLS)
         url: /student-learning-space-sls/
+      - title: Student Links
+        url: /student-links/
   - title: Staff
     url: https://sites.google.com/moe.edu.sg/e-springportal/staff/open-classroom?authuser=0
     sublinks:
