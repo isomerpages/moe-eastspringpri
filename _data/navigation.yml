@@ -21,7 +21,7 @@ links:
         url: https://sites.google.com/moe.edu.sg/assessment/home
       - title: Snacks for Break Time
         url: https://file.go.gov.sg/hpbsnacks.pdf
-      - title: Partnerhip
+      - title: Partnership
         url: https://staging.d2u1zetbqqqiby.amplifyapp.com/partnership/permalink/
       - title: Parents Gateway Onboarding
         url: https://sites.google.com/moe.edu.sg/parents-gateway-onboarding/parents-gateway-onboarding
@@ -43,25 +43,8 @@ links:
         url: https://sites.google.com/moe.edu.sg/parent-support-group/psg-registration
       - title: School Vendor Information
         url: /parents/School-Vendor-Information/
-  - title: Student
-    url: /permalink
-    sublinks:
-      - title: Google Classroom
-        url: https://edu.google.com/intl/ALL_sg/workspace-for-education/classroom/
-      - title: Home Based Learning
-        url: /students/HBL/
-      - title: Student Zoom Onboarding
-        url: /students/Student-Zoom-Onboarding/
-      - title: ICT Support Page
-        url: https://sites.google.com/moe.edu.sg/sls-reset/student-icon-account
-      - title: (SLS) Student Learning Space
-        url: https://sites.google.com/moe.edu.sg/sls-student-learning-space/home
-      - title: KooBits
-        url: https://www.koobits.com/
-      - title: eZhishi
-        url: https://www.ezhishi.net/Contents/
-      - title: Pazhahu Tamil
-        url: https://pazhahutamil.com/login/index.php
+  - title: Students
+    collection: students
   - title: Staff
     url: https://sites.google.com/moe.edu.sg/e-springportal/staff/open-classroom?authuser=0
     sublinks:
