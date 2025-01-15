@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Parents.md
-      - Parents Support Group (PSG)/.keep
       - Bilingual Policy Form.md
       - Forms.md
