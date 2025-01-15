@@ -2,7 +2,6 @@ collections:
   partnership:
     output: true
     order:
-      - Parents/Assessment Matters.md
       - Parents/.keep
       - Parents/Term Letter.md
       - Parents/MOE Financial Assistance FAS Scheme.md
