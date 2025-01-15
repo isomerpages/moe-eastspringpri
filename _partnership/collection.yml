@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - Parents/Parents Briefing Slides.md
       - Parents/Parent Volunteer.md
       - Parents/.keep
       - Bilingual Policy Form.md
