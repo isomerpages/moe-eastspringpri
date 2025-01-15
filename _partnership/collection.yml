@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - Parents/Parents Gateway Onboarding.md
       - Parents/Parents Briefing Slides.md
       - Parents/Parent Volunteer.md
       - Parents/.keep
