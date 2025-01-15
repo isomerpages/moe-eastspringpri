@@ -2,8 +2,6 @@ collections:
   partnership:
     output: true
     order:
-      - Partnership.md
-      - ECHA Nomination.md
       - E'lights Newsletter.md
       - Parents/.keep
       - Parents/Term Letter.md
@@ -14,4 +12,6 @@ collections:
       - InfoSheet for School Textbook and Uniforms.md
       - Bilingual Policy Form.md
       - Forms.md
+      - Partnership.md
+      - ECHA Nomination.md
       - School Vendor Information.md
