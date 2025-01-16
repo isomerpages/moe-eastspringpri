@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - E'lights Newsletter.md
+      - Parents/Parent Support Group (PSG).md
       - Parents/.keep
       - Parents/Term Letter.md
       - Parents/Parents Briefing Slides.md
