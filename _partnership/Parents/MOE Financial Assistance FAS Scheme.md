@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Parents
 ---
-The 2025MOE Financial Assistance Scheme (FAS) is now opened for all students to apply.  **The deadline for submission is 18 October 2024.**
+The 2025 MOE Financial Assistance Scheme (FAS) is now opened for all students to apply.  **The deadline for submission is 18 October 2024.**
 
 FAS Scheme is for Singapore Citizen students with **Gross Household Income (GHI) of $3,000** and below or **Per Capita Income (PCI) of $750** and below are eligible for the MOE FAS. MOE FAS recipients are not required to pay school fees and standard miscellaneous fees. The recipients are also eligible for free textbooks, school attire, meals and transport subsidies. 
 
