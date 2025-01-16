@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - E'lights Newsletter.md
-      - Parents/.keep
-      - Parents/Term Letter.md
-      - Parents/Parents Briefing Slides.md
-      - Parents/MOE Financial Assistance FAS Scheme.md
-      - Parents/School Vendor Information.md
-      - Parents/InfoSheet for School Textbook and Uniforms.md
-      - Parents/Parent Support Group (PSG).md
-      - Parents/Parent Volunteer Scheme.md
-      - Parents/Parents Gateway Onboarding.md
+      - For Parents/.keep
+      - For Parents/Term Letter.md
+      - For Parents/Parents Briefing Slides.md
+      - For Parents/MOE Financial Assistance FAS Scheme.md
+      - For Parents/School Vendor Information.md
+      - For Parents/InfoSheet for School Textbook and Uniforms.md
+      - For Parents/Parent Support Group (PSG).md
+      - For Parents/Parent Volunteer Scheme.md
+      - For Parents/Parents Gateway Onboarding.md
       - Bilingual Policy Form.md
       - Forms.md
       - Partnership.md
