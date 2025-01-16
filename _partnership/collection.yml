@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - E'lights Newsletter.md
+      - Parents/School Vendor Information.md
       - Parents/InfoSheet for School Textbook and Uniforms.md
       - Parents/Parent Support Group (PSG).md
       - Parents/.keep
