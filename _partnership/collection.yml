@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - Parent Support Group (PSG).md
       - E'lights Newsletter.md
       - For Parents/.keep
       - For Parents/Term Letter.md
