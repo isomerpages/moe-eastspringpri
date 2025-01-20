@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Communications/Term Letter.md
       - Communications/Assessment Matters.md
       - Communications/.keep
       - Parents Page.md
