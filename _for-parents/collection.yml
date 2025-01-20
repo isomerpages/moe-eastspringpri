@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Communications.md
       - Parents Page.md
       - Primary 1 Orientation/.keep
       - Primary 1 Orientation/Parents Briefing Slides.md
