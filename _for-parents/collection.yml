@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Vendor Information.md
       - MOE Financial Assistance FAS Scheme.md
       - Communications/InfoSheet for School Textbook and Uniforms.md
       - Communications/Parents Gateway Onboarding.md
