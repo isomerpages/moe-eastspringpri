@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Page.md
       - Communications/.keep
       - Communications/Term Letter.md
       - Communications/Parents Briefing Slides.md
@@ -10,7 +11,6 @@ collections:
       - Assessment Matters.md
       - MOE Financial Assistance FAS Scheme.md
       - School Vendor Information.md
-      - Parents Page.md
       - Consent for Photo and media.md
       - Parent Volunteer Scheme.md
       - Parent Support Group (PSG).md
