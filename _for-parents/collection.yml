@@ -1,5 +1,5 @@
 collections:
-  parents:
+  for-parents:
     output: true
     order:
       - Parents Page.md
