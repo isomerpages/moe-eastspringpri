@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Communications/Parents Gateway Onboarding.md
       - Communications/Parents Briefing Slides.md
       - Communications/Term Letter.md
       - Communications/Assessment Matters.md
