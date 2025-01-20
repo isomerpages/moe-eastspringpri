@@ -2,18 +2,18 @@ collections:
   for-parents:
     output: true
     order:
-      - Assessment Matters.md
-      - Parent Support Group (PSG).md
-      - Parent Volunteer Scheme.md
-      - School Vendor Information.md
-      - MOE Financial Assistance FAS Scheme.md
       - Communications/.keep
       - Communications/Term Letter.md
       - Communications/Parents Briefing Slides.md
       - Communications/Parents Gateway Onboarding.md
       - Communications/InfoSheet for School Textbook and Uniforms.md
+      - Assessment Matters.md
+      - MOE Financial Assistance FAS Scheme.md
+      - School Vendor Information.md
       - Parents Page.md
       - Primary 1 Orientation/.keep
       - Primary 1 Orientation/Parents Briefing Slides.md
       - Primary 1 Orientation/ESPS eOpen House.md
       - Consent for Photo and media.md
+      - Parent Volunteer Scheme.md
+      - Parent Support Group (PSG).md
