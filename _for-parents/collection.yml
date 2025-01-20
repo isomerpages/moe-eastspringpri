@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Communications/Assessment Matters.md
       - Communications/.keep
       - Parents Page.md
       - Primary 1 Orientation/.keep
