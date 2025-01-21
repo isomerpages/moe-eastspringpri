@@ -2,10 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Forms/MOE Financial Assistance FAS Scheme.md
-      - Forms/Bilingual Policy Form.md
-      - Forms/Forms.md
-      - Forms/.keep
       - Assessment Matters/.keep
       - Assessment Matters/Overview.md
       - Assessment Matters/P3 Scope of Weighted Assessment.md
@@ -16,6 +12,10 @@ collections:
       - Communications/Parents Briefing Slides.md
       - Communications/Parents Gateway Onboarding.md
       - Communications/InfoSheet for School Textbook and Uniforms.md
+      - Forms/.keep
+      - Forms/MOE Financial Assistance FAS Scheme.md
+      - Forms/Bilingual Policy Form.md
+      - Forms/Forms.md
       - School Vendor Information.md
       - Parent Volunteer Scheme.md
       - Parent Support Group (PSG).md
