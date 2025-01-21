@@ -2,6 +2,6 @@ collections:
   partnership:
     output: true
     order:
-      - E'lights Newsletter.md
       - Partnership.md
+      - E'lights Newsletter.md
       - ECHA Nomination.md
