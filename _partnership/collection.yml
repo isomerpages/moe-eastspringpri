@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - E'lights Newsletter.md
-      - Bilingual Policy Form.md
       - Partnership.md
       - ECHA Nomination.md
