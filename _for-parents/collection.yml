@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Forms/.keep
       - Assessment Matters/P5 Scope of Weighted Assessment.md
       - Assessment Matters/P4 Scope of Weighted Assessment.md
       - Assessment Matters/P3 Scope of Weighted Assessment.md
