@@ -25,7 +25,15 @@ to do so. If you are not a Singapore Citizen or Singapore Permanent Resident
 (PR), you may also visit the SingPass website to find out if you are eligible
 for SingPass.</p>
 <p>You may also scan the QR codes below to access the respective portals</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="Singpass" src="/images/Parents Gateway/Singpass.png">
+</div>
 <h4><strong><a href="https://www.singpass.gov.sg/home/ui/login" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Singpass</u></a></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="2FA" src="/images/Parents Gateway/2FA.jpg">
+</div>
 <h4><strong><a href="https://www.singpass.gov.sg/home/ui/setup-twofa" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>2FA</u></a></strong></h4>
 <p><strong><u>Step 2</u></strong> – Download the Parents Gateway Mobile App</p>
 <p>1.&nbsp; Open the <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Apple App Store</u></a> or
@@ -34,10 +42,6 @@ Google Play Store app on your mobile phone.</p>
 <p>3.&nbsp; Download and instll the app onto your phone.</p>
 <p>4. Enable ‘Allow Notifications’ to receive push notifications.</p>
 <p>Note: Supported OS Versions - Android 6.0 or later &amp; iOS 9.1 or later</p>
-<p>You may also scan the QR codes below to access the respective portals</p>
-<p></p>
-<p></p>
-<h4><strong>Android - </strong><a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank"><u>https://play.google.com/store/apps/details?id=com.moe.pgp</u></a></h4>
-<p></p>
-<h4><strong>iOS - </strong><a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank"><u>https://apps.apple.com/sg/app/parents-gateway/id1267198708</u></a></h4>
+<p></p><a class="isomer-image-wrapper" href="https://play.google.com/store/apps/details?id=com.moe.pgp"><img style="width: 25%;" height="auto" width="100%" alt="Google Play icon" src="/images/Parents Gateway/Google Play.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://apps.apple.com/sg/app/parents-gateway/id1267198708"><img style="width: 25%;" height="auto" width="100%" alt="Apple Store icon" src="/images/Parents Gateway/Apple App Store.png"></a>
 <p></p>
