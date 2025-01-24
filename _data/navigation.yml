@@ -9,40 +9,9 @@ links:
   - title: Niche Programme
     collection: niche-programme
   - title: Partnership
-    url: /partnership/permalink/
-    sublinks:
-      - title: Newsletter
-        url: /e-lights-newsletter/
-      - title: Primary 1 Orientation
-        url: https://sites.google.com/moe.edu.sg/esps-p1-2024/home
-      - title: Forms
-        url: https://sites.google.com/moe.edu.sg/download-forms/home
-      - title: Assessment Matters
-        url: https://sites.google.com/moe.edu.sg/assessment/home
-      - title: Snacks for Break Time
-        url: https://file.go.gov.sg/hpbsnacks.pdf
-      - title: Partnership
-        url: https://staging.d2u1zetbqqqiby.amplifyapp.com/partnership/permalink/
-      - title: Parents Gateway Onboarding
-        url: https://sites.google.com/moe.edu.sg/parents-gateway-onboarding/parents-gateway-onboarding
-      - title: Programmes and Workshop
-        url: https://sites.google.com/moe.edu.sg/programmesandworkshop/focusing-on-our-childrens-strengths
-      - title: MOE FAS
-        url: /moe-financial-assistance-scheme-fas/
-      - title: P1 Registration
-        url: https://www.moe.gov.sg/primary/p1-registration/how-to-register?pt=1
-      - title: Parent Volunteer Scheme
-        url: https://sites.google.com/moe.edu.sg/parentvolunteerscheme/home
-      - title: Parents Briefing Slides
-        url: /parents/parents-briefing-slides/
-      - title: Term Letter
-        url: https://sites.google.com/moe.edu.sg/term-letter?usp=sharing
-      - title: Edusave Character Award
-        url: /echa-nomination/permalink/
-      - title: Parents Support Group
-        url: https://sites.google.com/moe.edu.sg/parent-support-group/psg-registration
-      - title: School Vendor Information
-        url: /parents/School-Vendor-Information/
+    collection: partnership
+  - title: Parents
+    collection: for-parents
   - title: Students
     collection: students
   - title: Staff
@@ -52,7 +21,3 @@ links:
         url: https://sites.google.com/moe.edu.sg/e-springportal/staff/open-classroom?authuser=0
       - title: Google Classroom (Teacher)
         url: https://edu.google.com/intl/ALL_sg/workspace-for-education/classroom/
-  - title: Partnership
-    collection: partnership
-  - title: Parents
-    collection: for-parents
