@@ -123,7 +123,7 @@ in the neighbourhood during the main festive celebrations.</p>
 <li>
 <p>· MOE’s Sexuality Education in Schools</p>
 <p>· Overview of East Spring Primary School's Sexuality Education Programme
-2024</p>
+2025</p>
 <p>·&nbsp; Information For Parents</p>
 <p><strong>MOE’s Sexuality Education in Schools</strong>
 </p>
@@ -200,7 +200,7 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 </ul>
 <p><strong>At East Spring Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
-<p><strong>2025 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <h4><strong><u>Primary 5</u></strong></h4>
 <table style="minWidth: 100px">
@@ -294,7 +294,7 @@ and how to seek help for themselves and their friends.</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <h4><strong><u>Primary 6</u></strong></h4>
 <table style="minWidth: 100px">
