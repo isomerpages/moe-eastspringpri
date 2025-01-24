@@ -34,13 +34,6 @@ sections:
       description: Previous Issues
       button: Get your copy
       url: /e-lights-newsletter/
-  - infobar:
-      title: Purchase of School Textbooks and Uniform 2025
-      subtitle: available now
-      id: infobar
-      description: P1 - P6
-      button: Click here to download
-      url: /booklist-2025/
   - infopic:
       title: East Spring Primary Instagram Channel
       button: Click here to Join Us

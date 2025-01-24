@@ -1,8 +1,9 @@
 ---
-title: Forms
+title: Other Forms
 permalink: /forms/
 variant: tiptap
 description: ""
+third_nav_title: Forms
 ---
 <h4><strong>Permission to Leave Country (Absence from School Due to Travel) </strong><br>(During School Term Time)</h4>
 <p>This application is for students who will be absent from school for a

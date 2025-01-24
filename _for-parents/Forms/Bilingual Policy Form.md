@@ -3,6 +3,7 @@ title: Bilingual Policy Form
 permalink: /bilingual-policy-form/
 variant: tiptap
 description: ""
+third_nav_title: Forms
 ---
 <h4><strong><u>Singapore’s bilingual policy requires all students in the local schools to offer English and an official Mother Tongue Language (MTL).</u></strong></h4>
 <p><strong>Form Type</strong>

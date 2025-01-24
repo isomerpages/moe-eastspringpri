@@ -3,6 +3,7 @@ title: InfoSheet for School Textbook and Uniforms
 permalink: /booklist-2025/
 variant: tiptap
 description: ""
+third_nav_title: Communications
 ---
 <h3><u>Booklist</u></h3>
 <p><a href="/files/2025_Primary_1_Booklist.pdf" rel="noopener nofollow" target="_blank">2025 P1 Booklist</a>

@@ -1,0 +1,21 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Assessment Matters/.keep
+      - Assessment Matters/Overview.md
+      - Assessment Matters/P3 Scope of Weighted Assessment.md
+      - Assessment Matters/P4 Scope of Weighted Assessment.md
+      - Assessment Matters/P5 Scope of Weighted Assessment.md
+      - Communications/.keep
+      - Communications/Term Letter.md
+      - Communications/Parents Briefing Slides.md
+      - Communications/Parents Gateway Onboarding.md
+      - Communications/InfoSheet for School Textbook and Uniforms.md
+      - Forms/.keep
+      - Forms/MOE Financial Assistance FAS Scheme.md
+      - Forms/Bilingual Policy Form.md
+      - Forms/Other Forms.md
+      - School Vendor Information.md
+      - Parent Volunteer Scheme.md
+      - Parent Support Group (PSG).md
