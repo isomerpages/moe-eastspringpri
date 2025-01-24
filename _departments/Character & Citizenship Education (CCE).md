@@ -5,10 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<ul>
-<li>
-<p>&nbsp;&nbsp;&nbsp; <strong>Our Programmes</strong> &nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Our Programmes</strong> &nbsp;&nbsp;&nbsp;</p>
 <p>In our school, CCE is integrated with both Instructional Programmes (IP)
 as well as the Non-Instructional programmes (non-IP), co-curricular programmes,
 CCA, Values-In-Action (VIA), Student Leadership Development and other school
@@ -119,20 +116,11 @@ in the neighbourhood during the main festive celebrations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/cce7.png">
 </div>
-<p>&nbsp;&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>&nbsp;</p>
-</li>
-<li>
-<p>
-<br>&nbsp;&nbsp;&nbsp;
+<p>&nbsp;&nbsp;
 <br><strong>Sexuality Education</strong> 
-<br>&nbsp;&nbsp;&nbsp;</p>
-<p>
-<br>
-</p>
-<p>1. Sexuality Education</p>
+<br>1. Sexuality Education</p>
+<ul>
+<li>
 <p>· MOE’s Sexuality Education in Schools</p>
 <p>· Overview of East Spring Primary School's Sexuality Education Programme
 2024</p>
@@ -149,9 +137,8 @@ encouraging healthy, heterosexual marriages and stable nuclear family units
 with extended family support. The teaching and learning of SEd is based
 on respect for the values and beliefs of the different ethnic and religious
 communities in Singapore on sexuality issues.</p>
-<p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
-Education are:</p>
+<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
+Sexuality Education are:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
@@ -211,12 +198,18 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>At East Spring Primary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p><strong>At East Spring Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE 2021</strong>
 </p>
 <h4><strong><u>Primary 5</u></strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -256,7 +249,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 9</p>
+<p>Term 4 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -276,7 +269,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 9</p>
+<p>Term 4 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -294,7 +287,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 9</p>
+<p>Term 4 Week 3</p>
 </td>
 </tr>
 </tbody>
@@ -304,7 +297,13 @@ and how to seek help for themselves and their friends.</p>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
 <h4><strong><u>Primary 6</u></strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -345,7 +344,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 2</p>
+<p>Term 1 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -362,7 +361,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 2</p>
+<p>Term 1 Week 2</p>
 </td>
 </tr>
 </tbody>
@@ -379,7 +378,7 @@ providers.</p>
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated to parents at the start of the year and
 is also downloadable <a href="/files%2FSexEd%2F2024/ESPS_SEd_Opt_out_form_ANNEX_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 8 November 2024.</p>
+The completed opt-out form is to be submitted by 25/09/2025.</p>
 <p>10. Parents can also contact the school at 67866192 or email the school
 to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
