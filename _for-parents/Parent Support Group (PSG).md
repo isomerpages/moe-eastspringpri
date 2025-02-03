@@ -11,6 +11,6 @@ join and be a member of PSG,&nbsp; please click on the <a href="https://docs.goo
 <p></p>
 <h4><strong><u>QR Code</u></strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG QR Code" src="/images/Partner/PSG_QRCode.png">
+<img style="width: 50%;" height="auto" width="100%" alt="PSG QR Code" src="/images/Partner/PSG_QRCode.png">
 </div>
 <p></p>
