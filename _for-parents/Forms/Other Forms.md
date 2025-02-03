@@ -37,7 +37,7 @@ information.</p>
 <p>Please click<a href="https://drive.google.com/file/d/18Mrt7ZJ3ALUNunNve1al3H2m92sdaosl/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"> <u>here</u></a> for
 more details.</p>
 <h4><strong>Waitlist Form </strong><br>(for Singaporean &amp; PR students only)</h4>
-<p>Please complete the online form via the link here :&nbsp; <a href="https://form.jotform.com/esps_esps562/application-for-leaving-the-country" rel="noopener noreferrer nofollow" target="_blank"><u>https://form.gov.sg/64b4ed6cf6ce6e001152ca70</u></a>
+<p>Please complete the online form via the link <a href="https://form.gov.sg/64b4ed6cf6ce6e001152ca70" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>&nbsp;We will contact you should there be any vacancy.</p>
 <h4><strong>Leave of Absence (LOA) Form</strong><br>(For students accompanying parents who are working overseas)</h4>
