@@ -2,12 +2,11 @@
 title: Physical Education & Co Curriculum Activities (PE,CCA) Dept
 permalink: /departments/Physical-Education-and-Co-Curriculum-Activities-PE-CCA-Dept/
 description: ""
+variant: markdown
 ---
-
-
 |  | |
 | -------- | -------- | 
-| Head of Department   | Mr Chao Wei Nien     | 
+| Head of Department   | Mr Muhammad Azhari Bin Shahri     | 
 |Level Head| Mr Jacky Choo
 
 Our Programmes
