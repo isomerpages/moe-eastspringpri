@@ -18,42 +18,42 @@ table, th, td {
 		<tr>
 	<td>Administration Manager</td>
 	<td>Ms Khairunnisa Binte Mohamed Hussain</td>
-	<td>khairunnisa_mohamed_hussain@schools.gov.sg</td>
+	<td>khairunnisa_mohamed_hussain@moe.edu.sg</td>
 	</tr>
 	<tr>
 	<td>Administration Manager</td>
 	<td>Ms Ng Lay Tin</td>
-	<td>ng_lay_tin@schools.gov.sg</td>
+	<td>ng_lay_tin@moe.edu.sg</td>
 	</tr>
 <tr>
 <td>ICT Manager (Adjunct)</td>
 <td>Ms Norliza Binte Dasuni</td>
-<td>norliza_dasuni@schools.gov.sg</td>
+<td>norliza_dasuni@moe.edu.sg</td>
 </tr>
 	<tr>
 	<td>Operations Manager</td>
 	<td>Mr Quek Swee Heng</td>
-    <td>quek_swee_heng@schools.gov.sg</td>
+    <td>quek_swee_heng@moe.edu.sg</td>
 	</tr>
 	<tr>
 	<td>Administrative Executive</td>
 	<td>Ms Nur Faradilah Binte Padawi</td>
-    <td>nur_faradilah_padawi@schools.gov.sg</td>
+    <td>nur_faradilah_padawi@moe.edu.sg</td>
 	</tr>
 		<tr>
 	<td>Administrative Executive</td>
 	<td>Ms Liew Dun Lin</td>
-	<td>liew_dun_lin@schools.gov.sg</td>
+	<td>liew_dun_lin@moe.edu.sg</td>
 	</tr>
 <tr>
 	<td>Corporate Support Officer</td>
 	<td>Ms Florence Loh Boon Hoon</td>
-    <td>florence_loh_boon_hoon@schools.gov.sg</td>
+    <td>florence_loh_boon_hoon@moe.edu.sg</td>
 	</tr>
 			<tr>
 	<td>Corporate Support Officer (Adjunct)</td>
 	<td>Ms Syaheera Beevi Binte Mohamed</td>
-    <td>syaheera_beevi_mohamed@schools.gov.sg</td>
+    <td>syaheera_beevi_mohamed@moe.edu.sg</td>
 	</tr>
 			<tr>
 	<td>Operations Support Officer (Adjunct)</td>
@@ -86,27 +86,27 @@ table, th, td {
 <tbody><tr>
 	<td>School Counsellor</td>
 	<td>Mdm Ng Poh Xian (Mrs Rachel Tan)</td>
-	<td>ng_poh_xian@schools.gov.sg</td>
+	<td>ng_poh_xian@moe.edu.sg</td>
 	</tr>
 <tr>
 	<td>Senior Special Educational Needs (SEN) officer</td>
 	<td>Mdm Liyana Binte Zainudin</td>
-	<td>liyana_zainudin@schools.gov.sg</td>
+	<td>liyana_zainudin@moe.edu.sg</td>
 	</tr>
 <tr>
 	<td>Special Educational Needs (SEN) officer</td>
 	<td>Mdm Zarina Binte Abu Bakar</td>
-	<td>zarina_abu_bakar_a@schools.gov.sg</td>
+	<td>zarina_abu_bakar_a@moe.edu.sg</td>
 	</tr>    
 <tr>
 	<td>Allied Educator (Admin)</td>
 	<td>Mdm Aminah Bte Ahmat</td>
-	<td>aminah_ahmat@schools.gov.sg</td>
+	<td>aminah_ahmat@moe.edu.sg</td>
 	</tr>  
 	<tr>
 	<td>Special Educational Needs (SEN) officer (UT) </td>
 	<td>Ms Jermaine Ho</td>
-	<td>jermaine_ho@schools.gov.sg</td>
+	<td>jermaine_ho@moe.edu.sg</td>
 	</tr>  
 </tbody></table>
 <br>
