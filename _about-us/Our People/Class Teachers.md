@@ -57,7 +57,7 @@ table, th, td {
 </tr>
 		<tr>
 		<td>Mdm Chan Yoke Ying</td>
-	<td>chan_yoke_ying_a@schools.gov.sg</td>
+	<td>chan_yoke_ying_a@moe.edu.sg</td>
 </tr>
 <tr>
 	<td rowspan="2">1S3</td>
@@ -101,7 +101,7 @@ table, th, td {
 	</tr>
 		<tr>
 	<td>Ms Lee Zhibin</td>
-	<td>lee_zhibin@schools.gov.sg</td>
+	<td>lee_zhibin@moe.edu.sg</td>
 </tr>
 	<tr><td rowspan="3">1S7</td>
 	<td>Mdm Hairina Bte Hamzah</td>
