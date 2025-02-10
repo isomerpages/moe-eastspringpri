@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Communications
 ---
-<h4><strong>P1 Parents Briefing slides</strong></h4>
+<h4><strong><u>Primary 1</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025_P1_Orientation_Finance_Admin_Pt1.pdf" rel="noopener noreferrer nofollow" target="_blank">Introduction Slide 2025</a>
@@ -48,25 +48,78 @@ third_nav_title: Communications
 </p>
 </li>
 </ol>
-<h4><strong>P2 Parents Briefing slides</strong></h4>
-<p><a href="https://sites.google.com/moe.edu.sg/principalsaddress/home" rel="noopener noreferrer nofollow" target="_blank">Principal's Address</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<h3><strong>2025</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<h4><a href="/files/For Parents/Briefing Slides/Principal_s_Address_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank"><u>Principal's Address</u></a></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>P2</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/For Parents/Briefing Slides/2025_P2_Year_Head_Talk.pdf" rel="noopener nofollow" target="_blank">P2 Year Head Talk</a>
 </p>
-<p><a href="/files/Parents Briefing Slides/2024/2024_P2_Parents_Briefing_YH_26_Jan_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Parents Briefing 2024 YH</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>P3 &amp; P4</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/For Parents/Briefing Slides/2025_P3_P4_Year_Head_Talk.pdf" rel="noopener nofollow" target="_blank">P3-P4 Year Head Talk</a>
 </p>
-<p><a href="/files/Parents Briefing Slides/2024/2024_Parents_Briefing_by_FTs_P2_Updated.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Parents Briefing 2024 FT</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>P5 &amp; P6</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/For Parents/Briefing Slides/2025_P5P6_Year_Head_Talk.pdf" rel="noopener nofollow" target="_blank">P5-P6 Year Head Talk</a>
 </p>
-<h4><strong>P3 - P4 Parents Briefing slides</strong></h4>
-<p><a href="/files/Parents Briefing Slides/2024/2024_P3_P4_Parents_Briefing_19_Jan_for_school_website_final.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 - P4 Briefing Slides 2024</a>
-</p>
-<p><a href="/files/Parents Briefing Slides/2024/Parent_s_briefing_2024_by_P3_FTs.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Form Teacher Briefing Slides 2024</a>
-</p>
-<p><a href="/files/Parents Briefing Slides/2024/Parent_s_briefing_2024_by_P4_FTs.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Form Teacher Briefing Slides 2024</a>
-</p>
-<h4><strong>P5 - P6 Parents Briefing slides</strong></h4>
-<p><a href="/files/Parents Briefing Slides/2024/P5___P6_Parents_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 - P6 Briefing Slides 2024</a>
-</p>
-<p><a href="/files/Parents Briefing Slides/2024/P5_Parents_Briefing_2024_FT.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Form Teacher Briefing Slides 2024</a>
-</p>
-<p><a href="/files/Parents Briefing Slides/2024/P6_Parents_Briefing_2024_FT.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Form Teacher Briefing Slides 2024</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<p></p>
+<p></p>
+<h4></h4>
+<p></p>
+<h4></h4>
 <p></p>
