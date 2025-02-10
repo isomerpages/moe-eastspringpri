@@ -48,7 +48,7 @@ table, th, td {
 <tr>
 	<td>Corporate Support Officer</td>
 	<td>Ms Florence Loh Boon Hoon</td>
-    <td>florence_loh_boon_hoon@schools.gov.sg</td>
+    <td>florence_loh_boon_hoon@moe.edu.sg</td>
 	</tr>
 			<tr>
 	<td>Corporate Support Officer (Adjunct)</td>
