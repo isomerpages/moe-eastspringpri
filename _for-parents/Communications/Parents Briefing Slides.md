@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Communications
 ---
-<h4><strong><u>Primary 1</u></strong></h4>
+<h4><u>P1</u></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025_P1_Orientation_Finance_Admin_Pt1.pdf" rel="noopener noreferrer nofollow" target="_blank">Introduction Slide 2025</a>
