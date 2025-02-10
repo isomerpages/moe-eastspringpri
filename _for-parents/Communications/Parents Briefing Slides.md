@@ -72,10 +72,11 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<h3>2025</h3>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="/files/For Parents/Briefing Slides/Principal_s_Address_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank"><u>Principal's Address</u></a></h4>
+<p><a href="/files/For Parents/Briefing Slides/Principal_s_Address_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
+</p>
 </td>
 </tr>
 <tr>
