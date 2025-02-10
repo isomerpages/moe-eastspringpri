@@ -64,14 +64,6 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<h3><strong>2025</strong></h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <h3>2025</h3>
 </td>
 <td rowspan="1" colspan="1">
