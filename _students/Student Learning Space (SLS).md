@@ -14,7 +14,7 @@ their learning according to their needs and interests.</p>
 <p>What is SLS? Please watch the video below for what explains SLS<strong>.</strong>
 </p>
 <p></p>
-<h4><strong>What is SLS? Please watch the video below for what explains SLS.</strong></h4>
+<h4><strong>What is SLS?</strong></h4>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eKIHRVWxYPI?si=bS7tqMYcwkuBiMHj"></iframe>
@@ -23,8 +23,6 @@ their learning according to their needs and interests.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JZhjECbHmiE?si=C082MzsdhrkEOb16"></iframe>
 </div>
-<p></p>
-<p></p>
 <p><a href="/files/Annexes_to_Letter_to_Parents_002.pdf" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Getting started with SLS</u></a>
 </p>
 <p><a href="https://www.learning.moe.edu.sg/students/frequently-asked-questions/young-overseas-singaporeans/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Frequently Asked Questions for Young Overseas Singaporean</u></a>
@@ -37,10 +35,10 @@ their learning according to their needs and interests.</p>
 <p>Email: <a href="mailto:esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>
 <br>Tel: 6786 6192</p>
 <p></p>
-<p><strong>SLS Password and Technical Support</strong>
+<p><strong>SLS Helpdesk</strong>
 <br><em>Students should contact the SLS Helpdesk for support after school hours.</em>
 <br>
-<br>For details click <a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener nofollow" target="_blank">here</a>
+<br>Technical Support click <a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener nofollow" target="_blank">here</a>
 <br>SLS Helpdesk: 6702 6513
 <br>Email: <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>
 </p>
