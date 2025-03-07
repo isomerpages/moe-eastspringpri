@@ -30,13 +30,17 @@ their learning according to their needs and interests.</p>
 <p><a href="https://www.learning.moe.edu.sg/students/frequently-asked-questions/young-overseas-singaporeans/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Frequently Asked Questions for Young Overseas Singaporean</u></a>
 </p>
 <p></p>
-<h4><strong>School Supporting Hours</strong></h4>
-<p>Please be informed that the password will be reset the next working day
-when request is submitted after the operating hour.</p>
-<p>Normal School Day &amp; School Holiday: 7 a.m. - 3:30 p.m.
+<h4><strong>SLS Support</strong></h4>
+<p><strong>School Operating Hours</strong>
+<br>Normal School Day &amp; School Holiday: 7 a.m. - 3:30 p.m.
 <br>Closed on Public Holiday, Saturday &amp; Sunday.</p>
 <p>Email: <a href="mailto:esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>
 <br>Tel: 6786 6192</p>
 <p></p>
-<p>SLS Technical Support - Click <a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener nofollow" target="_blank">here</a>
+<p><strong>SLS Password and Technical Support</strong>
+<br><em>Students should contact the SLS Helpdesk for support after school hours.</em>
+<br>
+<br>Website click <a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener nofollow" target="_blank">here</a>
+<br>Contact SLS Helpdesk: 6702 6513
+<br>Email: <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a> 
 </p>
