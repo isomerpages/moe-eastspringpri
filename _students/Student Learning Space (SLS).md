@@ -38,5 +38,5 @@ when request is submitted after the operating hour.</p>
 <p>Email: <a href="mailto:esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>
 <br>Tel: 6786 6192</p>
 <p></p>
-<p>SLS Technical Support and Passwords - Click <a href="https://www.learning.moe.edu.sg/students/frequently-asked-questions/technical-support-and-passwords/" rel="noopener nofollow" target="_blank">here</a>
+<p>SLS Technical Support - Click <a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener nofollow" target="_blank">here</a>
 </p>
