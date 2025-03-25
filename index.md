@@ -20,7 +20,6 @@ sections:
       background: /images/Home/Homepage.gif
   - infobar:
       title: Start of Term 2/2025 Letter
-      subtitle: Add informational text
       id: infobar
       button: Click here
       url: /term-letter/
