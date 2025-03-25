@@ -23,20 +23,11 @@ sections:
       id: infobar
       button: Click here
       url: /term-letter/
-  - infopic:
-      title: E’Lights Satellite
-      subtitle: Our latest issue is out!
-      id: infopic
-      description: 5th edition
-      button: read it now
-      url: https://simplebooklet.com/2024sem2elightssatellite05
-      image: /images/Newsletter Cover/Issue_5_2024.png
-      alt: Image alt text
   - infobar:
       title: E'Lights Satellite
       subtitle: Our Newsletters
       id: infobar
-      description: Previous Issues
+      description: Read the latest Issue 5
       button: Get your copy
       url: /e-lights-newsletter/
   - infopic:
