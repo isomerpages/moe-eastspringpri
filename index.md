@@ -52,5 +52,5 @@ sections:
       subtitle: Add informational text
       id: infobar
       button: Click here
-      url: https://www.youtube.com/
+      url: /term-letter/
 ---
