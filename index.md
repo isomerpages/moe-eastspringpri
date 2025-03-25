@@ -18,6 +18,12 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
+  - infobar:
+      title: Start of Term 2/2025 Letter
+      subtitle: Add informational text
+      id: infobar
+      button: Click here
+      url: /term-letter/
   - infopic:
       title: E’Lights Satellite
       subtitle: Our latest issue is out!
@@ -47,10 +53,4 @@ sections:
       url: https://ask.gov.sg/esps
       image: /images/esps-askgov.png
       alt: Image alt text
-  - infobar:
-      title: Start of Term 2/2025 Letter
-      subtitle: Add informational text
-      id: infobar
-      button: Click here
-      url: /term-letter/
 ---
