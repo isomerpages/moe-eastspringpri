@@ -4,15 +4,11 @@ permalink: /parent-support-group-psg/
 variant: tiptap
 description: ""
 ---
-<ol data-tight="true" class="tight">
-<li>
 <p>The <strong>Parent Support Group (PSG)</strong> is a dedicated community
 of parents who are passionate about making a positive impact on the school
 and supporting its mission. Formed by a group of parents eager to contribute
 their time and skills, the PSG plays a vital role in strengthening the
 partnership between the school, students, and families.</p>
-</li>
-</ol>
 <h4><strong>PSG School Committee</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
