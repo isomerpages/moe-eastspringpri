@@ -13,7 +13,7 @@ their time and skills, the PSG plays a vital role in strengthening the
 partnership between the school, students, and families.</p>
 </li>
 </ol>
-<h4><strong>PSG School Committee</strong><br></h4>
+<h4><strong>PSG School Committee</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -176,7 +176,6 @@ partnership between the school, students, and families.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Objectives of the PSG</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -207,20 +206,17 @@ for all. Together, we can nurture and develop your child’s potential.</p>
 <p>We look forward to working hand in hand with you to make this school year
 unforgettable for your child. To join the PSG, simply sign up using the
 QR code below.</p>
-<h4><strong><u>QR Code</u></strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="PSG QRCode" src="/images/For Parents/PSG/PSG_2025QRCode.png">
+<img style="width: 30%;" height="auto" width="100%" alt="PSG QRCode" src="/images/For Parents/PSG/PSG_2025QRCode.png">
 </div>
 <h4><strong>2024/2025 Events and Programmes</strong></h4>
 <p><strong>Recess Activity</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG Activity1" src="/images/For Parents/PSG/PSG_Activity1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="PSG Activity1" src="/images/For Parents/PSG/PSG_Activity1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG Activity2" src="/images/For Parents/PSG/PSG_Activity2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="PSG Activity2" src="/images/For Parents/PSG/PSG_Activity2.jpg">
 </div>
 <p></p>
