@@ -13,12 +13,8 @@ third_nav_title: Assessment Matters
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/For Parents/P4_Assessment_Matters_for_website.pdf" rel="noopener nofollow" target="_blank">P4_Assessment Matters</a>
-</p>
 </th>
 </tr>
 <tr>
