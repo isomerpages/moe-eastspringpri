@@ -11,3 +11,5 @@ third_nav_title: Assessment Matters
 </p>
 <p><a href="/files/For Parents/ESPSPC_2025_030_P3_Term_1_Weighted_Assessment_1_Schedule.pdf" rel="noopener nofollow" target="_blank">P3_Term 1 Weighted Assessment 1 Schedule</a>
 </p>
+<p><a href="/files/For Parents/Term Assessment/ESPSPC_2025_084_P3_Term_2_Weighted_Assessment_2_Schedule.pdf" rel="noopener nofollow" target="_blank">P3 Term 2 Weighted Assessment 2 Schedule</a>
+</p>
