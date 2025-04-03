@@ -40,11 +40,9 @@ third_nav_title: Assessment Matters
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Term 3 <a href="/files/For Parents/Term Assessment/ESPSPC_2025_086_P5_Term_2_Weighted_Assessment_2_Schedule.pdf" rel="noopener nofollow" target="_blank">P5 Term 2 Weighted Assessment 2 Schedule</a>
+</p>
 </td>
 </tr>
 </tbody>
