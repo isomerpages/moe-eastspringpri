@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Assessment Matters
 ---
 <h4><u>2025</u></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -27,7 +26,8 @@ third_nav_title: Assessment Matters
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/For Parents/Term Assessment/ESPSPC_2025_032_P5_Term_1_Weighted_Assessment_1_Schedule.pdf" rel="noopener nofollow" target="_blank">P5 Term 1 Weighted Assessment 1 Schedule</a>
+</p>
 </td>
 </tr>
 <tr>
