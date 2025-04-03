@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Vendors Information.md
       - Assessment Matters/.keep
       - Assessment Matters/Overview Scope of Weighted Assessment.md
       - Assessment Matters/Primary 3.md
