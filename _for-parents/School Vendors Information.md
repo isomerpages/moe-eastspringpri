@@ -12,7 +12,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>School Bus Service</strong></h4>
+<h4>School Bus Service</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -63,7 +63,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>Nascans East Spring Primary Student Care Centre</strong></h4>
+<h4>Nascans East Spring Primary Student Care Centre</h4>
 </th>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>Textbooks &amp; Stationery</strong></h4>
+<h4>Textbooks &amp; Stationery</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -96,8 +96,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Pacific Bookstores Pte Ltd.</strong>
-</p>
+<p>Pacific Bookstores Pte Ltd.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 6559 2269</p>
@@ -151,7 +150,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>School uniforms &amp; Name tags</strong></h4>
+<h4>School uniforms &amp; Name tags</h4>
 </th>
 </tr>
 <tr>
