@@ -63,7 +63,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>NASCANS@East Spring Primary Student Care Centre</h4>
+<h4>NASCANS@East Spring Student Care Centre</h4>
 </th>
 </tr>
 <tr>
@@ -194,6 +194,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Contact</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel: 8940 1244</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operating Hours</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -211,7 +219,7 @@ for your child (if required)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Buddy Clinics that students may go to when ESPS Clinic is closed</p>
+<p>Buddy Clinics that students may go to when ESPS Clinic is closed:</p>
 </td>
 </tr>
 <tr>
@@ -228,6 +236,14 @@ for your child (if required)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 8940 5089</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mobile Dental Clinic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel: 9237 9142</p>
 </td>
 </tr>
 <tr>
