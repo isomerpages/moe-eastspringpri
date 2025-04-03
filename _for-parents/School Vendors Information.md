@@ -36,19 +36,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Contacts</strong>
-</p>
+<p>Contacts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Darren Gan&nbsp; &nbsp;Tel: 9009 1919</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Natalie Gan&nbsp; &nbsp;Tel: 9424 1063</p>
+<p>Darren Gan&nbsp; &nbsp;Tel: 9009 1919
+<br>Natalie Gan&nbsp; &nbsp;Tel: 9424 1063</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +96,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pacific Bookstores Pte Ltd.</p>
+<p><strong>Pacific Bookstores Pte Ltd.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 6559 2269</p>
@@ -112,7 +105,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Opening Hours</strong>
+<p>Opening Hours
 <br>
 </p>
 </td>
@@ -123,8 +116,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Website</strong>
-</p>
+<p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>www.pacificbookstores.com</u></a>
@@ -136,8 +128,107 @@ description: ""
 <p>Booklist for P1-P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.eastspringpri.moe.edu.sg/booklist-2025/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
+<p><a href="/booklist-2025/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>School uniforms &amp; Name tags</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kah Huat Uniform Pte Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel 6479 6811</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Website</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://khuniform.com/" rel="noopener noreferrer nofollow" target="_blank"><u>www.khuniform.com</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4>Dental Clinic</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday &amp; Thursday 8.00 am to 5.30 pm
+<br>Tuesday &amp; Wednesday 8.00 am to 1.00 pm
+<br>Friday - Clinic is closed
+<br>Lunch Hour 1pm - 2pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Clinic operates on alternate weeks. Please call to make an appointment
+for your child (if required)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Buddy Clinics that students may go to when ESPS Clinic is closed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chongzheng Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel: 8940 1137</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Maha Bodhi School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel: 8940 5089</p>
 </td>
 </tr>
 <tr>
