@@ -13,11 +13,8 @@ third_nav_title: Assessment Matters
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Schedule of Weighted Assessment for Primary 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/For Parents/P5_Assessment_Matters_for_website.pdf" rel="noopener nofollow" target="_blank">P5_Assessment Matters</a>
+<td rowspan="1" colspan="2">
+<p><a href="/files/For Parents/P5_Assessment_Matters_for_website.pdf" rel="noopener nofollow" target="_blank">Schedule of Weighted Assessment for Primary 5</a>
 </p>
 </td>
 </tr>
