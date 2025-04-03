@@ -14,7 +14,8 @@ third_nav_title: Assessment Matters
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p></p>
+<p><a href="/files/For Parents/Term Assessment/P4_Assessment_Matters_for_website.pdf" rel="noopener nofollow" target="_blank">Schedule of Weighted Assessment for Primary 4</a>
+</p>
 </th>
 </tr>
 <tr>
