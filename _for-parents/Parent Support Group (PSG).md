@@ -17,12 +17,9 @@ partnership between the school, students, and families.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p><strong>Advisors</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -98,12 +95,9 @@ partnership between the school, students, and families.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p><strong>PSG Executive Committee</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -203,7 +197,7 @@ for all. Together, we can nurture and develop your child’s potential.</p>
 unforgettable for your child. To join the PSG, simply sign up using the
 QR code below.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="PSG QRCode" src="/images/For Parents/PSG/PSG_2025QRCode.png">
+<img style="width: 25%;" height="auto" width="100%" alt="PSG QRCode" src="/images/For Parents/PSG/PSG_2025QRCode.png">
 </div>
 <h4><strong>2024/2025 Events and Programmes</strong></h4>
 <p><strong>Recess Activity</strong>
