@@ -15,8 +15,7 @@ third_nav_title: Assessment Matters
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Schedule of Weighted Assessment for Primary 5</strong>
-</p>
+<p>Schedule of Weighted Assessment for Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/For Parents/P5_Assessment_Matters_for_website.pdf" rel="noopener nofollow" target="_blank">P5_Assessment Matters</a>
@@ -24,13 +23,12 @@ third_nav_title: Assessment Matters
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Term 1</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/For Parents/ESPSPC_2025_032_P5_Term_1_Weighted_Assessment_1_Schedule.pdf" rel="noopener nofollow" target="_blank">P5_Term 1 Weighted Assessment 1 Schedule</a>
-</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
