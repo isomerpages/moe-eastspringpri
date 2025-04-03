@@ -45,9 +45,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Please scan the QR code or click on the link below to the School Bus Registration
-<a href="https://forms.gle/aCqLtjPdPxYhVa667" rel="noopener nofollow" target="_blank">Form</a>
-</p>
+<p>Please scan the QR code or click on the <a href="https://forms.gle/aCqLtjPdPxYhVa667" rel="noopener nofollow" target="_blank">link</a> to complete the School
+Bus Registration Form.</p>
 </td>
 </tr>
 </tbody>
