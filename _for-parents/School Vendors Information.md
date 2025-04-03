@@ -209,10 +209,10 @@ description: ""
 <p>Operating Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday &amp; Thursday 8.00 am to 5.30 pm
-<br>Tuesday &amp; Wednesday 8.00 am to 1.00 pm
-<br>Friday - Clinic is closed
-<br>Lunch Hour 1pm - 2pm</p>
+<p>Monday &amp; Thursday: 8.00 am - 5.30 pm
+<br>Tuesday &amp; Wednesday: 8.00 am - 1.00 pm
+<br>Friday: Closed
+<br>Lunch Hour: 1pm - 2pm</p>
 </td>
 </tr>
 <tr>
