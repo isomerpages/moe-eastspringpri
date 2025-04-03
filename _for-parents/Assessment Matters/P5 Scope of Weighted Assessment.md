@@ -6,8 +6,7 @@ description: ""
 third_nav_title: Assessment Matters
 ---
 <h4><u>2025</u></h4>
-<p><a href="/files/For Parents/P5_Assessment_Matters_for_website.pdf" rel="noopener nofollow" target="_blank">P5_Assessment Matters</a>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -16,10 +15,12 @@ third_nav_title: Assessment Matters
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Schedule of Weighted Assessment for Primary 5</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/For Parents/P5_Assessment_Matters_for_website.pdf" rel="noopener nofollow" target="_blank">P5_Assessment Matters</a>
+</p>
 </td>
 </tr>
 <tr>
