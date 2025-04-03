@@ -86,8 +86,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11-30 am - 12:30 pm
-<br>1:45 pm - 3:00 pm</p>
+<p>11.30 am - 12.30 pm
+<br>1.45 pm - 3.00 pm</p>
 </td>
 </tr>
 <tr>
