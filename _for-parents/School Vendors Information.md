@@ -56,29 +56,6 @@ description: ""
 <img style="width: 25%;" height="auto" width="100%" alt="Bus QRCode" src="/images/School Bus Registration 2023.jpeg">
 </div>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4>NASCANS@East Spring Student Care Centre</h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For enquiries, please email to <a href="mailto:estscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank"><u>estscc@nascans.com</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -180,6 +157,31 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>NASCANS@East Spring Student Care Centre</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For enquiries, please email to <a href="mailto:estscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank"><u>estscc@nascans.com</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
