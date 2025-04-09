@@ -18,18 +18,23 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
-  - infobar:
-      title: Start of Term 2/2025 Letter
-      id: infobar
-      button: Click here
-      url: /term-letter/
-  - infobar:
-      title: E'Lights Satellite
-      subtitle: Our Newsletters
-      id: infobar
-      description: Read the latest Issue 5
-      button: Get your copy
-      url: /e-lights-newsletter/
+  - textcards:
+      title: Latest Updates
+      subtitle: Information
+      id: textcards
+      cards:
+        - title: Start of Term 2/2025 Letter
+          description: ""
+          linktext: Learn more
+          url: /term-letter/
+        - title: Assessment Matters
+          description: Term 2 Updates for P3, P4 & P5
+          linktext: Learn more
+          url: /overview/
+        - title: Newsletters
+          description: Read Our Latest Issue
+          linktext: Click here
+          url: /e-lights-newsletter/
   - infopic:
       title: East Spring Primary Instagram Channel
       button: Click here to Join Us
@@ -43,22 +48,4 @@ sections:
       url: https://ask.gov.sg/esps
       image: /images/esps-askgov.png
       alt: Image alt text
-  - textcards:
-      title: Latest News
-      subtitle: Information
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Start of Term 2/2025 Letter
-          description: ""
-          linktext: Learn more
-          url: /term-letter/
-        - title: Assessment Matters
-          description: Updates for P3 - P5
-          linktext: Learn more
-          url: /overview/
-        - title: Newsletters
-          description: Read Our Latest Issue
-          linktext: Learn more
-          url: /e-lights-newsletter/
 ---
