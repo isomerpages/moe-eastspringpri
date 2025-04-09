@@ -43,4 +43,22 @@ sections:
       url: https://ask.gov.sg/esps
       image: /images/esps-askgov.png
       alt: Image alt text
+  - textcards:
+      title: Latest News
+      subtitle: Information
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Start of Term 2/2025 Letter
+          description: ""
+          linktext: Learn more
+          url: /term-letter/
+        - title: Assessment Matters
+          description: Updates for P3 - P5
+          linktext: Learn more
+          url: Assessment Matters
+        - title: Newsletters
+          description: Latest Issue 5
+          linktext: Learn more
+          url: ""
 ---
