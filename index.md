@@ -56,9 +56,9 @@ sections:
         - title: Assessment Matters
           description: Updates for P3 - P5
           linktext: Learn more
-          url: Assessment Matters
+          url: /overview/
         - title: Newsletters
-          description: Latest Issue 5
+          description: Read Our Latest Issue
           linktext: Learn more
-          url: ""
+          url: /e-lights-newsletter/
 ---
