@@ -33,7 +33,7 @@ sections:
           url: /overview/
         - title: Newsletters
           description: Read Our Latest Issue
-          linktext: Click here
+          linktext: Read here
           url: /e-lights-newsletter/
   - infopic:
       title: East Spring Primary Instagram Channel
