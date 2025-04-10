@@ -20,7 +20,6 @@ sections:
       background: /images/Home/Homepage.gif
   - textcards:
       title: Latest Updates
-      subtitle: Information
       id: textcards
       cards:
         - title: Start of Term 2/2025 Letter
