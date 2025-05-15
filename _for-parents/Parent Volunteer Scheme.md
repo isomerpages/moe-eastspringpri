@@ -13,7 +13,9 @@ whose child will be in Primary 1 in Year 2027, she/he will register during
 P1 Registration Exercise in 2026. &nbsp;She/He will sign up as a Parent
 Volunteer with the school not later than 1 July 2025. Please see the diagram
 below.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PVS Diagram" src="/images/For Parents/PVS/PVS_Diagram.png">
+</div>
 <p>Please refer to the <a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates?pt=2B" rel="noopener noreferrer nofollow" target="_blank">MOE website</a> for
 more information on P1 Registration</p>
 <p>Please click the link <a href="https://go.gov.sg/espsp1pv" rel="noopener noreferrer nofollow" target="_blank">here</a> to sign up as a Parent Volunteer
