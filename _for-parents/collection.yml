@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Parent Volunteer Scheme.md
       - Assessment Matters/.keep
       - Assessment Matters/Overview Scope of Weighted Assessment.md
       - Assessment Matters/Primary 3.md
@@ -18,4 +17,5 @@ collections:
       - Forms/Bilingual Policy Form.md
       - Forms/Other Forms.md
       - School Vendor Information.md
+      - Parent Volunteer Scheme.md
       - Parent Support Group (PSG).md
