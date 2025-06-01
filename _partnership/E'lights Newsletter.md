@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Issue6" src="/images/Newsletter Cover/Elight_Issue_6_template.png">
+</div>
 <p></p><a class="isomer-image-wrapper" href="https://simplebooklet.com/2024sem2elightssatellite05#page=1"><img style="width: 40%;" height="auto" width="100%" alt="Issue 5 (2024)" src="/images/Newsletter Cover/Issue5_2024_.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1rWh-BbrM_8GCuoQVY6JgnbGxydkrdQ8c/view?usp=sharing"><img style="width: 40%;" height="auto" width="100%" alt="Newsletter4_2024" src="/images/Newsletter Cover/Issue_4_2024.png"></a>
 <p></p>
