@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - ECHA Nomination.md
       - E'lights Newsletter.md
       - Partnership.md
       - Assessment Matters/.keep
