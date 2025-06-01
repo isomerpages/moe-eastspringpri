@@ -2,7 +2,7 @@ collections:
   partnership:
     output: true
     order:
-      - Partnership.md
+      - Partnership Overview.md
       - Assessment Matters/.keep
       - Assessment Matters/Overview Scope of Weighted Assessment.md
       - Assessment Matters/Primary 3.md
