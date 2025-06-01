@@ -1,5 +1,4 @@
 collections:
   partnership:
     output: true
-    order:
-      - ECHA Nomination.md
+    order: []
