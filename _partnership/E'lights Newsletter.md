@@ -10,7 +10,7 @@ description: ""
 <img style="width: 40%;" height="auto" width="100%" alt="Issue6" src="/images/Newsletter Cover/Elight_Issue_6_template.png">
 </div>
 <p></p><a class="isomer-image-wrapper" href="https://simplebooklet.com/2024sem2elightssatellite05#page=1"><img style="width: 40%;" height="auto" width="100%" alt="Issue 5 (2024)" src="/images/Newsletter Cover/Issue5_2024_.png"></a>
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1rWh-BbrM_8GCuoQVY6JgnbGxydkrdQ8c/view?usp=sharing"><img style="width: 40%;" height="auto" width="100%" alt="Newsletter4_2024" src="/images/Newsletter Cover/Issue_4_2024.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1DcRP2898gq6fQ10PAiaJwxYusc68g-ZB/view?usp=sharing"><img style="width: 40%;" height="auto" width="100%" alt="Newsletter4_2024" src="/images/Newsletter Cover/Issue_4_2024.png"></a>
 <p></p>
 <h4><u>Archives</u></h4>
 <p><a href="https://drive.google.com/file/d/1IGU4DJhnd10Tcm-ch3MWZmOoNK2xl0xo/view" rel="noopener nofollow" target="_blank">Issue 3 (2023)</a>
