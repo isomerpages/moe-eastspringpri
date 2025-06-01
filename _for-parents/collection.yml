@@ -2,8 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - ECHA Nomination.md
-      - E'lights Newsletter.md
       - Partnership.md
       - Assessment Matters/.keep
       - Assessment Matters/Overview Scope of Weighted Assessment.md
@@ -19,6 +17,8 @@ collections:
       - Forms/MOE Financial Assistance FAS Scheme.md
       - Forms/Bilingual Policy Form.md
       - Forms/Other Forms.md
+      - E'lights Newsletter.md
+      - ECHA Nomination.md
       - School Vendor Information.md
       - Parent Volunteer Scheme.md
       - Parent Support Group (PSG).md
