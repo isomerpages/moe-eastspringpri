@@ -24,7 +24,7 @@ sections:
       id: infopic
       description: Issue 6 2025
       button: Read it now!
-      url: https://simplebooklet.com/elightsattelite006
+      url: /e-lights-newsletter/
       image: /images/Newsletter Cover/Enews.png
       alt: Image alt text
   - infopic:
