@@ -18,22 +18,15 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
-  - textcards:
-      title: Latest Updates
-      id: textcards
-      cards:
-        - title: Start of Term 2/2025 Letter
-          description: ""
-          linktext: Learn more
-          url: /term-letter/
-        - title: Assessment Matters
-          description: Term 2 Updates for P3, P4 & P5
-          linktext: Learn more
-          url: /overview/
-        - title: Newsletters
-          description: Read Our Latest Issue
-          linktext: Read here
-          url: /e-lights-newsletter/
+  - infopic:
+      title: Our latest issue of E'Lights Satellite is out!
+      subtitle: Newsletter
+      id: infopic
+      description: Issue 6 2025
+      button: Read it now!
+      url: /e-lights-newsletter/
+      image: /images/Newsletter Cover/Enews.png
+      alt: Image alt text
   - infopic:
       title: East Spring Primary Instagram Channel
       button: Click here to Join Us

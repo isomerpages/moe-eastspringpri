@@ -425,17 +425,21 @@ table, th, td {
 	  <td>choo_yew_teck@moe.edu.sg</td>
 </tr>
 		<tr>
-		<td>Ms Fadhilah Binte Mohamed Faiz</td>
-	  <td>fadhilah_mohamed_faiz@moe.edu.sg</td>
+		<td>Tan Kai Wei Charmaine (Mrs Leong)</td>
+	  <td>tan_kai_wei_charmaine@moe.edu.sg</td>
 </tr>
 <tr>
-	<td rowspan="2">5N5</td>
+	<td rowspan="3">5N5</td>
 	<td>Mdm Roslinah Binte Junali</td>
 	<td>roslinah_junali@moe.edu.sg</td>
 </tr>
 <tr>
-	<td>Jiang Yanni</td>
+	<td>Mdm Jiang Yanni</td>
 	<td>jiang_yanni@moe.edu.sg</td>
+</tr>
+	<tr>
+	<td>Mdm Vivien Naomi Lee Min (Mrs Yap) </td>
+	<td>vivien_naomi_lee_min@moe.edu.sg</td>
 </tr>
 
 </tbody></table>
