@@ -8,7 +8,7 @@ description: ""
 </p>
 <p><a href="https://edu.google.com/intl/ALL_sg/workspace-for-education/classroom/" rel="noopener nofollow" target="_blank">Google Classroom</a>
 </p>
-<p><a href="https://www.koobits.com/" rel="noopener nofollow" target="_blank">KooBits</a>
+<p><a href="https://member.koobits.com/?utm_source=web_nav&amp;utm_medium=btn&amp;utm_campaign=header&amp;utm_content=login" rel="noopener nofollow" target="_blank">KooBits</a>
 </p>
 <p><a href="https://www.ezhishi.net/Contents/" rel="noopener nofollow" target="_blank">eZhishi</a>
 </p>
