@@ -233,7 +233,7 @@ understanding and boosting their confidence in the subject.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Math Pic5" src="/images/Mathematics/Math_Pic5.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Math Pic5" src="/images/Mathematics/Math_Pic5.png">
 </div>
 <h4>Important Links</h4>
 <ul data-tight="true" class="tight">
@@ -242,7 +242,7 @@ understanding and boosting their confidence in the subject.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/home/examinations/approved-calculators" rel="noopener noreferrer nofollow" target="_blank">Approved Calculator List</a>&nbsp;&nbsp;&nbsp;</p>
+<p><a href="https://file.go.gov.sg/seab-approvedcalculators.pdf" rel="noopener noreferrer nofollow" target="_blank">Approved Calculator List</a>&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
 <p><a href="https://problemsums.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">Koobits</a>
