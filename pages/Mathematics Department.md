@@ -221,10 +221,34 @@ understanding and boosting their confidence in the subject.</p>
 <p>NAFIZ RIFAIE BIN SOFIAN (6G1)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Math Pic5" src="/images/Mathematics/Math_Pic5.png">
+</div>
+<h4>Important Links</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/mathematics_syllabus_primary_1_to_6.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary School Mathematics Syllabus</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.seab.gov.sg/home/examinations/approved-calculators" rel="noopener noreferrer nofollow" target="_blank">Approved Calculator List</a>&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p><a href="https://problemsums.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">Koobits</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
