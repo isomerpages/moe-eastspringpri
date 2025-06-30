@@ -80,7 +80,7 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="3">1S4</td>
-	<td>Mdm Audrey Yow</td>
+	<td>Mdm Yow Ting Ting (Audrey)</td>
 	<td>yow_ting_ting@moe.edu.sg</td>
 	</tr>
 	<tr>
@@ -171,7 +171,7 @@ table, th, td {
 	<td>nurarfah_sudirman@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Linda Tay Mei Hong(Mrs Goh)</td>
+	<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
 	<td>linda_tay_mei_hong@moe.edu.sg</td>
 </tr>
 
@@ -274,7 +274,7 @@ table, th, td {
 	<td>alif_zulhilmi_zakaria@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>Ms Quek Kah Hoon, Jasmin</td>
+	<td>Mdm Quek Kah Hoon (Jasmin)</td>
 	<td>quek_kah_hoon@moe.edu.sg</td>
 </tr>
 		<tr>
@@ -334,7 +334,7 @@ table, th, td {
 	<td>iman_izzati_mohamed_musharraf@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>Ms Ang Bee Ngoh, Angela</td>
+	<td>Mdm Ang Bee Ngoh (Mrs Angela Lee)</td>
 	<td>ang_bee_ngoh@moe.edu.sg</td>
 </tr>
 	<tr><td rowspan="3">4I5</td>
@@ -387,7 +387,7 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="2">5N1</td>
-	<td>Miss Chew Chi Yin</td>
+	<td>Ms Chew Chi Yin</td>
 	<td>chew_chi_yin@moe.edu.sg</td>
 	</tr>
 	<tr>
@@ -410,7 +410,7 @@ table, th, td {
  </tr>
 <tr>
 	<td rowspan="2">5N3</td>
-	<td>Miss Lee Yen Lin, Jenny</td>
+	<td>Miss Lee Yen Lin Jenny</td>
 	<td>lee_yen_lin_jenny@moe.edu.sg</td>
 </tr>
 <tr>
@@ -419,7 +419,7 @@ table, th, td {
 </tr>
 <tr>
 	<td rowspan="3">5N4</td>
-	<td>Mdm Jumaeyah Binte Zainalabidin</td>
+	<td>Mdm Jumaeyah Binte Zainal Abidin</td>
 	<td>jumaeyah_zainaiabidin@moe.edu.sg</td>
 	</tr>
 	<tr>
@@ -490,7 +490,7 @@ table, th, td {
 	<td>ng_hui_peng@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Chui Wenyan, Wendy</td>
+	<td>Mdm Chui Wenyan Wendy</td>
 	<td>chui_wenyan@moe.edu.sg</td>
 </tr>
 <tr>
