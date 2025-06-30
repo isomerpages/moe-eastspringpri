@@ -38,13 +38,17 @@ table, th, td {
 		<th style="width: 40%">Email</th><td>
   </td></tr>
 <tr>
-	<td rowspan="2">1S1</td>
+	<td rowspan="3">1S1</td>
 	<td>Ms Nur Sabrina Binte Harun</td>
 	<td>nur_sabrina_harun@moe.edu.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Peh Poh Li (Mrs Toh)</td>
 	<td>peh_poh_li@moe.edu.sg</td>
+</tr>
+		<tr>
+	<td>Mdm Huang Lin Lin</td>
+	<td>huang_linlin@moe.edu.sg</td>
 </tr>
 <tr>
 	<td rowspan="3">1S2</td>
@@ -60,7 +64,7 @@ table, th, td {
 	<td>chan_yoke_ying_a@moe.edu.sg</td>
 </tr>
 <tr>
-	<td rowspan="2">1S3</td>
+	<td rowspan="3">1S3</td>
 	<td>Ms Ong Lay Ping</td>
 	<td>ong_lay_ping@moe.edu.sg</td>
 	</tr>
@@ -69,6 +73,10 @@ table, th, td {
 	<td>nadirah_baharin@moe.edu.sg</td>
 </tr>
 		<tr>
+	<td>Mdm Ang Wai Ling, Sylvia (Mrs Chua)</td>
+	<td>ang_wai_ling_sylvia@moe.edu.sg</td>
+  </tr>
+		<tr>
 </tr>
 <tr>
 	<td rowspan="3">1S4</td>
@@ -76,12 +84,9 @@ table, th, td {
 	<td>yow_ting_ting@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td> Mrs Karen Ong</td>
+	<td> Ms Ong Lay Hoon Karen</td>
 	<td>ong_lay_hoon_karen_a@moe.edu.sg</td>
-		</tr><tr>
-		<td>Mdm Huang Lin Lin</td>
-	<td>huang_linlin@moe.edu.sg</td>
-</tr>
+		</tr>
 <tr>
 </tr>
 <tr>
@@ -128,7 +133,7 @@ table, th, td {
 		<th style="width: 40%">Email</th><td>
   </td></tr>
 <tr>
-	<td rowspan="2">2P1</td>
+	<td rowspan="3">2P1</td>
 	<td>Mdm Tan Wui Ling (Mrs Lee)</td>
 	<td>tan_wui_ling@moe.edu.sg</td>
 	</tr>
@@ -136,16 +141,15 @@ table, th, td {
 	<td>Mdm Sheikha Fadzlon</td>
 	<td>sheikha_fadzlon_shaik_yakob@moe.edu.sg</td>
 </tr>
+		<tr>
+	<td>Mdm Foo Wei Sze Sandra (Mrs Ong)</td>
+	<td>foo_wei_sze_sandra@moe.edu.sg</td>
+</tr>
 <tr>
-	<td rowspan="3">2P2</td>
-	<td>Mdm Noor Zehan</td>
-	<td>noor_zehan_mohamed_rashid@moe.edu.sg</td>
-	</tr>
-	<tr>
+	<td rowspan="2">2P2</td>
 	<td>Mr Lee Gee Chye</td>
 	<td>lee_gee_chye@moe.edu.sg</td>
-</tr>
-			<tr>
+ </tr><tr>
 	<td>Miss Erlina Binte Ramli</td>
 	<td>erlina_ramli_a@moe.edu.sg</td>
 </tr>
@@ -159,8 +163,7 @@ table, th, td {
 	<td>xu_haiyan@moe.edu.sg</td>
 </tr>
 		<tr>
-	<td>Mdm Rosana Abdul Rahman</td>
-	<td>rosana_abdul_rahman@moe.edu.sg</td>
+
 </tr>
 <tr>
 	<td rowspan="2">2P4</td>
@@ -182,12 +185,11 @@ table, th, td {
 	<td>sitti_maisarah_abu_bakar@moe.edu.sg</td>
  </tr>
 	<tr>
-	<td>Mdm Ang Wai Ling, Sylvia (Mrs Chua)</td>
-	<td>ang_wai_ling_sylvia@moe.edu.sg</td>
+
   </tr>
 <tr>
 	<td rowspan="3">2P6</td>
-	<td>Mdm Noornisha</td>
+	<td>Mdm N N Noornisha</td>
 	<td>n_n_noornisha@moe.edu.sg</td>
 	</tr>
 	<tr>
@@ -251,7 +253,7 @@ table, th, td {
 	<td>yam_hai_seng@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Leanne Seng</td>
+	<td>Mdm Seng Leanne</td>
 	<td>seng_leanne@moe.edu.sg</td>
 </tr>
 <tr>
@@ -264,8 +266,7 @@ table, th, td {
 	<td>au_jian_an_melvin@moe.edu.sg</td>
   </tr>
 		<tr>
-	<td> Mdm Kelly Teo Hwee Keng</td>
-	<td>kelly_teo_hwee_keng@moe.edu.sg</td>
+
   </tr>
   <tr>
 	<td rowspan="3">3R5</td>
@@ -296,22 +297,23 @@ table, th, td {
 	<td>Mr Muhammad Azhari Bin Shahri</td>
 	<td>muhammad_azhari_shahri@moe.edu.sg</td>
 	</tr>
-	<tr>
-	<td>Mrs Leo Teng Hui</td>
-	<td>leo_teng_hui@moe.edu.sg</td>
-</tr>
 		<tr>
-	<td>Mdm Sim, Lynette-Marie</td>
+	<td>Mdm Sim Lynette-Marie (Mrs Chua)</td>
 	<td>sim_lynette-marie@moe.edu.sg</td>
 </tr>
+			<tr>
+	<td>Ms Meng Yuqi</td>
+	<td>meng_yuqi@moe.edu.sg</td>
+</tr>
+	
 <tr>
 	<td rowspan="3">4I2</td>
 	<td>Mdm Smita Quintal Kaur</td>
 	<td>smita_quintal_kaur@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>Mr Lam Yew Sung</td>
-	<td>lam_yew_sung@moe.edu.sg</td>
+	<td>Miss Lim Zhi Qing May</td>
+	<td>lim_zhi_qing_may@moe.edu.sg</td>
 </tr>
 		<tr>
 	<td>Mr Nathaniel Tan Wei Oon</td>
@@ -343,9 +345,9 @@ table, th, td {
 		<td>Mr Siew Nai Min</td>
 	  <td>siew_nai_min@moe.edu.sg</td>
    </tr>
-		<tr><td>Mdm Nur Fithriah Binte Anas</td>
-	<td>nur_fithriah_anas@moe.edu.sg</td>
-	</tr><tr><td rowspan="3">4I6</td>
+		<tr>
+	</tr><tr>
+	<td rowspan="3">4I6</td>
 	<td>Mdm Tan Siew Lay, Shirley (Mrs Lim)</td>
 	<td>tan_siew_lay_shirley@moe.edu.sg</td>
 	</tr>
@@ -412,7 +414,7 @@ table, th, td {
 	<td>lee_yen_lin_jenny@moe.edu.sg</td>
 </tr>
 <tr>
-	<td>Mrs Gloria Lim Wei</td>
+	<td>Mdm Gloria Lim Wei (Mrs Jones)</td>
 	<td>gloria_lim_wei@moe.edu.sg</td>
 </tr>
 <tr>
