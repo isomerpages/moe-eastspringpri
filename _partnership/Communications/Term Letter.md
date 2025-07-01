@@ -9,3 +9,5 @@ third_nav_title: Communications
 </p>
 <p>Start of Term 2/2025 Letter click <a href="/files/For Parents/ESPSPC_2025_076_Start_of_Term_2_2025.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
+<p>Start of Term 3/2025 Letter click <a href="/files/For Parents/ESPSPC_2025_126_Start_of_Term_3_2025.pdf" rel="noopener nofollow" target="_blank">here</a>
+</p>
