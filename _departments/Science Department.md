@@ -28,3 +28,44 @@ through exploration and educational play.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="Farm" src="/images/Departments/Science/LJFarm.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="TLE" src="/images/Departments/Science/LJSC.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="SciInv" src="/images/Departments/Science/SciInv.png">
+</div>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Science Teaching Around STELLAR (STarS) for Primary 1 and 2</strong>
+</p>
+<p>Science teaching is infused into STELLAR lesson through STarS to enable
+younger students at P1 and P2 to experience science at an earlier age.
+For example, students read the story “A butterfly is born” and observe
+the life cycle of a real butterfly provided for each group. Students have
+an opportunity to observe how the caterpillars develop into butterflies.
+In caring for these caterpillars, students learn the importance of food
+to these living things. When these caterpillars emerge as butterflies,
+students have the joy to release them back to the nature to allow the life-cycle
+to continue.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Moth" src="/images/Departments/Science/Moth.png">
+</div>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>ESPS Every child a seed</strong> (<em>in partnership with NParks</em>)</p>
+<p>Through this programme, the Primary 3 students are each given a plant
+starter kit from NParks. These kits allow each student to grow seedlings
+on their own to learn about the life cycle of plants and the parts of a
+plant. Students can transfer their seedlings and continue to nurture them
+in the school allocated garden plots to extend their learning and be responsible
+and caring individuals.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sci1" src="/images/Departments/Science/Sci1.png">
+</div>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>E2k Programme (P4 &amp; P5)</strong>
+</p>
+<p>Selected students who demonstrate interest and ability in Science will
+be introduced to E2k &nbsp;enrichment programme that include scientific
+investigations and given opportunities to develop critical and inventive
+thinking and effective communication skills.</p>
+<p></p>
+<p></p>
