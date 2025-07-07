@@ -24,3 +24,7 @@ through exploration and educational play.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="Zoo" src="/images/Departments/Science/LJZoo.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Farm" src="/images/Departments/Science/LJFarm.png">
+</div>
+<p></p>
