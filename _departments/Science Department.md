@@ -68,4 +68,7 @@ be introduced to E2k &nbsp;enrichment programme that include scientific
 investigations and given opportunities to develop critical and inventive
 thinking and effective communication skills.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Sci2" src="/images/Departments/Science/Sci2.png">
+</div>
 <p></p>
