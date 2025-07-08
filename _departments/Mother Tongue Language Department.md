@@ -71,8 +71,7 @@ rich cultural experiences and amazing opportunities in Singapore and beyond.</p>
 it's through storytelling sessions, cultural festivals, or digital learning
 activities, your child will develop a natural love for their Mother Tongue
 that stays with them for life.</p>
-<p>&nbsp;</p>
-<p><strong>Higher Mother Tongue Programme</strong>
+<p>&nbsp;<strong>Higher Mother Tongue Programme</strong>
 </p>
 <p>Higher Chinese Language (P3-P6), Higher Malay and Tamil Language (P5-P6)</p>
 <p>For students who show strong language abilities, our HMTL programme offers:</p>
@@ -90,7 +89,6 @@ that stays with them for life.</p>
 <p>Leadership opportunities in language-related projects</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Support Programme for MTL learners (P3- P4)</strong>
 </p>
 <p>We provide targeted support through:</p>
@@ -113,7 +111,7 @@ but also the confidence and capabilities needed for today's interconnected
 world.</p>
 <p><strong>Programmes Highlights</strong>
 </p>
-<p>•	<strong>Celebrating Our Cultural Heritage</strong>
+<p>• <strong>Celebrating Our Cultural Heritage</strong>
 </p>
 <p>Every year, our MTL Fortnight and Cultural camp turn learning into an
 adventure! Throughout their six years with us, the students will discover
@@ -132,10 +130,26 @@ years. At East Spring, we believe every cultural moment is a stepping stone
 to becoming a confident bilingual learner!</p>
 <p><strong>A Cultural Journey Like No Other!</strong>
 </p>
-<p><strong>Discovering Chinese Heritage </strong>
+<p><strong>Discovering Chinese Heritage</strong>
 </p>
 <p>From crafting Ang Ku Kueh in Primary 1 to savouring Chinese tea in Primary
 6, our students experience the richness of Chinese culture through age-appropriate
 activities. Each year unveils new adventures - from energetic Wushu and
 creative bean art to rhythmic drumming and dramatic Chinese Opera. It's
 where tradition meets fun, making Chinese language and culture come alive!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL1" src="/images/Departments/MTL/MTL1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL2" src="/images/Departments/MTL/MTL2.png">
+</div>
+<p><strong>Journey Through Malay Culture</strong>
+</p>
+<p>From sharing a traditional Nasi Ambeng feast in Primary 1 to creating
+melodious angklung music in Primary 6, our students experience the richness
+of Malay culture through engaging activities. Each year brings new discoveries
+- from the graceful movements of Silat to the artistic expression of Batik,
+from the lively rhythms of Dikir Barat to the enchanting stories of Wayang
+Kulit. Here's where tradition meets joy in learning!</p>
