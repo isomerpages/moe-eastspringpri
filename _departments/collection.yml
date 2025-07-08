@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue Language Department.md
       - Science Department.md
       - Student Development Team/.keep
       - Student Development Team/SDT Overview.md
