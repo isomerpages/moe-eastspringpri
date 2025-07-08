@@ -153,3 +153,85 @@ of Malay culture through engaging activities. Each year brings new discoveries
 - from the graceful movements of Silat to the artistic expression of Batik,
 from the lively rhythms of Dikir Barat to the enchanting stories of Wayang
 Kulit. Here's where tradition meets joy in learning!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL3" src="/images/Departments/MTL/MTL3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL4" src="/images/Departments/MTL/MTL4.png">
+</div>
+<p><strong>Celebrating Indian Traditions</strong>
+</p>
+<p>From the joyful rhythms of Kolattam dance in the early years to the dynamic
+movements of Silambattam in upper primary, our students experience the
+richness of Indian heritage through engaging activities. Whether it's dancing
+to traditional beats, crafting beautiful baskets, or mastering martial
+arts, each experience brings Indian culture and language to life in meaningful
+ways!&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL5" src="/images/Departments/MTL/MTL5.png">
+</div>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Bringing Heritage to Life: Our MTL Cultural Wall</strong>
+</p>
+<p>Step into a world of tradition at our vibrant MTL Cultural Wall! This
+interactive space features charming 3D replicas of traditional shophouses
+- a glimpse into the shared heritage of our Chinese, Malay and Indian communities.
+This interactive space showcases our students' work and encourages them
+to share their cultural discoveries, making it a vibrant hub where tradition
+meets modern learning!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL6" src="/images/Departments/MTL/MTL6.png">
+</div>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Learning Without Walls: Our MTL Outdoor Adventures</strong>
+</p>
+<p>MTL learning comes alive beyond our classroom walls! Our department believes
+that language learning happens everywhere - in our neighbourhoods, gardens,
+and even at the zoo. Through carefully designed outdoor experiences, our
+students discover how Mother Tongue Languages connect to their daily lives.</p>
+<p>Our exciting outdoor programme includes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 1: Exploring My Neighbourhood</p>
+</li>
+</ul>
+<p>Students use their language skills to discover and describe their community
+surroundings</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 2: Growing at My Vegetable Farm</p>
+</li>
+</ul>
+<p>Hands-on gardening experiences teach students new vocabulary while nurturing
+green thumbs</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary 3: Adventures at Singapore Zoo</p>
+</li>
+</ul>
+<p>Students learn to describe animals and their habitats in their Mother
+Tongue</p>
+<p>During these outdoor lessons, our students:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Work together to solve real-world challenges</p>
+</li>
+<li>
+<p>Practice map-reading and navigation skills</p>
+</li>
+<li>
+<p>Make decisions as a team</p>
+</li>
+<li>
+<p>Apply language skills in authentic situations</p>
+</li>
+<li>
+<p>Connect textbook learning to real-life experiences</p>
+</li>
+</ul>
+<p>These meaningful outdoor adventures show our students that Mother Tongue
+Languages are living languages, vital and valuable in our everyday world.
+Through these experiences, they discover that learning opportunities are
+everywhere!</p>
