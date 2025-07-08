@@ -104,5 +104,38 @@ that stays with them for life.</p>
 <li>
 <p>Practical language applications</p>
 </li>
+<li>
+<p>Building strong speaking and reading foundations</p>
+</li>
 </ul>
-<p></p>
+<p>Through these programmes, our students develop not just language skills,
+but also the confidence and capabilities needed for today's interconnected
+world.</p>
+<p><strong>Programmes Highlights</strong>
+</p>
+<p>•	<strong>Celebrating Our Cultural Heritage</strong>
+</p>
+<p>Every year, our MTL Fortnight and Cultural camp turn learning into an
+adventure! Throughout their six years with us, the students will discover
+their heritage through fun activities like making traditional snacks, playing
+cultural games, and joining festive performances. It's where culture comes
+alive and Mother Tongue becomes a joy to learn!</p>
+<p>During this special programmes, students:</p>
+<p>• Discover traditional delicacies and their cultural significance</p>
+<p>• Experience customs through hands-on activities</p>
+<p>• Learn traditional arts and crafts</p>
+<p>• Participate in cultural performances</p>
+<p>• Explore heritage through interactive games</p>
+<p>These joyful experiences create lasting memories and a natural love for
+their Mother Tongue that stays with them long after their primary school
+years. At East Spring, we believe every cultural moment is a stepping stone
+to becoming a confident bilingual learner!</p>
+<p><strong>A Cultural Journey Like No Other!</strong>
+</p>
+<p><strong>Discovering Chinese Heritage </strong>
+</p>
+<p>From crafting Ang Ku Kueh in Primary 1 to savouring Chinese tea in Primary
+6, our students experience the richness of Chinese culture through age-appropriate
+activities. Each year unveils new adventures - from energetic Wushu and
+creative bean art to rhythmic drumming and dramatic Chinese Opera. It's
+where tradition meets fun, making Chinese language and culture come alive!</p>
