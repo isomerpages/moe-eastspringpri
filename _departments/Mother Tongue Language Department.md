@@ -47,8 +47,7 @@ description: ""
 who are confident users of their Mother Tongue Languages. Our programme
 develops your child's ability to think critically, communicate effectively,
 and connect globally.</p>
-<p><strong>Core Programme- Making MTL Comes Alive</strong>
-</p>
+<h4><strong>Core Programme- Making MTL Comes Alive</strong></h4>
 <p>At East Spring Primary School, we make learning Mother Tongue Languages
 exciting and meaningful for our students! Being bilingual opens doors to
 rich cultural experiences and amazing opportunities in Singapore and beyond.</p>
@@ -119,17 +118,16 @@ their heritage through fun activities like making traditional snacks, playing
 cultural games, and joining festive performances. It's where culture comes
 alive and Mother Tongue becomes a joy to learn!</p>
 <p>During this special programmes, students:</p>
-<p>• Discover traditional delicacies and their cultural significance</p>
-<p>• Experience customs through hands-on activities</p>
-<p>• Learn traditional arts and crafts</p>
-<p>• Participate in cultural performances</p>
-<p>• Explore heritage through interactive games</p>
+<p>• Discover traditional delicacies and their cultural significance
+<br>• Experience customs through hands-on activities
+<br>• Learn traditional arts and crafts
+<br>• Participate in cultural performances
+<br>• Explore heritage through interactive games</p>
 <p>These joyful experiences create lasting memories and a natural love for
 their Mother Tongue that stays with them long after their primary school
 years. At East Spring, we believe every cultural moment is a stepping stone
 to becoming a confident bilingual learner!</p>
-<p><strong>A Cultural Journey Like No Other!</strong>
-</p>
+<h4><strong>A Cultural Journey Like No Other!</strong></h4>
 <p><strong>Discovering Chinese Heritage</strong>
 </p>
 <p>From crafting Ang Ku Kueh in Primary 1 to savouring Chinese tea in Primary
@@ -139,11 +137,11 @@ creative bean art to rhythmic drumming and dramatic Chinese Opera. It's
 where tradition meets fun, making Chinese language and culture come alive!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTL1" src="/images/Departments/MTL/MTL1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="MTL1" src="/images/Departments/MTL/MTL1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTL2" src="/images/Departments/MTL/MTL2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="MTL2" src="/images/Departments/MTL/MTL2.png">
 </div>
 <p><strong>Journey Through Malay Culture</strong>
 </p>
@@ -153,13 +151,12 @@ of Malay culture through engaging activities. Each year brings new discoveries
 - from the graceful movements of Silat to the artistic expression of Batik,
 from the lively rhythms of Dikir Barat to the enchanting stories of Wayang
 Kulit. Here's where tradition meets joy in learning!</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTL3" src="/images/Departments/MTL/MTL3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="MTL3" src="/images/Departments/MTL/MTL3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTL4" src="/images/Departments/MTL/MTL4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="MTL4" src="/images/Departments/MTL/MTL4.png">
 </div>
 <p><strong>Celebrating Indian Traditions</strong>
 </p>
@@ -169,9 +166,8 @@ richness of Indian heritage through engaging activities. Whether it's dancing
 to traditional beats, crafting beautiful baskets, or mastering martial
 arts, each experience brings Indian culture and language to life in meaningful
 ways!&nbsp;&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTL5" src="/images/Departments/MTL/MTL5.png">
+<img style="width: 80%;" height="auto" width="100%" alt="MTL5" src="/images/Departments/MTL/MTL5.png">
 </div>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Bringing Heritage to Life: Our MTL Cultural Wall</strong>
 </p>
@@ -182,7 +178,7 @@ This interactive space showcases our students' work and encourages them
 to share their cultural discoveries, making it a vibrant hub where tradition
 meets modern learning!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTL6" src="/images/Departments/MTL/MTL6.png">
+<img style="width: 80%;" height="auto" width="100%" alt="MTL6" src="/images/Departments/MTL/MTL6.png">
 </div>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Learning Without Walls: Our MTL Outdoor Adventures</strong>
 </p>
@@ -234,9 +230,15 @@ Tongue</p>
 Languages are living languages, vital and valuable in our everyday world.
 Through these experiences, they discover that learning opportunities are
 everywhere!</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Primary One – Exploring My Neighbourhood</strong>
 </p>
-<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="MTL7" src="/images/Departments/MTL/MTL7.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Primary Two – Growing at My Vegetable Farm</strong>
@@ -244,16 +246,15 @@ everywhere!</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTL8" src="/images/Departments/MTL/MTL8.png">
+<img style="width: 80%;" height="auto" width="100%" alt="MTL8" src="/images/Departments/MTL/MTL8.png">
 </div>
 <p><strong>Primary Three – Adventures at Singapore Zoo</strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTL9" src="/images/Departments/MTL/MTL9.png">
+<img style="width: 80%;" height="auto" width="100%" alt="MTL9" src="/images/Departments/MTL/MTL9.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTL10" src="/images/Departments/MTL/MTL10.png">
+<img style="width: 80%;" height="auto" width="100%" alt="MTL10" src="/images/Departments/MTL/MTL10.png">
 </div>
 <p></p>
