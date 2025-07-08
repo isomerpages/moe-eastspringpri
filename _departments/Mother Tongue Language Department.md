@@ -181,7 +181,6 @@ interactive space features charming 3D replicas of traditional shophouses
 This interactive space showcases our students' work and encourages them
 to share their cultural discoveries, making it a vibrant hub where tradition
 meets modern learning!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MTL6" src="/images/Departments/MTL/MTL6.png">
 </div>
@@ -235,3 +234,26 @@ Tongue</p>
 Languages are living languages, vital and valuable in our everyday world.
 Through these experiences, they discover that learning opportunities are
 everywhere!</p>
+<p><strong>Primary One – Exploring My Neighbourhood</strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Primary Two – Growing at My Vegetable Farm</strong>
+</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL8" src="/images/Departments/MTL/MTL8.png">
+</div>
+<p><strong>Primary Three – Adventures at Singapore Zoo</strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL9" src="/images/Departments/MTL/MTL9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL10" src="/images/Departments/MTL/MTL10.png">
+</div>
+<p></p>
