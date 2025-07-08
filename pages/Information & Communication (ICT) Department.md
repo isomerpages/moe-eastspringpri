@@ -13,14 +13,18 @@ for learning. In East Spring, our students will be involved in Learning
 Trails around the school compound. Outdoor learning is now made more fun
 and engaging for the students.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="ICT1" src="/images/Departments/ICT/ICT1.png">
+</div>
 <p>Students taking part in outdoor lesson using iPads</p>
 <p>• Digital Art &amp; Digital Music</p>
 <p>Our students experienced music and art digitally. During Art and Music
 lessons, students make use of Garage Band as they create beautiful music
 pieces and work on the Wacom Bamboo tablets to create their Manga Art.
 There is no better way to draw, paint or just simply doodle with the tablets.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="ICT2" src="/images/Departments/ICT/ICT2.png">
+</div>
 <p>Students creating music using Garageband App</p>
 <p>• Applied Learning Programme (ALP)</p>
 <p>ALP at ESPS is to provide opportunities for all to deepen 21st century
@@ -30,6 +34,9 @@ of our ALP are to help our students to acquire various ICT skills and computatio
 thinking skills through coding and apply these skills to solve real-world
 problems.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="ICT3" src="/images/Departments/ICT/ICT3.png">
+</div>
 <p>Students engaged in ALP lessons</p>
 <p>• Cyber Wellness @ ESPS</p>
 <p>Cyber Wellness refers to the positive well-being of Internet users. It
@@ -39,3 +46,8 @@ dangers. Cyber Wellness @ ESPS aims to look at the positive well-being
 and developing a healthy cyber culture amongst our pupils, aligned to MOE’s
 Cyber Wellness Framework.</p>
 <p>The Cyber Wellness Curriculum @ ESPS is as follows:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="ICT4" src="/images/Departments/ICT/ICT4.png">
+</div>
+<p></p>
