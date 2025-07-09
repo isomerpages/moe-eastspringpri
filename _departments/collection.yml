@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Physical Education (PE) Department.md
       - Student Development Team/.keep
       - Student Development Team/SDT Overview.md
       - Student Development Team/Peer Support.md
@@ -14,6 +13,7 @@ collections:
       - Mathematics Department.md
       - Science Department.md
       - Mother Tongue Language Department.md
+      - Physical Education (PE) Department.md
       - Physical Education & Co Curriculum Activities (PE,CCA) Dept.md
       - Aesthetic Department.md
       - Character & Citizenship Education (CCE).md
