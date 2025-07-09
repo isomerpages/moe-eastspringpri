@@ -135,11 +135,9 @@ to becoming a confident bilingual learner!</p>
 activities. Each year unveils new adventures - from energetic Wushu and
 creative bean art to rhythmic drumming and dramatic Chinese Opera. It's
 where tradition meets fun, making Chinese language and culture come alive!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="MTL1" src="/images/Departments/MTL/MTL1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="MTL2" src="/images/Departments/MTL/MTL2.png">
 </div>
@@ -170,8 +168,7 @@ ways!&nbsp;&nbsp;</p>
 <img style="width: 80%;" height="auto" width="100%" alt="MTL5" src="/images/Departments/MTL/MTL5.png">
 </div>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Bringing Heritage to Life: Our MTL Cultural Wall</strong>
-</p>
-<p>Step into a world of tradition at our vibrant MTL Cultural Wall! This
+<br>Step into a world of tradition at our vibrant MTL Cultural Wall! This
 interactive space features charming 3D replicas of traditional shophouses
 - a glimpse into the shared heritage of our Chinese, Malay and Indian communities.
 This interactive space showcases our students' work and encourages them
@@ -239,6 +236,7 @@ everywhere!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="MTL7" src="/images/Departments/MTL/MTL7.png">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Primary Two – Growing at My Vegetable Farm</strong>
