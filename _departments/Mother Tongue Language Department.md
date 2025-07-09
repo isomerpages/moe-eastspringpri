@@ -22,8 +22,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Confident and effective Mother Tongue speakers</strong>
-</p>
+<p>Confident and effective Mother Tongue speakers</p>
 </td>
 </tr>
 <tr>
@@ -32,8 +31,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Create a conducive environment for students to attain mastery of the Mother Tongue language and appreciate their culture</strong>
-</p>
+<p>Create a conducive environment for students to attain mastery of the Mother
+Tongue language and appreciate their culture</p>
 </td>
 </tr>
 <tr>
