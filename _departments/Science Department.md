@@ -71,7 +71,16 @@ thinking and effective communication skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="Sci2" src="/images/Departments/Science/Sci2.png">
 </div>
-<p></p>
-<p></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Young Science Badge Scheme</strong>
+</p>
+<p>To enhance Science learning in and out of the classroom, Young Scientist
+Badge Scheme (YSBS) is now sponsored by MOE for all Primary 3 to Primary
+6 students. Students may explore these badges through the Young Scientist
+site or through the Student Learning Space (SLS). To better guide our students,
+we have assigned the following cards to the respective levels.</p>
+<p>P3: I am a Young Zoologist
+<br>P4: I am a Young Physicist</p>
+<p>* Students who wished to complete more cards after completing the above
+tasks are free to do so.</p>
 <p></p>
 <p></p>
