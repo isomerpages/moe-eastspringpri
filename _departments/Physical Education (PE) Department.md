@@ -72,14 +72,12 @@ and outdoor activities.</p>
 <p><strong>Healthy Lifestyle Practices</strong>
 <br>Students have a personal commitment to healthy lifestyle practices in
 physical activity, nutrition, sleep, outdoor time and hygiene.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="PE2" src="/images/Departments/PE/PE2.png">
 </div>
 <p><strong>Safety Mindset</strong>
 <br>Students apply risk assessment to manage daily and physical activities
 with respect to self, others and the environment.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="PE3" src="/images/Departments/PE/PE3.png">
 </div>
@@ -92,7 +90,6 @@ behaviour and social interactions based on sound values-based judgements.</p>
 <p><strong>Enjoyment</strong>
 <br>Students enjoy and value physical activities and healthy living in a sustainable
 way</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="PE5" src="/images/Departments/PE/PE5.png">
 </div>
