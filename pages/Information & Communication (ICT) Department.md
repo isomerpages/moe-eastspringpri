@@ -16,7 +16,6 @@ and engaging for the students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="ICT1" src="/images/Departments/ICT/ICT1.png">
 </div>
-<p>Students taking part in outdoor lesson using iPads</p>
 <p>• Digital Art &amp; Digital Music</p>
 <p>Our students experienced music and art digitally. During Art and Music
 lessons, students make use of Garage Band as they create beautiful music
@@ -37,8 +36,8 @@ problems.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="ICT3" src="/images/Departments/ICT/ICT3.png">
 </div>
-<p>Students engaged in ALP lessons</p>
-<p>• Cyber Wellness @ ESPS</p>
+<p>• <strong>Cyber Wellness @ ESPS</strong>
+</p>
 <p>Cyber Wellness refers to the positive well-being of Internet users. It
 involves an understanding of the dangers of harmful online behaviours,
 an awareness of how to protect yourself and other Internet users from such
@@ -47,7 +46,8 @@ and developing a healthy cyber culture amongst our pupils, aligned to MOE’s
 Cyber Wellness Framework.</p>
 <p>The Cyber Wellness Curriculum @ ESPS is as follows:</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="ICT4" src="/images/Departments/ICT/ICT4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="ICT5" src="/images/Departments/ICT/ICT5.png">
 </div>
 <p></p>
