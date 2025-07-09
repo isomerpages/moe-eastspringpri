@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Sports & Games/Volleyball.md
       - Sports & Games/Football.md
       - Sports & Games/Sports Club.md
       - Sports & Games/Wushu.md
