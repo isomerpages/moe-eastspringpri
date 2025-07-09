@@ -83,4 +83,7 @@ we have assigned the following cards to the respective levels.</p>
 <p>* Students who wished to complete more cards after completing the above
 tasks are free to do so.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Sci3" src="/images/Departments/Science/Sci3.png">
+</div>
 <p></p>
