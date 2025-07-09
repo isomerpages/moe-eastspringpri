@@ -12,14 +12,24 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p><strong>Vision:</strong>
 </p>
 </th>
-<th rowspan="1" colspan="2">
-<p><strong>Laying a Strong Foundation for Mathematics</strong>
-</p>
-</th>
+<td rowspan="1" colspan="2">
+<p>Laying a Strong Foundation for Mathematics</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -27,8 +37,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>To develop effective and reflective problem solvers who develop joy and love for Mathematics</strong>
-</p>
+<p>To develop effective and reflective problem solvers who develop joy and
+love for Mathematics</p>
 </td>
 </tr>
 <tr>
