@@ -19,6 +19,7 @@ Secondary School for Direct School Admission.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Volleyball" src="/images/CCA/CCA1.png">
 </div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
