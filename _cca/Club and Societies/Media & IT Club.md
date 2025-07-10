@@ -1,61 +1,88 @@
 ---
 title: Media & IT Club
-permalink: /cca/Club-and-Societies/Media-and-IT-Club/
+permalink: /media-it-club/
+variant: tiptap
 description: ""
 third_nav_title: Club and Societies
-variant: markdown
 ---
-<style>
-table {
-  border-collapse: collapse;
-  border: 1px solid black;
-} 
-
-th,td {
-  border: 1px solid black;
-}
-table.c {
-  table-layout: auto;
-  width: 100%;  
-}
-	</style>
-<img src="/images/mit1.jpeg" style="width:50%;float:right">
-		 
-Media &amp; IT Club was formed in 2012. It exposes students to various learning experiences like Photography, Videography, Coding and AVA. The objectives are:
-
-*   To equip students with the skills and knowledge of ICT and digital media.
-*   To provide students with the opportunities to learn various technical aspects of handling AV equipment and their functions.
-*   To develop students’ leadership skills and empower them to take charge and be in the forefront of capturing school events and other activities.
-*   To seek opportunities for students to apply their skills and showcase their talents.
-<br>
-<table class="c">
-  <tbody><tr>
-    <th>Teacher-in-charge:</th>
-    <td>Mdm Nur Fa'izah <br>Mr Mohamed Abdul Rauf</td>
-  </tr>
-  <tr>
-    <th>Training day/time:</th>
-    <td>Wednesday, 2.15 p.m - 4.15 p.m.</td>
-  </tr>
-  <tr>
-    <th>Venue:</th>
-    <td>Computer Lab 2 &amp; 3</td>
-  </tr>
-</tbody></table>
-
-
-Achievements
-------------
-
-*   Drone Odyssey Challenge 2019 – Certificate of Participation
-*   National Primary School Photography Competition 2016. Nur Syifaa Alya Bte Azim (6G1) - Champion
-*   National Primary School Photography Competition — 'Nature Through Our Lens'
-    *   Jonathan Koh Ee Bing (6G3) - Second Runner-up
-    *   Gregory Tiong Jun Yan (6G8) - Merit Prize
-    *   Chew Jing Hao (6G2) - Merit Prize
-
-![](/images/media2.png)
-
-*   National Photography Festival (24 March 2012) - Consolation Prize
-
-![](/images/media3.png)
+<p>Media &amp; IT Club was formed in 2012. It exposes students to various
+learning experiences like Photography, Videography, Coding and AVA. The
+objectives are:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To equip students with the skills and knowledge of ICT and digital media.</p>
+</li>
+<li>
+<p>To provide students with the opportunities to learn various technical
+aspects of handling AV equipment and their functions.</p>
+</li>
+<li>
+<p>To develop students’ leadership skills and empower them to take charge
+and be in the forefront of capturing school events and other activities.</p>
+</li>
+<li>
+<p>To seek opportunities for students to apply their skills and showcase
+their talents.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Media" src="/images/CCA/CCA11.png">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher-in-charge:</p>
+</th>
+<td rowspan="1" colspan="2">
+<p>Mdm Nur Fa'izah
+<br>Mr Mohamed Abdul Rauf</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training day/time:</p>
+</th>
+<td rowspan="1" colspan="2">
+<p>Wednesday, 2.15 p.m - 4.15 p.m.</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Venue:</p>
+</th>
+<td rowspan="1" colspan="2">
+<p>Computer Lab 2 &amp; 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

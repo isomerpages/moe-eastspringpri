@@ -213,6 +213,20 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>CCE(FTGP) THEME</strong>
 </p>
 </td>
@@ -226,8 +240,7 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -290,6 +303,20 @@ and how to seek help for themselves and their friends.</p>
 <p>Term 4 Week 3</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>&nbsp;</strong>
@@ -307,6 +334,20 @@ and how to seek help for themselves and their friends.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>CCE(FTGP) THEME</strong>
 </p>
 </td>
@@ -320,8 +361,7 @@ and how to seek help for themselves and their friends.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -364,10 +404,23 @@ and learn to behave maturely towards each other.</p>
 <p>Term 1 Week 2</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong><br></strong>
-</p>
+<p></p>
 <p><strong>Information For Parents</strong> 
 <br>
 </p>

@@ -1,83 +1,77 @@
 ---
 title: Sports Club
-permalink: /cca/Sports-and-Games/Sports-Club/
+permalink: /sports-club/
+variant: tiptap
 description: ""
 third_nav_title: Sports & Games
-variant: markdown
 ---
-<style>
-table {
-  border-collapse: collapse;
-  border: 1px solid black;
-} 
-
-th,td {
-  border: 1px solid black;
-}
-	table.c {
-  table-layout: auto;
-  width: 100%;  
-}
-</style>
-
-
-	
-The Sports Club was set up since 2011. The objectives of Sports Club:
-
-*   To introduce various courts games including badminton, basketball, tchoukball and floorball skills and develop pupils' psychomotor skills.
-*   To scout and send selected pupils for external competitions.
-
-Members are given the opportunity to participate in annual external competitions whereby our members have been talent-scouted by secondary schools.
-<table class="c">
-  <tbody><tr>
-    <th>Teacher-in-charge:</th>
-    <td>Mr Lee Gee Chye <br> Mdm Shazwani Binte Mustaffa</td>
-  </tr>
-  <tr>
-    <th>Training day/time:</th>
-    <td>Wednesday, 2.15 p.m. - 4.15 p.m.</td>
-  </tr>
-  <tr>
-    <th>Venue:</th>
-    <td>Indoor Sports Hall/Parade Square</td>
-  </tr>
-
-</tbody></table>
-
-![](/images/sportsclub2.png)
-
-Achievements
-------------
-
-*   **National Primary School (Seniors) Tchoukball Championships 2015**
-
-*   Senior Girls — Bronze
-
-*   **55th National Primary Schools Track and Field Championships**
-    *   B Boys — 100m
-    *   B Boys — 4 x 100m
-    *   B Girls — 100m
-    *   B Girls — 4 x 100m
-    *   C Boys — 100m
-    *   C Boys — 4 x 100m
-    *   C Girls — 100m
-    *   D Boys — 100m
-    *   D Girls — 100m
-    *   D Girls — 4 x 100m
-*   **53rd National Inter-Primary School Track &amp; Field Championships 2012 — 9-19 April 2012**
-    *   C-Boys: 4 X 100 Metres Relay — 1st position  
-        Muhammad Nur Rezeki (5N5), Han Sheng Guang (5N7), Athir Athari (5N5), Abdul Hakim (5N7)
-    *   B-Boys: 4 X 100 Metres Relay — 5th position  
-        Caleb (6G2), Chua Yu Xing (6G1), Joel Lee (6G3), Md Haiqal (6G1)
-    *   B-Girls: 4 X 100 Metres Relay — 5th position  
-        Faza (6G7), Nur Aszlynn (6G6), Tham Jia Yi (6G1), Yully Teo (6G2)
-				
-*   **Asia Pacific Youth Tchoukball Championships 2012**  
-    We are pleased to announce that our students Nur Aszlynn Sandhora Aszly Arjuna from 6G6 and Faza Nabilah Binte Mohammed Affendy from 6G7 have been selected to represent Singapore in the Asia Pacific Youth Tchoukball Championships 2012 from 19-23 July in Melaka, Malaysia.  
-      
-    Congratulations and all the best!
-		
-*   **Singapore Press Holding Foundation Inter Primary School (Seniors) Tchoukball Championships 2012**  
-      
-    Girls Category — 2nd Position  
-    Clarice Teng (6G1), Syaza Bte Azhar (6G1), Tham Jia Yi (6G1), Yully Teo (6G2), Nur Hazirah (6G3), Yeo Kai Wen (6G3), Nurul Kartika (6G7), Faza Nabilah (6G7), Nur Aszlynn (6G6)
+<p>The Sports Club was set up since 2011. The objectives of Sports Club:
+<br>To introduce various courts games including badminton, basketball, tchoukball
+and floorball skills and develop pupils’ psychomotor skills.
+<br>To scout and send selected pupils for external competitions.
+<br>Members are given the opportunity to participate in annual external competitions
+whereby our members have been talent-scouted by secondary schools.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-in-charge:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mr Lee Gee Chye
+<br>Mdm Shazwani Binte Mustaffa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training day/time:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Wednesday, 2.15 p.m. - 4.15 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Indoor Sports Hall/Parade Square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SportsClub" src="/images/CCA/CCA3.png">
+</div>
+<p></p>
