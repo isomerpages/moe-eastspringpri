@@ -4,8 +4,7 @@ permalink: /for-staff/
 variant: tiptap
 description: ""
 ---
-<p><strong>Useful Links</strong>
-</p>
+<h4>Useful Links</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>HR Online: <a href="https://intranet.moe.gov.sg/hronline/pages/home.aspx" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/hronline/pages/home.aspx</a>
