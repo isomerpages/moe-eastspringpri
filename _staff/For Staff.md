@@ -27,7 +27,7 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>Other links</h4>
+<h4>Other links <em>(iCon email required)</em></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://sites.google.com/moe.edu.sg/esps-infohub/home" rel="noopener nofollow" target="_blank">Admin Infohub</a>
