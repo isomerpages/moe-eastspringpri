@@ -28,7 +28,6 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 <h4>Other links</h4>
 <ul data-tight="true" class="tight">
 <li>
