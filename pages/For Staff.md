@@ -4,17 +4,36 @@ permalink: /for-staff/
 variant: tiptap
 description: ""
 ---
-<h4>MIMS management portal</h4>
-<p>Link: <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://idp.mims.moe.gov.sg</u></a>
+<p><strong>Useful Links</strong>
 </p>
-<p>All staff are to access this manage and apply all MOE related applications
-including iCON, Outlook and SLS, as well as self-reset password.</p>
-<h4>HR &amp; Payroll (HRP) Portal</h4>
-<p>Link: <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hrp.gov.sg/</u></a>
+<ul data-tight="true" class="tight">
+<li>
+<p>HR Online: <a href="https://intranet.moe.gov.sg/hronline/pages/home.aspx" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/hronline/pages/home.aspx</a>
 </p>
-<p>Staff to login to HRP site for one-stop portal HR related application
-and matters</p>
+</li>
+<li>
+<p>MIMS : <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://idp.mims.moe.gov.sg</u></a>
+</p>
+</li>
+<li>
+<p>HRP: <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hrp.gov.sg/</u></a>
+</p>
+</li>
+<li>
+<p>OPAL 2.0: <a href="https://idm.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://idm.opal2.moe.edu.sg/</a>
+</p>
+</li>
+<li>
+<p>Google Workspace: <a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+</p>
+</li>
+</ul>
 <p></p>
 <h4>Other links</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://sites.google.com/moe.edu.sg/esps-infohub/home" rel="noopener nofollow" target="_blank">Admin Infohub</a>
 </p>
+</li>
+</ul>
+<p></p>
