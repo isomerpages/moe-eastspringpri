@@ -2,4 +2,5 @@ collections:
   staff:
     output: true
     order:
+      - For Staff.md
       - Google Classroom (Teacher).md
