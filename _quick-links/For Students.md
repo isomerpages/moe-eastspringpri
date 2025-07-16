@@ -130,7 +130,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Students should contact the SLS Helpdesk for support</em>
-<br>
 <br>SLS Helpdesk: <a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener nofollow" target="_blank">here</a>
 <br>
 </p>
