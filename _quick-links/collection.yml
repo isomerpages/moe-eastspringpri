@@ -2,4 +2,5 @@ collections:
   quick-links:
     output: true
     order:
+      - Student Links.md
       - For Staff.md
