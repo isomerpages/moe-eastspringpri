@@ -91,8 +91,9 @@ description: ""
 </table>
 <p></p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -106,6 +107,9 @@ description: ""
 <p>During School Hours</p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p>After School Hours</p>
 </th>
 </tr>
@@ -114,15 +118,17 @@ description: ""
 <p>SLS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Operating Hours
-<br>Normal School Day &amp; School Holiday: 7 a.m. - 3:30 p.m.
+<p>Normal School Day &amp; School Holiday:
+<br>7 a.m. - 3:30 p.m.
 <br>Closed on Public Holiday, Saturday &amp; Sunday.
 <br>Email: <a href="mailto:esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>
 <br>Tel: 6786 6192</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SLS Helpdesk
-<br>Students should contact the SLS Helpdesk for support after school hours.
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Students should contact the SLS Helpdesk for support after school hours. </em>
 <br>Technical Support click here
 <br>SLS Helpdesk: 6702 6513
 <br>Email: <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>
@@ -130,6 +136,9 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
