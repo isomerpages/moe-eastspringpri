@@ -101,10 +101,14 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Technical Support</p>
+<p>Password and Technical Support</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>During School Hours</p>
+<p>During School Hours
+<br>including School Holiday:
+<br>7 a.m. - 3:30 p.m.
+<br><em><sub>(Closed on Saturday , Sunday &amp; Public Holiday)</sub></em>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -115,14 +119,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SLS</p>
+<p>Student Learning Space (SLS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Normal School Day &amp; School Holiday:
-<br>7 a.m. - 3:30 p.m.
-<br>Closed on Public Holiday, Saturday &amp; Sunday.
-<br>Email: <a href="mailto:esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>
-<br>Tel: 6786 6192</p>
+<p>Email: <a href="mailto:esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -133,6 +134,57 @@ description: ""
 <br>SLS Helpdesk: <a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener nofollow" target="_blank">here</a>
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MIMS</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>For self reset go to <a href="https://mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MIMS</u></a> website and click Forgot
+Password.</p>
+</li>
+<li>
+<p>Email: <a href="mailto:esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koobits</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>eZhishi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
