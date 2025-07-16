@@ -1,5 +1,4 @@
 collections:
   students:
     output: true
-    order:
-      - Student Learning Space (SLS).md
+    order: []
