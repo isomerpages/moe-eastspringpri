@@ -1,5 +1,4 @@
 collections:
   staff:
     output: true
-    order:
-      - For Staff.md
+    order: []
