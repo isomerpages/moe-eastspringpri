@@ -16,19 +16,19 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="SLS" src="/images/Student/SLS.png">
+<img style="width: 50%;" height="auto" width="100%" alt="SLS" src="/images/Student/SLS.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="Koobits" src="/images/Student/Koobits.png">
+<img style="width: 25%;" height="auto" width="100%" alt="Koobits" src="/images/Student/Koobits.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="Google Classroom" src="/images/Student/Google_Classrm.png">
+<img style="width: 35%;" height="auto" width="100%" alt="Google Classroom" src="/images/Student/Google_Classrm.png">
 </div>
 </th>
 </tr>
@@ -38,7 +38,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://member.koobits.com/?utm_source=web_nav&amp;utm_medium=btn&amp;utm_campaign=header&amp;utm_content=login" rel="noopener nofollow" target="_blank"> KooBits</a>
+<p><a href="https://member.koobits.com/?utm_source=web_nav&amp;utm_medium=btn&amp;utm_campaign=header&amp;utm_content=login" rel="noopener nofollow" target="_blank">KooBits</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,13 +50,13 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="eZhishi" src="/images/Student/eZhishi.png">
+<img style="width: 75%;" height="auto" width="100%" alt="eZhishi" src="/images/Student/eZhishi.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="Pazhahu" src="/images/Student/tamil.png">
+<img style="width: 25%;" height="auto" width="100%" alt="Pazhahu" src="/images/Student/tamil.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
