@@ -105,7 +105,6 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <p>During School Hours
-<br>including School Holiday:
 <br>7 a.m. - 3:30 p.m.
 <br><em><sub>(Closed on Saturday , Sunday &amp; Public Holiday)</sub></em>
 </p>
