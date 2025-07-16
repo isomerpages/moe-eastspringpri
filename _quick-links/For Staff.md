@@ -14,15 +14,15 @@ description: ""
 <h4>Useful Links</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>HRP: <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hrp.gov.sg/</u></a>
+</p>
+</li>
+<li>
 <p>HR Online: <a href="https://intranet.moe.gov.sg/hronline/pages/home.aspx" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/hronline/pages/home.aspx</a>
 </p>
 </li>
 <li>
 <p>MIMS : <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://idp.mims.moe.gov.sg</u></a>
-</p>
-</li>
-<li>
-<p>HRP: <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hrp.gov.sg/</u></a>
 </p>
 </li>
 <li>
