@@ -65,7 +65,6 @@ description: ""
 </table>
 <hr>
 <p></p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
