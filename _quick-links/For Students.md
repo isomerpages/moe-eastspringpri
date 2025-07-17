@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4>Useful link</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -22,12 +24,18 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 15%;" height="auto" width="100%" alt="SLS" src="/images/For Student/SLS.png">
+<img style="width: 30%;" height="auto" width="100%" alt="SLS" src="/images/For Student/SLS.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -40,6 +48,18 @@ description: ""
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Google Classroom" src="/images/For Student/Google_Classrm.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="pazhahutamil" src="/images/For Student/pazhahutamil.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="eZhishi" src="/images/For Student/eZhishi.png">
 </div>
 </th>
 </tr>
@@ -56,35 +76,30 @@ description: ""
 <p><a href="https://edu.google.com/intl/ALL_sg/workspace-for-education/classroom/" rel="noopener nofollow" target="_blank">Google Classroom</a>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="pazhahutamil" src="/images/For Student/pazhahutamil.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="eZhishi" src="/images/For Student/eZhishi.png">
-</div>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://pazhahutamil.com/login/index.php" rel="noopener nofollow" target="_blank">Pazhahutamil</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.ezhishi.com/" rel="noopener nofollow" target="_blank">ezhishi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ezhishi.com/" rel="noopener nofollow" target="_blank">ezhishi</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
