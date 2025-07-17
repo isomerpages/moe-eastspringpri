@@ -4,7 +4,7 @@ permalink: /for-students/
 variant: tiptap
 description: ""
 ---
-<p>Useful link</p>
+<h4>Useful link</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -50,10 +50,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.ezhishi.net/Contents/" rel="noopener nofollow" target="_blank">eZhishi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pazhahutamil.com/login/index.php" rel="noopener nofollow" target="_blank">pazhahutamil</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
