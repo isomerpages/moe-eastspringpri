@@ -10,10 +10,5 @@ links:
     collection: niche-programme
   - title: Partnership
     collection: partnership
-  - title: Students
-    collection: students
-  - title: Staff
-    url: https://sites.google.com/moe.edu.sg/e-springportal/staff/open-classroom?authuser=0
-    sublinks:
-      - title: Google Classroom (Teacher)
-        url: https://edu.google.com/intl/ALL_sg/workspace-for-education/classroom/
+  - title: Quick Links
+    collection: quick-links

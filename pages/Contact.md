@@ -1,7 +1,8 @@
 ---
-title: Contact Us
-permalink: /about-us/Contact-Us/
+title: Contact
+permalink: /about-us/contact/
 description: ""
+variant: tiptap
 ---
 <style>
 table, th {
