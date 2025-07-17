@@ -13,6 +13,17 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://learning.moe.edu.sg"><img style="width: 50%;" height="auto" width="100%" alt="SLS" src="/images/Student/SLS.png"></a>
 </th>
@@ -61,9 +72,20 @@ description: ""
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<hr>
+<p></p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
