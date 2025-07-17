@@ -203,10 +203,10 @@ QR code below.</p>
 <p><strong>Recess Activity</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="PSG Activity1" src="/images/For Parents/PSG/PSG_Activity1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="PSG Activity1" src="/images/For Parents/PSG/PSG_Activity1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="PSG Activity2" src="/images/For Parents/PSG/PSG_Activity2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="PSG Activity2" src="/images/For Parents/PSG/PSG_Activity2.jpg">
 </div>
 <p></p>
