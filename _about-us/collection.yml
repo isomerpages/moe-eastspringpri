@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - School Information/.keep
       - School Information/School Rules & Regulation.md
@@ -18,3 +17,4 @@ collections:
       - Our People/Class Teachers.md
       - Our People/EAS & Support Staff.md
       - School Safety and Emergency Management.md
+      - Contact Us.md
