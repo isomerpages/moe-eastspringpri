@@ -41,13 +41,13 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Koobits" src="/images/For Student/Koobits.png">
+<img style="width: 85%;" height="auto" width="100%" alt="Koobits" src="/images/For Student/Koobits.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Google Classroom" src="/images/For Student/Google_Classrm.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Google Classroom" src="/images/For Student/Google_Classrm.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
