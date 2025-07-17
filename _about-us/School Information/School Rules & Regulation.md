@@ -128,7 +128,7 @@ on their foot/feet. No slippers are allowed.</p>
 </table>
 <p>*Please refer to the pictures for the acceptable school attire.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Attire" src="/images/School_Uniform.png">
+<img style="width: 90%;" height="auto" width="100%" alt="School Attire" src="/images/School_Uniform.png">
 </div>
 <h4><strong>2. General Appearance</strong></h4>
 <p>2.1 Neat attire and hairdo.</p>
@@ -270,7 +270,7 @@ headband.</p>
 </table>
 <p>*Please refer to the pictures for the acceptable hairstyles and accessories.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="General Appearance" src="/images/School_Appearance.png">
+<img style="width: 90%;" height="auto" width="100%" alt="General Appearance" src="/images/School_Appearance.png">
 </div>
 <h4><strong>3</strong>. <strong>Attendance and Punctuality</strong></h4>
 <p>3.1 Attendance is compulsory for all school activities.</p>
