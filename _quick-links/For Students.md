@@ -4,31 +4,62 @@ permalink: /for-students/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<table style="minWidth: 75px">
+<h4>Useful link</h4>
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="SLS" src="/images/Student/SLS.png">
+<img style="width: 100%;" height="auto" width="100%" alt="SLS" src="/images/For Student/SLS.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="Koobits" src="/images/Student/Koobits.png">
+<img style="width: 85%;" height="auto" width="100%" alt="Koobits" src="/images/For Student/Koobits.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="Google Classroom" src="/images/Student/Google_Classrm.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Google Classroom" src="/images/For Student/Google_Classrm.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="pazhahutamil" src="/images/For Student/pazhahutamil.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="eZhishi" src="/images/For Student/eZhishi.png">
 </div>
 </th>
 </tr>
@@ -45,38 +76,22 @@ description: ""
 <p><a href="https://edu.google.com/intl/ALL_sg/workspace-for-education/classroom/" rel="noopener nofollow" target="_blank">Google Classroom</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="eZhishi" src="/images/Student/eZhishi.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="Pazhahu" src="/images/Student/tamil.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.ezhishi.net/Contents/" rel="noopener nofollow" target="_blank">eZhishi</a>
+<p><a href="https://pazhahutamil.com/login/index.php" rel="noopener nofollow" target="_blank">Pazhahutamil</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://pazhahutamil.com/login/index.php" rel="noopener nofollow" target="_blank">Pazhahu Tamil</a>
+<p><a href="https://www.ezhishi.com/" rel="noopener nofollow" target="_blank">ezhishi</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -100,8 +115,13 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="4">
+<h4>Password and Technical Support</h4>
+</th>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
-<p>Password and Technical Support</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>During School Hours

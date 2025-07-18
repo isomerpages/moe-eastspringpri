@@ -307,10 +307,14 @@ table, th, td {
 </tr>
 	
 <tr>
-	<td rowspan="3">4I2</td>
+	<td rowspan="4">4I2</td>
 	<td>Mdm Smita Quintal Kaur</td>
 	<td>smita_quintal_kaur@moe.edu.sg</td>
 	</tr>
+			<tr>
+	<td>Mr Lam Yew Sung</td>
+	<td>lam_yew_sung@moe.edu.sg</td>
+  </tr>
 	<tr>
 	<td>Miss Lim Zhi Qing May</td>
 	<td>lim_zhi_qing_may@moe.edu.sg</td>
