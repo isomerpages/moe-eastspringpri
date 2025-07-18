@@ -197,16 +197,16 @@ for all. Together, we can nurture and develop your child’s potential.</p>
 unforgettable for your child. To join the PSG, simply sign up using the
 QR code below.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="PSG QRCode" src="/images/For Parents/PSG/PSG_2025QRCode.png">
+<img style="width: 20%;" height="auto" width="100%" alt="PSG QRCode" src="/images/For Parents/PSG/PSG_2025QRCode.png">
 </div>
 <h4><strong>2024/2025 Events and Programmes</strong></h4>
 <p><strong>Recess Activity</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="PSG Activity1" src="/images/For Parents/PSG/PSG_Activity1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="PSG Activity1" src="/images/For Parents/PSG/PSG_Activity1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="PSG Activity2" src="/images/For Parents/PSG/PSG_Activity2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="PSG Activity2" src="/images/For Parents/PSG/PSG_Activity2.jpg">
 </div>
 <p></p>
