@@ -47,7 +47,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Google Classroom" src="/images/For Student/Google_Classrm.png">
+<img style="width: 70%;" height="auto" width="100%" alt="GW1" src="/images/For Student/GW1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -73,7 +73,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://edu.google.com/intl/ALL_sg/workspace-for-education/classroom/" rel="noopener nofollow" target="_blank">Google Classroom</a>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener nofollow" target="_blank">Student ICON</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
