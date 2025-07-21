@@ -148,9 +148,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Students should contact the SLS Helpdesk for support</em>
+<p>SLS Helpdesk: 6702 6513
+<br>Email: <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>
 <br>SLS Helpdesk: <a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener nofollow" target="_blank">here</a>
-<br>
+<br><em><sup>Students should contact the SLS Helpdesk for support</sup></em>
 </p>
 </td>
 </tr>
