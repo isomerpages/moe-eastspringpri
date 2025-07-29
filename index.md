@@ -18,6 +18,22 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
+  - textcards:
+      title: Latest Updates!
+      id: textcards
+      cards:
+        - title: Term 3 Weighted Assessment Schedule
+          description: for P3 – P5
+          linktext: Learn more
+          url: /overview/
+        - title: Term 3 Letter
+          description: ""
+          linktext: Learn more
+          url: /term-letter/
+        - title: E'Lights Satellite
+          description: Issue 6
+          linktext: Read more
+          url: /e-lights-newsletter/
   - infopic:
       title: Our latest issue of E'Lights Satellite is out!
       subtitle: Newsletter
@@ -40,20 +56,4 @@ sections:
       url: https://ask.gov.sg/esps
       image: /images/esps-askgov.png
       alt: Image alt text
-  - textcards:
-      title: Latest Updates!
-      id: textcards
-      cards:
-        - title: Term 3 Weighted Assessment Schedule
-          description: for P3 – P5
-          linktext: Learn more
-          url: /overview/
-        - title: Term 3 Letter
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: E'Lights Satellite
-          description: Issue 6
-          linktext: Read more
-          url: /e-lights-newsletter/
 ---
