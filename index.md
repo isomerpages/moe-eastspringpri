@@ -40,4 +40,22 @@ sections:
       url: https://ask.gov.sg/esps
       image: /images/esps-askgov.png
       alt: Image alt text
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Term 3 Weighted Assessment Schedule
+          description: for P3 – P5
+          linktext: Learn more
+          url: ""
+        - title: E'Lights Satellite
+          description: Issue 6
+          linktext: Read more
+          url: /e-lights-newsletter/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
