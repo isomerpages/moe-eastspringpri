@@ -48,12 +48,12 @@ sections:
           description: for P3 – P5
           linktext: Learn more
           url: /overview/
+        - title: Term 3 Letter
+          description: ""
+          linktext: Learn more
+          url: ""
         - title: E'Lights Satellite
           description: Issue 6
           linktext: Read more
           url: /e-lights-newsletter/
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
