@@ -18,15 +18,22 @@ sections:
           description: ""
           url: /alumni/Alumni-Registration/
       background: /images/Home/Homepage.gif
-  - infopic:
-      title: Our latest issue of E'Lights Satellite is out!
-      subtitle: Newsletter
-      id: infopic
-      description: Issue 6 2025
-      button: Read it now!
-      url: /e-lights-newsletter/
-      image: /images/Newsletter Cover/Enews.png
-      alt: Image alt text
+  - textcards:
+      title: Latest Updates!
+      id: textcards
+      cards:
+        - title: Term 3 Weighted Assessment Schedule
+          description: for P3 – P5
+          linktext: Learn more
+          url: /overview/
+        - title: Term 3 Letter
+          description: ""
+          linktext: Learn more
+          url: /term-letter/
+        - title: E'Lights Newsletter
+          description: Issue 6
+          linktext: Read more
+          url: /e-lights-newsletter/
   - infopic:
       title: East Spring Primary Instagram Channel
       button: Click here to Join Us
