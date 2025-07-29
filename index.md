@@ -41,15 +41,13 @@ sections:
       image: /images/esps-askgov.png
       alt: Image alt text
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Latest Updates!
       id: textcards
-      description: Text card description
       cards:
         - title: Term 3 Weighted Assessment Schedule
           description: for P3 – P5
           linktext: Learn more
-          url: ""
+          url: /overview/
         - title: E'Lights Satellite
           description: Issue 6
           linktext: Read more
