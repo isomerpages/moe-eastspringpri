@@ -30,7 +30,7 @@ sections:
           description: ""
           linktext: Learn more
           url: /term-letter/
-        - title: E'Lights Satellite
+        - title: E'Lights Newsletter
           description: Issue 6
           linktext: Read more
           url: /e-lights-newsletter/
