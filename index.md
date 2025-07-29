@@ -35,15 +35,6 @@ sections:
           linktext: Read more
           url: /e-lights-newsletter/
   - infopic:
-      title: Our latest issue of E'Lights Satellite is out!
-      subtitle: Newsletter
-      id: infopic
-      description: Issue 6 2025
-      button: Read it now!
-      url: /e-lights-newsletter/
-      image: /images/Newsletter Cover/Enews.png
-      alt: Image alt text
-  - infopic:
       title: East Spring Primary Instagram Channel
       button: Click here to Join Us
       url: https://www.instagram.com/eastspringpri/
