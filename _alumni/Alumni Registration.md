@@ -10,4 +10,4 @@ Please indicate the subject header in the email as "Updating of Alumni Contact I
 
 * * *
 
-For new registration please fill up the form [here](https://form.gov.sg/6771ff6d6ceccf066bc46448).
+For new registration please fill up the form [here](https://go.gov.sg/espsalumni)
