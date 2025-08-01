@@ -22,7 +22,7 @@ description: ""
 <h4>Useful Links</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>HRP: <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hrp.gov.sg/</u></a>
+<p>HRP: <a href="https://uat.hrp.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.hrp.gov.sg/</u></a>
 </p>
 </li>
 <li>
