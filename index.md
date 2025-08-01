@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Words of Encouragement
           description: ""
-          url: /Words-of-Encouragement
+          url: /words-of-encouragement/
         - title: Calendar
           description: ""
           url: /school-calendar/
