@@ -36,11 +36,10 @@ information.</p>
 <h4><strong>Student Insurance Claim</strong></h4>
 <p>Please click <a href="/files/For Parents/Forms/Group_Personal_Accident_Insurance_for_Students.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more details.</p>
-<h4><strong>Waitlist Form </strong><br>(for Singaporean &amp; PR students only)</h4>
+<h4><strong>Waitlist Form </strong><br><sup>(for Singaporean &amp; PR students only)</sup></h4>
 <p>Please complete the online form via the link <a href="https://go.gov.sg/espswaitlist" rel="noopener nofollow" target="_blank">here</a>
-</p>
-<p>&nbsp;We will contact you should there be any vacancy.</p>
-<h4><strong>Leave of Absence (LOA) Form</strong><br>(For students accompanying parents who are working overseas)</h4>
+<br>We will contact you should there be any vacancy.</p>
+<h4><strong>Leave of Absence (LOA) Form</strong><br><sup>(For students accompanying parents who are working overseas)</sup></h4>
 <p>Singaporean parents planning to go overseas for work or related matters
 can reserve a place for their child at their current school under the Leave
 of Absence (LOA) scheme. Upon return to Singapore, students can be re-admitted
@@ -51,3 +50,9 @@ to their schools directly.</p>
 charged.</p>
 <p>Form: <a href="https://form.gov.sg/60e2669ada20a90011773be9" rel="noopener noreferrer nofollow" target="_blank"><u>LOA Application Form</u></a>
 </p>
+<h4><strong>Alumni Registration</strong></h4>
+<p>Please click <a href="https://go.gov.sg/espsalumni" rel="noopener nofollow" target="_blank">here</a> for
+more details.</p>
+<h4><strong>Words of Encouragement</strong></h4>
+<p>Please click <a href="https://go.gov.sg/espswords" rel="noopener nofollow" target="_blank">here</a>
+<a href="/files/For Parents/Forms/Group_Personal_Accident_Insurance_for_Students.pdf" rel="noopener nofollow" target="_blank"></a>for more details.</p>
