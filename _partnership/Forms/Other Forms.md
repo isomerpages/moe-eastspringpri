@@ -37,7 +37,7 @@ information.</p>
 <p>Please click <a href="/files/For Parents/Forms/Group_Personal_Accident_Insurance_for_Students.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more details.</p>
 <h4><strong>Waitlist Form </strong><br>(for Singaporean &amp; PR students only)</h4>
-<p>Please complete the online form via the link <a href="https://form.gov.sg/64b4ed6cf6ce6e001152ca70" rel="noopener nofollow" target="_blank">here</a>
+<p>Please complete the online form via the link <a href="https://go.gov.sg/espswaitlist" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>&nbsp;We will contact you should there be any vacancy.</p>
 <h4><strong>Leave of Absence (LOA) Form</strong><br>(For students accompanying parents who are working overseas)</h4>
