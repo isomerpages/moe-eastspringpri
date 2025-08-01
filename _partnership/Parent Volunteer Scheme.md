@@ -18,5 +18,5 @@ below.</p>
 </div>
 <p>Please refer to the <a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates?pt=2B" rel="noopener noreferrer nofollow" target="_blank">MOE website</a> for
 more information on P1 Registration</p>
-<p>Please click the link <a href="https://go.gov.sg/espsp1pv" rel="noopener noreferrer nofollow" target="_blank">here</a> to sign up as a Parent Volunteer
-in East Spring Primary School.</p>
+<p>Please click the link <a href="https://go.gov.sg/espsp1volunteer" rel="noopener nofollow" target="_blank">here</a> to
+sign up as a Parent Volunteer in East Spring Primary School.</p>
