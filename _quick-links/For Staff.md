@@ -14,6 +14,10 @@ description: ""
 <p><a href="https://sites.google.com/moe.edu.sg/espringportal?usp=sharing" rel="noopener nofollow" target="_blank">ESPS Google Site</a>
 </p>
 </li>
+<li>
+<p><a href="https://rbs.avero-tech.com › login" rel="noopener nofollow" target="_blank">Resource Booking System (RBS)</a>
+</p>
+</li>
 </ul>
 <h4>Useful Links</h4>
 <ul data-tight="true" class="tight">
