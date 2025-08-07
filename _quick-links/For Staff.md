@@ -81,7 +81,7 @@ description: ""
 <p>MOE iCON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+<p><a href="https://icon.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://icon.moe.edu.sg/</a>
 </p>
 </td>
 </tr>
