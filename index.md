@@ -17,7 +17,7 @@ sections:
         - title: Alumni
           description: ""
           url: /alumni/Alumni-Registration/
-      background: /images/Home/18082025.gif
+      background: /images/Home/Sequence_09_17.gif
   - textcards:
       title: Latest Updates!
       id: textcards
