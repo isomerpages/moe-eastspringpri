@@ -48,11 +48,11 @@ to their schools directly.</p>
 (LOA). For eligibility criteria, please visit the<a href="https://www.moe.gov.sg/returning-singaporeans/going-overseas/loa-scheme" rel="noopener noreferrer nofollow" target="_blank"> <u>MOE website</u></a>.</p>
 <p>Applications can be submitted online, and a nominal annual fee will be
 charged.</p>
-<p>Form: <a href="https://form.gov.sg/60e2669ada20a90011773be9" rel="noopener noreferrer nofollow" target="_blank"><u>LOA Application Form</u></a>
+<p>Form: <a href="https://form.gov.sg/688ad4d4dab54b72527ccca9" rel="noopener noreferrer nofollow" target="_blank"><u>LOA Application Form</u></a>
 </p>
 <h4><strong>Alumni Registration</strong></h4>
 <p>Please click <a href="https://go.gov.sg/espsalumni" rel="noopener nofollow" target="_blank">here</a> for
 more details.</p>
 <h4><strong>Words of Encouragement</strong></h4>
-<p>Please click <a href="https://go.gov.sg/espswords" rel="noopener nofollow" target="_blank">here</a>
-<a href="/files/For Parents/Forms/Group_Personal_Accident_Insurance_for_Students.pdf" rel="noopener nofollow" target="_blank"></a>for more details.</p>
+<p>Please click <a href="https://go.gov.sg/espswords" rel="noopener nofollow" target="_blank">here</a>for
+more details.</p>
