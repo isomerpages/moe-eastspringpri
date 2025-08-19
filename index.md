@@ -17,7 +17,7 @@ sections:
         - title: Alumni
           description: ""
           url: /alumni/Alumni-Registration/
-      background: /images/Home/ESPS18082025.gif
+      background: /images/Home/19082025.gif
   - textcards:
       title: Latest Updates!
       id: textcards
