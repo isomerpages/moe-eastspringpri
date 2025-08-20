@@ -7,47 +7,6 @@ third_nav_title: Student Development Team
 ---
 <p><strong>Student Development Team (SDT)</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Marhamah Binte Yusof (YH/ Lower Pri)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Members</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Loo Leong Tuan (YH/ Middle Pri)
-<br>Mdm Tok Shi Shi (Mrs Choo) (YH/ Upper Pri)
-<br>Mdm Shakilah Binte Mohamed Ansari (AYH/ Lower Pri)
-<br>Mdm Sally Yeo Xueli (Mrs Koh) (AYH/ Middle Pri)
-<br>Mdm Wendy Chui (Level IC/ Upper Pri)
-<br>Mdm Tan Si Hui (Mrs Peh) (Student Leadership Coordinator)
-<br>Mdm Siti Nafisa Binte Mohd Daud (Student Management Coordinator)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p><strong>SDT</strong>
-</p>
 <p>The SDT oversees the character development and holistic learning experiences
 of the students. We believe in nurturing a culture of care where teachers
 can teach and our E’Lights learn in a safe, orderly and caring environment.
