@@ -14,9 +14,6 @@ sections:
         - title: Calendar
           description: ""
           url: /school-calendar/
-        - title: Alumni
-          description: ""
-          url: /alumni/Alumni-Registration/
       background: /images/Home/19082025.gif
   - textcards:
       title: Latest Updates!
