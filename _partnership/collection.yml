@@ -2,7 +2,6 @@ collections:
   partnership:
     output: true
     order:
-      - Alumni.md
       - Partnership Overview.md
       - Assessment Matters/.keep
       - Assessment Matters/Overview Scope of Weighted Assessment.md
@@ -23,3 +22,4 @@ collections:
       - School Vendor Information.md
       - Parent Volunteer Scheme.md
       - Parent Support Group (PSG).md
+      - Alumni.md
