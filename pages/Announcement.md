@@ -4,8 +4,10 @@ permalink: /announcement/
 variant: tiptap
 description: Announcement
 ---
-<p>Updates for Weighted Assessment for P3 - P5 view <a href="/overview/" rel="noopener nofollow" target="_blank">HERE</a>
+<h4>Weighted Assessment</h4>
+<p>P3 - P5 view <a href="/overview/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
+<h4>Term Letters</h4>
 <p>2025 Term Letters <a href="/term-letter/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
 <p></p>
