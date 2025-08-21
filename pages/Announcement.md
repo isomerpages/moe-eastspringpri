@@ -4,9 +4,9 @@ permalink: /announcement/
 variant: tiptap
 description: Announcement
 ---
-<p>Updates for Weighted Assessment view <a href="/overview/" rel="noopener nofollow" target="_blank">HERE</a>
+<p>Updates for Weighted Assessment for P3 - P5 view <a href="/overview/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
-<p>Term Letter <a href="/term-letter/" rel="noopener nofollow" target="_blank">HERE</a>
+<p>2025 Term Letters <a href="/term-letter/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
 <p></p>
 <table style="minWidth: 75px">
@@ -29,7 +29,7 @@ description: Announcement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Follow our Instagram </strong>
+<p><strong>Follow our Instagram</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
