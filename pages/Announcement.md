@@ -29,7 +29,9 @@ description: Announcement
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Follow our Instagram</strong>
+<p><strong>Scan and follow our Instagram</strong>
+</p>
+<p><strong>Or click </strong><a href="https://www.instagram.com/eastspringpri/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
