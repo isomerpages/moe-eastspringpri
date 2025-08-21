@@ -300,7 +300,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 3</p>
+<p>Term 4 Week 4</p>
 </td>
 </tr>
 <tr>
