@@ -18,84 +18,6 @@ partnership between the school, students, and families.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Advisors</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Marhamah Yusof</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head, Lower Primary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lukman Hakim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department, Character and Citizenship Education (CCE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>School Members</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Syaheera Beevi Bte Mohamed</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Au Jian'An Melvin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Lay Ping</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Siew Nai Min</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
 <p><strong>PSG Executive Committee</strong>
 </p>
 </th>
@@ -126,7 +48,7 @@ partnership between the school, students, and families.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vicky Chu Kua Ying</p>
+<p>Mdm Vicky Chu Kua Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event Liaison Officer</p>
