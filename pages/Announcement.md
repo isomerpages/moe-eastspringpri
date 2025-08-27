@@ -11,6 +11,7 @@ description: Announcement
 <p>2025 Term Letters <a href="/term-letter/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
 <p></p>
+<h4>Follow Our Instagram</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -18,18 +19,8 @@ description: Announcement
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Scan and follow our Instagram</strong>
-</p>
-<p><strong>Or click </strong><a href="https://www.instagram.com/eastspringpri/" rel="noopener nofollow" target="_blank">HERE</a>
+<p><strong>Scan or Click </strong><a href="https://www.instagram.com/eastspringpri/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,14 +28,6 @@ description: Announcement
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="ESPSInstagram" src="/images/Home/espsinsta1.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
