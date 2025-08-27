@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Science Dept.md
       - Student Development Team/.keep
       - Student Development Team/SDT Overview.md
       - Student Development Team/Peer Support.md
@@ -12,6 +11,7 @@ collections:
       - English Language Department/English Language Department.md
       - English Language Department/Strategies.md
       - Mathematics Department.md
+      - Science Dept.md
       - Mother Tongue Language Department.md
       - Physical Education (PE) Department.md
       - Aesthetic Department.md
