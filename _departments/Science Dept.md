@@ -5,14 +5,13 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p><strong>We’ll be updating soon!</strong>
+<p><strong>“We’ll be back soon!</strong>
 </p>
-<p></p>
-<p><strong><em>"Thank you for visiting. We're currently fine-tuning the details and will be back.</em></strong>
-</p>
-<p><strong><em>In the meantime, if you have any questions, feel free to reach out to us at <a href="mailto:esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>. We appreciate your patience and understanding. Thank you!"</em></strong>
-</p>
-<p></p>
+<p>Thank you for visiting. Our page is currently being fine-tuned and will
+be back shortly.</p>
+<p>In the meantime, if you have any questions, please feel free to reach
+us at <strong><a href="mailto:esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a></strong>.
+We truly appreciate your patience and understanding.”</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
