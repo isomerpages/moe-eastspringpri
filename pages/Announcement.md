@@ -4,8 +4,6 @@ permalink: /announcement/
 variant: tiptap
 description: Announcement
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Teacher's Day" src="/images/Teachers_Day_2025.jpg">
 </div>
