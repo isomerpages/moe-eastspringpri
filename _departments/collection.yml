@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education (PE) Dept.md
       - Mother Tongue Language Dept.md
       - Aesthetic Dept.md
       - Mathematics Dept.md
