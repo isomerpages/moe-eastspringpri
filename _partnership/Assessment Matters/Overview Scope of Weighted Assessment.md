@@ -2,7 +2,7 @@
 title: Overview Scope of Weighted Assessment
 permalink: /overview/
 variant: tiptap
-description: ""
+description: Overview Scope of Weighted Assessment
 third_nav_title: Assessment Matters
 ---
 <div class="isomer-image-wrapper">

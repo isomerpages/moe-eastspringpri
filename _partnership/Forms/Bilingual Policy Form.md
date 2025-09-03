@@ -10,11 +10,11 @@ third_nav_title: Forms
 <br><strong>Application</strong>
 </p>
 <h4>NTIL<br>To offer a Non-Tamil Indian Language (NTIL)<br>(Bengali/Gujarati/ Hindi/Punjabi/ Urdu) in lieu of an official MTL</h4>
-<p>Please click <a href="https://drive.google.com/drive/folders/1-ZpGosbkqVcLuK5TjdRD-b4GgYICqIw7" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/For Parents/Forms/Form_3___NTIL.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the form</p>
 <p></p>
 <h4>CHGE<br>To change from an approved MTL to an official MTL<br>(Chinese/Malay/Tamil)</h4>
-<p>Please click <a href="https://drive.google.com/drive/folders/1-ZpGosbkqVcLuK5TjdRD-b4GgYICqIw7" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>Please click <a href="/files/For Parents/Forms/Form_4___CHGE.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the form</p>
 <p></p>
 <p>Please print the required Application Form. Please submit the completed

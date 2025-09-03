@@ -2,18 +2,14 @@ collections:
   departments:
     output: true
     order:
-      - Student Development Team/.keep
-      - Student Development Team/SDT Overview.md
-      - Student Development Team/Peer Support.md
-      - Student Development Team/Student Leadership.md
-      - Student Development Team/Student Management.md
       - English Language Department/.keep
       - English Language Department/English Language Department.md
       - English Language Department/Strategies.md
-      - Mathematics Department.md
-      - Science Department.md
-      - Mother Tongue Language Department.md
-      - Physical Education (PE) Department.md
-      - Aesthetic Department.md
       - Character & Citizenship Education (CCE).md
-      - Information & Communication (ICT) Department.md
+      - Student Development Team.md
+      - Physical Education (PE) Dept.md
+      - Mother Tongue Language Dept.md
+      - Aesthetic Dept.md
+      - Mathematics Dept.md
+      - Science Dept.md
+      - Information & Communication (ICT) Dept.md
