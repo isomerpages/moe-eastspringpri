@@ -1,0 +1,20 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Sports & Games/.keep
+      - Sports & Games/Football.md
+      - Sports & Games/Sports Club.md
+      - Sports & Games/Volleyball.md
+      - Sports & Games/Wushu.md
+      - Performing Arts/Music Club.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Fusion & Modern Dance.md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/.keep
+      - Uniform Group/Scouts.md
+      - Uniform Group/.keep
+      - Club and Societies/Art Club.md
+      - Club and Societies/Media & IT Club.md
+      - Club and Societies/.keep

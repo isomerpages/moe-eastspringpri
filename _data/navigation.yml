@@ -1,0 +1,14 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Departments
+    collection: departments
+  - title: CCA
+    collection: cca
+  - title: Niche Programme
+    collection: niche-programme
+  - title: Partnership
+    collection: partnership
+  - title: Quick Links
+    collection: quick-links

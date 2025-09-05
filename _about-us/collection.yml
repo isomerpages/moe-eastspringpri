@@ -1,0 +1,19 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Information/.keep
+      - School Information/School Rules & Regulation.md
+      - School Information/History and Background.md
+      - School Information/Vision, Mission, Motto and Values.md
+      - School Information/School Crest.md
+      - School Information/School Song.md
+      - School Information/E'Lights Creed.md
+      - School Information/E'Lights Cheer.md
+      - School Information/Reporting & Dismissal Times.md
+      - Our People/.keep
+      - Our People/Key Personnel.md
+      - Our People/Class Teachers.md
+      - Our People/EAS & Support Staff.md
+      - School Safety and Emergency Management.md
