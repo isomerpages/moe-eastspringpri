@@ -4,6 +4,10 @@ permalink: /announcement/
 variant: tiptap
 description: Announcement
 ---
+<h4>2026 P1 Orientation</h4>
+<p>2026 P1 Orientation <a href="https://sites.google.com/moe.edu.sg/esps-p1/home" rel="noopener nofollow" target="_blank">HERE</a>
+</p>
+<hr>
 <h4>Weighted Assessment</h4>
 <p>P3 - P5 view <a href="/overview/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
