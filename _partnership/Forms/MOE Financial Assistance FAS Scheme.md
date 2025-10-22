@@ -16,7 +16,7 @@ also eligible for free textbooks, school attire, meals and transport subsidies.<
 apply online via the following methods:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>FAS eApplication Form Link</strong>: <a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>
+<p><strong>FAS eApplication Form Link</strong>: <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>
 </p>
 </li>
 <li>
