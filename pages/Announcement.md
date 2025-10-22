@@ -8,7 +8,7 @@ description: Announcement
 <p>2026 P1 Orientation <a href="https://sites.google.com/moe.edu.sg/esps-p1/home" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
 <hr>
-<p>2026 MOE Financial Assistance Scheme (FAS) is now opened. Click HERE for
+<p>2026 MOE Financial Assistance Scheme (FAS) is now opened. Click <a href="/moe-financial-assistance-scheme-fas/" rel="noopener nofollow" target="_blank">HERE</a> for
 details.</p>
 <hr>
 <h4>Weighted Assessment</h4>
