@@ -4,6 +4,13 @@ permalink: /announcement/
 variant: tiptap
 description: Announcement
 ---
+<h4>2026 P1 Orientation</h4>
+<p>2026 P1 Orientation <a href="https://sites.google.com/moe.edu.sg/esps-p1/home" rel="noopener nofollow" target="_blank">HERE</a>
+</p>
+<hr>
+<p>2026 MOE Financial Assistance Scheme (FAS) is now opened. Click <a href="/moe-financial-assistance-scheme-fas/" rel="noopener nofollow" target="_blank">HERE</a> for
+details.</p>
+<hr>
 <h4>Weighted Assessment</h4>
 <p>P3 - P5 view <a href="/overview/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
@@ -12,7 +19,6 @@ description: Announcement
 <p>2025 Term Letters <a href="/term-letter/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
 <hr>
-<p></p>
 <h4>Follow Our Instagram</h4>
 <table style="minWidth: 50px">
 <colgroup>
