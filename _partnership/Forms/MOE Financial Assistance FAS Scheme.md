@@ -2,20 +2,31 @@
 title: MOE Financial Assistance FAS Scheme
 permalink: /moe-financial-assistance-scheme-fas/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Forms
 ---
-The 2025 MOE Financial Assistance Scheme (FAS) is now opened for all students to apply.  **The deadline for submission is 18 October 2024.**
-
-FAS Scheme is for Singapore Citizen students with **Gross Household Income (GHI) of $3,000** and below or **Per Capita Income (PCI) of $750** and below are eligible for the MOE FAS. MOE FAS recipients are not required to pay school fees and standard miscellaneous fees. The recipients are also eligible for free textbooks, school attire, meals and transport subsidies. 
-
-If you are eligible for FAS and wish to apply for the MOE FAS, you may apply online via the following methods:
-
-*   **FAS eApplication Form Link:** [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) or
-*   **Parents Gateway** (under Services tab – Financial Assistance) via Singpass login.
-*   **FAS Information Brochure:** See [file](https://drive.google.com/file/d/13zGVKS-0Kf4I6tvdTSQATu2XK0q9ZKiS/view?usp=sharing) attached
-*   **Upon successful submission of the e-FAS form, you will receive an automated acknowledgement email. You will receive your FAS application outcome by end November.**
-
-*   **FAS Information Website**: [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
-*   **Outcome of FAS application**: The School Admin Team will inform you of the outcome by 29 November 2024 
-*   Please contact the school General Office at 67866192 if you have any enquiries. Thank you.
+<p>The 2026 MOE Financial Assistance Scheme (FAS) is now opened for all students
+to apply.</p>
+<p>FAS Scheme is for Singapore Citizen students with&nbsp;<strong>Gross Household Income (GHI) of $4,000</strong>&nbsp;and
+below&nbsp;or&nbsp;<strong>Per Capita Income (PCI) of $1000</strong>&nbsp;and
+below are eligible for the MOE FAS. MOE FAS recipients are not required
+to pay school fees and standard miscellaneous fees. The recipients are
+also eligible for free textbooks, school attire, meals and transport subsidies.</p>
+<p>If you are eligible for FAS and wish to apply for the MOE FAS, you may
+apply online via the following methods:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>FAS eApplication Form Link</strong>: <a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>
+</p>
+</li>
+<li>
+<p><strong>Parents Gateway (under Services tab – Financial Assistance)</strong> via
+Singpass login.</p>
+</li>
+<li>
+<p><strong>FAS Information Brochure</strong>: See <a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener noreferrer nofollow" target="_blank">link</a> here</p>
+</li>
+</ul>
+<p>You will receive your FAS application outcome by end November. Please
+contact the school General Office or email the school generic mailbox if
+you have any enquiries.</p>
