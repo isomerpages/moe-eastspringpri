@@ -19,7 +19,6 @@ details.</p>
 <p>2025 Term Letters <a href="/term-letter/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
 <hr>
-<p></p>
 <h4>Follow Our Instagram</h4>
 <table style="minWidth: 50px">
 <colgroup>
