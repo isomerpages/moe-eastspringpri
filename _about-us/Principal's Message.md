@@ -42,9 +42,6 @@ of discovery and growth with you.</p>
 <br>Mdm Neo Lay Wah
 <br>Principal</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/positive%20environment.jpeg">
-</div>
 <hr>
 <p>
 <br>
