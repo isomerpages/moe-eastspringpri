@@ -100,7 +100,7 @@ table, th, td {
 	</tr>
 	<tr>
 	<td>Special Educational Needs (SEN) Officer</td>
-	<td>Mdm Chiau Shuan li Joycelene</td>
+	<td>Ms Chiau Shuan li, Joycelene</td>
 	<td>chiau_shuan_li_joycelene@moe.edu.sg</td>
 	</tr>   
 <tr>
