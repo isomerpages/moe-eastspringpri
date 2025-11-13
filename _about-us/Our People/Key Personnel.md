@@ -241,7 +241,7 @@ table, th, td {
 	<td>khairunnisa_mohamed_hussain@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>ICT Manager (Adjunct)</td>
+	<td>ICT Manager</td>
 	<td>Ms Norliza Binte Dasuni</td>
 	<td>norliza_dasuni@moe.edu.sg</td>
 	</tr>
