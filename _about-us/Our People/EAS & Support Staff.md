@@ -75,6 +75,11 @@ table, th, td {
 	<td>Mdm Goh Magie@Goh Ah Keng</td>
 	<td></td>
 	</tr>
+		<tr>
+	<td>Operations Support Officer</td>
+	<td>Mr Teo Kau Thia</td>
+	<td></td>
+	</tr>
 
 </tbody></table>
 
