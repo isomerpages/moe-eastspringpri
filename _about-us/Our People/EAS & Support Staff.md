@@ -26,7 +26,7 @@ table, th, td {
 	<td>ng_lay_tin@moe.edu.sg</td>
 	</tr>
 <tr>
-<td>ICT Manager (Adjunct)</td>
+<td>ICT Manager</td>
 <td>Ms Norliza Binte Dasuni</td>
 <td>norliza_dasuni@moe.edu.sg</td>
 </tr>
@@ -51,12 +51,12 @@ table, th, td {
     <td>florence_loh_boon_hoon@moe.edu.sg</td>
 	</tr>
 			<tr>
-	<td>Corporate Support Officer (Adjunct)</td>
+	<td>Corporate Support Officer</td>
 	<td>Ms Syaheera Beevi Binte Mohamed</td>
     <td>syaheera_beevi_mohamed@moe.edu.sg</td>
 	</tr>
 			<tr>
-	<td>Operations Support Officer (Adjunct)</td>
+	<td>Operations Support Officer</td>
 	<td>Mdm Norlela Binte Kitang</td>
     <td></td>
 	</tr>
@@ -75,6 +75,11 @@ table, th, td {
 	<td>Mdm Goh Magie@Goh Ah Keng</td>
 	<td></td>
 	</tr>
+		<tr>
+	<td>Operations Support Officer</td>
+	<td>Mr Teo Kau Thia</td>
+	<td></td>
+	</tr>
 
 </tbody></table>
 
@@ -89,15 +94,20 @@ table, th, td {
 	<td>ng_poh_xian@moe.edu.sg</td>
 	</tr>
 <tr>
-	<td>Senior Special Educational Needs (SEN) officer</td>
+	<td>Senior Special Educational Needs (SEN) Officer</td>
 	<td>Mdm Liyana Binte Zainudin</td>
 	<td>liyana_zainudin@moe.edu.sg</td>
 	</tr>
 <tr>
-	<td>Special Educational Needs (SEN) officer</td>
+	<td>Special Educational Needs (SEN) Officer</td>
 	<td>Mdm Zarina Binte Abu Bakar</td>
 	<td>zarina_abu_bakar_a@moe.edu.sg</td>
-	</tr>    
+	</tr>
+	<tr>
+	<td>Special Educational Needs (SEN) Officer</td>
+	<td>Ms Chiau Shuan li, Joycelene</td>
+	<td>chiau_shuan_li_joycelene@moe.edu.sg</td>
+	</tr>   
 <tr>
 	<td>Allied Educator (Admin)</td>
 	<td>Mdm Aminah Bte Ahmat</td>
