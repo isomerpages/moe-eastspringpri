@@ -69,7 +69,7 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3>2025</h3>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/For Parents/Briefing Slides/Principal_s_Address_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
@@ -78,7 +78,7 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>P2</h4>
+<p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/For Parents/Briefing Slides/2025_P2_Year_Head_Talk.pdf" rel="noopener nofollow" target="_blank">P2 Year Head Talk</a>
@@ -87,7 +87,7 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>P3 &amp; P4</h4>
+<p>P3 &amp; P4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/For Parents/Briefing Slides/2025_P3_P4_Year_Head_Talk.pdf" rel="noopener nofollow" target="_blank">P3-P4 Year Head Talk</a>
@@ -96,7 +96,7 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>P5 &amp; P6</h4>
+<p>P5 &amp; P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/For Parents/Briefing Slides/2025_P5P6_Year_Head_Talk.pdf" rel="noopener nofollow" target="_blank">P5-P6 Year Head Talk</a>
