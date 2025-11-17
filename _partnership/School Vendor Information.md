@@ -103,7 +103,7 @@ Bus Registration Form.</p>
 <p>Booklist for P1-P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/booklist-2025/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
+<p><a href="/booklist/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 </p>
 </td>
 </tr>
