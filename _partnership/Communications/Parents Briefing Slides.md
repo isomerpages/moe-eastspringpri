@@ -5,7 +5,10 @@ description: ""
 variant: tiptap
 third_nav_title: Communications
 ---
-<h4><u>P1</u></h4>
+<h4><a href="/files/For Parents/Briefing Slides/Principal_s_Address_for_P1_Orientation_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Address_for P1 Orientation Nov 2025</a></h4>
+<h4><a href="/files/For Parents/Briefing Slides/Year_Head_Talk_Transitioning_to_P1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head Talk_Transitioning to P1 2026</a></h4>
+<p></p>
+<h4><u>P1 2025</u></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025_P1_Orientation_Finance_Admin_Pt1.pdf" rel="noopener noreferrer nofollow" target="_blank">Introduction Slide 2025</a>
