@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 third_nav_title: Communications
 ---
-<h4><u>P1</u></h4>
+<h4>2026 P1 Orientation Slides</h4>
+<p><a href="/files/For Parents/Briefing Slides/Principal_s_Address_for_P1_Orientation_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Address_for P1 Orientation</a>
+</p>
+<p><a href="/files/For Parents/Briefing Slides/Year_Head_Talk_Transitioning_to_P1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head Talk_Transitioning to P1 2026</a>
+</p>
+<h4><u>P1 2025</u></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025_P1_Orientation_Finance_Admin_Pt1.pdf" rel="noopener noreferrer nofollow" target="_blank">Introduction Slide 2025</a>
@@ -64,7 +69,7 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3>2025</h3>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/For Parents/Briefing Slides/Principal_s_Address_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
@@ -73,7 +78,7 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>P2</h4>
+<p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/For Parents/Briefing Slides/2025_P2_Year_Head_Talk.pdf" rel="noopener nofollow" target="_blank">P2 Year Head Talk</a>
@@ -82,7 +87,7 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>P3 &amp; P4</h4>
+<p>P3 &amp; P4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/For Parents/Briefing Slides/2025_P3_P4_Year_Head_Talk.pdf" rel="noopener nofollow" target="_blank">P3-P4 Year Head Talk</a>
@@ -91,7 +96,7 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>P5 &amp; P6</h4>
+<p>P5 &amp; P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/For Parents/Briefing Slides/2025_P5P6_Year_Head_Talk.pdf" rel="noopener nofollow" target="_blank">P5-P6 Year Head Talk</a>
