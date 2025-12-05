@@ -54,7 +54,12 @@ beans, tofu, and tempeh).
 <p>1. Download and complete the Application Form (click on the link below).
 You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
-<p>• Application Form for individual stallholder</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/MOE_Canteen_Application_Halal_Nasi_Padang_Stall.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual stallholder</a>
+</p>
+</li>
+</ul>
 <p>2. Attached the following documents together with the Application Form:</p>
 <p></p>
 <table style="minWidth: 50px">
@@ -110,7 +115,7 @@ the School’s General Office by the closing date.</p>
 <p>Contact No: 6786192</p>
 </li>
 <li>
-<p>Email: <a href="mailto:esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a> 
+<p>Email: <a href="mailto:esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a>
 </p>
 </li>
 <li>
