@@ -2,7 +2,6 @@ collections:
   partnership:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Partnership Overview.md
       - Assessment Matters/.keep
       - Assessment Matters/Overview Scope of Weighted Assessment.md
@@ -24,3 +23,4 @@ collections:
       - Parent Volunteer Scheme.md
       - Parent Support Group (PSG).md
       - Alumni.md
+      - School Canteen Advertisement.md
