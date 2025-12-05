@@ -30,11 +30,17 @@ description: East Spring School Canteen Advertisement
 <p>19 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal Nasi Padang is required. -Menu may include varieties such as steamed
-rice, meat dishes (e.g., ayam lemak, baked/grilled chicken, rendang), vegetable
-dishes (e.g. egg belado, sayur lodeh, stir-fried mixed vegetables, long
-beans, tofu, and tempeh).
-<br>- All halal and aligned with HPB Healthy Meals Guidelines.</p>
+<p>Halal Nasi Padang is required.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Menu may include varieties such as steamed rice, meat dishes (e.g., ayam
+lemak, baked/grilled chicken, rendang), vegetable dishes (e.g. egg belado,
+sayur lodeh, stir-fried mixed vegetables, long beans, tofu, and tempeh).</p>
+</li>
+<li>
+<p>All halal and aligned with HPB Healthy Meals Guidelines.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
