@@ -27,7 +27,7 @@ description: East Spring School Canteen Advertisement
 <p>Halal Nasi Padang Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 Dec 2025</p>
+<p>31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal Nasi Padang is required.</p>
@@ -45,13 +45,21 @@ sayur lodeh, stir-fried mixed vegetables, long beans, tofu, and tempeh).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Halal Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Halal Noodle Stall is required.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Menu may include varieties such as Mee Siam, Mee Soto, Mee rebus and Lontong.</p>
+</li>
+<li>
+<p>All halal and aligned with HPB Healthy Meals Guidelines.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
