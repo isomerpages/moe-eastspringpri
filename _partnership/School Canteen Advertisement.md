@@ -64,8 +64,6 @@ sayur lodeh, stir-fried mixed vegetables, long beans, tofu, and tempeh).</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<p></p>
 <h4>Application Procedure</h4>
 <p>1. Download and complete the Application Form (click on the link below).
 You may also request for a hardcopy of the Application Form from the School’s
