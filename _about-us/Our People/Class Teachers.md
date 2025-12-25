@@ -79,19 +79,20 @@ table, th, td {
 	<td>tock_swee_guan_william@moe.edu.sg</td>
 	</tr>
 	
-
-	<tr><td rowspan="3">1S5</td>
+<tr>
+	<td rowspan="3">1S5</td>
 	<td>Mdm Rohaya Mohamad</td>
 	<td>rohaya_mohamad@moe.edu.sg</td>
 	</tr>
 	<tr>
-<td>Mdm Shakilah Mohamed Ansari</td>
-<td>shakilah_mohamed_ansari@moe.edu.sg</td>
+	<td>Mdm Shakilah Mohamed Ansari</td>
+	<td>shakilah_mohamed_ansari@moe.edu.sg</td>
 </tr>
-<tr>
+	<tr>
 	<td>Mdm Rahmah Bte Rosdi</td>
 	<td>rahmah_rosdi@moe.edu.sg</td>
 </tr>
+
 	
 </tbody></table>
 
