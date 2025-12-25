@@ -37,88 +37,60 @@ table, th, td {
     <th style="width: 40%">Form Teachers</th>
 		<th style="width: 40%">Email</th><td>
   </td></tr>
+	
 <tr>
-	<td rowspan="3">1S1</td>
-	<td>Ms Nur Sabrina Binte Harun</td>
-	<td>nur_sabrina_harun@moe.edu.sg</td>
+	<td rowspan="2">1S1</td>
+	<td>Mdm Noor Zehan Bte Mohamed Rashid</td>
+	<td>noor_zehan_mohamed_rashid@moe.edu.sg</td>
 	</tr>
-	<tr>
-	<td>Mdm Peh Poh Li (Mrs Toh)</td>
-	<td>peh_poh_li@moe.edu.sg</td>
-</tr>
 		<tr>
-	<td>Mdm Huang Lin Lin</td>
-	<td>huang_linlin@moe.edu.sg</td>
-</tr>
-<tr>
-	<td rowspan="3">1S2</td>
-	<td>Ms Ng Su Ying</td>
-	<td>ng_su_ying@moe.edu.sg</td>
-</tr>
-	<tr>
 		<td>Mdm Syaza Binte Mohd Sallehhuddin</td>
 	<td>syaza_mohd_sallehuddin@moe.edu.sg</td>
 </tr>
-		<tr>
-		<td>Mdm Chan Yoke Ying</td>
-	<td>chan_yoke_ying_a@moe.edu.sg</td>
-</tr>
+
 <tr>
-	<td rowspan="3">1S3</td>
-	<td>Ms Ong Lay Ping</td>
-	<td>ong_lay_ping@moe.edu.sg</td>
-	</tr>
-	<tr>
-	<td>Mdm Nadirah Baharin</td>
-	<td>nadirah_baharin@moe.edu.sg</td>
+	<td rowspan="2">1S2</td>
+	<td>Mdm Siti Farhana Bte Subandi</td>
+	<td>siti_farhana_subandi@moe.edu.sg</td>
 </tr>
 		<tr>
-	<td>Mdm Ang Wai Ling, Sylvia (Mrs Chua)</td>
-	<td>ang_wai_ling_sylvia@moe.edu.sg</td>
-  </tr>
-		<tr>
-</tr>
-<tr>
-	<td rowspan="3">1S4</td>
-	<td>Mdm Yow Ting Ting (Audrey)</td>
-	<td>yow_ting_ting@moe.edu.sg</td>
-	</tr>
-	<tr>
-	<td> Ms Ong Lay Hoon Karen</td>
-	<td>ong_lay_hoon_karen_a@moe.edu.sg</td>
-		</tr>
-<tr>
-</tr>
-<tr>
-	<td rowspan="2">1S5</td>
-	<td>Mdm Aishah Binte Sidik</td>
-	<td>aishah_sidik@moe.edu.sg</td>
-	</tr>
-	<tr>
-	<td>Mr Kang Aik Kwan, Clement</td>
-	<td>kang_aik_kwan_clement@moe.edu.sg</td>
+		<td>Miss Thye Yu Xuan</td>
+	<td>thye_yu_xuan@moe.edu.sg</td>
 </tr>
 	
 <tr>
-	<td rowspan="2">1S6</td>
-	<td>Mdm Lau Kai Wen, Georgina</td>
-	<td>lau_kai_wen@moe.edu.sg</td>
+	<td rowspan="2">1S3</td>
+	<td>Mr Lee Gee Chye</td>
+	<td>lee_gee_chye@moe.edu.sg</td>
 	</tr>
-		<tr>
-	<td>Ms Lee Zhibin</td>
-	<td>lee_zhibin@moe.edu.sg</td>
-</tr>
-	<tr><td rowspan="3">1S7</td>
-	<td>Mdm Hairina Bte Hamzah</td>
-	<td>hairina_hamzah@moe.edu.sg</td>
-	</tr>
-		<tr>
-	<td>Mrs Christopher Francis Shearley </td>
-	<td>christopher_francis_shearl@moe.edu.sg</td>
-</tr>
 	<tr>
-	<td>Mdm Sarasvathy S Varathappan</td>
-	<td>sarasvathy_s_varathappa_n@moe.edu.sg</td>
+	<td>Mdm Tan Poh Ling</td>
+	<td>tan_poh_ling@moe.edu.sg</td>
+</tr>
+
+
+<tr>
+	<td rowspan="2">1S4</td>
+	<td>Mdm Sonika Kaur Dhaliwal</td>
+	<td>sonika_kaur_dhaliwal@moe.edu.sg</td>
+	</tr>
+	<tr>
+	<td>Mr Tock Swee Guan, William</td>
+	<td>tock_swee_guan_william@moe.edu.sg</td>
+	</tr>
+	
+
+	<tr><td rowspan="3">1S5</td>
+	<td>Mdm Rohaya Mohamad</td>
+	<td>rohaya_mohamad@moe.edu.sg</td>
+	</tr>
+	<tr>
+<td>Mdm Shakilah Mohamed Ansari</td>
+<td>shakilah_mohamed_ansari@moe.edu.sg</td>
+</tr>
+<tr>
+	<td>Mdm Rahmah Bte Rosdi</td>
+	<td>rahmah_rosdi@moe.edu.sg</td>
 </tr>
 	
 </tbody></table>
