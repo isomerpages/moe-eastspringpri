@@ -423,10 +423,10 @@ table, th, td {
 	<td>Miss Ng Hui Peng</td>
 	<td>ng_hui_peng@moe.edu.sg</td>
 </tr>
-
-
-
 </tbody></table>
+
+
+
 <br>
 <b><u>Primary 6</u></b>
 
