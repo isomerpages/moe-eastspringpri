@@ -97,14 +97,12 @@ table, th, td {
 
 <br>
 <table style="width:100%">
- 
-<tbody>
+ <tbody>
 	<tr>
 	<td><b>Year Head (Lower Primary)</b></td>
 	<td>Mdm Marhamah Binte Yusof</td>
 	<td>marhamah_yusof@moe.edu.sg</td>
 	</tr>
-
 	
 </tbody></table>
 <br>
@@ -366,7 +364,6 @@ table, th, td {
 </tbody></table>
 <br>
 <b><u>Primary 5</u></b>
-<br>
 <br><table style="width:100%">
 <tbody><tr>
     <th style="width: 20%">Class</th>
