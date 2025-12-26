@@ -367,7 +367,7 @@ table, th, td {
 <br>
 <b><u>Primary 5</u></b>
 <br>
-<table style="width:100%">
+<br><table style="width:100%">
 <tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
@@ -427,8 +427,16 @@ table, th, td {
 	<td>ng_hui_peng@moe.edu.sg</td>
 </tr>
 
-</tbody></table>
 
+</tbody></table><br><table style="width:100%">
+  <tbody>
+<tr>
+	<td><b>Year Head</b></td>
+	<td>Mdm Tok Shi Shi Shirlyn (Mrs Choo)</td>
+    <td>tok_shi_shi@moe.edu.sg</td>
+	</tr>
+
+</tbody></table>
 <br>
 <b><u>Primary 6</u></b>
 
@@ -440,45 +448,51 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="2">6G1</td>
-	<td>Mdm Wang Yimei, Amy (Mrs Tan)</td>
-	<td>wang_yimei_amy@moe.edu.sg</td>
+	<td>Ms Chew Chi Yin</td>
+	<td>chew_chi_yin@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Chan Pui Ping</td>
-	<td>chan_pui_ping@moe.edu.sg</td>
+	<td>Mdm Seah Wei Shan</td>
+	<td>seah_wei_shan@moe.edu.sgg</td>
  </tr>
 <tr>
-	<td rowspan="2">6G2</td>
-	<td>Miss Lee Sook San</td>
-	<td>lee_sook_san@moe.edu.sg</td>
+	<td rowspan="3">6G2</td>
+	<td>Ms Annie Yap Chin- Kit</td>
+	<td>yap_chin-kit@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>Miss Phua Su Hui, Sheramin</td>
-	<td>sheramin_phua_su_hui@moe.edu.sg</td>
-
+	<td>Mdm Siti Nafisa</td>
+	<td>siti_nafisa_mohd_daud@moe.edu.sg</td>
 </tr>
 <tr>
+	<td>Mr Mohamed Abdul Rauf </td>
+	<td>mohamed_abdul_rauf_mohamed@moe.edu.sg</td>
+ </tr>
+<tr>
 	<td rowspan="2">6G3</td>
-	<td>Mdm Tan Si Hui</td>
-	<td>tan_si_hui_a@moe.edu.sg</td>
+	<td>Mdm Gloria Lim Wei (Mrs Jones)</td>
+	<td>gloria_lim_wei@moe.edu.sg</td>
+	</tr>
+	<tr>
+	<td>Miss Lee Yen Lin Jenny</td>
+	<td>lee_yen_lin_jenny@moe.edu.sg</td>
+</tr>
+<tr>
+	<td rowspan="2">6G4</td>
+	<td>Mdm Jumaeyah Binte Zainal Abidin</td>
+	<td>jumaeyah_zainaiabidin@moe.edu.sg</td>
+	</tr>
+	<tr>
+		<td>Mr Choo Yew Teck, Jacky</td>
+	  <td>choo_yew_teck@moe.edu.sg</td>
+</tr>
+	<tr><td rowspan="2">6G5</td>
+	<td>Mdm Roslinah Binte Junali</td>
+	<td>roslinah_junali@moe.edu.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Norizan Bte Syed Ahamed</td>
 	<td>norizan_syed_ahamed@moe.edu.sg</td>
-
 </tr>
-<tr>
-	<td rowspan="3">6G4</td>
-	<td>Miss Ng Hui Peng</td>
-	<td>ng_hui_peng@moe.edu.sg</td>
-	</tr>
-	<tr>
-	<td>Mdm Chui Wenyan Wendy</td>
-	<td>chui_wenyan@moe.edu.sg</td>
-</tr>
-<tr>
-	<td>Mr Lukman Hakim Bin Mahmood</td>
-	<td>lukman_hakim_b_mahmood@moe.edu.sg</td>
-	</tr>
 
 </tbody></table>
