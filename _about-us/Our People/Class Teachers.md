@@ -189,7 +189,7 @@ table, th, td {
 	<tr>
 	<td><b>Assistant Year Head</b></td>
 	<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
-    <td>yeo_xueli_sally@moe.edu.sg</td>
+  <td>yeo_xueli_sally@moe.edu.sg</td>
 	</tr>
 
 </tbody></table>
@@ -203,58 +203,57 @@ table, th, td {
 		<th style="width: 40%">Email</th><td>
   </td></tr>
 <tr>
-	<td rowspan="2">3R1</td>
-	<td>Mdm Koh Hui Ling, Valerie</td>
-	<td>koh_hui_ling_valerie@moe.edu.sg</td>
-</tr>
-	<tr>
-	<td>Miss Quek Jia Xin</td>
-	<td>quek_jia_xin@moe.edu.sg</td>
-</tr>
-	
-<tr>
-	<td rowspan="2">3R2</td>
-	<td>Mdm Sonika Kaur Dhaliwal</td>
-	<td>sonika_kaur_dhaliwal@moe.edu.sg</td>
-	</tr>
-	<tr>
-	<td>Ms Shazwani Binte Mustaffa</td>
-	<td>shazwani_mustaffa@moe.edu.sg</td>
-</tr>
-	
-<tr>
-	<td rowspan="2">3R3</td>
+	<td rowspan="3">3R1</td>
 	<td>Mr Yam Hai Seng</td>
 	<td>yam_hai_seng@moe.edu.sg</td>
-	</tr>
+</tr>
 	<tr>
-	<td>Mdm Seng Leanne</td>
-	<td>seng_leanne@moe.edu.sg</td>
+	<td>Mdm Linda Tay Mei Hong (Mrs Goh)</td>
+	<td>linda_tay_mei_hong@moe.edu.sg</td>
+</tr>
+		<tr>
+	<td>Mdm Smita Quintal Kaur</td>
+	<td>smita_quintal_kaur@moe.edu.sg</td>
 </tr>
 <tr>
-	<td rowspan="3">3R4</td>
-	<td>Ahmad Syalabi Bin Adi Sunaryo</td>
-	<td>ahmad_syalabi_adi_sunaryo@moe.edu.sg</td>
+	<td rowspan="3">3R2</td>
+  <td>Miss Lam Yi Xin</td>
+  <td>lam_yi_xin@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>Mr Au Jian'An Melvin</td>
-	<td>au_jian_an_melvin@moe.edu.sg</td>
-  </tr>
-		<tr>
-
+	<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
+  <td>yeo_xueli_sally@moe.edu.sg</td>
+</tr>
+<tr>
+	<td>Miss Nur Fathiah Binte Razali</td>
+  <td>nur_fathiah_razali@moe.edu.sg</td>
+</tr>
+<tr>
+	<td rowspan="2">3R3</td>
+	<td>Mdm Wang Yimei, Amy (Mrs Tan)</td>
+	<td>wang_yimei_amy@moe.edu.sg</td>
+	</tr>
+	<tr>
+	<td>Mdm Hairina Bte Hamzah</td>
+	<td>hairina_hamzah@moe.edu.sg</td>
+</tr>
+<tr>
+	<td rowspan="2">3R4</td>
+	<td>Miss Wee Wanqing</td>
+	<td>wee_wanqing@moe.edu.sg</td>
+	</tr>
+	<tr>
+	<td>Mdm Tan Si Hui</td>
+	<td>tan_si_hui_a@moe.edu.sg</td>
   </tr>
   <tr>
-	<td rowspan="3">3R5</td>
-	<td>Mr Alif Zulhilmi Bin Zakaria</td>
-	<td>alif_zulhilmi_zakaria@moe.edu.sg</td>
+	<td rowspan="2">3R5</td>
+	<td>Miss Lee Sook San</td>
+	<td>lee_sook_san@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Quek Kah Hoon (Jasmin)</td>
-	<td>quek_kah_hoon@moe.edu.sg</td>
-</tr>
-		<tr>
-	<td>Mdm Rahmah Bte Rosdi</td>
-	<td>rahmah_rosdi@moe.edu.sg</td>
+	<td>Mr Chan Sin Liang</td>
+	<td>chan_sin_liang@moe.edu.sg</td>
 </tr>
 
 </tbody></table>
