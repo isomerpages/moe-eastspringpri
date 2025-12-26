@@ -428,13 +428,6 @@ table, th, td {
 </tr>
 
 
-</tbody></table><br><table style="width:100%">
-  <tbody>
-<tr>
-	<td><b>Year Head</b></td>
-	<td>Mdm Tok Shi Shi Shirlyn (Mrs Choo)</td>
-    <td>tok_shi_shi@moe.edu.sg</td>
-	</tr>
 
 </tbody></table>
 <br>
