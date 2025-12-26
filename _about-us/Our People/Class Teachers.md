@@ -356,8 +356,8 @@ table, th, td {
 	</tr>
 	<tr>
 	<td><b>Level IC</b></td>
-	<td>Mdm Seng Leanne</td>
-	<td>seng_leanne@moe.edu.sg</td>
+	<td>Mdm Chui Wenyan Wendy</td>
+	<td>chui_wenyan@moe.edu.sg</td>
 	</tr>
 
 </tbody></table>
@@ -428,14 +428,9 @@ table, th, td {
 <table style="width:100%">
  
 <tbody><tr>
-	<td><b>Year Head (Upper Primary)</b></td>
+	<td><b>Year Head </b></td>
 	<td>Mdm Tok Shi Shi Shirlyn (Mrs Choo)</td>
     <td>tok_shi_shi@moe.edu.sg</td>
-	</tr>
-	<tr>
-	<td><b>Level IC</b></td>
-	<td>Mdm Seng Leanne</td>
-	<td>seng_leanne@moe.edu.sg</td>
 	</tr>
 	
 </tbody></table>
