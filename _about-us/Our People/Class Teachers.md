@@ -363,7 +363,7 @@ table, th, td {
 </tbody></table>
 <br>
 <b><u>Primary 5</u></b>
-<br><table style="width:100%">
+<table style="width:100%">
 <tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
