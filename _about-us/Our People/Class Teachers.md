@@ -186,11 +186,9 @@ table, th, td {
 </tbody></table>
 <br>
 <b><u>Primary 3 Form Teachers</u></b>
-	 
 
-<br>
 <br><table style="width:100%">
-  <tbody>
+<tbody>
 <tr>
 	<td><b>Year Head (Middle Primary)</b></td>
 	<td>Mdm Marhamah Binte Yusof</td>
@@ -201,7 +199,6 @@ table, th, td {
 	<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
   <td>yeo_xueli_sally@moe.edu.sg</td>
 	</tr>
-
 
 </tbody></table><table style="width:100%">
 <tbody><tr>
@@ -268,8 +265,6 @@ table, th, td {
 <br>
 <b><u>Primary 4 Form Teachers</u></b>
 		
-
-<br>
 <table style="width:100%">
 <tbody><tr>
 	<td><b>Year Head (Upper Primary)</b></td>
@@ -348,8 +343,6 @@ table, th, td {
 <br>
 <b><u>Primary 5 Form Teachers</u></b>
 	
-
-<br>
 <table style="width:100%">
  
 <tbody><tr>
@@ -435,8 +428,6 @@ table, th, td {
     <td>tok_shi_shi@moe.edu.sg</td>
 	</tr>
 	
-
-
 </tbody></table><table style="width:100%">
 <tbody><tr>
     <th style="width: 20%">Class</th>
