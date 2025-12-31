@@ -187,7 +187,7 @@ table, th, td {
 <br>
 <b><u>Primary 3 Form Teachers</u></b>
 
-<br><table style="width:100%">
+<table style="width:100%">
 <tbody>
 <tr>
 	<td><b>Year Head (Middle Primary)</b></td>
