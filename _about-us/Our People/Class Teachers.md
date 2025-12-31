@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our People
 variant: markdown
 ---
-
 <br>
 <b><u>Primary 1 Form Teacher</u></b>
 
@@ -96,6 +95,9 @@ table, th, td {
 </tr>
 
 </tbody></table>
+<br>
+<b><u>Primary 2 Form Teachers</u></b>
+
 
 <br>
 <table style="width:100%">
@@ -106,11 +108,7 @@ table, th, td {
 	<td>marhamah_yusof@moe.edu.sg</td>
 	</tr>
 	
-</tbody></table>
-<br>
-<b><u>Primary 2</u></b>
-
-<table style="width:100%">
+</tbody></table><table style="width:100%">
 <tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
@@ -188,14 +186,17 @@ table, th, td {
 
 
 </tbody></table>
+<br>
+<b><u>Primary 3 Form Teachers</u></b>
+	 
 
 <br>
-<table style="width:100%">
+<br><table style="width:100%">
   <tbody>
 <tr>
 	<td><b>Year Head (Middle Primary)</b></td>
-	<td>Mr Loo Leong Tuan</td>
-	<td>loo_leong_tuan@moe.edu.sg</td>
+	<td>Mdm Marhamah Binte Yusof</td>
+	<td>marhamah_yusof@moe.edu.sg</td>
 	</tr>
 	<tr>
 	<td><b>Assistant Year Head</b></td>
@@ -203,11 +204,8 @@ table, th, td {
   <td>yeo_xueli_sally@moe.edu.sg</td>
 	</tr>
 
-</tbody></table>
-<br>
-<b><u>Primary 3</u></b>
-<br>
-<table style="width:100%">
+
+</tbody></table><table style="width:100%">
 <tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
@@ -267,11 +265,14 @@ table, th, td {
 	<td>chan_sin_liang@moe.edu.sg</td>
 </tr>
 
+	
 </tbody></table>
+<br>
+<b><u>Primary 4 Form Teachers</u></b>
+		
 
 <br>
 <table style="width:100%">
- 
 <tbody><tr>
 	<td><b>Year Head (Upper Primary)</b></td>
 	<td>Mdm Tok Shi Shi Shirlyn (Mrs Choo)</td>
@@ -283,12 +284,9 @@ table, th, td {
 	<td>seng_leanne@moe.edu.sg</td>
 	</tr>
 
-	
-</tbody></table>
-<br>
-<b><u>Primary 4</u></b>
 
-<table style="width:100%">
+
+</tbody></table><table style="width:100%">
 <tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
@@ -347,7 +345,12 @@ table, th, td {
 	<td>lukman_hakim_b_mahmood@moe.edu.sg</td>
   </tr>
 
+
 </tbody></table>
+<br>
+<b><u>Primary 5 Form Teachers</u></b>
+	
+
 <br>
 <table style="width:100%">
  
@@ -362,10 +365,7 @@ table, th, td {
 	<td>chui_wenyan@moe.edu.sg</td>
 	</tr>
 
-</tbody></table>
-<br>
-<b><u>Primary 5</u></b>
-<table style="width:100%">
+</tbody></table><table style="width:100%">
 <tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
@@ -427,6 +427,10 @@ table, th, td {
 
 </tbody></table>
 <br>
+<b><u>Primary 6 Form Teachers</u></b>
+	
+
+<br>
 <table style="width:100%">
  
 <tbody><tr>
@@ -435,11 +439,9 @@ table, th, td {
     <td>tok_shi_shi@moe.edu.sg</td>
 	</tr>
 	
-</tbody></table>
-<br>
-<b><u>Primary 6</u></b>
 
-<table style="width:100%">
+
+</tbody></table><table style="width:100%">
 <tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
