@@ -49,22 +49,17 @@ table, th, td {
 		<td>tok_shi_shi@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>Year Head (Middle Primary)</td>
-			<td>Mr Loo Leong Tuan</td>
-		<td>loo_leong_tuan@moe.edu.sg</td>
-	</tr>
-			<tr>
-				<td>Assistant Year Head (Middle Pri)</td>
-			<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
-		<td>yeo_xueli_sally@moe.edu.sg</td>
-	</tr>
-					<tr>
-						<td>Year Head (Lower Primary)</td>
+	<td>Year Head (Lower &amp; Middle Primary)</td>
 			<td>Mdm Marhamah Binte Yusof</td>
 		<td>marhamah_yusof@moe.edu.sg</td>
 	</tr>
-					<tr>
-						<td>Assistant Year Head (Lower Pri)</td>
+			<tr>
+				<td>Assistant Year Head (Middle Primary)</td>
+			<td>Mdm Sally Yeo Xueli (Mrs Koh)</td>
+		<td>yeo_xueli_sally@moe.edu.sg</td>
+	</tr>
+	  <tr>
+						<td>Assistant Year Head (Lower Primary)</td>
 			<td>Mdm Shakilah Binte Mohamed Ansari</td>
 		<td>shakilah_mohamed_ansari@moe.edu.sg</td>
 	</tr>				
