@@ -36,7 +36,6 @@ table, th, td {
 	</tr>
 </tbody></table>
 
-<br>
 <table style="width:100%">
   <tbody><tr>
     <th style="width: 30%">Student Development Team (SDT)</th>
