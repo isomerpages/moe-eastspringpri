@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Our People
 variant: markdown
 ---
+
+<br>
+<b><u>Primary 1 Form Teacher</u></b>
+
 <style>
 table, th, td {
   border: 1px solid #D3D3D3;
@@ -27,11 +31,9 @@ table, th, td {
     <td>shakilah_mohamed_ansari@moe.edu.sg</td>
 	</tr>
 
-</tbody></table>
-<br>
-<b><u>Primary 1</u></b>
 
-<table style="width:100%">
+
+</tbody></table><table style="width:100%">
 <tbody><tr>
     <th style="width: 20%">Class</th>
     <th style="width: 40%">Form Teachers</th>
