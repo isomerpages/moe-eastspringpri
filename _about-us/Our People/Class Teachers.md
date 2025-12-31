@@ -98,8 +98,6 @@ table, th, td {
 <br>
 <b><u>Primary 2 Form Teachers</u></b>
 
-
-<br>
 <table style="width:100%">
  <tbody>
 	<tr>
