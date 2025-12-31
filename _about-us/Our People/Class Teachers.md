@@ -426,9 +426,7 @@ table, th, td {
 </tbody></table>
 <br>
 <b><u>Primary 6 Form Teachers</u></b>
-	
 
-<br>
 <table style="width:100%">
  
 <tbody><tr>
