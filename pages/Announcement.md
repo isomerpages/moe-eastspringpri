@@ -8,11 +8,7 @@ description: Announcement
 <br><em>Click </em><a href="/school-canteen-advertisement/" rel="noopener nofollow" target="_blank">here</a><em> for details</em>
 </p>
 <hr>
-<h4>2026 Orientation Slides</h4>
-<p><a href="/files/For Parents/Briefing Slides/Principal_s_Address_for_P1_Orientation_Nov_2025.pdf" rel="noopener nofollow" target="_blank">Principal's Address_for P1 Orientation</a>
-</p>
-<p><a href="/files/For Parents/Briefing Slides/Year_Head_Talk_Transitioning_to_P1_2026.pdf" rel="noopener nofollow" target="_blank">Year Head Talk_Transitioning to P1 2026</a>
-</p>
+<h4><a href="/parents/parents-briefing-slides/" rel="noopener nofollow" target="_blank">2026 Briefing Slides</a></h4>
 <hr>
 <h4>2026 Booklist</h4>
 <p>For all levels <a href="/booklist/" rel="noopener nofollow" target="_blank">HERE</a>
