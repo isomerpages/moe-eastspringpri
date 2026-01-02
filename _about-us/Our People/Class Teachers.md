@@ -20,7 +20,7 @@ table, th, td {
 <table style="width:100%">
 
 <tbody><tr>
-	<td><b>Year Head (Lower Primary)</b></td>
+	<td><b>Year Head</b></td>
 	<td>Mdm Marhamah Binte Yusof</td>
 	<td>marhamah_yusof@moe.edu.sg</td>
 	</tr>
@@ -101,7 +101,7 @@ table, th, td {
 <table style="width:100%">
  <tbody>
 	<tr>
-	<td><b>Year Head (Lower Primary)</b></td>
+	<td><b>Year Head</b></td>
 	<td>Mdm Marhamah Binte Yusof</td>
 	<td>marhamah_yusof@moe.edu.sg</td>
 	</tr>
@@ -190,7 +190,7 @@ table, th, td {
 <table style="width:100%">
 <tbody>
 <tr>
-	<td><b>Year Head (Middle Primary)</b></td>
+	<td><b>Year Head</b></td>
 	<td>Mdm Marhamah Binte Yusof</td>
 	<td>marhamah_yusof@moe.edu.sg</td>
 	</tr>
