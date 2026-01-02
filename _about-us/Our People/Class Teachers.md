@@ -267,7 +267,7 @@ table, th, td {
 		
 <table style="width:100%">
 <tbody><tr>
-	<td><b>Year Head (Upper Primary)</b></td>
+	<td><b>Year Head</b></td>
 	<td>Mdm Tok Shi Shi Shirlyn (Mrs Choo)</td>
     <td>tok_shi_shi@moe.edu.sg</td>
 	</tr>
@@ -346,7 +346,7 @@ table, th, td {
 <table style="width:100%">
  
 <tbody><tr>
-	<td><b>Year Head (Upper Primary)</b></td>
+	<td><b>Year Head</b></td>
 	<td>Mdm Tok Shi Shi Shirlyn (Mrs Choo)</td>
     <td>tok_shi_shi@moe.edu.sg</td>
 	</tr>
