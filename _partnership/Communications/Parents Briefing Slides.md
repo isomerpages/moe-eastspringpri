@@ -10,6 +10,30 @@ third_nav_title: Communications
 </p>
 <p><a href="/files/For Parents/Briefing Slides/Year_Head_Talk_Transitioning_to_P1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head Talk_Transitioning to P1 2026</a>
 </p>
+<h4>2026 P1 Briefing Slides</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parents Briefing Slides/P1 2026/Grow_Well_SG_presentation_for_P1_parents_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Grow Well SG</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Briefing Slides/P1 2026/P1_YH_Talk_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Year Head Talk</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Briefing Slides/P1 2026/EL_P1__2026_.pdf" rel="noopener nofollow" target="_blank">P1 English Language Department Curriculum Sharing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Briefing Slides/P1 2026/MA_P1__2026_.pdf" rel="noopener nofollow" target="_blank">P1 Mathematics Curriculum</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents Briefing Slides/P1 2026/MTL_P1_Parents_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">P1 Mother Tongue Languages (MTL) Curriculum</a>
+</p>
+</li>
+</ul>
+<p></p>
 <h4><u>P1 2025</u></h4>
 <ol data-tight="true" class="tight">
 <li>
