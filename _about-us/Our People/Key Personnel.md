@@ -48,6 +48,11 @@ table, th, td {
 			<td>Mdm Tok Shi Shi (Mrs Choo)</td>
 		<td>tok_shi_shi@moe.edu.sg</td>
 	</tr>
+			  <tr>
+						<td>Assistant Year Head (Upper Primary)</td>
+	<td>Mdm Chui Wenyan Wendy</td>
+	<td>chui_wenyan@moe.edu.sg</td>
+	</tr>		
 	<tr>
 	<td>Year Head (Lower &amp; Middle Primary)</td>
 			<td>Mdm Marhamah Binte Yusof</td>
