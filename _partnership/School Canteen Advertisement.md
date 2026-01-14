@@ -27,7 +27,7 @@ description: East Spring School Canteen Advertisement
 <p>Halal Nasi Padang Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Dec 2025</p>
+<p>31 Mar 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal Nasi Padang is required.</p>
@@ -48,7 +48,7 @@ sayur lodeh, stir-fried mixed vegetables, long beans, tofu, and tempeh).</p>
 <p>Halal Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Dec 2025</p>
+<p>31 Mar 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal Noodle Stall is required.</p>
