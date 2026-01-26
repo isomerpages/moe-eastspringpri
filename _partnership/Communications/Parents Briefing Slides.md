@@ -53,7 +53,8 @@ third_nav_title: Communications
 <p>P2 &amp; P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal and Year Head Talk</p>
+<p><a href="/files/For Parents/2026 Briefing Slides/2026_Parents_Briefing_by_SL_and_YH_P2_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal and Year Head Talk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +62,8 @@ third_nav_title: Communications
 <p>P4 to P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal and Year Head Talk</p>
+<p><a href="/files/For Parents/2026 Briefing Slides/2026_Parents_Briefing_by_SL_and_YH_P456.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal and Year Head Talk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +71,8 @@ third_nav_title: Communications
 <p>P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Curriculum Slides</p>
+<p><a href="/files/For Parents/2026 Briefing Slides/P2_EMMT_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Curriculum Slides</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +80,43 @@ third_nav_title: Communications
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Curriculum Slides</p>
+<p><a href="/files/For Parents/2026 Briefing Slides/P3_EMSMT_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Curriculum Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/For Parents/2026 Briefing Slides/P4_EMSMT_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Curriculum Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/For Parents/2026 Briefing Slides/P5_EMSMT_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Curriculum Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/For Parents/2026 Briefing Slides/P6_EMSMT_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Curriculum Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
