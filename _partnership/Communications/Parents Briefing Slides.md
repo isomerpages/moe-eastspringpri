@@ -5,16 +5,14 @@ description: ""
 variant: tiptap
 third_nav_title: Communications
 ---
-<h4>2026 P1 Orientation Slides</h4>
+<h4>2026 P1 Orientation &amp; Briefing Slides</h4>
 <p><a href="/files/For Parents/Briefing Slides/Principal_s_Address_for_P1_Orientation_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Address_for P1 Orientation</a>
 </p>
 <p><a href="/files/For Parents/2026 P1 Briefing Slides/Year_Head_Talk_Transitioning_to_P1_2026.pdf" rel="noopener nofollow" target="_blank">Year Head Talk Transitioning to P1 2026</a>
 </p>
-<h4>2026 P1 Briefing Slides</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents Briefing Slides/P1 2026/Grow_Well_SG_presentation_for_P1_parents_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Grow </a>
-<a href="/files/For Parents/2026 P1 Briefing Slides/Grow_Well_SG_presentation_for_P1_parents_2026.pdf" rel="noopener nofollow" target="_blank">Well</a><a href="/files/Parents Briefing Slides/P1 2026/Grow_Well_SG_presentation_for_P1_parents_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">SG</a>
+<p><a href="/files/For Parents/2026 P1 Briefing Slides/Grow_Well_SG_presentation_for_P1_parents_2026.pdf" rel="noopener nofollow" target="_blank">Grow Well SG</a>
 </p>
 </li>
 <li>
@@ -41,6 +39,14 @@ third_nav_title: Communications
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="2">
 <h4>2026 Parents' Briefing</h4>
