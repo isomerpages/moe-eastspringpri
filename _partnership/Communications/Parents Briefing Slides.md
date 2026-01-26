@@ -8,7 +8,7 @@ third_nav_title: Communications
 <h4>2026 P1 Orientation Slides</h4>
 <p><a href="/files/For Parents/Briefing Slides/Principal_s_Address_for_P1_Orientation_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Address_for P1 Orientation</a>
 </p>
-<p><a href="/files/For Parents/Briefing Slides/Year_Head_Talk_Transitioning_to_P1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head Talk_Transitioning to P1 2026</a>
+<p><a href="/files/For Parents/2026 P1 Briefing Slides/Year_Head_Talk_Transitioning_to_P1_2026.pdf" rel="noopener nofollow" target="_blank">Year Head Talk Transitioning to P1 2026</a>
 </p>
 <h4>2026 P1 Briefing Slides</h4>
 <ul data-tight="true" class="tight">
