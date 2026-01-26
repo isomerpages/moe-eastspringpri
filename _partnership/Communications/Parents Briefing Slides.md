@@ -13,30 +13,28 @@ third_nav_title: Communications
 <h4>2026 P1 Briefing Slides</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents Briefing Slides/P1 2026/Grow_Well_SG_presentation_for_P1_parents_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Grow Well SG</a>
+<p><a href="/files/Parents Briefing Slides/P1 2026/Grow_Well_SG_presentation_for_P1_parents_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Grow </a>
+<a href="/files/For Parents/2026 P1 Briefing Slides/Grow_Well_SG_presentation_for_P1_parents_2026.pdf" rel="noopener nofollow" target="_blank">Well</a><a href="/files/Parents Briefing Slides/P1 2026/Grow_Well_SG_presentation_for_P1_parents_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">SG</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents Briefing Slides/P1 2026/P1_YH_Talk_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Year Head Talk</a>
+<p><a href="/files/For Parents/2026 P1 Briefing Slides/P1_YH_Talk_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Year Head Talk</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents Briefing Slides/P1 2026/EL_P1__2026_.pdf" rel="noopener nofollow" target="_blank">P1 English Language Department Curriculum Sharing</a>
+<p><a href="/files/For Parents/2026 P1 Briefing Slides/EL_P1__2026_.pdf" rel="noopener nofollow" target="_blank">P1 English Language Department Curriculum</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents Briefing Slides/P1 2026/MA_P1__2026_.pdf" rel="noopener nofollow" target="_blank">P1 Mathematics Curriculum</a>
+<p><a href="/files/For Parents/2026 P1 Briefing Slides/MA_P1__2026_.pdf" rel="noopener nofollow" target="_blank">P1 Mathematics Curriculum</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Parents Briefing Slides/P1 2026/MTL_P1_Parents_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">P1 Mother Tongue Languages (MTL) Curriculum</a>
+<p><a href="/files/For Parents/2026 P1 Briefing Slides/MTL_P1_Parents_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">P1 Mother Tongue Languages (MTL) Curriculum</a>
 </p>
 </li>
 </ul>
 <p></p>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
