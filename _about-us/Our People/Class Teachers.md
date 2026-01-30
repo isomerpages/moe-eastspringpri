@@ -71,13 +71,17 @@ table, th, td {
 
 
 <tr>
-	<td rowspan="2">1S4</td>
-	<td>Mdm Sonika Kaur Dhaliwal</td>
-	<td>sonika_kaur_dhaliwal@moe.edu.sg</td>
+	<td rowspan="3">1S4</td>
+<td>Mdm Ang Wai Ling, Sylvia (Mrs Chua)</td>
+<td>ang_wai_ling_sylvia@moe.edu.sg</td>
 	</tr>
 	<tr>
 	<td>Mr Tock Swee Guan, William</td>
 	<td>tock_swee_guan_william@moe.edu.sg</td>
+	</tr>
+		<tr>
+	<td>Mdm Jumidah Bte Mohd Said</td>
+	<td>jumidah_mohd_said_a@moe.edu.sg</td>
 	</tr>
 	
 <tr>
@@ -178,9 +182,8 @@ table, th, td {
 	<td>Mdm Sarasvathy S Varathappan</td>
 	<td>sarasvathy_s_varathappa_n@moe.edu.sg</td>
 </tr>
-	<tr><td>Mdm Ang Wai Ling, Sylvia (Mrs Chua)</td>
-	<td>ang_wai_ling_sylvia@moe.edu.sg</td>
-</tr>
+
+
 
 
 </tbody></table>
@@ -242,7 +245,7 @@ table, th, td {
 	<td>hairina_hamzah@moe.edu.sg</td>
 </tr>
 <tr>
-	<td rowspan="2">3R4</td>
+	<td rowspan="3">3R4</td>
 	<td>Miss Wee Wanqing</td>
 	<td>wee_wanqing@moe.edu.sg</td>
 	</tr>
@@ -250,6 +253,10 @@ table, th, td {
 	<td>Mdm Tan Si Hui</td>
 	<td>tan_si_hui_a@moe.edu.sg</td>
   </tr>
+			<tr>
+	<td>Mrs Christopher Francis Shearley </td>
+	<td>christopher_francis_shearl@moe.edu.sg</td>
+</tr>
   <tr>
 	<td rowspan="2">3R5</td>
 	<td>Miss Lee Sook San</td>
