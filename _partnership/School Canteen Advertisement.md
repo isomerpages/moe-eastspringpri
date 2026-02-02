@@ -43,25 +43,6 @@ sayur lodeh, stir-fried mixed vegetables, long beans, tofu, and tempeh).</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Halal Noodle Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 Mar 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Halal Noodle Stall is required.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Menu may include varieties such as Mee Siam, Mee Soto, Mee rebus and Lontong.</p>
-</li>
-<li>
-<p>All halal and aligned with HPB Healthy Meals Guidelines.</p>
-</li>
-</ul>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Application Procedure</h4>
