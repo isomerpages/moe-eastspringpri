@@ -6,15 +6,20 @@ description: ""
 third_nav_title: Assessment Matters
 ---
 <h2>School-Based Assessments and Weighted Assessment Schedule</h2>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>2026 </h4>
+<h4>2026</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -22,20 +27,20 @@ third_nav_title: Assessment Matters
 <p><a href="/files/For Parents/Term Assessment/ESPSPC_2026_022_P3_Sch_Based_Assm___WA1_Schd.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Term 2</p>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
