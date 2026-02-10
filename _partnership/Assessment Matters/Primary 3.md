@@ -5,13 +5,48 @@ variant: tiptap
 description: ""
 third_nav_title: Assessment Matters
 ---
-<h4><u>2025</u></h4>
+<h2>School-Based Assessments and Weighted Assessment Schedule</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>2026 </h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="/files/For Parents/Term Assessment/ESPSPC_2026_022_P3_Sch_Based_Assm___WA1_Schd.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Term 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>2025</h4>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><a href="/files/For Parents/Term Assessment/P3_Assessment_Matters_for_website.pdf" rel="noopener nofollow" target="_blank">Schedule of Weighted Assessment for Primary 3</a>
