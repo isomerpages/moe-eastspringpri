@@ -93,11 +93,7 @@ table, th, td {
 	<td>Miss Quek Kah Hoon, Jasmin</td>
 	<td>quek_kah_hoon@moe.edu.sg</td>
 	</tr>
-<tr>
-	<td>HOD / Science</td>
-	<td>Miss Lee Sook San</td>
-	<td>lee_sook_san@moe.edu.sg</td>
-	</tr>
+
 <tr>
 	<td>HOD / Physical Education, CCA &amp; Aesthetics</td>
 	<td>Mr Muhammad Azhari Bin Shahri</td>
