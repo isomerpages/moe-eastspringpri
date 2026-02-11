@@ -219,8 +219,7 @@ table, th, td {
 	<td>linda_tay_mei_hong@moe.edu.sg</td>
 </tr>
 		<tr>
-	<td>Mdm Smita Quintal Kaur</td>
-	<td>smita_quintal_kaur@moe.edu.sg</td>
+
 </tr>
 <tr>
 	<td rowspan="3">3R2</td>
@@ -250,8 +249,7 @@ table, th, td {
 	<td>wee_wanqing@moe.edu.sg</td>
 	</tr>
 	<tr>
-	<td>Mdm Tan Si Hui</td>
-	<td>tan_si_hui_a@moe.edu.sg</td>
+
   </tr>
 			<tr>
 	<td>Mrs Christopher Francis Shearley </td>
@@ -259,13 +257,10 @@ table, th, td {
 </tr>
   <tr>
 	<td rowspan="2">3R5</td>
-	<td>Miss Lee Sook San</td>
-	<td>lee_sook_san@moe.edu.sg</td>
-	</tr>
-	<tr>
 	<td>Mr Chan Sin Liang</td>
 	<td>chan_sin_liang@moe.edu.sg</td>
-</tr>
+	</tr>
+
 
 	
 </tbody></table>
