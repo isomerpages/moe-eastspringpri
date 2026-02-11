@@ -14,27 +14,18 @@ third_nav_title: Assessment Matters
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <h4>2026</h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="/files/For Parents/Term Assessment/ESPSPC_2026_023_P4_Sch_Based_Assm___WA1_Schd.pdf" rel="noopener nofollow" target="_blank">Term 1</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -53,12 +44,9 @@ third_nav_title: Assessment Matters
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="/files/For Parents/Term Assessment/P4_Assessment_Matters_for_website.pdf" rel="noopener nofollow" target="_blank">Schedule of Weighted Assessment for Primary 4</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
