@@ -427,11 +427,10 @@ and learn to behave maturely towards each other.</p>
 <p>8.&nbsp;Parents may opt their children out of the Growing Years programme,
 and/or supplementary sexuality education programmes by MOE-approved external
 providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the Sexuality Education lessons need to complete an opt-out form.
-This form will be communicated to parents at the start of the year and
-is also downloadable <a href="/files/SexEd/Parent_Opt_out_Form.pdf" rel="noopener nofollow" target="_blank">here</a> The
-completed opt-out form is to be submitted by 25/09/2026.</p>
+<p>9.&nbsp;Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <a href="https://form.gov.sg/698c33ac232561b03221885c" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 25/09/2026.</p>
 <p>10. Parents can also contact the school at 67866192 or email the school
 to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
