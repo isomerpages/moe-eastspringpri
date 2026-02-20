@@ -4,31 +4,33 @@ permalink: /aesthetic-department/
 variant: tiptap
 description: Aesthetic
 ---
-<p><strong>“We’ll be back soon!</strong>
-</p>
-<p>Thank you for visiting. Our page is currently being fine-tuned and will
-be back shortly.</p>
-<p>In the meantime, if you have any questions, please feel free to reach
-us at <strong><a href="mailto:esps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esps@moe.edu.sg</a></strong>.
-We truly appreciate your patience and understanding.”</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p>At East Spring Primary School, our vibrant arts programme ignites creativity
+through engaging Art and Music lessons. Beyond the classroom, students
+explore artistic expression through enrichment activities and recess programmes,
+fostering a deep appreciation for the arts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="web_maintenance" src="/images/Webpage_Maintenance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Enrichment activities" src="/images/Departments/Aesthetics/Aes_Pic1.png">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Through our signature programmes - 'ArtsXplosion', 'E'lights Shine!' and
+‘Doodle Wall' - students explore diverse artistic styles and musical genres
+while developing confidence in showcasing their creative talents.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="artistic styles" src="/images/Departments/Aesthetics/Pic2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Doodle Wall" src="/images/Departments/Aesthetics/Pic3.png">
+</div>
+<p>Our innovative Music Card and Art Scribble Quest programmes extend learning
+beyond the classroom, encouraging students to explore arts and music while
+creating meaningful family bonding experiences.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art Scribble" src="/images/Departments/Aesthetics/Pic4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Music Card" src="/images/Departments/Aesthetics/Pic5.png">
+</div>
 <p></p>
