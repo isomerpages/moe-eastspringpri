@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - INFORMATION & COMMUNICATION (ICT) DEPARTMENT.md
       - English Language Department/.keep
       - English Language Department/English Language Department.md
       - English Language Department/Strategies.md
