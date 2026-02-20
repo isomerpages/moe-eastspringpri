@@ -59,6 +59,57 @@ hands-on and problem-based.)</p>
 </div>
 <p><strong>Cyber Wellness @ ESPS</strong>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cyber Wellness refers to the positive well-being of Internet users. It
+involves an understanding of the dangers of harmful online behaviours,
+an awareness of how to protect yourself and other Internet users from such
+dangers. Cyber Wellness @ ESPS <s>aims to look at</s> &nbsp;focuses ? on<s> the</s> positive
+well-being and developing a healthy cyber culture amongst our pupils, aligned
+to MOE’s Cyber Wellness Framework.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p>The Cyber Wellness Curriculum @ ESPS is as follows:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cyber Wellness" src="/images/Departments/ICT/Cyber_Wellness_Curriculum.png">
+</div>
 <p></p>
