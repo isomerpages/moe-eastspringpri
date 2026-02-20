@@ -82,8 +82,8 @@ skills through a problem-solving approach;</p>
 and friendly competitions are organised for our students. These experiences
 provide opportunities for them to apply their Mathematical and Science
 knowledge in real-life situations, deepening their understanding and appreciation
-of both subjects.
-<br>Across all levels from Primary 1 to Primary 6, students take part in a
+of both subjects.</p>
+<p>Across all levels from Primary 1 to Primary 6, students take part in a
 vibrant array of hands-on activities that encourage exploration and discovery.
 During recess, they engage in purposeful educational play that strengthens
 their factual fluency, enhances visualisation skills and develops logical
