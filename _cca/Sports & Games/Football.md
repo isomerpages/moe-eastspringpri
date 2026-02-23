@@ -37,6 +37,19 @@ regular training and competitive</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Football" src="/images/CCA/Football2026.png">
 </div>
+<p><u>Achievements</u>
+</p>
+<p><strong>Football National School Games Competition 2023</strong>
+</p>
+<p>Senior Boys - Classification and tiered round – 2<sup>nd</sup>
+</p>
+<p><strong>Football National School Games Competition 2024</strong>
+</p>
+<p>Senior Boys - Top 6 in League 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Junior Boys - 2<sup>nd</sup> in position in Tier 2</p>
+<p><strong>Football National School Games Competition 2025</strong>
+</p>
+<p>Senior Boys – 2<sup>nd</sup> in League 3</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
