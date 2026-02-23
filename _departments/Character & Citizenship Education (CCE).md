@@ -162,7 +162,9 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
 </li>
 </ul>
-<h4><strong>At East Spring Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong><br><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>At East Spring Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong></h4>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
+</p>
 <h4><strong><u>Primary 5</u></strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -394,6 +396,5 @@ to parents at the start of the year and is also available <a href="https://form.
 The completed opt-out form is to be submitted by 25/09/2026.</p>
 <p>10. Parents can also contact the school at 67866192 or email the school
 to seek clarification about the school’s Sexuality Education programme.</p>
-<p></p>
 <p></p>
 <p></p>
