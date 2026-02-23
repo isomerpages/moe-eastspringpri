@@ -5,19 +5,29 @@ variant: tiptap
 description: ""
 third_nav_title: Sports & Games
 ---
-<p>The Volleyball CCA was set up since school was founded in 1999. The objective
-of the Volleyball CCA is to build the volleyball skills in each player
-and give them the opportunity to participate in the annual East Zone and
-National Inter-School Volleyball Competitions. Our teachers and coaches
-strongly believe that a player’s character determines his performance in
-the court. Thus, we are committed to develop our Volleyball players holistically.
-Our P6 Volleyball players have developed a passion and talent for Volleyball
-and have been identified by secondary schools such as Hwa Chong Institution,
-Dunman High School, Victoria School, Dunman Secondary School and Ngee Ann
-Secondary School for Direct School Admission.</p>
+<p>The objective of the club is to provide an avenue for students to enjoy
+playing volleyball while developing their understanding of the sport and
+building their character through their involvement in the sport.</p>
+<p>Students participate in a programme that includes:</p>
+<p><strong>Skills Development</strong> 
+<br>Members learn the foundation skills of volleyball and practise core techniques
+in their games. Students develop solid volleyball abilities through structured
+training sessions. Players participate in drills that focus on spikes,
+sets and other essential skills to expand their understanding of the sport.</p>
+<p><strong>Competition</strong>
+<br>Students are exposed to the annual National School Games Competitions.
+These events provide valuable experience and prepare players for competitive
+volleyball. By Primary 6, students develop genuine passion for volleyball
+and gain the skills and confidence needed to continue their athletic journey
+in secondary school.</p>
+<p><strong>Character Building</strong> 
+<br>Students focus on developing teamwork, resilience and respect alongside
+their technical abilities. The programme emphasises that character development
+is as important as sporting skills. Members learn values that will benefit
+them both on and off the court.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Volleyball" src="/images/CCA/CCA1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Volleyball" src="/images/CCA/Volleyball2026.png">
 </div>
 <p></p>
 <table style="minWidth: 75px">
@@ -28,26 +38,15 @@ Secondary School for Direct School Admission.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Teacher-in-charge:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Peh Poh Li
-<br>Mr Clement Kang
-<br>Ms Aishah Sidik
-<br>Lau Kai Wen, Georgina</p>
+<br>Mdm Aishah Binte Sidik
+<br>Ms Meng Yuqi
+<br>Mr Chan Sin Liang</p>
 </td>
 </tr>
 <tr>
@@ -66,17 +65,6 @@ Secondary School for Direct School Admission.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Indoor Sports Hall/School Hall</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
