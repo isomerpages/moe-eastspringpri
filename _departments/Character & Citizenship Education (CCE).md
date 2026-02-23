@@ -17,7 +17,7 @@ perspectives and form reasoned conclusions. They also provide opportunities
 for active citizenship by connecting classroom learning with real-world
 issues such as sustainability, cultural diversity, and global interdependence.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Social Studies" src="/images/Departments/CCE/CCE1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Social Studies" src="/images/Departments/CCE/CCE1.png">
 </div>
 <h4>National Education (NE)</h4>
 <p>NE strengthens students’ sense of belonging and commitment to Singapore.
@@ -82,9 +82,7 @@ others, healthy relationships, managing peer influence, and understanding
 the emotional and physiological changes during adolescence. The programme
 emphasises the importance of family values and provides a safe space for
 students to ask questions respectfully.</p>
-<p>&nbsp;&nbsp;
-<br><strong>Sexuality Education</strong> 
-<br>1. Sexuality Education</p>
+<p>1. Sexuality Education</p>
 <ul>
 <li>
 <p>· MOE’s Sexuality Education in Schools</p>
@@ -164,10 +162,7 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>At East Spring Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
-</p>
-<p><strong>2026 Sexuality Education Lessons in CCE</strong>
-</p>
+<h4><strong>At East Spring Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong><br><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h4><strong><u>Primary 5</u></strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
