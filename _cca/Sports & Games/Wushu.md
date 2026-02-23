@@ -31,6 +31,22 @@ and discipline that will benefit them in all areas of their life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Wushu" src="/images/CCA/Wushu2026.png">
 </div>
+<p><u>Achievements</u>
+</p>
+<p><strong>Wushu National School Games Competition 2024</strong>
+</p>
+<p><em>Junior Girls – 4<sup>th</sup> in 3-Duan Nanquan</em> (Individual event)</p>
+<p>Senior Boys - <em>7<sup>th</sup> in Broadsword Event (Group event)</em>
+</p>
+<p><strong>PESTA SUKAN WUSHU 2024</strong>
+</p>
+<p>Junior Boys – Silver in 5-Duan Broadsword (Individual event)</p>
+<p>Junior Girls – Silver in 3-Duan Nanquan<strong> </strong>(Individual event)</p>
+<p><strong>Wushu National School Games Competition 2025</strong>
+</p>
+<p>Junior Boys – 4<sup>th</sup> in Group Weapons event</p>
+<p>Junior Boys – 2<sup>nd</sup> in 5-Duan Cudgel (Individual event)</p>
+<p>Senior Girls – 8<sup>th</sup> in Group Weapons event</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
