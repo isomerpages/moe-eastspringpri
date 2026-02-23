@@ -29,9 +29,6 @@ instils valuable life skills and positive values. Members gain leadership
 qualities and embrace creativity through modern dance movement in a nurturing
 environment.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Fusion Dance" src="/images/CCA/CCA5.png">
-</div>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
