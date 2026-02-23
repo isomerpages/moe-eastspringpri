@@ -29,7 +29,28 @@ instils valuable life skills and positive values. Members gain leadership
 qualities and embrace creativity through modern dance movement in a nurturing
 environment.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dance" src="/images/CCA/Fusion1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dance" src="/images/CCA/Fusion2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -39,6 +60,7 @@ environment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Teacher-in-charge:</strong>
 </p>
 </td>
