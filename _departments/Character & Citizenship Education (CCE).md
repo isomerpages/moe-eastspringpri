@@ -4,118 +4,87 @@ permalink: /departments/Character-and-Citizenship-Education-CCE/
 description: ""
 variant: tiptap
 ---
+<h1>Character and Citizenship Education (CCE) In East Spring Primary School</h1>
+<p>CCE is central to our mission of nurturing students to be confident individuals,
+caring friends, and active citizens. CCE programmes are carefully designed
+to develop character, instil values, and prepare students for the future.</p>
+<h2>Social Studies (SS)</h2>
+<p>SS equips students with the knowledge, skills, and values to make informed
+decisions as responsible citizens. Through inquiry-based learning, students
+explore issues related to identity, diversity, governance, and globalisation.
+Lessons encourage critical thinking, enabling students to evaluate multiple
+perspectives and form reasoned conclusions. They also provide opportunities
+for active citizenship by connecting classroom learning with real-world
+issues such as sustainability, cultural diversity, and global interdependence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Social Studies" src="/images/Departments/CCE/CCE1.png">
+</div>
+<h2>National Education (NE)</h2>
+<p>NE strengthens students’ sense of belonging and commitment to Singapore.
+Commemorative events such as Total Defence Day, International Friendship
+Day, Racial Harmony Day, and National Day provide authentic platforms for
+students to appreciate Singapore’s history and progress. Learning journeys
+to heritage sites and community organisations deepen their understanding,
+while class discussions and reflections help them consider their role in
+shaping Singapore’s future.</p>
 <p></p>
-<p><strong>Our Programmes</strong> &nbsp;&nbsp;&nbsp;</p>
-<p>In our school, CCE is integrated with both Instructional Programmes (IP)
-as well as the Non-Instructional programmes (non-IP), co-curricular programmes,
-CCA, Values-In-Action (VIA), Student Leadership Development and other school
-programmes. In this way, CCE is part and parcel of the school experience
-of our students. Through CCE, our school aims to nurture gracious E’Lights
-who are morally upright and concerned citizens. This is achieved by inculcating
-values and building SE competencies in our students. This in turn will
-develop them into persons of good character and concerned citizens in our
-rapidly changing and globalised world. We believe that every student should
-have an equal opportunity to develop his/her potential. We aim to achieve
-this by, not only offering a balanced, holistic curriculum that challenges
-students, but also by providing care, support and guidance to each and
-every student. The department focuses on Character Education, which is
-one of the main pillars of the school curriculum. Character Education in
-East Spring anchors on the six SPRING values. With a team of experienced,
-caring and enthusiastic teaching as well as non-teaching staff, we aspire
-to meet the needs of each pupil with the hope of building a lasting relationship
-grounded upon the values of respect, optimism, care and mutual trust.</p>
-<p><strong>Pastoral Care</strong>
-</p>
-<p>The students’ well-being is well-looked into through the provision of
-guidance and counselling programmes. The school believes in building quality
-relationship between the staff and students. Through the Student Interaction
-Time (SIT) programme, teachers spend time talking with their students,
-in an effort to get to know them better. Other programmes that look into
-the development of social-emotional learning competencies include the Sexuality
-Education (P5 &amp; 6), Cyber-wellness programmes, Form Teacher Guidance
-Period (FTGP) and Educational Career Guidance (ECG).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cce.png">
+<img style="width: 100%" height="auto" width="100%" alt="National Education" src="/images/Departments/CCE/CCE2.png">
 </div>
-<p><strong>National Education / Social Studies</strong>
-</p>
-<p>NE aims to develop national cohesion, cultivate the instinct for survival
-as a nation and instil in our pupils confidence in our nation's future.
-It also emphasises on cultivating a sense of belonging and emotional rootedness
-to Singapore. National Education is pervasively implemented through Social
-Studies lessons, Learning Journeys, NE Commemorative Events and CCAs.</p>
+<h2>Form Teacher Guidance Period (FTGP)</h2>
+<p>FTGP provides protected time for teachers to build meaningful relationships
+with students. Through bonding activities, social-emotional learning lessons,
+and one-to-one teacher-student interactions, students learn to manage emotions,
+strengthen friendships, and feel supported in school.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cce2.png">
+<img style="width: 100%" height="auto" width="100%" alt="FTGP" src="/images/Departments/CCE/CCE3.png">
+</div>
+<h2>Values-in-Action (VIA)</h2>
+<p>VIA nurtures students to be caring contributors who take action for the
+community. Students undertake class-based and school-wide projects that
+promote kindness, sustainability, and volunteerism. These experiences are
+accompanied by guided reflections to help students connect their actions
+to values such as empathy, responsibility, and respect.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="VIA" src="/images/Departments/CCE/CCE4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cce3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="VIA" src="/images/Departments/CCE/CCE5.png">
 </div>
-<p>A parade of national costumes on International Friendship Day</p>
+<h2>Education and Career Guidance (ECG)</h2>
+<p>ECG helps students discover their strengths and aspirations while making
+informed choices about their future. Lessons equip students with decision-making
+skills and a growth mindset. Workshops and career talks provide exposure
+to industry practices, while trained ECG counsellors offer individual guidance
+to support students in charting their education and career pathways.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cce4.png">
+<img style="width: 100%" height="auto" width="100%" alt="ECG" src="/images/Departments/CCE/CCE6.png">
 </div>
-<p><strong>Values-In-Action Programme</strong>
-</p>
-<p>Values-in-Action (VIA) Programme is one of the key programmes that has
-been put in place to inculcate values and build competencies in our students
-to develop them into good individuals and useful citizens. It forms part
-of the school’s Character and Citizenship Education (CCE) which has always
-been at the heart of education in Singapore. The programme aims to strengthen
-the school’s commitment in civic and moral responsibility towards the community.
-It further supports the school’s mission in nurturing caring citizens and
-building strong character in our students. The following are some of the
-programmes that the school has planned for the students:</p>
-<p><strong>Donation Drives</strong>
-</p>
-<p>The school collaborates with the Compassion Fund, an organization formed
-to help students whose next-of-kins may have experienced financial difficulty
-due to health or other unforeseen adversities. In our annual collections
-done in Semester 1, students and staff gave outright donations.</p>
-<p>The school also collaborates with the organization, Fairprice, in a food
-donation drive, Walk for Rice. The food donated would reach out to the
-less privileged individual and families in the community through a food
-distribution programme. Through this project, the school hopes to instil
-in the students the values of ‘Caring and Sharing’ and develop them into
-gracious E’Lights</p>
-<p><strong>Taking Care of Our Environment</strong>
-</p>
-<p>In support of the ‘Green Efforts’, the school makes a concerted effort
-to ensure that the environment is clean and conducive for learning. The
-school conducts the ‘Use Your Hands Day’ cleaning programme twice a year.
-Students do their part to ensure that the areas assigned to them are kept
-clean. Students bring their rags and cleaning cloths from home and together
-as a class, do their part to ensure that the school environment is clean
-and conducive. In class, teachers reinforce the values that the students
-will learn through this experience.</p>
+<h2>Inclusivity Week</h2>
+<p>We believe every child can learn and succeed with the right support. Our
+SEN team works closely with teachers and parents to provide targeted interventions
+and socio-emotional support for students with diverse learning needs. By
+fostering an inclusive classroom environment, we ensure that every student
+is given the opportunity to thrive. ( Lukman: Does CPAS consent to photo
+? propose we replace photo if there are others &nbsp;&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cce5.png">
+<img style="width: 100%" height="auto" width="100%" alt="Inclusivity Week" src="/images/Departments/CCE/CCE7.png">
 </div>
-<p>All students are involved in the school-wide cleaning up programme - ‘Clean
-Up Time!’ which is carried out during the first five minutes of their recess.
-In addition, all Primary 4 to Primary 6 students are involved in the maintenance
-of the cleanliness of the canteen once a week after recess.</p>
-<p><strong>Celebrating with the Elderly</strong>
-</p>
-<p>Annually, the school invites the grandparents of P1-P3 students to join
-us in the joyous celebration of Chinese New Year. These elderly folks join
-the school in the concert were presented with oranges as a gesture of goodwill.</p>
-<p><strong>VIA@ St Luke’s</strong>
-</p>
-<p>As part of their VIA programme, Primary Five students and teachers visit
-St Luke’s Eldercare Centre and engage the elderly in a number of activities
-such as Sing-a-long, Art and Craft work and the making of plant terrarium
-project.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cce6.png">
-</div>
-<p><strong>Community Outreach</strong>
-</p>
-<p>Since 2018, the P6 students started a community outreach programme, whereby
-they presented festive gifts (oranges, dates and murukku) to the residents
-in the neighbourhood during the main festive celebrations.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cce7.png">
-</div>
+<h2>Mental Health Week</h2>
+<p>Student well-being is at the heart of our work. Our school counsellor
+and teacher counsellors provide a safe and confidential space for students
+to manage personal, academic, or emotional challenges. Mental health awareness
+programmes equip students with resilience and coping strategies, while
+peer support initiatives build a caring and inclusive school culture.</p>
+<h2>Sexuality Education</h2>
+<p>Sexuality Education equips students with the knowledge and values to make
+responsible decisions. Lessons cover topics such as respect for self and
+others, healthy relationships, managing peer influence, and understanding
+the emotional and physiological changes during adolescence. The programme
+emphasises the importance of family values and provides a safe space for
+students to ask questions respectfully.</p>
 <p>&nbsp;&nbsp;
 <br><strong>Sexuality Education</strong> 
 <br>1. Sexuality Education</p>
