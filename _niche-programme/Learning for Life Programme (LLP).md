@@ -14,20 +14,22 @@ and resilient individuals.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP/LLP1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP/LLP1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP/LLP2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP/LLP2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP/LLP3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP/LLP3.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP/LLP4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP/LLP4.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP/LLP5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP/LLP5.png">
 </div>
 <p></p>
