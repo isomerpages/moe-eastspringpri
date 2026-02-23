@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Learning for Life Programme (LLP).md
       - Physical Education (PE) Department.md
       - Mathematics Department.md
       - Information & Communication (ICT) Department.md
