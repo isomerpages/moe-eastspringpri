@@ -31,6 +31,11 @@ connection to their heritage.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="Malay Dance" src="/images/CCA/Malay.png">
 </div>
 <p></p>
+<p><u>Achievements</u>
+</p>
+<p><strong>Singapore Youth Festival 2024 – Certificate of Distinction</strong>
+</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
