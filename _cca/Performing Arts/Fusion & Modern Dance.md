@@ -5,18 +5,34 @@ variant: tiptap
 description: ""
 third_nav_title: Performing Arts
 ---
-<p>Through participation in Chinese Dance CCA, we hope that students develop
-leadership skills and acquire positive values such as perseverance, self-discipline
-and commitment. The students will also learn to appreciate the basic and
-finer gracious movements of Chinese Dance. Students are taught the fundamental
-skills of Chinese Dance and are given opportunities to perform in school
-functions. The dance instructress teaches our group of young dancers with
-zest and enthusiasm. Through the systematic training, students develop
-grace, agility, flexibility, balance and co-ordination.</p>
+<p>The objective of the club is to provide an avenue for students to enjoy
+learning fusion and modern dance while developing their understanding of
+contemporary dance styles and building their character through their involvement
+in dance.</p>
+<p>Students participate in a programme that includes:</p>
+<p><strong>Skills Development</strong> 
+<br>Members learn the foundation skills of fusion and modern dance and practise
+basic and expressive movements. Students develop physical attributes like
+grace, agility, flexibility, balance and coordination through systematic
+training. Players participate in rigorous activities that help them master
+contemporary dance techniques and expand their understanding of these dance
+styles.</p>
+<p><strong>Performance Opportunities</strong> 
+<br>Students are exposed to school functions where they can showcase their
+skills and demonstrate their hard work. These events provide valuable experience
+and help students gain confidence through performances. Members learn the
+importance of teamwork through group choreography and develop stage presence.</p>
+<p><strong>Character Building</strong> 
+<br>Students focus on developing perseverance, self-discipline and commitment
+alongside their dance abilities. The programme emphasises that dance practise
+instils valuable life skills and positive values. Members gain leadership
+qualities and embrace creativity through modern dance movement in a nurturing
+environment.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Fusion Dance" src="/images/CCA/CCA5.png">
 </div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -25,24 +41,14 @@ grace, agility, flexibility, balance and co-ordination.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Teacher-in-charge:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Huang Lin Lin
-<br>Mdm Khairunnisa binte Mohamed</p>
+<br>Ms Nur Sabrina Binte Harun
+<br>Miss Nur Fathiah Binte Razali</p>
 </td>
 </tr>
 <tr>
@@ -60,17 +66,6 @@ grace, agility, flexibility, balance and co-ordination.</p>
 </th>
 <td rowspan="1" colspan="2">
 <p>ISH Level 2 (Dance Studio)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
