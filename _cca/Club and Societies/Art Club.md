@@ -5,16 +5,42 @@ variant: tiptap
 description: ""
 third_nav_title: Club and Societies
 ---
-<p>The Art Club is set up to develop students who possess strong interest
-in Art and demonstrate skills in this area. Over the years, the club has
-provided opportunities for the students to hone their skills and participate
-in the Singapore Youth Festival Arts Presentation. Through the club activities,
-students have grown in confidence, developed an appreciation not only for
-art, but also built teamwork among themselves.</p>
+<p>The objective of the club is to provide an avenue for students to enjoy
+creating art while developing their understanding of various artistic mediums
+and building their character through their involvement in visual arts.</p>
+<p>Students participate in a programme that includes:</p>
+<p><strong>Skills Development</strong> 
+<br>Members learn the foundation skills of visual arts and practise various
+mediums and techniques. Students develop artistic abilities through experimentation
+and creative expression. Players participate in activities that help them
+master different art forms and expand their understanding of artistic processes
+while finding their artistic voice.</p>
+<p><strong>Performance Opportunities</strong> 
+<br>Students are exposed to the annual Singapore Youth Festival Arts Presentation
+where they can showcase their work and represent the school. These events
+provide valuable experience and help students demonstrate their artistic
+growth. Members learn the importance of teamwork through collaborative
+art projects and develop confidence in presenting their creations.</p>
+<p><strong>Character Building</strong> 
+<br>Students focus on developing confidence and appreciation for art and culture
+alongside their artistic abilities. The programme emphasises that creative
+activities instill essential values of teamwork and self-expression. Members
+gain lasting appreciation for visual arts and learn to work together effectively
+as they create and showcase their artistic talents.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Art" src="/images/CCA/CCA12.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Art Club" src="/images/CCA/Groups &amp; Clubs/Arts1.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Art Club" src="/images/CCA/Groups &amp; Clubs/Arts2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Art Club" src="/images/CCA/Groups &amp; Clubs/Arts3.png">
+</div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -24,23 +50,13 @@ art, but also built teamwork among themselves.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
 <p>Teacher-in-charge:</p>
 </th>
 <td rowspan="1" colspan="2">
 <p>Mdm Chui Wen Yan Wendy
 <br>Mdm Nadirah Baharin
-<br>Mr William Tock Swee Guan</p>
+<br>Mr William Tock Swee Guan
+<br>Miss Thye Yu Xuan</p>
 </td>
 </tr>
 <tr>
@@ -57,17 +73,6 @@ art, but also built teamwork among themselves.</p>
 </th>
 <td rowspan="1" colspan="2">
 <p>Art Room</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
