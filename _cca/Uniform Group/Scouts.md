@@ -29,10 +29,15 @@ their practical abilities. The programme emphasises that scouting activities
 instil resilience and compassion.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Scouts" src="/images/CCA/Groups &amp; Clubs/Scouts.png">
+</div>
+<p></p>
 <p><strong>Achievements</strong>
 </p>
-<p>Frank Cooper Sands Award 2023</p>
-<p>Frank Cooper Sands Award 2024</p>
+<p>Frank Cooper Sands Award 2023
+<br>Frank Cooper Sands Award 2024</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -40,17 +45,6 @@ instil resilience and compassion.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Teacher-in-charge:</p>
@@ -75,17 +69,6 @@ instil resilience and compassion.</p>
 </th>
 <td rowspan="1" colspan="2">
 <p>4I5 &amp; 3R1 Classrooms</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
