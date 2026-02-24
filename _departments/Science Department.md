@@ -20,18 +20,18 @@ These include hands-on activities to engage students during recess to learn
 through exploration and educational play.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Zoo" src="/images/Departments/Science/LJZoo.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Zoo" src="/images/Departments/Science/LJZoo.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LJFarm" src="/images/Departments/Science/LJFarm.png">
+<img style="width: 70%;" height="auto" width="100%" alt="LJFarm" src="/images/Departments/Science/LJFarm.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Science Centre" src="/images/Departments/Science/LJSC.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Science Centre" src="/images/Departments/Science/LJSC.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stellar" src="/images/Departments/Science/SciInv.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Stellar" src="/images/Departments/Science/SciInv.png">
 </div>
 <p><strong>Science Teaching Around STELLAR (STarS) for Primary 1 and 2</strong>
 </p>
@@ -57,7 +57,7 @@ in the school allocated garden plots to extend their learning and be responsible
 and caring individuals.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Plants" src="/images/Departments/Science/Sci1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Plants" src="/images/Departments/Science/Sci1.png">
 </div>
 <p></p>
 <p><strong>E2k Programme (P4 &amp; P5)</strong>
@@ -67,7 +67,7 @@ be introduced to E2k &nbsp;enrichment programme that include scientific
 investigations and given opportunities to develop critical and inventive
 thinking and effective communication skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="E2k" src="/images/Departments/Science/Sci2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="E2k" src="/images/Departments/Science/Sci2.png">
 </div>
 <p></p>
 <p><strong>Young Science Badge Scheme</strong>
@@ -83,6 +83,6 @@ the following cards to the respective levels.</p>
 tasks are free to do so.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Young Science" src="/images/Departments/Science/Sci3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Young Science" src="/images/Departments/Science/Sci3.png">
 </div>
 <p></p>
