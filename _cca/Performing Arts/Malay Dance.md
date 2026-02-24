@@ -28,7 +28,7 @@ appreciation for Malay culture and traditions that creates a meaningful
 connection to their heritage.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Malay Dance" src="/images/CCA/Malay.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Malay Dance" src="/images/CCA/Performing Arts/Malay.png">
 </div>
 <p></p>
 <p><u>Achievements</u>
@@ -36,30 +36,18 @@ connection to their heritage.</p>
 <p><strong>Singapore Youth Festival 2024 – Certificate of Distinction</strong>
 </p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Teacher-in-charge:</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Sheikha Fadzlon Shaik Yakob
 <br>Mdm Siti Nafisa Bte Mohd Daud</p>
 </td>
@@ -69,7 +57,7 @@ connection to their heritage.</p>
 <p><strong>Training day/time:</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Wednesday, 2.15 p.m - 4.15 p.m.</p>
 </td>
 </tr>
@@ -78,19 +66,8 @@ connection to their heritage.</p>
 <p><strong>Venue:</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>ISH Level 3 (Dance Studio)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
