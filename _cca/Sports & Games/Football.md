@@ -60,7 +60,7 @@ regular training and competitive</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher-in-charge:</strong>
+<p><strong>Teacher-In-Charge:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -72,7 +72,7 @@ regular training and competitive</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training day/time:</strong>
+<p><strong>Training Day/Time:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
