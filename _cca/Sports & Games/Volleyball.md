@@ -44,6 +44,7 @@ them both on and off the court.</p>
 </p>
 <p>Senior Boys - Top 3 in League 2
 <br>Senior Girls - Top 4 in League 1</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -53,7 +54,7 @@ them both on and off the court.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher-in-charge:</strong>
+<p><strong>Teacher-In-Charge:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -65,7 +66,7 @@ them both on and off the court.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training day/time:</strong>
+<p><strong>Training Day/Time:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
