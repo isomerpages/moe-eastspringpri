@@ -24,29 +24,16 @@ performances and develop stage presence.</p>
 abilities. The programme emphasises that music fosters deep appreciation
 for the arts. Members gain skills that nurture their creative expression
 and help them find their musical voice for lifelong enjoyment.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Music" src="/images/CCA/CCA9.png">
 </div>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Teacher-in-charge:</p>
@@ -54,9 +41,6 @@ and help them find their musical voice for lifelong enjoyment.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Jumaeyah Binte Zainal Abidin
 <br>Mdm Rohaya Mohamad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -66,9 +50,6 @@ and help them find their musical voice for lifelong enjoyment.</p>
 <td rowspan="1" colspan="1">
 <p>Wednesday, 2.15 p.m - 4.15 p.m.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
@@ -76,20 +57,6 @@ and help them find their musical voice for lifelong enjoyment.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Music Room 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
