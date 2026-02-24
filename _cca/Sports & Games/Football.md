@@ -35,7 +35,7 @@ instill values of perseverance and respect for teammates and opponents.
 Members gain leadership skills and learn the importance of commitment through
 regular training and competitive</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Football" src="/images/CCA/Football2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Football" src="/images/CCA/Groups &amp; Clubs/Football2026.png">
 </div>
 <p><u>Achievements</u>
 </p>
