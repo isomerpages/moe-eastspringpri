@@ -51,20 +51,19 @@ environment.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<p></p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p><strong>Teacher-in-charge:</strong>
+<th rowspan="1" colspan="1">
+<p><strong>Teacher-In-Charge:</strong>
 </p>
-</td>
-<td rowspan="1" colspan="2">
+</th>
+<td rowspan="1" colspan="1">
 <p>Mdm Huang Lin Lin
 <br>Ms Nur Sabrina Binte Harun
 <br>Miss Nur Fathiah Binte Razali</p>
@@ -75,15 +74,16 @@ environment.</p>
 <p><strong>Training Day/Time:</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Wednesday, 2.15 p.m - 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Venue:</p>
-</th>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p><strong>Venue:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>ISH Level 2 (Dance Studio)</p>
 </td>
 </tr>
