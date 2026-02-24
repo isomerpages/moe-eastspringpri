@@ -56,7 +56,7 @@ and discipline that will benefit them in all areas of their life.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher-in-charge:</strong>
+<p><strong>Teacher-In-Charge:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -67,7 +67,7 @@ and discipline that will benefit them in all areas of their life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training day/time:</strong>
+<p><strong>Training Day/Time:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
