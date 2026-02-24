@@ -4,30 +4,18 @@ permalink: /mathematics-department/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <th rowspan="1" colspan="1">
 <p><strong>Vision:</strong>
 </p>
 </th>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Laying a Strong Foundation for Mathematics</p>
 </td>
 </tr>
@@ -36,15 +24,12 @@ description: ""
 <p><strong>Mission:</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>To develop effective and reflective problem solvers who develop joy and
 love for Mathematics</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
