@@ -187,7 +187,7 @@ ways!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Indian Traditions" src="/images/Departments/MTL/MTL5.png">
 </div>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Bringing Heritage to Life: Our MTL Cultural Wall</strong>
+<p><strong>Bringing Heritage to Life: Our MTL Cultural Wall</strong>
 </p>
 <p>Step into a world of tradition at our vibrant MTL Cultural Wall! This
 interactive space features charming 3D replicas of traditional shophouses
@@ -199,6 +199,7 @@ meets modern learning!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Cultural Wall" src="/images/Departments/MTL/MTL6.png">
 </div>
+<p></p>
 <p><strong>Learning Without Walls: Our MTL Outdoor Adventures</strong>
 </p>
 <p>MTL learning comes alive beyond our classroom walls! Our department believes
