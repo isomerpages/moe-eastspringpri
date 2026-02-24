@@ -31,11 +31,6 @@ connection to their heritage.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="Malay Dance" src="/images/CCA/Performing Arts/Malay.png">
 </div>
 <p></p>
-<p><u>Achievements</u>
-</p>
-<p><strong>Singapore Youth Festival 2024 – Certificate of Distinction</strong>
-</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -54,7 +49,7 @@ connection to their heritage.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training day/time:</strong>
+<p><strong>Training Day/Time:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
