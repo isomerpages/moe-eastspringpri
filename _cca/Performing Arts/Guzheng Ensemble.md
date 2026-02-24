@@ -35,7 +35,8 @@ Our students are definitely growing and have developed a passion for Guzheng.</p
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Training day/time:</p>
+<p><strong>Training Day/Time:</strong>
+</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Wednesday, 2.15 p.m - 4.15 p.m.</p>
