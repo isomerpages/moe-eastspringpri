@@ -34,9 +34,8 @@ and discipline that will benefit them in all areas of their life.</p>
 </p>
 <p><strong>Wushu National School Games Competition 2024</strong>
 </p>
-<p><em>Junior Girls – 4<sup>th</sup> in 3-Duan Nanquan</em> (Individual event)</p>
-<p>Senior Boys - <em>7<sup>th</sup> in Broadsword Event (Group event)</em>
-</p>
+<p>Junior Girls – 4<sup>th</sup> in 3-Duan Nanquan (Individual event)</p>
+<p>Senior Boys - 7<sup>th</sup> in Broadsword Event (Group event)</p>
 <p><strong>PESTA SUKAN WUSHU 2024</strong>
 </p>
 <p>Junior Boys – Silver in 5-Duan Broadsword (Individual event)</p>
