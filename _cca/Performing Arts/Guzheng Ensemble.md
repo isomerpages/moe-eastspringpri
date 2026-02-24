@@ -24,7 +24,7 @@ Our students are definitely growing and have developed a passion for Guzheng.</p
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher-in-charge:</strong>
+<p><strong>Teacher-In-Charge:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
