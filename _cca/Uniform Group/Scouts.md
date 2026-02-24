@@ -46,9 +46,10 @@ instil resilience and compassion.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teacher-in-charge:</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-In-Charge:</strong>
+</p>
+</td>
 <td rowspan="1" colspan="2">
 <p>Mdm Roslinah Binte Junali
 <br>Mdm Sitti Maisarah Binte Abu Bakar
@@ -57,7 +58,7 @@ instil resilience and compassion.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Training day/time:</p>
+<p>Training Day/Time:</p>
 </th>
 <td rowspan="1" colspan="2">
 <p>Wednesday, 2.15 p.m - 4.15 p.m.</p>
