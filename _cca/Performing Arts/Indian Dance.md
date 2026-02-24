@@ -31,11 +31,11 @@ artistic growth through their involvement in this diverse and dynamic art
 form.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Indian dance" src="/images/CCA/Indian1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Indian Dance" src="/images/CCA/Performing Arts/Indian1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Indian dance" src="/images/CCA/Indian2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Indian Dance" src="/images/CCA/Performing Arts/Indian2.png">
 </div>
 <p></p>
 <p><u>Achievements</u>
