@@ -25,9 +25,8 @@ in secondary school.</p>
 their technical abilities. The programme emphasises that character development
 is as important as sporting skills. Members learn values that will benefit
 them both on and off the court.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Volleyball" src="/images/CCA/Volleyball2026.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Volleyball" src="/images/CCA/Groups &amp; Clubs/Volleyball2026.png">
 </div>
 <p><u>Achievements</u>
 </p>
