@@ -27,9 +27,8 @@ equip them for success in various aspects of their life.</p>
 their physical abilities. The programme emphasises that consistent and
 dedicated effort builds resilient character. Members learn values of self-mastery
 and discipline that will benefit them in all areas of their life.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Wushu" src="/images/CCA/Wushu2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="Wushu" src="/images/CCA/Groups &amp; Clubs/Wushu2026.png">
 </div>
 <p><u>Achievements</u>
 </p>
