@@ -33,5 +33,42 @@ advocates. Members gain skills that enable them to infuse environmental
 concepts into school events and make meaningful contributions to sustainability
 goals.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Environmental" src="/images/CCA/Groups &amp; Clubs/EnvironmentalClub.png">
+</div>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher-In-Charge:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hairina Bte Hamzah
+<br>Mr Alif Zulhilmi Bin Zakaria
+<br>Mdm Tan Poh Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Day/Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday, 2.15 p.m - 4.15 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lab</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
