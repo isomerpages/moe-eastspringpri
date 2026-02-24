@@ -15,30 +15,19 @@ Our students are definitely growing and have developed a passion for Guzheng.</p
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Guzheng" src="/images/CCA/CCA8.png">
 </div>
-<table style="minWidth: 75px">
+<p></p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Teacher-in-charge:</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Tan Wui Ling (Mrs Lee)
 <br>Ms Ng Su Ying
 <br>Miss Wee Wan Qing</p>
@@ -51,9 +40,6 @@ Our students are definitely growing and have developed a passion for Guzheng.</p
 <td rowspan="1" colspan="1">
 <p>Wednesday, 2.15 p.m - 4.15 p.m.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
@@ -61,20 +47,6 @@ Our students are definitely growing and have developed a passion for Guzheng.</p
 </th>
 <td rowspan="1" colspan="1">
 <p>ISH Level 3 (Guzheng Room)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
