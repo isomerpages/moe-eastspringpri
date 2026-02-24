@@ -35,9 +35,10 @@ and help them find their musical voice for lifelong enjoyment.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teacher-in-charge:</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-In-Charge:</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jumaeyah Binte Zainal Abidin
 <br>Mdm Rohaya Mohamad</p>
