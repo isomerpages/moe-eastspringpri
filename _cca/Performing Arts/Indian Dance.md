@@ -40,8 +40,7 @@ form.</p>
 <p></p>
 <p><u>Achievements</u>
 </p>
-<p><strong>Singapore Youth Festival 2024 – Certificate of Distinction</strong>
-</p>
+<p>Singapore Youth Festival 2024 – Certificate of Distinction</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -62,7 +61,8 @@ form.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training day/time:</p>
+<p><strong>Training Day/Time:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday, 2.15 p.m - 4.15 p.m.</p>
@@ -70,7 +70,8 @@ form.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue:</p>
+<p><strong>Venue:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAL Room</p>
