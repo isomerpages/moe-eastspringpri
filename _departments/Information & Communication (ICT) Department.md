@@ -19,33 +19,23 @@ experiences. Outdoor learning is now more fun and engaging for students.</p>
 <p></p>
 <p><strong>Digital Art &amp; Digital Music</strong>
 </p>
-<p>Our students experienced music and art digitally. During Art and Music
-lessons, students make use of Garage Band as they create beautiful music
-pieces and work on the Wacom Bamboo tablets to create their Manga Art.
-There is no better way to draw, paint or just simply doodle with the tablets.</p>
-<p>(Our students experience music and art in innovative digital ways. During
+<p>Our students experience music and art in innovative digital ways. During
 Art and Music lessons, they use GarageBand to compose beautiful musical
 pieces and Wacom Bamboo tablets to create their own Manga artwork. The
 tablets provide an engaging and versatile platform for drawing, painting,
-and creative expression.)</p>
+and creative expression.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Digital Art &amp; Music" src="/images/Departments/ICT/ICT2.png">
 </div>
 <p><strong>Applied Learning Programme (ALP)</strong>
 </p>
-<p>ALP at ESPS is to provide opportunities for all to deepen 21<sup>st</sup> century
-competencies and in moulding every student to be Self-directed Learner,
-Active Contributor, Confident Person and Concerned Citizen.&nbsp; The core
-objectives of our ALP are to help our students acquire various ICT skills
-and computational thinking skills through coding and apply these skills
-to solve real-world problems. (STEM component)</p>
-<p>(At ESPS, the ALP provides opportunities for&nbsp; students to deepen
-21st-century competencies and nurtures them to become Self-Directed Learners,
-Active Contributors, Confident Persons, and Concerned Citizens. Through
-coding, students build ICT and computational thinking skills to tackle
-real-world problems, while STEM elements are integrated to make learning
-hands-on and problem-based.)</p>
+<p>At ESPS, the ALP provides opportunities for&nbsp; students to deepen 21st-century
+competencies and nurtures them to become Self-Directed Learners, Active
+Contributors, Confident Persons, and Concerned Citizens. Through coding,
+students build ICT and computational thinking skills to tackle real-world
+problems, while STEM elements are integrated to make learning hands-on
+and problem-based.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="ALP" src="/images/Departments/ICT/ICT3.png">
@@ -55,9 +45,10 @@ hands-on and problem-based.)</p>
 <p>Cyber Wellness refers to the positive well-being of Internet users. It
 involves an understanding of the dangers of harmful online behaviours,
 an awareness of how to protect yourself and other Internet users from such
-dangers. Cyber Wellness @ ESPS <s>aims to look at</s> &nbsp;focuses ? on<s> the</s> positive
-well-being and developing a healthy cyber culture amongst our pupils, aligned
-to MOE’s Cyber Wellness Framework.</p>
+dangers. Cyber Wellness @ ESPS focuses positive well-being and developing
+a healthy cyber culture amongst our pupils, aligned to MOE’s Cyber Wellness
+Framework.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Cyber" src="/images/Departments/ICT/CyberWellness_Principles.jpg">
 </div>
