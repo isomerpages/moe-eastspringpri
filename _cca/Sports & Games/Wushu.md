@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Sports & Games
 ---
-<p><strong><u>Wushu</u></strong>
-</p>
 <p>The objective of the club is to provide an avenue for students to enjoy
 learning martial arts while developing their understanding of the sport
 and building their character through their involvement in Wushu.</p>
@@ -27,8 +25,9 @@ equip them for success in various aspects of their life.</p>
 their physical abilities. The programme emphasises that consistent and
 dedicated effort builds resilient character. Members learn values of self-mastery
 and discipline that will benefit them in all areas of their life.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Wushu" src="/images/CCA/Groups &amp; Clubs/Wushu2026.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Wushu" src="/images/CCA/Groups &amp; Clubs/Wushu2026.png">
 </div>
 <p><u>Achievements</u>
 </p>
