@@ -15,7 +15,7 @@ and resilient individuals.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP2026.png">
+<img style="width: 90%;" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP2026.png">
 </div>
 <p></p>
 <p></p>
