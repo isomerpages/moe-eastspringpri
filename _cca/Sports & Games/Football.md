@@ -28,12 +28,13 @@ in football drills that require decision-making skills and engage in intensive
 football games to expand their understanding of the sport. Players are
 exposed to friendly matches, football carnivals, and different levels of
 tournaments including zonal and national competitions.</p>
-<p><strong>Character Building</strong>
+<p><strong>Character Building</strong> 
 <br>Students focus on developing teamwork, discipline and sportsmanship alongside
 their football abilities. The programme emphasises that football activities
 instill values of perseverance and respect for teammates and opponents.
 Members gain leadership skills and learn the importance of commitment through
-regular training and competitive</p>
+regular training and competitive experiences.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Football" src="/images/CCA/Groups &amp; Clubs/Football2026.png">
 </div>
