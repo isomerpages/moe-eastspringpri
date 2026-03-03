@@ -25,7 +25,9 @@ skills through a problem-solving approach;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Math1" src="/images/Departments/Mathematics/Math_Pic1.png">
 </div>
-<h4>Our Programmes</h4>
+<p></p>
+<h4>Our Department Programmes</h4>
+<p></p>
 <p><strong>Mathematics &amp; Science Discovery Fortnight (MSDF)</strong>
 </p>
 <p>To ignite curiosity and cultivate a passion for learning, engaging activities
