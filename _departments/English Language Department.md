@@ -4,7 +4,7 @@ permalink: /english-language-department/
 variant: tiptap
 description: English Department
 ---
-<h4>Our Department Programmes</h4>
+<h4><strong>Our Department Programmes</strong></h4>
 <p><strong><u>Our Programmes &amp; Initiatives</u></strong>
 </p>
 <p><strong>Authentic Learning Experiences</strong>
