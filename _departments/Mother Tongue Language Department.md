@@ -4,47 +4,6 @@ permalink: /mother-tongue-language-department/
 variant: tiptap
 description: MTL
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p><strong>Department Vision and Mission</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vision:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Confident and effective Mother Tongue speakers</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mission:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Create a conducive environment for students to attain mastery of the Mother
-Tongue language and appreciate their culture</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>At East Spring Primary School, we believe in nurturing future-ready students
 who are confident users of their Mother Tongue Languages. Our programme
 develops your child's ability to think critically, communicate effectively,
