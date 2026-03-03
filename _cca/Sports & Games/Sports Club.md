@@ -5,12 +5,31 @@ variant: tiptap
 description: ""
 third_nav_title: Sports & Games
 ---
-<p>The Sports Club was set up since 2011. The objectives of Sports Club:
-<br>To introduce various courts games including badminton, basketball, tchoukball
-and floorball skills and develop pupils’ psychomotor skills.
-<br>To scout and send selected pupils for external competitions.
-<br>Members are given the opportunity to participate in annual external competitions
-whereby our members have been talent-scouted by secondary schools.</p>
+<p>The objective of the club is to provide an avenue for students to enjoy
+playing various sports while developing their understanding of different
+games and building their character through their involvement in sports
+activities.</p>
+<p>Students participate in programme that includes:</p>
+<p><strong>Sports Development</strong> 
+<br>Students learn the foundation skills of badminton, basketball, tchoukball
+and floorball, and practise core skills in their games. Through structured
+training sessions, students develop strong coordination and physical abilities.
+Students participate in drills that require decision-making skills and
+engage in various games to expand their understanding of each sport.</p>
+<p><strong>Sports Climbing</strong> 
+<br>Students use the school's sports climbing wall during CCA sessions. This
+activity provides a unique and challenging way to build problem-solving
+skills and full-body strength. Members develop confidence and learn to
+overcome physical and mental challenges.</p>
+<p><strong>Character Building</strong> 
+<br>Students focus on developing teamwork, resilience and sportsmanship alongside
+their sporting abilities. The programme emphasises that sports activities
+instill values of perseverance and respect for teammates and opponents.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Sports Club" src="/images/CCA/Groups &amp; Clubs/SportsClub2026.png">
+</div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -19,29 +38,19 @@ whereby our members have been talent-scouted by secondary schools.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher-in-charge:</strong>
+<p><strong>Teacher-In-Charge:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mr Lee Gee Chye
-<br>Mdm Shazwani Binte Mustaffa</p>
+<br>Mdm Shazwani Binte Mustaffa
+<br>Miss Ong Lay Ping</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training day/time:</strong>
+<p><strong>Training Day/Time:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -57,21 +66,7 @@ whereby our members have been talent-scouted by secondary schools.</p>
 <p>Indoor Sports Hall/Parade Square</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SportsClub" src="/images/CCA/CCA3.png">
-</div>
 <p></p>

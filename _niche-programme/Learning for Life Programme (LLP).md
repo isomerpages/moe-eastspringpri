@@ -1,11 +1,23 @@
 ---
 title: Learning for Life Programme (LLP)
-permalink: /niche-programme/LLP/
-description: ""
+permalink: /learning-for-life-programme-llp/
+variant: tiptap
+description: Learning for Life
 ---
-#### Learning for Life Programme – SPRING for Life <br>
-The programme integrates the school’s sports programme and the Outdoor Education components of Navigation, Climbing and Water Confidence to imbue school values and build character for E’Lights. It allows E’Lights to develop their 21st Century Competencies while putting knowledge and skills into action in a progressive manner. More importantly, it serves to cultivate a lifetime of active and healthy living within our students.
-
-![](/images/LLP/LLP.tif)
-
-![](/images/LLP/LLP%20(All).jpg)
+<p>At <strong>East Spring Primary School</strong>, our <strong>LLP</strong> — <strong>Spring For Life (SFL))</strong> —
+is a dynamic initiative that brings Character and Citizenship Education
+to life! Through sports and outdoor education, SFL cultivates essential
+Social-Emotional Learning (SEL) competencies, 21st-century skills, and
+our school values, empowering students to flourish as confident, compassionate,
+and resilient individuals.</p>
+<p><u>By embracing challenges and adventures, students are equipped to grow, achieve key learning outcomes, and make a meaningful difference in their communities and beyond.</u>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="LLP" src="/images/Niche Programme/LLP2026.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>

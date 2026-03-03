@@ -2,14 +2,12 @@ collections:
   departments:
     output: true
     order:
-      - English Language Department/.keep
-      - English Language Department/English Language Department.md
-      - English Language Department/Strategies.md
+      - English Language Department.md
+      - Mathematics Department.md
+      - Science Department.md
+      - Mother Tongue Language Department.md
       - Character & Citizenship Education (CCE).md
+      - Aesthetic Department.md
+      - Physical Education (PE) Department.md
+      - Information & Communication (ICT) Department.md
       - Student Development Team.md
-      - Physical Education (PE) Dept.md
-      - Mother Tongue Language Dept.md
-      - Aesthetic Dept.md
-      - Mathematics Dept.md
-      - Science Dept.md
-      - Information & Communication (ICT) Dept.md

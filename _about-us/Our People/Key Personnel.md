@@ -189,9 +189,6 @@ table, th, td {
 		<td>ng_hui_peng@moe.edu.sg</td>
 	</tr>	
 			<tr>
-	<td>ST / Malay Language</td>
-			<td>-</td>
-		<td>-</td>
 	</tr>
 	<tr>
 	<td>ST / Chinese Language</td>
