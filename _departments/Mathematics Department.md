@@ -26,7 +26,7 @@ skills through a problem-solving approach;</p>
 <img style="width: 80%;" height="auto" width="100%" alt="Math1" src="/images/Departments/Mathematics/Math_Pic1.png">
 </div>
 <p></p>
-<h4>Our Department Programmes</h4>
+<h4><strong>Our Department Programmes</strong></h4>
 <p></p>
 <p><strong>Mathematics &amp; Science Discovery Fortnight (MSDF)</strong>
 </p>
