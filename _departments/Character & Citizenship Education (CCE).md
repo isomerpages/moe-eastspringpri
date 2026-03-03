@@ -64,8 +64,8 @@ to support students in charting their education and career pathways.</p>
 SEN team works closely with teachers and parents to provide targeted interventions
 and socio-emotional support for students with diverse learning needs. By
 fostering an inclusive classroom environment, we ensure that every student
-is given the opportunity to thrive. ( Lukman: Does CPAS consent to photo
-? propose we replace photo if there are others &nbsp;&nbsp;</p>
+is given the opportunity to thrive.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Inclusivity Week" src="/images/Departments/CCE/CCE7.png">
 </div>
