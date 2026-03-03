@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School Information/Reporting & Dismissal Times.md
       - School Information/.keep
       - School Information/School Rules & Regulation.md
       - School Information/History and Background.md
@@ -12,6 +11,7 @@ collections:
       - School Information/School Song.md
       - School Information/E'Lights Creed.md
       - School Information/E'Lights Cheer.md
+      - School Information/Reporting & Dismissal Times.md
       - Our People/.keep
       - Our People/Key Personnel.md
       - Our People/Class Teachers.md
