@@ -4,41 +4,6 @@ permalink: /mathematics-department/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Vision:</strong>
-</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Laying a Strong Foundation for Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mission:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To develop effective and reflective problem solvers who develop joy and
-love for Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>The Mathematics Department programmes are designed to develop students’
 problem-solving skills and promote critical thinking. They aim to cultivate
 a strong foundation in mathematics by equipping students with the essential
