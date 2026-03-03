@@ -4,7 +4,7 @@ permalink: /science-department/
 variant: tiptap
 description: Science
 ---
-<h4>Our Department Programmes</h4>
+<h4><strong>Our Department Programmes</strong></h4>
 <p>The Science department programmes are designed to develop our students’
 curiosity and passion for Science. Through these programmes, we hope to
 provide our students with the opportunities to apply concepts and skills
