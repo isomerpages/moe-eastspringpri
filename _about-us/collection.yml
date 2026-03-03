@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
+      - School Information/Reporting & Dismissal Times.md
       - School Information/.keep
       - School Information/School Rules & Regulation.md
       - School Information/History and Background.md
