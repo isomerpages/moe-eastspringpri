@@ -31,4 +31,4 @@ Excellence for Success
 <br>
 <b><font color="#46d6ce">N</font></b>ational Pride - <i>E'Lights are proud to be Singaporean and stand up for the nation</i>
 <br>
-<b><font color="#46d6ce">G</font></b>ratefulness - <i>E'Lights use words and actions to express their appreciation to other</i>
+<b><font color="#46d6ce">G</font></b>ratefulness - <i>E'Lights use words and actions to express their appreciation to others</i>
