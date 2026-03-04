@@ -53,8 +53,7 @@ to wait on school premises.</p>
 </div>
 <p>If your child/ward walks or cycles to school from Block 358, please advise
 him/her to use the traffic junction in front of Block 357 to cross over
-to the school for their safety, as the traffic junction is supervised by
-a teacher from 7.15 am to 7.30 am.</p>
+to the school for their safety.</p>
 <p></p>
 <p><strong>Safe Cycling</strong>
 </p>

@@ -4,41 +4,6 @@ permalink: /mathematics-department/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Vision:</strong>
-</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Laying a Strong Foundation for Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mission:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To develop effective and reflective problem solvers who develop joy and
-love for Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>The Mathematics Department programmes are designed to develop students’
 problem-solving skills and promote critical thinking. They aim to cultivate
 a strong foundation in mathematics by equipping students with the essential
@@ -60,7 +25,9 @@ skills through a problem-solving approach;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Math1" src="/images/Departments/Mathematics/Math_Pic1.png">
 </div>
-<h4>Our Programmes</h4>
+<p></p>
+<h4><strong>Our Department Programmes</strong></h4>
+<p></p>
 <p><strong>Mathematics &amp; Science Discovery Fortnight (MSDF)</strong>
 </p>
 <p>To ignite curiosity and cultivate a passion for learning, engaging activities

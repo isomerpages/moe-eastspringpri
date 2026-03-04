@@ -2,7 +2,6 @@
 title: History and Background
 permalink: /about-us/School-Information/History-and-Background/
 description: ""
-third_nav_title: School Information
 ---
 Established on 4 January 1999, East Spring Primary School was built as a government school to serve the neighborhood of the eastern sector of Tampines New Town.
 
