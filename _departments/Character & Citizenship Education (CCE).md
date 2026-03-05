@@ -4,7 +4,6 @@ permalink: /departments/Character-and-Citizenship-Education-CCE/
 description: ""
 variant: tiptap
 ---
-<h4>Character and Citizenship Education (CCE) In East Spring Primary School</h4>
 <p>CCE is central to our mission of nurturing students to be confident individuals,
 caring friends, and active citizens. CCE programmes are carefully designed
 to develop character, instil values, and prepare students for the future.</p>
