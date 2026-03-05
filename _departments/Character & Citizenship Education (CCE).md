@@ -94,10 +94,28 @@ is given the opportunity to thrive.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity3.jpg">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity3_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity3_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Mental Health Week</strong>
 </p>
 <p>Student well-being is at the heart of our work. Our school counsellor
@@ -106,9 +124,28 @@ to manage personal, academic, or emotional challenges. Mental health awareness
 programmes equip students with resilience and coping strategies, while
 peer support initiatives build a caring and inclusive school culture.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Mental Health Week" src="/images/Departments/CCE/Mental_Wk.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="Mental Health" src="/images/Departments/CCE/Mental1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mental Health" src="/images/Departments/CCE/Mental2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Sexuality Education</strong>
 </p>
 <p>Sexuality Education equips students with the knowledge and values to make
