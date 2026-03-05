@@ -8,7 +8,8 @@ variant: tiptap
 <p>CCE is central to our mission of nurturing students to be confident individuals,
 caring friends, and active citizens. CCE programmes are carefully designed
 to develop character, instil values, and prepare students for the future.</p>
-<h4>Social Studies (SS)</h4>
+<p><strong>Social Studies (SS)</strong>
+</p>
 <p>SS equips students with the knowledge, skills, and values to make informed
 decisions as responsible citizens. Through inquiry-based learning, students
 explore issues related to identity, diversity, governance, and globalisation.
@@ -19,7 +20,8 @@ issues such as sustainability, cultural diversity, and global interdependence.</
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Social Studies" src="/images/Departments/CCE/CCE1.png">
 </div>
-<h4>National Education (NE)</h4>
+<p><strong>National Education (NE)</strong>
+</p>
 <p>NE strengthens students’ sense of belonging and commitment to Singapore.
 Commemorative events such as Total Defence Day, International Friendship
 Day, Racial Harmony Day, and National Day provide authentic platforms for
@@ -30,7 +32,8 @@ shaping Singapore’s future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="National Education" src="/images/Departments/CCE/CCE2.png">
 </div>
-<h4>Form Teacher Guidance Period (FTGP)</h4>
+<p><strong>Form Teacher Guidance Period (FTGP)</strong>
+</p>
 <p>FTGP provides protected time for teachers to build meaningful relationships
 with students. Through bonding activities, social-emotional learning lessons,
 and one-to-one teacher-student interactions, students learn to manage emotions,
@@ -38,7 +41,8 @@ strengthen friendships, and feel supported in school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="FTGP" src="/images/Departments/CCE/CCE3.png">
 </div>
-<h4>Values-in-Action (VIA)</h4>
+<p><strong>Values-in-Action (VIA)</strong>
+</p>
 <p>VIA nurtures students to be caring contributors who take action for the
 community. Students undertake class-based and school-wide projects that
 promote kindness, sustainability, and volunteerism. These experiences are
@@ -50,7 +54,8 @@ to values such as empathy, responsibility, and respect.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="VIA" src="/images/Departments/CCE/CCE5.png">
 </div>
-<h4>Education and Career Guidance (ECG)</h4>
+<p><strong>Education and Career Guidance (ECG)</strong>
+</p>
 <p>ECG helps students discover their strengths and aspirations while making
 informed choices about their future. Lessons equip students with decision-making
 skills and a growth mindset. Workshops and career talks provide exposure
@@ -59,23 +64,54 @@ to support students in charting their education and career pathways.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="ECG" src="/images/Departments/CCE/CCE6.png">
 </div>
-<h4>Inclusivity Week</h4>
+<p><strong>Inclusivity Week</strong>
+</p>
 <p>We believe every child can learn and succeed with the right support. Our
 SEN team works closely with teachers and parents to provide targeted interventions
 and socio-emotional support for students with diverse learning needs. By
 fostering an inclusive classroom environment, we ensure that every student
 is given the opportunity to thrive.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Inclusivity Week" src="/images/Departments/CCE/CCE7.png">
+<img style="width: 90%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity1.jpg">
 </div>
-<h4>Mental Health Week</h4>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity3.jpg">
+</div>
+<p></p>
+<p><strong>Mental Health Week</strong>
+</p>
 <p>Student well-being is at the heart of our work. Our school counsellor
 and teacher counsellors provide a safe and confidential space for students
 to manage personal, academic, or emotional challenges. Mental health awareness
 programmes equip students with resilience and coping strategies, while
 peer support initiatives build a caring and inclusive school culture.</p>
-<h4>Sexuality Education</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Mental Health Week" src="/images/Departments/CCE/Mental_Wk.jpg">
+</div>
+<p><strong>Sexuality Education</strong>
+</p>
 <p>Sexuality Education equips students with the knowledge and values to make
 responsible decisions. Lessons cover topics such as respect for self and
 others, healthy relationships, managing peer influence, and understanding
