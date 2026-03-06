@@ -28,7 +28,7 @@ appreciation for Malay culture and traditions that creates a meaningful
 connection to their heritage.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Malay Dance" src="/images/CCA/Performing Arts/Malay.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Malay" src="/images/CCA/Performing Arts/Malay.png">
 </div>
 <p></p>
 <table style="minWidth: 50px">
