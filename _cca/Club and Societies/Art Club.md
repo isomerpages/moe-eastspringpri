@@ -29,6 +29,14 @@ gain lasting appreciation for visual arts and learn to work together effectively
 as they create and showcase their artistic talents.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Art" src="/images/CCA/Club and Group/Arts1.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Art" src="/images/CCA/Club and Group/Arts2.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -39,24 +47,18 @@ as they create and showcase their artistic talents.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Art" src="/images/CCA/Club and Group/Arts1.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Art" src="/images/CCA/Club and Group/Arts3.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="Art" src="/images/CCA/Club and Group/Arts3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Art" src="/images/CCA/Club and Group/Arts2.png">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Art" src="/images/CCA/Club and Group/Arts2.png">
-</div>
-<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
