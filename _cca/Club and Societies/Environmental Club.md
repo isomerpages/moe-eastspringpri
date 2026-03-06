@@ -34,7 +34,7 @@ concepts into school events and make meaningful contributions to sustainability
 goals.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Environmental" src="/images/CCA/Groups &amp; Clubs/EnvironmentalClub.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Environmental" src="/images/CCA/Club and Group/EnvironmentalClub.png">
 </div>
 <p></p>
 <table style="minWidth: 50px">
