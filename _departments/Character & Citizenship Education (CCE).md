@@ -71,8 +71,9 @@ and socio-emotional support for students with diverse learning needs. By
 fostering an inclusive classroom environment, we ensure that every student
 is given the opportunity to thrive.</p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -90,32 +91,16 @@ is given the opportunity to thrive.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity2.jpg">
 </div>
 </th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity3_1.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity3_2.jpg">
-</div>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Mental Health Week</strong>
 </p>
 <p>Student well-being is at the heart of our work. Our school counsellor
