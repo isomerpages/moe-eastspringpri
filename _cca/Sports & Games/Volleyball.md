@@ -27,7 +27,7 @@ is as important as sporting skills. Members learn values that will benefit
 them both on and off the court.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Volleyball" src="/images/CCA/Sports and Games/Volleyball2026.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Volleyball" src="/images/CCA/Sports and Games/Volleyball2026.png">
 </div>
 <p></p>
 <p><u>Achievements</u>
