@@ -27,7 +27,7 @@ their sporting abilities. The programme emphasises that sports activities
 instill values of perseverance and respect for teammates and opponents.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Sports" src="/images/CCA/Sports and Games/SportsClub2026.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Sports" src="/images/CCA/Sports and Games/SportsClub2026.png">
 </div>
 <p></p>
 <table style="minWidth: 75px">
