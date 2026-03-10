@@ -130,6 +130,10 @@ peer support initiatives build a caring and inclusive school culture.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCE" src="/images/Departments/CCE/CCE0.png">
+</div>
 <p><strong>Sexuality Education</strong>
 </p>
 <p>Sexuality Education equips students with the knowledge and values to make
