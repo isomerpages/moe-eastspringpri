@@ -17,7 +17,7 @@ perspectives and form reasoned conclusions. They also provide opportunities
 for active citizenship by connecting classroom learning with real-world
 issues such as sustainability, cultural diversity, and global interdependence.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Social Studies" src="/images/Departments/CCE/CCE1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Social Studies" src="/images/Departments/CCE/CCE1.png">
 </div>
 <p><strong>National Education (NE)</strong>
 </p>
@@ -29,7 +29,7 @@ to heritage sites and community organisations deepen their understanding,
 while class discussions and reflections help them consider their role in
 shaping Singapore’s future.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="National Education" src="/images/Departments/CCE/CCE2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="National Education" src="/images/Departments/CCE/CCE2.png">
 </div>
 <p><strong>Form Teacher Guidance Period (FTGP)</strong>
 </p>
@@ -38,7 +38,7 @@ with students. Through bonding activities, social-emotional learning lessons,
 and one-to-one teacher-student interactions, students learn to manage emotions,
 strengthen friendships, and feel supported in school.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="FTGP" src="/images/Departments/CCE/CCE3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="FTGP" src="/images/Departments/CCE/CCE3.png">
 </div>
 <p><strong>Values-in-Action (VIA)</strong>
 </p>
@@ -48,10 +48,11 @@ promote kindness, sustainability, and volunteerism. These experiences are
 accompanied by guided reflections to help students connect their actions
 to values such as empathy, responsibility, and respect.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="VIA" src="/images/Departments/CCE/CCE4.png">
+<img style="width: 100%;" height="auto" width="100%" alt="VIA" src="/images/Departments/CCE/CCE4.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="VIA" src="/images/Departments/CCE/CCE5.png">
+<img style="width: 100%;" height="auto" width="100%" alt="VIA" src="/images/Departments/CCE/CCE5.png">
 </div>
 <p><strong>Education and Career Guidance (ECG)</strong>
 </p>
@@ -61,7 +62,7 @@ skills and a growth mindset. Workshops and career talks provide exposure
 to industry practices, while trained ECG counsellors offer individual guidance
 to support students in charting their education and career pathways.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="ECG" src="/images/Departments/CCE/CCE6.png">
+<img style="width: 100%;" height="auto" width="100%" alt="ECG" src="/images/Departments/CCE/CCE6.png">
 </div>
 <p><strong>Inclusivity Week</strong>
 </p>
@@ -71,9 +72,8 @@ and socio-emotional support for students with diverse learning needs. By
 fostering an inclusive classroom environment, we ensure that every student
 is given the opportunity to thrive.</p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -82,25 +82,23 @@ is given the opportunity to thrive.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity2.jpg">
 </div>
 </th>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity3_1.jpg">
-</div>
-</td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Inclusive" src="/images/Departments/CCE/Inclusivity3_1.jpg">
+</div>
 <p><strong>Mental Health Week</strong>
 </p>
 <p>Student well-being is at the heart of our work. Our school counsellor
@@ -119,7 +117,7 @@ peer support initiatives build a caring and inclusive school culture.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="Mental Health" src="/images/Departments/CCE/Mental1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Mental Health" src="/images/Departments/CCE/Mental1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -131,6 +129,7 @@ peer support initiatives build a caring and inclusive school culture.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Sexuality Education</strong>
 </p>
 <p>Sexuality Education equips students with the knowledge and values to make
