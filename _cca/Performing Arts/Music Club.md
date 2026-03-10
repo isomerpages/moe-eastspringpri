@@ -26,7 +26,7 @@ for the arts. Members gain skills that nurture their creative expression
 and help them find their musical voice for lifelong enjoyment.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Music" src="/images/CCA/Performing Arts/Music_Club.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Music" src="/images/CCA/Performing Arts/Music_Club.png">
 </div>
 <p></p>
 <table style="minWidth: 50px">
