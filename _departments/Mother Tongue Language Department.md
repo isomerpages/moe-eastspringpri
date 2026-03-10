@@ -112,11 +112,11 @@ creative bean art to rhythmic drumming and dramatic Chinese Opera. It's
 where tradition meets fun, making Chinese language and culture come alive!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Discovering Chinese Heritage" src="/images/Departments/MTL/MTL1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Discovering Chinese Heritage" src="/images/Departments/MTL/MTL1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Chinese Heritage" src="/images/Departments/MTL/MTL2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Chinese Heritage" src="/images/Departments/MTL/MTL2.png">
 </div>
 <p><strong>Journey Through Malay Culture</strong>
 </p>
