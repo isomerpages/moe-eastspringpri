@@ -20,7 +20,7 @@ unique experiences provide meaningful and memorable opportunities that
 transform learning beyond the classroom.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="ELD Stellar Unit" src="/images/Departments/ELD/ELD1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="ELD Stellar Unit" src="/images/Departments/ELD/ELD1.png">
 </div>
 <p></p>
 <p><strong>Supporting Learners of Diverse Needs</strong>
@@ -53,14 +53,12 @@ goes through a carefully-curated programme, such as the P1 learning journey
 to River Wonders and the Primary 3 Readers’ Theatre. The goal of these
 activities is to achieve enjoyment and nurture a love for the subject.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="English Language Week" src="/images/Departments/ELD/ELD2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="English Language Week" src="/images/Departments/ELD/ELD2.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="English Language Week" src="/images/Departments/ELD/ELD3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="English Language Week" src="/images/Departments/ELD/ELD3.png">
 </div>
 <p></p>
 <p><strong>Library Programmes</strong>
@@ -70,9 +68,8 @@ such as the Top Borrower of the Month, The Reading Tree Challenge and storytelli
 sessions. Classes also maintain mini-class libraries to encourage a positive
 reading culture and foster a lifelong joy of reading.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Library" src="/images/Departments/ELD/ELD4.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Library" src="/images/Departments/ELD/ELD4.png">
 </div>
 <p></p>
 <p><strong>P3 Theatre Experience</strong>
@@ -92,6 +89,6 @@ expression of the English language through collaboration and creativity.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Talents" src="/images/Departments/ELD/ELD5.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Talents" src="/images/Departments/ELD/ELD5.png">
 </div>
 <p></p>
