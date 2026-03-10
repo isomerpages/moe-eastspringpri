@@ -44,6 +44,7 @@ way</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Enjoyment" src="/images/Departments/PE/PE5.png">
 </div>
+<p></p>
 <p><strong>Our goal is for students to adopt a lifetime of active and healthy living by:</strong>
 </p>
 <ul data-tight="true" class="tight">
