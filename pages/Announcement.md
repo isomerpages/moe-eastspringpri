@@ -4,8 +4,8 @@ permalink: /announcement/
 variant: tiptap
 description: Announcement
 ---
-<p><strong>School Canteen Vacancy: Halal Nasi Padang Stall</strong> 
-<br><em>Click </em><a href="/school-canteen-advertisement/" rel="noopener nofollow" target="_blank">here</a><em> for details</em>
+<h4>School Canteen Vacancy: Halal Nasi Padang Stall <br></h4>
+<p><em>Click </em><a href="/school-canteen-advertisement/" rel="noopener nofollow" target="_blank">here</a><em> for details</em>
 </p>
 <hr>
 <h4><a href="/parents/parents-briefing-slides/" rel="noopener nofollow" target="_blank">2026 Briefing Slides</a></h4>
@@ -16,10 +16,6 @@ description: Announcement
 <hr>
 <p>2026 MOE Financial Assistance Scheme (FAS) is now opened. Click <a href="/moe-financial-assistance-scheme-fas/" rel="noopener nofollow" target="_blank">HERE</a> for
 details.</p>
-<hr>
-<h4>Weighted Assessment</h4>
-<p>P3 - P5 view <a href="/overview/" rel="noopener nofollow" target="_blank">HERE</a>
-</p>
 <hr>
 <h4>Term Letters</h4>
 <p>2026 Term Letters <a href="/term-letter/" rel="noopener nofollow" target="_blank">HERE</a>

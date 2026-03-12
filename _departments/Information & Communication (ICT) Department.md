@@ -14,7 +14,7 @@ the campus, enhancing exploration, collaboration, and real-world learning
 experiences. Outdoor learning is now more fun and engaging for students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Mobile Learning with iPADs" src="/images/Departments/ICT/ICT1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Mobile Learning with iPADs" src="/images/Departments/ICT/ICT1.png">
 </div>
 <p></p>
 <p><strong>Digital Art &amp; Digital Music</strong>
@@ -26,7 +26,7 @@ tablets provide an engaging and versatile platform for drawing, painting,
 and creative expression.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Digital Art &amp; Music" src="/images/Departments/ICT/ICT2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Digital Art &amp; Music" src="/images/Departments/ICT/ICT2.png">
 </div>
 <p><strong>Applied Learning Programme (ALP)</strong>
 </p>
@@ -38,7 +38,7 @@ problems, while STEM elements are integrated to make learning hands-on
 and problem-based.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="ALP" src="/images/Departments/ICT/ICT3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="ALP" src="/images/Departments/ICT/ICT3.png">
 </div>
 <p><strong>Cyber Wellness @ ESPS</strong>
 </p>
@@ -57,6 +57,6 @@ Framework.</p>
 <p></p>
 <p>The Cyber Wellness Curriculum @ ESPS is as follows:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Cyber Wellness" src="/images/Departments/ICT/Cyber_Wellness_Curriculum.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Cyber Wellness" src="/images/Departments/ICT/Cyber_Wellness_Curriculum.png">
 </div>
 <p></p>

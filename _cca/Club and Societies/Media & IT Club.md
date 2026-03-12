@@ -32,9 +32,8 @@ and make a meaningful impact on the school community.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="IT Club" src="/images/CCA/Groups &amp; Clubs/IT_club1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Media" src="/images/CCA/Club and Group/IT_club1.png">
 </div>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,18 +41,18 @@ and make a meaningful impact on the school community.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Media Club" src="/images/CCA/Groups &amp; Clubs/IT_club2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="IT" src="/images/CCA/Club and Group/IT_club2.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Media Club" src="/images/CCA/Groups &amp; Clubs/IT_club3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="IT" src="/images/CCA/Club and Group/IT_club3.png">
 </div>
-</td>
+</th>
 </tr>
 </tbody>
 </table>

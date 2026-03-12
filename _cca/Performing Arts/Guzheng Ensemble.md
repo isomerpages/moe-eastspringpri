@@ -13,7 +13,7 @@ and to showcase their talents in both school and public performances.</p>
 Our students are definitely growing and have developed a passion for Guzheng.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Guzheng" src="/images/CCA/CCA8.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Guzheng" src="/images/CCA/Performing Arts/Guzheng2026.png">
 </div>
 <p></p>
 <table style="minWidth: 50px">

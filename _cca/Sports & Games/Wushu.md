@@ -27,8 +27,9 @@ dedicated effort builds resilient character. Members learn values of self-master
 and discipline that will benefit them in all areas of their life.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Wushu" src="/images/CCA/Groups &amp; Clubs/Wushu2026.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Wushu" src="/images/CCA/Sports and Games/Wushu2026.png">
 </div>
+<p></p>
 <p><u>Achievements</u>
 </p>
 <p><strong>Wushu National School Games Competition 2024</strong>
