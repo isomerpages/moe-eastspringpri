@@ -26,8 +26,9 @@ tablets provide an engaging and versatile platform for drawing, painting,
 and creative expression.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Digital Art &amp; Music" src="/images/Departments/ICT/ICT2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Digital Art &amp; Music" src="/images/Departments/ICT/ICT2.png">
 </div>
+<p></p>
 <p><strong>Applied Learning Programme (ALP)</strong>
 </p>
 <p>At ESPS, the ALP provides opportunities for&nbsp; students to deepen 21st-century
