@@ -36,7 +36,7 @@ Members gain leadership skills and learn the importance of commitment through
 regular training and competitive experiences.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Football" src="/images/CCA/Sports and Games/Football2026.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Football" src="/images/CCA/Sports and Games/Football2026.png">
 </div>
 <p></p>
 <p><u>Achievements</u>
