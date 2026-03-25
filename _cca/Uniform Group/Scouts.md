@@ -29,7 +29,7 @@ their practical abilities. The programme emphasises that scouting activities
 instil resilience and compassion.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Scout" src="/images/CCA/Club and Group/Scouts.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Scout" src="/images/CCA/Club and Group/Scouts.png">
 </div>
 <p></p>
 <p><strong>Achievements</strong>
