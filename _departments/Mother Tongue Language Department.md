@@ -112,11 +112,11 @@ creative bean art to rhythmic drumming and dramatic Chinese Opera. It's
 where tradition meets fun, making Chinese language and culture come alive!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Discovering Chinese Heritage" src="/images/Departments/MTL/MTL1.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Discovering Chinese Heritage" src="/images/Departments/MTL/MTL1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Chinese Heritage" src="/images/Departments/MTL/MTL2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Chinese Heritage" src="/images/Departments/MTL/MTL2.png">
 </div>
 <p><strong>Journey Through Malay Culture</strong>
 </p>
@@ -128,11 +128,11 @@ from the lively rhythms of Dikir Barat to the enchanting stories of Wayang
 Kulit. Here's where tradition meets joy in learning!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Malay Culture" src="/images/Departments/MTL/MTL3.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Malay Culture" src="/images/Departments/MTL/MTL3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Angklung" src="/images/Departments/MTL/MTL4.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Angklung" src="/images/Departments/MTL/MTL4.png">
 </div>
 <p><strong>Celebrating Indian Traditions</strong>
 </p>
@@ -156,7 +156,7 @@ to share their cultural discoveries, making it a vibrant hub where tradition
 meets modern learning!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Cultural Wall" src="/images/Departments/MTL/MTL6.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Cultural Wall" src="/images/Departments/MTL/MTL6.png">
 </div>
 <p></p>
 <p><strong>Learning Without Walls: Our MTL Outdoor Adventures</strong>
@@ -222,15 +222,15 @@ everywhere!</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Vegetable Farm" src="/images/Departments/MTL/MTL8.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Vegetable Farm" src="/images/Departments/MTL/MTL8.png">
 </div>
 <p><strong>Primary Three – Adventures at Singapore Zoo</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Singapore Zoo" src="/images/Departments/MTL/MTL9.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Singapore Zoo" src="/images/Departments/MTL/MTL9.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Singapore Zoo" src="/images/Departments/MTL/MTL10.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Singapore Zoo" src="/images/Departments/MTL/MTL10.png">
 </div>
 <p></p>
