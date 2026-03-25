@@ -92,28 +92,24 @@ is given the opportunity to thrive.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity1.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Inclusivity" src="/images/Departments/CCE/Inclusivity2.jpg">
 </div>
 </th>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Include" src="/images/Departments/CCE/Inclusivity3_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Include" src="/images/Departments/CCE/Inclusivity3_1.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="Inclusive" src="/images/Departments/CCE/Inclusivity3_1.jpg">
-</div>
 <p></p>
 <p><strong>Mental Health Week</strong>
 </p>
