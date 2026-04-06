@@ -34,7 +34,7 @@ card via the Transitlink website at<a href="https://www.transitlink.com.sg/lost-
 <p>For other application cases, please approach the school staff for more
 information.</p>
 <h4><strong>Student Insurance Claim</strong></h4>
-<p>Please click <a href="/files/For Parents/Forms/Group_Personal_Accident_Insurance_for_Students.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/For Parents/Forms/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more details.</p>
 <h4><strong>Waitlist Form </strong><br><sup>(for Singaporean &amp; PR students only)</sup></h4>
 <p>Please complete the online form via the link <a href="https://go.gov.sg/espswaitlist" rel="noopener nofollow" target="_blank">here</a>

@@ -8,7 +8,8 @@ third_nav_title: Communications
 <h4><u>2026</u></h4>
 <p>Start of Term 1/2026 Letter click <a href="/files/For Parents/Term Assessment/ESPSPC_2026_001_Start_of_Term_1_2026.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
-<p></p>
+<p>Start of Term 2/2026 Letter click <a href="/files/For Parents/Term Assessment/ESPSPC_2026_062_Start_of_Term_2_2026.pdf" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <h4><u>2025</u></h4>
 <p>Start of Term 1/2025 Letter click <a href="/files/For Parents/ESPSPC_2025_001_Start_of_Term_1_2025.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
