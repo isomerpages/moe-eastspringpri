@@ -4,12 +4,6 @@ permalink: /announcement/
 variant: tiptap
 description: Announcement
 ---
-<h4>School Canteen Vacancy: Halal Nasi Padang Stall <br></h4>
-<p><em>Click </em><a href="/school-canteen-advertisement/" rel="noopener nofollow" target="_blank">here</a><em> for details</em>
-</p>
-<hr>
-<h4><a href="/parents/parents-briefing-slides/" rel="noopener nofollow" target="_blank">2026 Briefing Slides</a></h4>
-<hr>
 <h4>2026 Booklist</h4>
 <p>For all levels <a href="/booklist/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>

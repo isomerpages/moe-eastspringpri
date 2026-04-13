@@ -26,6 +26,15 @@ third_nav_title: Assessment Matters
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p><a href="/files/For Parents/Term Assessment/ESPSPC_2026_086_P4_Term_2_Weighted_Assessment_2_Schedule.pdf" rel="noopener nofollow" target="_blank">Term 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
