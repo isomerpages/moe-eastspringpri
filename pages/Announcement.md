@@ -4,13 +4,6 @@ permalink: /announcement/
 variant: tiptap
 description: Announcement
 ---
-<h4>2026 Booklist</h4>
-<p>For all levels <a href="/booklist/" rel="noopener nofollow" target="_blank">HERE</a>
-</p>
-<hr>
-<p>2026 MOE Financial Assistance Scheme (FAS) is now opened. Click <a href="/moe-financial-assistance-scheme-fas/" rel="noopener nofollow" target="_blank">HERE</a> for
-details.</p>
-<hr>
 <h4>Term Letters</h4>
 <p>2026 Term Letters <a href="/term-letter/" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
