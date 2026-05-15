@@ -24,18 +24,18 @@ partnership between the school, students, and families.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norzailailah Bte Zainal</p>
+<p>Mdm Monie Liu Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PSG Coordinator</p>
+<p>Chairperson</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Aisha Jiffry</p>
+<p>Mdm Norzailailah Bte Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PSG Mentor &amp; Assistant Treasurer</p>
+<p>Vice Chairperson</p>
 </td>
 </tr>
 <tr>
@@ -43,15 +43,23 @@ partnership between the school, students, and families.</p>
 <p>Mdm Syaza Adawiyah Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PSG Secretary &amp; Event Liaison Officer</p>
+<p>Vice Chairperson</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vicky Chu Kua Ying</p>
+<p>Mdm Aishah Jiffry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Event Liaison Officer</p>
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Vinumonia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
 </td>
 </tr>
 <tr>
@@ -59,15 +67,23 @@ partnership between the school, students, and families.</p>
 <p>Mdm Anuja Gudhate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Event Liaison Officer</p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Monie Liu Min</p>
+<p>Mdm Natarajan Renu Priya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Event Liaison Officer</p>
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Muneera Jussof</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
 </td>
 </tr>
 <tr>
@@ -75,15 +91,15 @@ partnership between the school, students, and families.</p>
 <p>Mdm Salvi Pallavi Nandakumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Event Liaison Officer</p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Vicky Chu Kua Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Member</p>
 </td>
 </tr>
 </tbody>
