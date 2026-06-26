@@ -71,15 +71,11 @@ table, th, td {
 
 
 <tr>
-	<td rowspan="3">1S4</td>
-<td>Mdm Ang Wai Ling, Sylvia (Mrs Chua)</td>
-<td>ang_wai_ling_sylvia@moe.edu.sg</td>
-	</tr>
-	<tr>
+	<td rowspan="2">1S4</td>
 	<td>Mr Tock Swee Guan, William</td>
 	<td>tock_swee_guan_william@moe.edu.sg</td>
 	</tr>
-		<tr>
+	<tr>
 	<td>Mdm Tan Si Hui (Mrs Peh)</td>
 	<td>tan_si_hui_a@moe.edu.sg</td>
 	</tr>
@@ -134,8 +130,7 @@ table, th, td {
 	<td>sitti_maisarah_abu_bakar@moe.edu.sg</td>
 </tr>
 	<tr>
-	<td>Mdm Chan Yoke Ying</td>
-	<td>chan_yoke_ying_a@moe.edu.sg</td>
+
 </tr>
 <tr>
 	<td rowspan="2">2P3</td>
@@ -175,8 +170,8 @@ table, th, td {
  </tr>
 <tr>
 	<td rowspan="3">2P7</td>
-	<td>Mdm Nurarfah Sudirman</td>
-	<td>nurarfah_sudirman@moe.edu.sg</td>
+	<td>Mrs Christopher Francis Shearley </td>
+	<td>christopher_francis_shearl@moe.edu.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Sarasvathy S Varathappan</td>
@@ -231,8 +226,8 @@ table, th, td {
   <td>yeo_xueli_sally@moe.edu.sg</td>
 </tr>
 <tr>
-	<td>Miss Nur Fathiah Binte Razali</td>
-  <td>nur_fathiah_razali@moe.edu.sg</td>
+	<td>Mdm Chan Yoke Ying</td>
+	<td>chan_yoke_ying_a@moe.edu.sg</td>
 </tr>
 <tr>
 	<td rowspan="2">3R3</td>
@@ -252,15 +247,18 @@ table, th, td {
 
   </tr>
 			<tr>
-	<td>Mrs Christopher Francis Shearley </td>
-	<td>christopher_francis_shearl@moe.edu.sg</td>
+	<td>Mdm Jumidah Bte Mohd Said</td>
+	<td>jumidah_mohd_said_a@moe.edu.sg</td>
 </tr>
   <tr>
 	<td rowspan="2">3R5</td>
 	<td>Mr Chan Sin Liang</td>
 	<td>chan_sin_liang@moe.edu.sg</td>
 	</tr>
-
+		<tr>
+<td>Mdm Ang Wai Ling, Sylvia (Mrs Chua)</td>
+<td>ang_wai_ling_sylvia@moe.edu.sg</td>
+	</tr>
 
 	
 </tbody></table>
@@ -447,8 +445,8 @@ table, th, td {
   </td></tr>
 <tr>
 	<td rowspan="2">6G1</td>
-	<td>Ms Chew Chi Yin</td>
-	<td>chew_chi_yin@moe.edu.sg</td>
+	<td>Mdm Smita Quintal Kaur</td>
+	<td>smita_quintal_kaur@moe.edu.sg</td>
 	</tr>
 	<tr>
 	<td>Mdm Seah Wei Shan</td>
