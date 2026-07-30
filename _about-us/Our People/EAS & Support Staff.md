@@ -35,13 +35,7 @@ table, th, td {
 	<td>Mr Quek Swee Heng</td>
     <td>quek_swee_heng@moe.edu.sg</td>
 	</tr>
-	<tr>
-	<td>Administrative Executive</td>
-	<td>Ms Nur Faradilah Binte Padawi</td>
-    <td>nur_faradilah_padawi@moe.edu.sg</td>
-	</tr>
-		<tr>
-	<td>Administrative Executive</td>
+	<tr><td>Administrative Executive</td>
 	<td>Ms Liew Dun Lin</td>
 	<td>liew_dun_lin@moe.edu.sg</td>
 	</tr>
