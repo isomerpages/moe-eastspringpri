@@ -21,7 +21,8 @@ sections:
       announcement_items:
         - title: School Homework Policy
           date: 31 July 2026
-          announcement: Homework Policy
-          link_text: Read
+          announcement: Find out about our homework policy, guidelines, and how parents
+            and students can work together to support learning.
+          link_text: Find Out More
           link_url: /school-homework-policy/
 ---
