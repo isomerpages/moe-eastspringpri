@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Announcement
-          description: ""
-          url: /announcement/
         - title: Calendar
           description: ""
           url: /school-calendar/
