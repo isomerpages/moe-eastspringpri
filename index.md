@@ -18,11 +18,10 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: School Homework Policy
           date: 31 July 2026
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+          announcement: Homework Policy
+          link_text: Read
+          link_url: /school-homework-policy/
 ---
