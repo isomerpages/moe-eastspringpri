@@ -32,7 +32,8 @@ third_nav_title: Assessment Matters
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p><a href="/files/ESPSPC_2026_124_P3_Term_3_Weighted_Assessment_3_Schedule.pdf" rel="noopener nofollow" target="_blank">Term 3</a>
+</p>
 </td>
 </tr>
 <tr>
