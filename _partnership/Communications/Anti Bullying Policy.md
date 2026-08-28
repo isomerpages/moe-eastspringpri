@@ -123,7 +123,7 @@ and friendships</p>
 habits at home</p>
 </li>
 <li>
-<p> <strong>Monitor</strong> your child’s online and offline interactions and
+<p><strong>Monitor</strong> your child’s online and offline interactions and
 activities</p>
 </li>
 <li>
