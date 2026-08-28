@@ -22,4 +22,9 @@ sections:
             and students can work together to support learning.
           link_text: Find Out More
           link_url: /school-homework-policy/
+        - title: Anti-Bullying Policy
+          date: 28 August 2026
+          announcement: Keeping our school safe from bullying.
+          link_text: Learn more
+          link_url: /anti-bullying-policy/
 ---
