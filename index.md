@@ -27,4 +27,9 @@ sections:
           announcement: Keeping our school safe from bullying.
           link_text: Learn more
           link_url: /anti-bullying-policy/
+  - infopic:
+      title: Teachers' Day
+      id: infopic
+      image: /images/Copy_of_Happy_Teachers_Day__Instagram_Post__45__.png
+      alt: Image alt text
 ---
