@@ -65,7 +65,7 @@ empathy, conflict management, resilience and cyber wellness</p>
 <p><strong>Have regular communications</strong> with staff and students</p>
 </li>
 </ul>
-<p><strong><u>How to Report Concerns</u> [for schools to adapt to their school processes]</strong>
+<p><strong><u>How to Report Concerns</u></strong>
 </p>
 <p>We want parents and students to feel comfortable coming to us with any
 concerns. You can reach out to us in several ways:</p>
