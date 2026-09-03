@@ -26,6 +26,17 @@ habits, responsibility, and time management.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Level</strong>
 </p>
 </td>
@@ -34,9 +45,9 @@ habits, responsibility, and time management.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Daily Screen Time Limits</strong>
+<p><strong>Daily screen use limit for homework</strong>
 </p>
-<p>**Included within guidelines</p>
+<p>**Included within weekly homework guidelines</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +58,7 @@ habits, responsibility, and time management.</p>
 <p>Less than 5 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Less than 0.5 hours daily</p>
+<p>No online HW (revised)</p>
 </td>
 </tr>
 <tr>
@@ -77,12 +88,10 @@ habits, responsibility, and time management.</p>
 <p><strong><br>Homework During Breaks</strong>
 <br>During the March and September breaks, no homework will be assigned to
 non-graduating students, giving them time to pursue self-directed learning
-and co-curricular interests.
-<br>For the June and December breaks, homework will be capped at 50% of the
+and co-curricular interests.</p>
+<p>For the June and December breaks, homework will be capped at 50% of the
 usual daily school week load. Graduating cohorts may be assigned up to
-50% of the usual load during non-protected holiday periods.
-<br>
-</p>
+50% of the usual load during non-protected holiday periods.</p>
 <p><strong>Role of Students</strong>
 <br>To get the most out of homework, students are encouraged to understand
 what is expected of them for each assignment and manage their time well
