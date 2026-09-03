@@ -158,8 +158,8 @@ to our attention, you can reach out to us via any of the following methods:</p>
 </p>
 </li>
 <li>
-<p><u>[Non-urgent cases only]</u> Online reporting form: [Insert link to school
-incident reporting form]</p>
+<p><u>[Non-urgent cases only]</u> Online reporting form: <a href="https://go.gov.sg/incidentreporting-esps" rel="noopener nofollow" target="_blank">Submit here</a>
+</p>
 </li>
 </ul>
 <p>We review this policy regularly to make sure it continues to serve our
