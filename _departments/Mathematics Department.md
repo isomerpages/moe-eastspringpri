@@ -86,10 +86,6 @@ understanding and boosting their confidence in the subject.</p>
 <h4>Important Links</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6-updated-dec-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary School Mathematics Syllabus</a>
-</p>
-</li>
-<li>
 <p><a href="https://file.go.gov.sg/seab-approvedcalculators.pdf" rel="noopener noreferrer nofollow" target="_blank">Approved Calculator List</a>&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
