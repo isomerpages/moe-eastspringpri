@@ -4,9 +4,9 @@ permalink: /e-lights-newsletter/
 variant: tiptap
 description: ""
 ---
-<a class="isomer-image-wrapper" href="https://simplebooklet.com/elightssatellite07"><img style="width: 40%;" height="auto" width="100%" alt="Issue 7" src="/images/Newsletter Cover/Newsletter_Issue7.png"></a>
-<p></p><a class="isomer-image-wrapper" href="https://simplebooklet.com/elightsattelite006"><img style="width: 40%;" height="auto" width="100%" alt="Issue6" src="/images/Newsletter Cover/Elight_Issue_6_template.png"></a>
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1puGnFg7dTlPeUjujO0sdCw99VjoyE3Ke/view?usp=sharing"><img style="width: 40%;" height="auto" width="100%" alt="Issue 5 (2024)" src="/images/Newsletter Cover/Issue5_2024_.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://simplebooklet.com/2026sem1elightssatellite00"><img style="width: 40%;" height="auto" width="100%" alt="Issue8" src="/images/Issue8.png"></a>
+<p></p>
+<p></p>
 <p></p>
 <h4><u>Archives</u></h4>
 <p><a href="https://drive.google.com/file/d/1DcRP2898gq6fQ10PAiaJwxYusc68g-ZB/view?usp=sharing" rel="noopener nofollow" target="_blank">Issue 4 (2024)</a>
