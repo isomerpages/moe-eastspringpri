@@ -33,6 +33,6 @@ sections:
             to submit proposals for the provision of daily school bus services
             from 2027. View the CFP details, submission requirements and
             documents for download.
-          link_text: ""
-          link_url: ""
+          link_text: Find Out More
+          link_url: /call-for-proposal-for-school-bus-services/
 ---
