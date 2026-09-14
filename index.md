@@ -27,4 +27,12 @@ sections:
           announcement: Keeping our school safe from bullying.
           link_text: Learn more
           link_url: /anti-bullying-policy/
+        - title: Call for Proposal – School Bus Services from 2027
+          date: 14 September 2026
+          announcement: East Spring Primary School invites interested school bus operators
+            to submit proposals for the provision of daily school bus services
+            from 2027. View the CFP details, submission requirements and
+            documents for download.
+          link_text: ""
+          link_url: ""
 ---
