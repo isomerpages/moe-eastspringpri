@@ -27,19 +27,19 @@ time.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><u>Call for Proposal for Appointment of School Bus Operator to Provide School Bus Services</u>
+<p><a href="/files/1__Call_for_Proposals_Version_Sep_2026_IFSD_Final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Call for Proposal for Appointment of School Bus Operator to Provide School Bus Services</u></a>
 </p>
 </li>
 <li>
-<p><u>Information Required from Vendor – Annex A</u>
+<p><a href="/files/2__Information_Required_from_Vendor__Annex_A__IFSD_Reviewed_Final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Information Required from Vendor – Annex A</u></a>
 </p>
 </li>
 <li>
-<p><u>Terms and Conditions for School Bus Operator to Provide School Bus Services – Annex B</u>
+<p><a href="/files/3__TC_for_School_Bus_Operator_to_Provide_School_Bus_Services_IFSD_Final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Terms and Conditions for School Bus Operator to Provide School Bus Services – Annex B</u></a>
 </p>
 </li>
 <li>
-<p><u>Request for School Bus Services and Terms and Conditions Governing the Requests for Services – Annex A1</u>
+<p><a href="/files/4__Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services_Version_Sep_2026_IFSD_Final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Request for School Bus Services and Terms and Conditions Governing the Requests for Services – Annex A1</u></a>
 </p>
 </li>
 </ol>
